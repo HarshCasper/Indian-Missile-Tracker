@@ -1,0 +1,96 @@
+# Launch facilities — the finite set of Indian missile test sites.
+# Coordinates are approximate site centroids from public sources; `default_bearing`
+# is the indicative seaward (or down-range) azimuth used when a test's real firing
+# bearing is unknown. Confidence in exact coordinates is "reported".
+
+- id: abdul-kalam-island
+  name: "Dr A.P.J. Abdul Kalam Island (Wheeler Island)"
+  aka: ["Wheeler Island"]
+  lat: 20.7558
+  lon: 87.0903
+  state: "Odisha"
+  default_bearing: 180 # due south down the Bay of Bengal into the open Indian Ocean (east of Sri Lanka)
+  notes: |
+    The primary launch site for India's strategic ballistic-missile flight tests
+    (Agni / Prithvi family), off the Odisha coast. Indicative arcs run due south
+    down ~87°E — past the east of Sri Lanka into the open southern Indian Ocean,
+    matching India's real down-range corridor and never crossing other nations' land.
+  sources:
+    - url: "https://en.wikipedia.org/wiki/Dr._A.P.J._Abdul_Kalam_Island"
+      title: "Dr. A.P.J. Abdul Kalam Island"
+      tier: further-reading
+      publisher: "Wikipedia"
+      accessed: "2026-06-15"
+
+- id: itr-chandipur
+  name: "Integrated Test Range (ITR), Chandipur"
+  aka: ["ITR Chandipur", "Chandipur-on-Sea"]
+  lat: 21.4283
+  lon: 87.0181
+  state: "Odisha"
+  default_bearing: 178 # ~due south into the Bay of Bengal / open Indian Ocean
+  notes: |
+    DRDO's main test range on the Odisha coast; used for tactical missiles
+    (Akash, Astra ground trials, Prithvi, BrahMos coastal tests, etc.).
+    Indicative arcs run nearly due south into the Bay of Bengal.
+  sources:
+    - url: "https://en.wikipedia.org/wiki/Integrated_Test_Range"
+      title: "Integrated Test Range"
+      tier: further-reading
+      publisher: "Wikipedia"
+      accessed: "2026-06-15"
+
+- id: sriharikota-shar
+  name: "Satish Dhawan Space Centre (SDSC SHAR), Sriharikota"
+  aka: ["Sriharikota", "SHAR"]
+  lat: 13.7199
+  lon: 80.2304
+  state: "Andhra Pradesh"
+  default_bearing: 160 # SSE into the Bay of Bengal, clearing Sri Lanka to its east
+  notes: |
+    Primarily ISRO's spaceport; also used for some interceptor / defence tests.
+    Indicative arcs run SSE so they clear Sri Lanka (to its east) into open water.
+  sources:
+    - url: "https://en.wikipedia.org/wiki/Satish_Dhawan_Space_Centre"
+      title: "Satish Dhawan Space Centre"
+      tier: further-reading
+      publisher: "Wikipedia"
+      accessed: "2026-06-15"
+
+- id: offshore-visakhapatnam
+  name: "Offshore Visakhapatnam (submerged pontoon / submarine)"
+  aka: ["Bay of Bengal test area"]
+  lat: 17.2000
+  lon: 83.6000
+  state: "Bay of Bengal (off Andhra Pradesh)"
+  default_bearing: 175 # ~due south down the Bay of Bengal into the open Indian Ocean
+  notes: |
+    Approximate offshore area used for submarine-launched ballistic missile
+    (K-series) tests from submerged pontoons and from INS Arihant. Coordinates
+    are indicative, not an exact launch point. Indicative arcs run south into
+    the Bay of Bengal / open Indian Ocean.
+  sources:
+    - url: "https://en.wikipedia.org/wiki/K-15_(missile)"
+      title: "K-15 (Sagarika) — submarine-launched ballistic missile"
+      tier: further-reading
+      publisher: "Wikipedia"
+      accessed: "2026-06-15"
+
+- id: pokhran-range
+  name: "Pokhran Test Range"
+  aka: ["Pokhran"]
+  lat: 27.0917
+  lon: 71.7500
+  state: "Rajasthan"
+  default_bearing: 135 # SE into India's interior Thar desert (away from the Pakistan border)
+  notes: |
+    Inland desert range used for land-attack and overland trials
+    (e.g. BrahMos land variants, anti-tank systems). Indicative arcs point SE into
+    the interior Thar desert — kept within Indian territory and away from the
+    western border, since real overland firings stay inside the range.
+  sources:
+    - url: "https://en.wikipedia.org/wiki/Pokhran"
+      title: "Pokhran"
+      tier: further-reading
+      publisher: "Wikipedia"
+      accessed: "2026-06-15"
