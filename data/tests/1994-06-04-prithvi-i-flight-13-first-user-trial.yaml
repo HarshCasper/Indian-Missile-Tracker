@@ -1,0 +1,62 @@
+id: 1994-06-04-prithvi-i-flight-13-first-user-trial
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 13 (first Army user-trial)
+date: "1994-06-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 85
+description: >-
+  Thirteenth test of the Prithvi-I, fired from a mobile launcher at ITR Chandipur as the first of
+  the Indian Army's pre-induction user-trials. First Prithvi test armed with a live warhead; the
+  missile struck a target on Wheeler's Island, about 85 km from the ITR.
+notes: >-
+  Added test (development list previously truncated). Launched from ITR Chandipur; impact target was
+  Wheeler's Island (now Dr A.P.J. Abdul Kalam Island) ~85 km away. An earlier 13th-test attempt
+  scheduled for 23 May 1994 was cancelled in May 1994 after a faulty fuel-loading nozzle leaked
+  propellant. Range: NTI gives 85 km to Wheeler's Island; GCAT gives 80 km - recorded as a claims
+  dispute.
+claims:
+  - field: range_tested_km
+    text: >-
+      Missile fired at a target on Wheeler's Island, 85 km from ITR Chandipur; first test with a
+      live warhead, first Army user-trial
+    value: 85
+    basis: reported
+    source:
+      title: >-
+        India Missile Chronology - 4 June 1994 13th test of Prithvi-I, first user-trial, 85km to
+        Wheeler's Island (citing Navbharat Times, 7 June 1994; Jane's Int'l Defence Review, Sept
+        1994; All India Radio, 7 June 1994)
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      date: "2011"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    text: Range given as 80 km to Wheeler Island
+    value: 80
+    basis: reported
+    source:
+      title: Prithvi launch list (Flight 13, 1994 Jun 4, CHAN, ~80 km to Wheeler Island)
+      tier: further-reading
+      publisher: Planet4589 / GCAT
+      url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Missile Chronology - 4 June 1994 13th test of Prithvi-I, first Army user-trial, fired at
+      Wheeler's Island from ITR Chandipur (citing Navbharat Times, 7 June 1994; Jane's Int'l Defence
+      Review, Sept 1994; All India Radio, 7 June 1994)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 13, 1994 Jun 4, CHAN, 80 km to Wheeler Island)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

@@ -1,0 +1,26 @@
+id: 1996-01-27-prithvi-ii-maiden-flight
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "1996-01-27"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 250
+description: >-
+  Maiden developmental flight test of the Prithvi-II, the extended-range (250 km) Air Force variant
+  of the Prithvi SRBM, fired from the Chandipur/Balasore test range in Odisha by DRDO. Marked the
+  first flight of the longer-range Prithvi variant.
+notes: >-
+  Earliest documented Prithvi-II flight; consistently cited as 27 January 1996 by reference sources.
+  Only one reliable secondary source (CSIS Missile Threat) plus a further-reading site located;
+  original 1996 press reports not directly retrievable.
+sources:
+  - title: Prithvi-I / Prithvi-II / Prithvi-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/prithvi/
+  - title: Prithvi-II Missile
+    tier: further-reading
+    publisher: Drishti IAS
+    url: https://www.drishtiias.com/daily-updates/daily-news-analysis/prithvi-ii-missile-1

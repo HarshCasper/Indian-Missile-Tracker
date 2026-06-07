@@ -1,0 +1,24 @@
+id: 2010-06-18-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2010-06-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the Prithvi-II from a mobile launcher at Launch Complex-3, ITR
+  Chandipur, at around 6:50 a.m. The user trial was conducted by the Army's Strategic Forces
+  Command; the trajectory was tracked by radars and electro-optic telemetry stations. ITR Director S
+  P Dash confirmed the trial went well.
+notes: Range capability ~350 km, payload 500 kg. Corroborated by IRNA and Deccan Herald.
+sources:
+  - title: India successfully test-fired Prithvi-II Missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100618-irna01.htm
+  - title: Prithvi-II test fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/content/274093/prithvi-ii-test-fired.html

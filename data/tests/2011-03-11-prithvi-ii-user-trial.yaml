@@ -1,0 +1,23 @@
+id: 2011-03-11-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2011-03-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The Prithvi-II was successfully test-fired from a mobile launcher at Launch Complex-3, ITR
+  Chandipur, around 11:00 a.m. The trial, fired in conjunction with a Dhanush launch from a warship,
+  was a user trial assessing user-specific requirements.
+notes: User trial. Corroborated by IRNA and National Herald.
+sources:
+  - title: Prithvi-II test-fired from Chandipur (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110311-irna02.htm
+  - title: India successfully test-fires SRBM Prithvi-II
+    tier: indian-news
+    publisher: National Herald
+    url: https://www.nationalheraldindia.com/india/india-successfully-test-fires-srbm-prithvi-ii

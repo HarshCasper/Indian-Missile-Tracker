@@ -1,0 +1,21 @@
+id: 2012-10-04-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2012-10-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The Prithvi-II was again successfully test-fired from ITR Chandipur, covering its full 350 km
+  range, as part of Army training/operational exercises, with results similar to the August 2012
+  trial.
+notes: >-
+  User trial. Single solid secondary source (SP's M.A.I.); date corroborated by reference
+  compilations.
+sources:
+  - title: Prithvi-II successfully test-fired from Odisha
+    tier: indian-news
+    publisher: SP's M.A.I. (PressReader)
+    url: https://www.pressreader.com/india/sps-mai/20121030/281672547245151

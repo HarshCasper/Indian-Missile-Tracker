@@ -1,0 +1,46 @@
+id: 1994-06-06-prithvi-i-flight-14-user-trial
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 14 (Army user-trial)
+date: "1994-06-06"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 145
+description: >-
+  Fourteenth test of the Prithvi-I, an Army user-trial conducted by artillery officers from the
+  missile force. The missile hit a designated target 145 km from ITR Chandipur. Expected to be among
+  the final tests before the Army ordered the Prithvi.
+notes: >-
+  Added test (development list previously truncated). Date, site (ITR Chandipur), 145 km range, and
+  success agree between NTI (citing Navbharat Times, 7 June 1994; Dainik Jagran, 19 June 1994) and
+  GCAT (1994 Jun 6, CHAN, 145 km, 'Army user trial').
+claims:
+  - field: range_tested_km
+    text: Missile hit the designated target 145 km from ITR Chandipur in an Army user-trial
+    value: 145
+    basis: reported
+    source:
+      title: >-
+        India Missile Chronology - 6 June 1994 14th test of Prithvi-I, Army user-trial, 145 km from
+        ITR Chandipur (citing Navbharat Times, 7 June 1994; Dainik Jagran, 19 June 1994)
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      date: "2011"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Missile Chronology - 6 June 1994 14th test of Prithvi-I, Army user-trial, 145 km target
+      from ITR Chandipur (citing Navbharat Times, 7 June 1994; Dainik Jagran, 19 June 1994)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 14, 1994 Jun 6, CHAN, 145 km, Army user trial)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

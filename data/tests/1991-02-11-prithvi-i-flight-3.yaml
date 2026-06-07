@@ -1,0 +1,29 @@
+id: 1991-02-11-prithvi-i-flight-3
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 3
+date: "1991-02-11"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: sriharikota-shar
+description: >-
+  Third flight-test of the Prithvi-I from SHAR Sriharikota at 12:15 p.m.; per Indian
+  defence-ministry sources the flight met 'all mission requirements.' The defective inertial
+  guidance system from the second test was replaced with a high-performance gyro that performed
+  'moderately well.'
+notes: Date and site agree between NTI (citing Xinhua, 12 Feb 1991) and GCAT (1991 Feb 11, SHAR).
+sources:
+  - title: >-
+      India Missile Chronology - 11 February 1991 third test-flight of Prithvi-1 from SHAR (citing
+      Xinhua, 12 Feb 1991; Defense & Foreign Affairs Weekly)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 3, 1991 Feb 11, SHAR)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

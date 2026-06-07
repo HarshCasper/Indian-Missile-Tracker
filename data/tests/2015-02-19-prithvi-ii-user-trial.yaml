@@ -1,0 +1,19 @@
+id: 2015-02-19-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2015-02-19"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II from a road-mobile launcher at ITR
+  Chandipur at about 9:15 a.m. The user trial by the Strategic Forces Command saw the missile splash
+  down near its designated target in the Bay of Bengal about seven minutes after launch.
+notes: ADDED test, previously missing. Sputnik report archived by GlobalSecurity.
+sources:
+  - title: India test-fires Prithvi-II missile (Sputnik)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-150219-sputnik02.htm

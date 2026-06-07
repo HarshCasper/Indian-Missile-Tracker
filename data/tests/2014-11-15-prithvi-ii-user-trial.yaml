@@ -1,0 +1,19 @@
+id: 2014-11-15-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2014-11-15"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II (350 km range) from a mobile launcher
+  at Chandipur, Odisha, at around 10:40 a.m. The missile followed its expected trajectory and
+  impacted near its pre-designated point in the Bay of Bengal.
+notes: ADDED test, previously missing. Press TV report archived by GlobalSecurity.
+sources:
+  - title: India test-fires nuclear-capable Prithvi-II missile (Press TV)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Press TV
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-141115-presstv01.htm

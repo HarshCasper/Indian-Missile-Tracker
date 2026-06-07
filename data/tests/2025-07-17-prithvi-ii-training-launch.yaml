@@ -1,0 +1,28 @@
+id: 2025-07-17-prithvi-ii-training-launch
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2025-07-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The short-range ballistic missiles Prithvi-II and Agni-I were successfully test-fired from the
+  Integrated Test Range, Chandipur, Odisha, under the aegis of the Strategic Forces Command. Both
+  launches validated all operational and technical parameters.
+notes: >-
+  ADDED test, previously missing. Official PIB / Ministry of Defence press release; conducted
+  together with an Agni-I launch.
+sources:
+  - title: Successful test-firing of Prithvi-II & Agni-I Ballistic Missiles
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence (via GlobalSecurity archive)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250717-india-pib01.htm
+  - title: >-
+      India successfully test-fires nuclear-capable short-range ballistic missiles Prithvi-II,
+      Agni-I from Chandipur
+    tier: indian-news
+    publisher: NewsOnAir (Prasar Bharati)
+    url: >-
+      https://www.newsonair.gov.in/india-successfully-test-fires-nuclear-capable-short-range-ballistic-missiles-prithvi-ii-agni-i-from-chandipur

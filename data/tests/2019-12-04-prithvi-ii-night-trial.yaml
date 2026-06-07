@@ -1,0 +1,19 @@
+id: 2019-12-04-prithvi-ii-night-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2019-12-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India conducted a successful night test of the Prithvi-II from the Integrated Test Range,
+  Chandipur (Bay of Bengal coast), Odisha. The missile met all test objectives in a routine SFC
+  trial.
+notes: ADDED test, previously missing. Night trial. Reported by CSIS Missile Threat.
+sources:
+  - title: India Tests Prithvi-II Ballistic Missile
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-tests-prithvi-ii-ballistic-missile/

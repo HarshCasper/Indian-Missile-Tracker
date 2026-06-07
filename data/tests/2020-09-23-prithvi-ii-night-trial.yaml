@@ -1,0 +1,26 @@
+id: 2020-09-23-prithvi-ii-night-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2020-09-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India conducted a successful night test-fire of the nuclear-capable Prithvi-II from a mobile
+  launcher at Launch Complex-3, ITR Chandipur, as a user trial by the Army. A randomly selected
+  missile was fired in darkness and tracked to impact in the Bay of Bengal, meeting all parameters.
+notes: >-
+  ADDED test, previously missing. Night trial. Corroborated by Business Standard (PTI) and CSIS
+  Missile Threat.
+sources:
+  - title: Indigenously developed surface-to-surface Prithvi-II missile test fired
+    tier: indian-news
+    publisher: Business Standard (PTI)
+    url: >-
+      https://www.business-standard.com/article/pti-stories/indigenously-developed-prithvi-ii-missile-testfired-120092301505_1.html
+  - title: India Tests Prithvi-II Ballistic Missile
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-tests-prithvi-ii-ballistic-missile-2/

@@ -1,0 +1,30 @@
+id: 1992-02-13-prithvi-i-flight-6-breakup
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 6
+date: "1992-02-13"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: sriharikota-shar
+description: >-
+  Sixth test-flight of the Prithvi-I. The missile broke up in mid-flight when subjected to
+  'torsional stress' from a pre-programmed 15-degree twisting manoeuvre.
+notes: >-
+  NTI dates this 13 February 1992 (citing Xinhua, 6 May 1992); GCAT concurs (1992 Feb 13, SHAR,
+  marked failed). NTI does not state the launch site; assigned to SHAR per GCAT, as the move to ITR
+  Chandipur begins with the seventh flight.
+sources:
+  - title: >-
+      India Missile Chronology - 13 February 1992 sixth test-flight of Prithvi-1 (mid-flight
+      break-up; citing Xinhua, 6 May 1992)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 6, 1992 Feb 13, SHAR, failed)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

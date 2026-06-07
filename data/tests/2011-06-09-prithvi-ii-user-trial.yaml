@@ -1,0 +1,23 @@
+id: 2011-06-09-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2011-06-09"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The Prithvi-II was successfully flight-tested from Launch Complex-III, ITR Chandipur, as part of a
+  regular Army training exercise. The missile reached its pre-defined target in the Bay of Bengal
+  with accuracy better than 10 metres in what DRDO described as a textbook launch.
+notes: User/training trial. SP's M.A.I. and The Tribune contemporaneous coverage.
+sources:
+  - title: Prithvi (P-II) missile test flight
+    tier: indian-news
+    publisher: SP's M.A.I.
+    url: https://www.spsmai.com/aerospace/?id=240&q=Prithvi-P-II-missile-test-flight
+  - title: Special Coverage (10 June 2011)
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/2011/20110610/nation.htm

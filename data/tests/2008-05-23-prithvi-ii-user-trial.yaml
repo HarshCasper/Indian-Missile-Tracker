@@ -1,0 +1,24 @@
+id: 2008-05-23-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2008-05-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  Indian Army and DRDO successfully conducted a user trial of the Prithvi-II from the Integrated
+  Test Range at Chandipur, Odisha. The missile lifted off vertically at about 10:30 a.m. and
+  impacted the pre-designated splash-down point in the Bay of Bengal. Described as the first test
+  after the missile's induction into the armed forces.
+notes: Daytime launch (~10:30 IST). Corroborated by RIA Novosti and The Tribune contemporaneous coverage.
+sources:
+  - title: India test fires nuclear-capable missile (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / RIA Novosti
+    url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-080523-rianovosti01.htm
+  - title: Special Coverage (24 May 2008)
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/2008/20080524/nation.htm

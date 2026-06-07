@@ -1,0 +1,22 @@
+id: 2010-09-24-prithvi-ii-user-trial-failure
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2010-09-24"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  A user trial of the Prithvi-II from Chandipur failed: the missile, scheduled to lift off around
+  10:03 a.m., did not take off after heavy smoke covered the launch pad. The failure was attributed
+  to a technical snag in the main missile or a sub-system, including the launcher.
+notes: Documented failure / no-launch (missile failed to lift off). Confirmed by RIA Novosti and IRNA.
+sources:
+  - title: Indian ballistic missile test fails (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / RIA Novosti
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100924-rianovosti01.htm
+  - title: India's Prithvi-II missile fails to take off in user's trial (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100924-irna01.htm

@@ -1,0 +1,21 @@
+id: 2016-05-18-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2016-05-18"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the Prithvi-II surface-to-surface short-range ballistic missile from
+  a test range at Chandipur, Odisha, the Defence Ministry said. A single missile was fired and the
+  trial met its objectives.
+notes: >-
+  ADDED test, previously missing. Sputnik report (citing Defence Ministry) archived by
+  GlobalSecurity.
+sources:
+  - title: India successfully test-fires Prithvi II missile (Sputnik)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2016/india-160518-sputnik01.htm

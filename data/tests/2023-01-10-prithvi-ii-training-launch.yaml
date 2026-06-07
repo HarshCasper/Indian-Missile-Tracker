@@ -1,0 +1,23 @@
+id: 2023-01-10-prithvi-ii-training-launch
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2023-01-10"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  A successful training launch of the Prithvi-II short-range ballistic missile was carried out from
+  the Integrated Test Range, Chandipur, off the Odisha coast. The missile struck its target with
+  high accuracy and the launch validated all operational and technical parameters.
+notes: >-
+  ADDED test, previously missing. Official PIB / Ministry of Defence press release. Conducted
+  alongside an Agni-I launch.
+sources:
+  - title: >-
+      Successful training launch of Short-Range Ballistic Missile, Prithvi-II, carried out off
+      Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence (via GlobalSecurity archive)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2023/india-230110-india-pib01.htm

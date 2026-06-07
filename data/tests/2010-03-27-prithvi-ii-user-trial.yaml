@@ -1,0 +1,45 @@
+id: 2010-03-27-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2010-03-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II from the Chandipur firing range at
+  about 5:30 a.m., the same morning the naval Dhanush variant was fired from a ship offshore. The
+  Prithvi-II met all parameters per the ITR director.
+notes: >-
+  Fired in quick succession with Dhanush (a separate Prithvi naval variant, not logged here). One
+  RIA Novosti report cited a 295 km range for Prithvi-II while other sources cite the standard 350
+  km maximum range; see claims.
+claims:
+  - field: range_tested_km
+    value: 295
+    basis: reported
+    text: Prithvi-II has a range of 295 km
+    source:
+      title: India successfully tests fires two nuclear capable ballistic missiles (RIA Novosti)
+      tier: foreign-news
+      publisher: GlobalSecurity.org / RIA Novosti
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100327-rianovosti01.htm
+  - field: range_tested_km
+    value: 350
+    basis: reported
+    text: Prithvi-II maximum striking range 350 km
+    source:
+      title: India test fires nuke capable Prithvi-II and Dhanush missiles (IRNA)
+      tier: foreign-news
+      publisher: GlobalSecurity.org / IRNA
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100327-irna01.htm
+sources:
+  - title: India successfully tests fires two nuclear capable ballistic missiles
+    tier: foreign-news
+    publisher: Sputnik / RIA Novosti
+    url: https://sputnikglobe.com/20100327/158328092.html
+  - title: India test fires nuke capable Prithvi-II and Dhanush missiles (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100327-irna01.htm

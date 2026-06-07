@@ -1,0 +1,24 @@
+id: 2010-12-22-prithvi-ii-salvo-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2010-12-22"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  Two Prithvi-II missiles were reported to have been successfully test-fired from ITR Chandipur
+  within about an hour of each other, aimed at two different targets, following the failed 24
+  September 2010 trial.
+notes: >-
+  Two-missile salvo. CITATION CORRECTION: the previously attached IRNA URL (india-121220-irna01.htm)
+  was verified to describe a different, later test on 20 December 2012, not this 2010 event, so it
+  was removed. The 22 December 2010 salvo is widely repeated but I could only corroborate it via
+  further-reading/secondary aggregations (Military Wiki) rather than a directly retrievable primary
+  report; confidence downgraded to disputed pending a reliable contemporaneous source.
+sources:
+  - title: Prithvi (missile) test log (used only to locate event; not a citation of record)
+    tier: further-reading
+    publisher: Fandom Military Wiki
+    url: https://military-history.fandom.com/wiki/Prithvi_(missile)

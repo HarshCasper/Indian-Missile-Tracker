@@ -1,0 +1,20 @@
+id: 2019-06-27-prithvi-ii-night-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2019-06-27"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The Indian Army successfully test-fired a Prithvi-II short-range ballistic missile off the Odisha
+  coast (ITR Chandipur) in a routine night test. Officials described the flight as routine and
+  successful.
+notes: ADDED test, previously missing. Night launch. Reported by The Diplomat.
+sources:
+  - title: India Test Fires Prithvi-II Short-Range Nuclear-Capable Ballistic Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2019/12/india-test-fires-prithvi-ii-short-range-nuclear-capable-ballistic-missile/

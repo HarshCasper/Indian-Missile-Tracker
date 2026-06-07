@@ -1,0 +1,21 @@
+id: 2016-11-21-prithvi-ii-salvo-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2016-11-21"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  Two Prithvi-II missiles were successfully test-fired in quick succession (salvo mode) from Launch
+  Complex-3, ITR Chandipur, Odisha, as a user trial by the Army. The trial was described as fully
+  successful.
+notes: >-
+  ADDED test, previously missing. Two-missile salvo. Widely reported by PTI-syndicated Indian
+  outlets; date corroborated by reference compilations.
+sources:
+  - title: India test-fires Prithvi-II nuclear-capable missile (SP's Land Forces)
+    tier: indian-news
+    publisher: SP's Land Forces (PressReader)
+    url: https://www.pressreader.com/india/sps-landforces/20160510/281754153668610

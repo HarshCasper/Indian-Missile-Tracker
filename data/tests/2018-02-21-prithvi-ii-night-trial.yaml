@@ -1,0 +1,23 @@
+id: 2018-02-21-prithvi-ii-night-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2018-02-21"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India's Strategic Forces Command successfully conducted a night trial of the nuclear-capable
+  Prithvi-II from a mobile launcher at ITR Chandipur, Odisha, at about 8:30 p.m. The missile
+  demonstrated its 350 km range and was tracked by coastal radars, electro-optical systems and a
+  naval ship near the target.
+notes: >-
+  ADDED test, previously missing. Night trial. DATE DISCREPANCY: launch on Wednesday ~20:30 IST
+  corresponds to 21 February 2018; the Sputnik report archived by GlobalSecurity is dated 22
+  February 2018 (report/dateline). Recorded as 21 February with this caveat.
+sources:
+  - title: India conducts night trial of Prithvi-II missile (Sputnik)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180222-sputnik03.htm

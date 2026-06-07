@@ -1,0 +1,31 @@
+id: 1992-05-05-prithvi-i-flight-7-first-from-itr
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 7
+date: "1992-05-05"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  Seventh flight-test of a modified Prithvi-I and the first Prithvi launch from the Interim Test
+  Range (ITR), Chandipur (Orissa). Fired from a mobile launcher with a launch control centre,
+  testing propulsion and control-system modifications and validating HAL-produced liquid-propulsion
+  and inertial-navigation hardware.
+notes: >-
+  Date and site agree between NTI (citing Jane's Defence Weekly, 23 May 1992) and GCAT (1992 May 5,
+  CHAN).
+sources:
+  - title: >-
+      India Missile Chronology - 5 May 1992 seventh flight-test of Prithvi-1, first from ITR
+      Chandipur (citing Jane's Defence Weekly, 23 May 1992)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 7, 1992 May 5, CHAN)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

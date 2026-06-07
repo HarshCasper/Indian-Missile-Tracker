@@ -1,0 +1,26 @@
+id: 2020-10-16-prithvi-ii-night-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2020-10-16"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully conducted a night trial of the nuclear-capable Prithvi-II, which blasted off
+  around 7:30 p.m. from Launch Complex-3, ITR Chandipur, near Balasore, Odisha. The 350 km-range
+  missile met all parameters.
+notes: >-
+  ADDED test, previously missing. Night trial (~19:30 IST). Reported by Business Standard and DT
+  Next/PressReader.
+sources:
+  - title: India conducts successful night trial of nuclear-capable Prithvi-2 missile
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/article/defence/india-conducts-successful-night-trial-of-nuclear-capable-prithvi-2-missile-120101601207_1.html
+  - title: Successful night trial of nuke capable Prithvi-2 missile
+    tier: indian-news
+    publisher: DT Next (PressReader)
+    url: https://www.pressreader.com/india/dt-next/20201017/282054804511895

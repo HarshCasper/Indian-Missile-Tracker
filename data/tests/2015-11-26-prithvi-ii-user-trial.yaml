@@ -1,0 +1,26 @@
+id: 2015-11-26-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2015-11-26"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II from a mobile launcher at Launch
+  Complex-3, ITR Chandipur, at about 12:10 p.m., as a Strategic Forces Command user trial. The 350
+  km-range missile met all mission parameters.
+notes: >-
+  ADDED test, previously missing. Corroborated by Business Standard (PTI) and GlobalSecurity
+  archive.
+sources:
+  - title: India successfully test-fires N-capable Prithvi II missile
+    tier: indian-news
+    publisher: Business Standard (PTI)
+    url: >-
+      https://www.business-standard.com/article/pti-stories/india-successfully-test-fires-n-capable-prithvi-ii-missile-115112600361_1.html
+  - title: India test-fires Prithvi-II missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-151126-pdo01.htm

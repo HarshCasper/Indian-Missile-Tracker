@@ -1,0 +1,27 @@
+id: 2017-06-02-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2017-06-02"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+range_tested_km: 350
+description: >-
+  India successfully test-fired the Prithvi-II from Dr A.P.J. Abdul Kalam Island (formerly Wheeler
+  Island) off the Odisha coast. The trial was conducted by the Strategic Forces Command with DRDO
+  logistics support; a missile randomly drawn from the assembly line carried a dummy payload,
+  covered its range and met all mission objectives.
+notes: >-
+  ADDED test, previously missing. Launch site reported as Abdul Kalam Island (Wheeler Island),
+  distinct from Chandipur. Some compilations conflate the location with Chandipur.
+sources:
+  - title: India Successfully Tests Prithvi-II Missile
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-successfully-tests-prithvi-ii-missile/
+  - title: Prithvi-II missile successfully test-fired from Abdul Kalam Island
+    tier: indian-news
+    publisher: Outlook India
+    url: >-
+      https://www.outlookindia.com/national/prithvi-ii-missile-successfully-test-fired-from-abdul-kalam-island-off-odisha-co-news-308635

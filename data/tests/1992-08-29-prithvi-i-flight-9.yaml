@@ -1,0 +1,27 @@
+id: 1992-08-29-prithvi-i-flight-9
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 9
+date: "1992-08-29"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  Ninth test of the Prithvi-I, successfully launched from ITR Chandipur at 10:43 a.m.; the third
+  test from the ITR.
+notes: Date and site agree between NTI (citing Times of India, 29 Aug 1992) and GCAT (1992 Aug 29, CHAN).
+sources:
+  - title: >-
+      India Missile Chronology - 29 August 1992 ninth test of Prithvi-1 from ITR Chandipur (citing
+      Times of India, 29 Aug 1992)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 9, 1992 Aug 29, CHAN)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

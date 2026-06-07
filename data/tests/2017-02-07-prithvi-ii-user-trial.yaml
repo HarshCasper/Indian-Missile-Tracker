@@ -1,0 +1,20 @@
+id: 2017-02-07-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2017-02-07"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  The Prithvi-II was successfully test-fired from a mobile launcher at Launch Complex-3, ITR
+  Chandipur, at around 8:30 p.m. as a user trial by the Army. The 350 km-range, nuclear-capable
+  missile met its objectives.
+notes: ADDED test, previously missing. Evening launch (~20:30 IST). PTI-syndicated coverage.
+sources:
+  - title: India test-fired its home-made Prithvi-II missile
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/archives/archives-land-defense/2017/india-test-fired-its-home-made-prithvi-ii-missile-80606175

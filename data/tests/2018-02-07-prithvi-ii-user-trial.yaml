@@ -1,0 +1,22 @@
+id: 2018-02-07-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2018-02-07"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II from a mobile launcher at Launch
+  Complex-3, ITR Chandipur, in a daytime user trial by the Army. The 350 km-range missile met all
+  mission objectives in a launch described as fully successful.
+notes: >-
+  ADDED test, previously missing. DATE DISCREPANCY: most reports state the launch occurred 7
+  February 2018 (~10:40 a.m.); some outlets (e.g., Newsbharati) reported it as 8 February 2018
+  (~11:35 a.m.), likely a publication-date difference. Recorded as 7 February with this caveat.
+sources:
+  - title: Nuclear-capable Prithvi-II missile test fired successfully
+    tier: indian-news
+    publisher: Newsbharati
+    url: https://www.newsbharati.com/Encyc/2018/2/8/Prithvi-II-Missile.html

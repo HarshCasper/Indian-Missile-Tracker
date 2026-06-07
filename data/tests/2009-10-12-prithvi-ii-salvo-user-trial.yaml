@@ -1,0 +1,25 @@
+id: 2009-10-12-prithvi-ii-salvo-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2009-10-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  Two nuclear-capable Prithvi-II missiles were successfully test-fired within minutes of each other
+  from Chandipur, Odisha, as part of Strategic Forces Command operational exercises. The two
+  missiles were aimed at two different targets and met all mission objectives.
+notes: >-
+  Two-missile (salvo) user trial; recorded here as one salvo event. Confirmed by RIA Novosti and
+  VOA.
+sources:
+  - title: India test fires nuclear-capable Prithvi-II (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / RIA Novosti
+    url: https://www.globalsecurity.org/wmd/library/news/india/2009/india-091012-rianovosti01.htm
+  - title: India test fires nuclear-capable missile (VOA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / VOA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2009/india-091012-voa01.htm

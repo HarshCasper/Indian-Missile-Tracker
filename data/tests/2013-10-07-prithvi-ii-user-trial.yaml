@@ -1,0 +1,20 @@
+id: 2013-10-07-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2013-10-07"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  A successful flight test of the Prithvi-II was conducted from a mobile launcher at Launch
+  Complex-3, ITR Chandipur, as a user trial. The surface-to-surface missile has a 350 km strike
+  range and can carry 500-1,000 kg warheads. The launch had been postponed from the previous day due
+  to a technical snag.
+notes: User trial. Date corroborated by MDAA and reference compilations.
+sources:
+  - title: Prithvi II test-fired from Chandipur
+    tier: foreign-news
+    publisher: Missile Defense Advocacy Alliance
+    url: https://missiledefenseadvocacy.org/other-news/prithvi-ii-test-fired-from-chandipur/

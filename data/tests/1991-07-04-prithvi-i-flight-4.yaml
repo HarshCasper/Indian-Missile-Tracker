@@ -1,0 +1,29 @@
+id: 1991-07-04-prithvi-i-flight-4
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 4
+date: "1991-07-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: sriharikota-shar
+description: >-
+  Fourth flight-test of the Prithvi-I from SHAR Sriharikota at 1:52 p.m. Defence Minister Sharad
+  Pawar said the missile performed well despite bad weather.
+notes: >-
+  Date and site agree between NTI (citing All India Radio / AFP, 4 July 1991) and GCAT (1991 Jul 4,
+  SHAR).
+sources:
+  - title: >-
+      India Missile Chronology - 4 July 1991 fourth test-flight of Prithvi-I from SHAR (citing All
+      India Radio / AFP, 4 July 1991)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 4, 1991 Jul 4, SHAR)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

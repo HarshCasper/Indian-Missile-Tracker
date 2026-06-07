@@ -1,0 +1,21 @@
+id: 2014-01-07-prithvi-ii-user-trial
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2014-01-07"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Prithvi-II from a mobile launcher at Launch
+  Complex-3, ITR Chandipur, Odisha. The user trial, conducted by the Army's Strategic Forces
+  Command, met all parameters and was described as a complete success.
+notes: >-
+  Launch on Tuesday 7 January 2014 per IRNA; some outlets dated reports 8 January 2014 (publication
+  date). Date precision: day (7 Jan).
+sources:
+  - title: India test-fires nuclear-capable Prithvi-II missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140107-irna01.htm

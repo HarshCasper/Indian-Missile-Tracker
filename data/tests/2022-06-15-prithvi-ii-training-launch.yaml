@@ -1,0 +1,21 @@
+id: 2022-06-15-prithvi-ii-training-launch
+missile_id: prithvi-ii
+variant: Prithvi-II
+date: "2022-06-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 350
+description: >-
+  A successful training launch of the short-range ballistic missile Prithvi-II was carried out at
+  approximately 7:30 p.m. from the Integrated Test Range, Chandipur, Odisha. The launch validated
+  all operational and technical parameters of the missile.
+notes: >-
+  ADDED test, previously missing. Official Ministry of Defence / PIB press release; also reported by
+  Indian outlets.
+sources:
+  - title: Successful training launch of Short-Range Ballistic Missile, Prithvi-II
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence (via GlobalSecurity archive)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220615-india-pib01.htm

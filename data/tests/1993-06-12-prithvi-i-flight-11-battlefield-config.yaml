@@ -1,0 +1,32 @@
+id: 1993-06-12-prithvi-i-flight-11-battlefield-config
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 11
+date: "1993-06-12"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  Eleventh flight-test of the Prithvi-I, tested in its battlefield configuration with all
+  ground-control systems. An Indian defence-ministry spokesperson said the launch was from a
+  production batch using a mobile launcher and mobile control centre. This test marked the start of
+  the Indian Army's user-trial phase.
+notes: >-
+  Date and site agree between NTI (citing All India Radio, 12 June 1993, and UPI, 12 June 1993) and
+  GCAT (1993 Jun 12, CHAN). UPI characterised it as a test of an 'extended' Prithvi; NTI/AIR
+  describes the battlefield-configuration production-batch launch. Site is ITR Chandipur.
+sources:
+  - title: >-
+      India Missile Chronology - 12 June 1993 11th flight-test of Prithvi-I in battlefield
+      configuration (citing All India Radio & UPI, 12 June 1993; Astra, July 1993)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 11, 1993 Jun 12, CHAN)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

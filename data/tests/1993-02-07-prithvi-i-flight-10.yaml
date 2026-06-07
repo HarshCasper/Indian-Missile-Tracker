@@ -1,0 +1,35 @@
+id: 1993-02-07-prithvi-i-flight-10
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 10 (10th test)
+date: "1993-02-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  Tenth flight-test of the Prithvi from a mobile launcher at 08:20 GMT, the fourth test from ITR
+  Chandipur. Part of a 1993 series intended to verify minimum and maximum ranges of the missile.
+notes: >-
+  Confirmed: date, ITR Chandipur site, and successful outcome agree across NTI (citing All India
+  Radio, 7 Feb 1993, and Jane's Defence Weekly, 13 Feb 1993), GlobalSecurity ('successfully test
+  launched for the 10th time on 7 February 1993'), and GCAT (1993 Feb 7, CHAN).
+sources:
+  - title: >-
+      India Missile Chronology - 7 February 1993 tenth test-flight of Prithvi from ITR Chandipur
+      (citing All India Radio, 7 Feb 1993; Jane's Defence Weekly, 13 Feb 1993)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi - GlobalSecurity (successfully test launched for the 10th time on 7 February 1993)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 10, 1993 Feb 7, CHAN)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

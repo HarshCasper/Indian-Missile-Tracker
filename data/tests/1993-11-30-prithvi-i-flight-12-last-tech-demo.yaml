@@ -1,0 +1,53 @@
+id: 1993-11-30-prithvi-i-flight-12-last-tech-demo
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 12
+date: "1993-11-30"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 150
+description: >-
+  Twelfth test of the Prithvi-I, launched from a mobile launcher at 06:55 GMT, the fifth launch from
+  ITR Chandipur. Carried a 250 kg payload and impacted within about three minutes on the island of
+  Tentuli Chada in the Bay of Bengal. Dr A.P.J. Abdul Kalam described it as the last
+  technology-demonstration flight of the Prithvi.
+notes: >-
+  Added test (development list previously truncated). Date and site agree between NTI (citing All
+  India Radio, 30 Nov 1993, and Times of India, 1 & 6 Dec 1993) and GCAT (1993 Nov 30, CHAN, '250 kg
+  RV'). Payload mass given as 250 kg; range_tested_km set to the missile's 150 km class range
+  (specific test range not stated by NTI).
+claims:
+  - field: range_tested_km
+    text: >-
+      Payload of 250 kg; described as the last technology-demonstration flight, impacting on Tentuli
+      Chada island in the Bay of Bengal
+    value: 250
+    basis: reported
+    note: >-
+      250 here is the payload mass in kg, not the flown range; the flown range was not stated by
+      NTI.
+    source:
+      title: >-
+        India Missile Chronology - 30 November 1993 12th test of Prithvi-I, 250kg payload, ITR
+        Chandipur (citing All India Radio, 30 Nov 1993; Times of India, 1 & 6 Dec 1993)
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      date: "2011"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Missile Chronology - 30 November 1993 12th test of Prithvi-I from ITR Chandipur (citing
+      All India Radio, 30 Nov 1993; Times of India, 1 & 6 Dec 1993; FBIS)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 12, 1993 Nov 30, CHAN, 250 kg RV)
+    tier: further-reading
+    publisher: Planet4589 / GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"

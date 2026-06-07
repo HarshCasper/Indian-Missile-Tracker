@@ -1,0 +1,64 @@
+id: 1989-09-27-prithvi-i-flight-2-guidance-failure
+missile_id: prithvi-i
+variant: Prithvi-I (SS-150)
+designation: Flight 2
+date: "1989-09-27"
+date_precision: day
+outcome: failure
+confidence: disputed
+site_id: sriharikota-shar
+description: >-
+  Second flight-test of the Prithvi-I. During the terminal phase the missile rolled uncontrollably
+  and missed its target by several kilometres; the failure was traced to a defective inertial
+  guidance system.
+notes: >-
+  Date of the second test is disputed: NTI/CNS places it 27 September 1989 (citing Defense & Foreign
+  Affairs Weekly); defence journalist Raj Chengappa (Weapons of Peace) reports it occurred in
+  November 1989; GCAT lists 26 September 1989. NTI does not state a launch site for this flight;
+  assigned to SHAR Sriharikota per GCAT (move to ITR Chandipur begins with the seventh flight).
+  Confidence downgraded to disputed due to the date conflict.
+claims:
+  - field: date
+    text: Second test-flight on 27 September 1989, guidance failure during terminal phase
+    basis: reported
+    source:
+      title: >-
+        India Missile Chronology - 27 September 1989 second test-flight of Prithvi-I (guidance
+        failure)
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      date: "2011"
+      accessed: "2026-06-16"
+  - field: date
+    text: Raj Chengappa (Weapons of Peace) reports the second test occurred in November 1989
+    basis: reported
+    source:
+      title: Weapons of Peace (R. Chengappa, 2000), cited in NTI chronology
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      accessed: "2026-06-16"
+  - field: date
+    text: Flight 2 listed as 1989 Sep 26 from SHAR
+    basis: reported
+    source:
+      title: Prithvi launch list (Flight 2, 1989 Sep 26, SHAR)
+      tier: further-reading
+      publisher: Planet4589 / J. McDowell GCAT
+      url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Missile Chronology - 27 September 1989 second test-flight of Prithvi-I (guidance
+      failure)
+    tier: foreign-news
+    publisher: NTI / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    date: "2011"
+    accessed: "2026-06-16"
+  - title: Prithvi launch list (Flight 2, 1989 Sep 26, SHAR)
+    tier: further-reading
+    publisher: Planet4589 / J. McDowell GCAT
+    url: https://www.planet4589.org/space/gcat/data/launch/Prithvi.html
+    accessed: "2026-06-16"
