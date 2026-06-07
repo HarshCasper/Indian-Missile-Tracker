@@ -1,0 +1,65 @@
+id: dhanush
+name: Dhanush
+aka:
+  - Prithvi-III naval variant
+  - ship-launched Prithvi
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Navy
+status: operational
+range_km:
+  min: 250
+  max: 400
+payload_kg: 500
+nuclear_capable: true
+propulsion: liquid
+launch_platform:
+  - Sukanya-class offshore patrol vessels (INS Subhadra, INS Suvarna)
+first_test: "2000-04-01"
+description: >-
+  Dhanush is the naval, ship-launched derivative of the Prithvi missile (a variant of the
+  Prithvi-III/SS-250 line), developed by DRDO for the Indian Navy and fired from the reinforced
+  decks of Sukanya-class offshore patrol vessels such as INS Subhadra and INS Suvarna. It is a
+  single-stage liquid-fuelled short-range ballistic missile able to carry conventional or nuclear
+  payloads of roughly 500-1,000 kg to about 350 km. First tested in April 2000 (a launch that failed
+  after about 30 seconds), it was subsequently proven in tests around 2004 and again in 2009-2010,
+  and is regarded as operational as part of India's sea-based deterrent.
+claims:
+  - field: range_km
+    basis: assessed
+    text: >-
+      Range variously cited as 250-400 km (CSIS) and up to ~350 km in Indian reporting; payload
+      500-1,000 kg.
+    source:
+      title: Dhanush | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/dhanush/
+  - field: first_test
+    basis: reported
+    text: >-
+      First test from INS Subhadra in April 2000 failed after ~30 seconds; successful tests followed
+      in 2004 and December 2009 / March 2010.
+    source:
+      title: Dhanush | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/dhanush/
+sources:
+  - title: Dhanush | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/
+    accessed: "2026-06-16"
+  - title: Prithvi-II, Dhanush test-fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/india/prithvi-ii-dhanush-test-fired-2225151
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  first_test (2000-04-01) is approximate (reported April 2000, exact day not documented). Dhanush is
+  the sea-launched member of the Prithvi family and is often discussed jointly with Prithvi-III;
+  inertial/GPS guidance with estimated 25-50 m CEP. Considered operational since around 2010.

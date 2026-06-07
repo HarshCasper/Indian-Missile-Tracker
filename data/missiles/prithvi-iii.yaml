@@ -1,0 +1,71 @@
+id: prithvi-iii
+name: Prithvi-III
+aka:
+  - Prithvi 3
+  - P-3
+  - Prithvi-III (land variant)
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - India (DRDO trials)
+status: development
+range_km:
+  min: 350
+  max: 600
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid+liquid
+launch_platform:
+  - road-mobile launcher
+  - ship deck (initial trials)
+variants:
+  - name: Dhanush
+    notes: Naval ship-launched derivative for the Indian Navy (catalogued separately)
+first_test: "2000-04-01"
+description: >-
+  Prithvi-III is the longest-range member of the Prithvi family, intended as a two-stage solid- and
+  liquid-fuelled short-range surface-to-surface ballistic missile carrying about a 1,000 kg payload
+  to roughly 350 km (with longer reach claimed for lighter payloads). It was first tested in 2000
+  from the patrol vessel INS Subhadra in a launch that was only partially successful, with
+  operational testing reported around 2004. The naval ship-launched derivative was designated
+  Dhanush. The land-based Prithvi-III did not see the same scale of induction as Prithvi-II.
+claims:
+  - field: range_km
+    basis: assessed
+    text: >-
+      Cited as 350 km with a 1,000 kg warhead, ~600 km with a 500 kg warhead, and up to ~750 km with
+      a 250 kg warhead.
+    source:
+      title: Prithvi - India Missile Special Weapons Delivery Systems
+      tier: foreign-news
+      publisher: FAS / Nuclear Information Project
+      url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+  - field: first_test
+    basis: reported
+    text: >-
+      First tested in 2000 from INS Subhadra (partial success); full operational testing reported
+      completed around 2004. Exact first-flight date not authoritatively documented.
+    source:
+      title: Prithvi - India Missile Special Weapons Delivery Systems
+      tier: foreign-news
+      publisher: FAS / Nuclear Information Project
+      url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+sources:
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: FAS / Nuclear Information Project
+    url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+    accessed: "2026-06-16"
+  - title: Dhanush | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/
+    accessed: "2026-06-16"
+confidence: reported
+notes: >-
+  first_test date (2000-04-01) is approximate — corresponds to the April 2000 INS Subhadra launch
+  that is widely reported but not precisely dated in primary sources; that launch is also commonly
+  attributed to the Dhanush naval derivative. Propulsion frequently described as a two-stage
+  solid+liquid configuration, distinguishing it from the single-stage liquid Prithvi-I/II.
+  Land-variant induction status is unclear; treated as development/limited.
