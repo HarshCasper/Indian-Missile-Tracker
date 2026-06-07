@@ -1,0 +1,76 @@
+id: prithvi-ii
+name: Prithvi-II
+aka:
+  - Prithvi 2
+  - SS-250
+  - P-2
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Air Force
+  - Indian Army
+  - Strategic Forces Command
+status: operational
+range_km:
+  min: 250
+  max: 350
+payload_kg: 500
+nuclear_capable: true
+propulsion: liquid
+launch_platform:
+  - road-mobile transporter-erector-launcher (TEL)
+variants:
+  - name: SS-250 (Air Force version)
+    notes: 250 km range with ~500 kg payload; primary user originally the Indian Air Force
+first_test: "1996-01-27"
+description: >-
+  Prithvi-II is a single-stage, liquid-fuelled short-range surface-to-surface ballistic missile
+  developed by DRDO under the IGMDP, first flight-tested on 27 January 1996. It extends the
+  Prithvi-I design with upgraded guidance, achieving roughly 250-350 km range while typically
+  carrying a lighter (~500 kg, up to 1,000 kg) payload. Nuclear-capable, it was first developed with
+  the Indian Air Force as primary user and was later inducted into the Indian Army and Strategic
+  Forces Command, where it remains in active service with periodic user training launches from
+  Chandipur.
+claims:
+  - field: range_km
+    basis: assessed
+    value: 250
+    text: Commonly cited as 250 km with a 500 kg payload (Air Force SS-250 configuration).
+    source:
+      title: Prithvi - India Missile Special Weapons Delivery Systems
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm
+  - field: range_km
+    basis: reported
+    value: 350
+    text: >-
+      Indian government/media releases frequently describe Prithvi-II as having a ~350 km range with
+      up to a one-tonne payload.
+    source:
+      title: Prithvi-II Missile
+      tier: indian-news
+      publisher: Drishti IAS
+      url: https://www.drishtiias.com/daily-updates/daily-news-analysis/prithvi-ii-missile-1
+sources:
+  - title: Prithvi-II Missile
+    tier: indian-news
+    publisher: Drishti IAS
+    url: https://www.drishtiias.com/daily-updates/daily-news-analysis/prithvi-ii-missile-1
+    accessed: "2026-06-16"
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm
+    accessed: "2026-06-16"
+  - title: India Missile Update 1996 - Agni on Hold; More Prithvi Tests
+    tier: foreign-news
+    publisher: Wisconsin Project on Nuclear Arms Control
+    url: https://www.wisconsinproject.org/india-missile-update-1996-agni-on-hold-more-prithvi-tests/
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Range figures are disputed: foreign/technical sources cite ~250 km/500 kg; Indian
+  government-aligned descriptions cite ~350 km/up to 1,000 kg. In service since 1996; inducted into
+  Strategic Forces Command from 2003. Regularly test-fired for user training from ITR Chandipur.

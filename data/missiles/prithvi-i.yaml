@@ -1,0 +1,68 @@
+id: prithvi-i
+name: Prithvi-I
+aka:
+  - Prithvi 1
+  - SS-150
+  - P-1
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Army
+status: retired
+range_km:
+  min: 40
+  max: 150
+payload_kg: 1000
+nuclear_capable: true
+propulsion: liquid
+launch_platform:
+  - road-mobile transporter-erector-launcher (TEL)
+variants:
+  - name: SS-150
+    notes: Indian Army battlefield variant, 150 km range with 1,000 kg payload
+first_test: "1988-02-25"
+description: >-
+  Prithvi-I is India's first indigenously developed ballistic missile, conceived under the
+  Integrated Guided Missile Development Programme (IGMDP) begun in 1983 and first flight-tested in
+  February 1988. It is a single-stage, liquid-fuelled, road-mobile short-range surface-to-surface
+  ballistic missile carrying a 1,000 kg payload to roughly 150 km, developed as a tactical
+  battlefield weapon for the Indian Army. Analysts assess a nuclear-armed variant entered service in
+  the late 1990s. The system is now obsolete and is being withdrawn/replaced by the solid-fuelled
+  Prahaar.
+claims:
+  - field: first_test
+    basis: reported
+    text: >-
+      First flight test most commonly dated 25 February 1988 from Sriharikota (SHAR); CSIS Missile
+      Threat lists 8 February 1988.
+    source:
+      title: Prithvi-I | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/prithvi/
+  - field: range_km
+    basis: assessed
+    value: 150
+    text: Range of 150 km (minimum engagement ~40 km) with a 1,000 kg payload.
+    source:
+      title: Prithvi-I | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/prithvi/
+sources:
+  - title: Prithvi-I | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/prithvi/
+    accessed: "2026-06-16"
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Single-stage liquid-fuel design (two liquid engines, ~4,600 kg launch weight, 9.5 m length). CEP
+  approx 150 m at max range. Being phased out in favour of Prahaar. First missile fielded under
+  IGMDP.
