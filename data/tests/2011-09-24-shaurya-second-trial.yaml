@@ -1,0 +1,80 @@
+id: 2011-09-24-shaurya-second-trial
+missile_id: shaurya
+designation: Second successful flight test (final configuration)
+variant: Shaurya (production configuration)
+date: "2011-09-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 700
+description: >-
+  Second flight test of the Shaurya, fired in its final/production configuration from a canister in
+  ground-launch mode at Launch Complex-III of the ITR Chandipur (off Balasore, Odisha) at about 2:30
+  pm. The missile flew its full ~700 km range in roughly 500 seconds at about Mach 7.5 and reached
+  the designated target in the Bay of Bengal with reported metre-level accuracy. The missile was
+  randomly drawn from the production lot to validate series production.
+notes: >-
+  Multiple reliable sources (Ajai Shukla/Broadsword; Livefist; Defense Update headline 'Second
+  Successful Launch'; Defense Update text 'second developmental trial, first conducted on 12 Nov
+  2008') describe this as the SECOND test. Wikipedia/HandWiki call it the 'third time', which is
+  unsupported by the contemporaneous secondary sources and treated as unreliable. Range cited as 700
+  km (some outlets ~750 km). Site reported as ITR Chandipur / Balasore (same facility); the ITR
+  Chandipur complex is ~15 km from Balasore.
+sources:
+  - title: DRDO announces successful test of Shourya missile in canister mode
+    tier: indian-news
+    publisher: Broadsword by Ajai Shukla
+    date: "2011-09-24"
+    url: https://www.ajaishukla.com/2011/09/drdo-announces-successful-test-of.html
+    accessed: "2026-06-16"
+  - title: India's Nuke-capable Shaurya Tested Again [UPDATED]
+    tier: indian-news
+    publisher: Livefist Defence
+    date: "2011-09-24"
+    url: https://www.livefistdefence.com/indias-nuke-capable-shaurya-tested/
+    accessed: "2026-06-16"
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    min: 700
+    max: 750
+    value: 700
+    text: Full range reported as 700 km (some outlets reported ~750 km)
+    basis: reported
+    source:
+      title: DRDO announces successful test of Shourya missile in canister mode
+      tier: indian-news
+      publisher: Broadsword by Ajai Shukla
+      date: "2011-09-24"
+      url: https://www.ajaishukla.com/2011/09/drdo-announces-successful-test-of.html
+      accessed: "2026-06-16"
+  - field: speed_mach
+    value: 7.5
+    text: Flew at about Mach 7.5, covering full range in ~500 seconds
+    basis: reported
+    source:
+      title: India's Nuke-capable Shaurya Tested Again [UPDATED]
+      tier: indian-news
+      publisher: Livefist Defence
+      date: "2011-09-24"
+      url: https://www.livefistdefence.com/indias-nuke-capable-shaurya-tested/
+      accessed: "2026-06-16"
+  - field: test_sequence
+    value: 2
+    text: >-
+      Described as the second successful flight test (Wikipedia/HandWiki 'third time' rejected as
+      unreliable)
+    basis: reported
+    source:
+      title: Second Successful Launch of the Indian Shourya Ballistic Missile
+      tier: foreign-news
+      publisher: Defense Update
+      date: "2011-09-25"
+      url: >-
+        https://defense-update.com/20110925_second-successful-launch-of-the-indian-shourya-ballistic-missile.html
+      accessed: "2026-06-16"

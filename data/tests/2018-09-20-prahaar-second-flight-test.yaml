@@ -1,0 +1,83 @@
+id: 2018-09-20-prahaar-second-flight-test
+missile_id: prahaar
+designation: Prahaar second flight test (road-mobile launcher)
+date: "2018-09-20"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 200
+description: >-
+  DRDO carried out the second flight test of the Prahaar tactical ballistic missile on 20 September
+  2018 from Launch Complex-III / Launch Pad-3, ITR Chandipur (Balasore), Odisha, around 13:35 IST.
+  The missile was fired from a road-mobile transporter-erector-launcher (TATRA TEL, capable of
+  carrying six missiles and salvo firing), flew to its simulated target and met all mission
+  objectives despite heavy rain; this was the first test in over seven years. Date, site, and
+  successful outcome corroborated by PIB, The Week, India TV, Army Technology, and CSIS Missile
+  Threat.
+notes: >-
+  Second documented flight test, ~7 years after the maiden launch. Launched from a road-mobile TATRA
+  TEL. Reported range figures conflict between sources: 150 km (the system's stated strike range,
+  cited by The Week / India TV / official descriptions) and 200 km (range reportedly flown in this
+  test, per Army Technology / Sputnik). This is a figure-level dispute only; the date, site, and
+  outcome are consistent. See claims for both values.
+claims:
+  - field: range_tested_km
+    value: 200
+    basis: reported
+    text: >-
+      The missile was reported to have travelled a range of 200 km before hitting its simulated
+      target, achieving all mission objectives.
+    source:
+      title: Indian Army test launches Prahaar short-range ballistic missile
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/news/india-test-launches-prahaar-missile/
+      date: "2018-09-21"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 150
+    basis: reported
+    text: >-
+      Indian coverage cites the missile's 150 km strike range; the launch from the mobile launcher
+      at Launch Pad-3 hit the target with all systems normal.
+    source:
+      title: India successfully test-fires short-range ballistic missile Prahaar
+      tier: indian-news
+      publisher: The Week
+      url: >-
+        https://www.theweek.in/news/india/2018/09/20/India-successfully-test-fires-short-range-ballistic-missile-Prahaar.html
+      date: "2018-09-20"
+      accessed: "2026-06-16"
+sources:
+  - title: Successful Flight Test of Prahar (official press release)
+    tier: pib
+    publisher: Press Information Bureau / Ministry of Defence, Government of India
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1546844
+    date: "2018-09-20"
+    accessed: "2026-06-16"
+  - title: India successfully test-fires short-range ballistic missile Prahaar
+    tier: indian-news
+    publisher: The Week
+    url: >-
+      https://www.theweek.in/news/india/2018/09/20/India-successfully-test-fires-short-range-ballistic-missile-Prahaar.html
+    date: "2018-09-20"
+    accessed: "2026-06-16"
+  - title: DRDO test fires indigenous ballistic missile 'Prahar' from Chandipur integrated test range
+    tier: indian-news
+    publisher: India TV
+    url: >-
+      https://www.indiatvnews.com/news/india-drdo-test-fires-ballistic-missile-from-chandipur-integrated-test-range-464255
+    date: "2018-09-20"
+    accessed: "2026-06-16"
+  - title: Indian Army test launches Prahaar short-range ballistic missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-test-launches-prahaar-missile/
+    date: "2018-09-21"
+    accessed: "2026-06-16"
+  - title: Prahaar
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/prahaar/
+    accessed: "2026-06-16"

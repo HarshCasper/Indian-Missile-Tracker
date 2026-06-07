@@ -1,0 +1,80 @@
+id: 2008-11-12-shaurya-maiden
+missile_id: shaurya
+designation: Maiden flight test
+variant: Shaurya (baseline)
+date: "2008-11-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 300
+description: >-
+  Maiden flight test of the canister-launched, two-stage surface-to-surface ballistic missile. The
+  missile was ejected from an underground in-built canister at Complex-3 of the Integrated Test
+  Range, Chandipur (off Balasore, Odisha), took off vertically, reached about Mach 5 with a surface
+  temperature near 700 C, and was tracked along its trajectory to the Bay of Bengal. Reported design
+  range was 600-700 km; about 300 km was flown in this test, with a flight duration of about 485
+  seconds.
+notes: >-
+  Launched ~11:25 am from a canister in a 30-40 ft deep pit at ITR Chandipur/Balasore. Some
+  contemporaneous reports loosely called it a land version of the K-15/Sagarika SLBM; DRDO sources
+  stated the Shaurya operates independently of the K-15/Sagarika program. Distinct from the
+  underwater K-15/K-4 (Sagarika) tests that CSIS files under 'Sagarika/Shaurya'. Date, site and
+  success corroborated by RIA Novosti/GlobalSecurity, domain-b and Livefist.
+sources:
+  - title: India successfully test-fires ballistic missile (RIA Novosti via GlobalSecurity)
+    tier: foreign-news
+    publisher: RIA Novosti / GlobalSecurity.org
+    date: "2008-11-12"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-081112-rianovosti01.htm
+    accessed: "2026-06-16"
+  - title: India test fires Shaurya - new surface-to-surface missile
+    tier: foreign-news
+    publisher: Domain-b.com
+    date: "2008-11-12"
+    url: >-
+      https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
+    accessed: "2026-06-16"
+  - title: "VIDEO: Extended Footage Of India's Shaurya Missile Launch in 2008"
+    tier: indian-news
+    publisher: Livefist Defence
+    url: https://www.livefistdefence.com/video-extended-footage-of-indias/
+    accessed: "2026-06-16"
+claims:
+  - field: range_design_km
+    min: 600
+    max: 700
+    value: 600
+    text: Design/operational range reported as 600-700 km
+    basis: reported
+    source:
+      title: India successfully test-fires ballistic missile (RIA Novosti via GlobalSecurity)
+      tier: foreign-news
+      publisher: RIA Novosti / GlobalSecurity.org
+      date: "2008-11-12"
+      url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-081112-rianovosti01.htm
+      accessed: "2026-06-16"
+  - field: speed_mach
+    value: 5
+    text: Reached about Mach 5 during the test (surface temperature ~700 C)
+    basis: reported
+    source:
+      title: India test fires Shaurya - new surface-to-surface missile
+      tier: foreign-news
+      publisher: Domain-b.com
+      date: "2008-11-12"
+      url: >-
+        https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
+      accessed: "2026-06-16"
+  - field: flight_duration_s
+    value: 485
+    text: Flight duration reported as 485 seconds
+    basis: reported
+    source:
+      title: India test fires Shaurya - new surface-to-surface missile
+      tier: foreign-news
+      publisher: Domain-b.com
+      date: "2008-11-12"
+      url: >-
+        https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
+      accessed: "2026-06-16"

@@ -1,0 +1,94 @@
+id: 2020-10-03-shaurya-user-trial-advanced
+missile_id: shaurya
+designation: User trial of advanced/lighter version
+variant: Shaurya advanced version (lighter)
+date: "2020-10-03"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 800
+description: >-
+  Successful test of a new, lighter and easier-to-operate version of the canister-launched,
+  nuclear-capable Shaurya as part of user trials. Fired around 12:10 pm from launch complex 4 on Dr
+  A.P.J. Abdul Kalam Island, the two-stage missile performed a terminal manoeuvre and struck its
+  impact point in the Bay of Bengal with precision. The new variant has a strike range reported
+  variously as ~800 km (700-1000 km). Days later (around Oct 6, 2020) the government cleared its
+  induction/deployment into the Strategic Forces Command.
+notes: >-
+  Launch site corroborated as Abdul Kalam Island (launch complex 4) by CSIS Missile Threat, ANI and
+  The Tribune; a minority of early reports said 'Balasore/Chandipur' (one wire piece dated it Oct
+  4). Date Oct 3, 2020 (Saturday) confirmed by most sources. Range figure disputed across sources
+  (CSIS ~750 km; The Week ~800 km; The Tribune ~1000 km). Induction/deployment clearance around Oct
+  6, 2020 reported by Swarajya and others.
+sources:
+  - title: India Tests Multiple Missiles
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    date: 2020-10
+    url: https://missilethreat.csis.org/india-tests-multiple-missiles/
+    accessed: "2026-06-16"
+  - title: Nuclear-capable hypersonic missile 'Shaurya' successfully test-fired
+    tier: indian-news
+    publisher: The Tribune
+    date: "2020-10-03"
+    url: >-
+      https://www.tribuneindia.com/news/nation/nuclear-capable-hypersonic-missile-shaurya-successfully-test-fired-150471
+    accessed: "2026-06-16"
+  - title: India successfully test-fires new version of nuclear-capable Shaurya Missile
+    tier: indian-news
+    publisher: ANI
+    date: "2020-10-03"
+    url: >-
+      https://aninews.in/news/national/general-news/india-successfully-test-fires-new-version-of-nuclear-capable-shaurya-missile20201003134113/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    min: 700
+    max: 1000
+    value: 800
+    text: >-
+      Advanced-version range reported as ~800 km (The Week); 'around 1000 km' (The Tribune); ~750 km
+      estimate (CSIS)
+    basis: reported
+    source:
+      title: India tests new version of Shaurya hypersonic missile with range of 800km
+      tier: indian-news
+      publisher: The Week
+      date: "2020-10-03"
+      url: >-
+        https://www.theweek.in/news/india/2020/10/03/india-tests-new-version-shaurya-hypersonic-missile-with-range-of-800km.html
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 1000
+    text: Strike range stated as around 1000 km
+    basis: reported
+    source:
+      title: Nuclear-capable hypersonic missile 'Shaurya' successfully test-fired
+      tier: indian-news
+      publisher: The Tribune
+      date: "2020-10-03"
+      url: >-
+        https://www.tribuneindia.com/news/nation/nuclear-capable-hypersonic-missile-shaurya-successfully-test-fired-150471
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 750
+    text: CSIS estimates the demonstrated range at approximately 750 km
+    basis: assessed
+    source:
+      title: India Tests Multiple Missiles
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      date: 2020-10
+      url: https://missilethreat.csis.org/india-tests-multiple-missiles/
+      accessed: "2026-06-16"
+  - field: launch_site
+    text: Launch complex 4, APJ Abdul Kalam Island (vs minority reports of Balasore/Chandipur)
+    basis: reported
+    source:
+      title: India Tests Multiple Missiles
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      date: 2020-10
+      url: https://missilethreat.csis.org/india-tests-multiple-missiles/
+      accessed: "2026-06-16"

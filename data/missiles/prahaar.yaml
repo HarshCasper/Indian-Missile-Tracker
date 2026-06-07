@@ -1,0 +1,78 @@
+id: prahaar
+name: Prahaar
+aka:
+  - Prahar
+  - Pragati (export variant)
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Army (intended)
+status: development
+range_km:
+  min: 60
+  max: 150
+payload_kg: 200
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - road-mobile TATRA transporter-erector-launcher (up to six missiles per vehicle)
+variants:
+  - name: Pragati
+    notes: Export variant displayed in South Korea in 2014
+  - name: Pranash
+    notes: Upgraded 200 km derivative developed as a successor programme (catalogued separately)
+first_test: "2011-07-21"
+description: >-
+  Prahaar ('Strike') is a single-stage, solid-fuelled, road-mobile tactical short-range
+  surface-to-surface ballistic missile developed by DRDO to bridge the gap between the Pinaka
+  multi-barrel rocket system and the longer-range Prithvi missiles. First flight-tested on 21 July
+  2011 from the Integrated Test Range at Chandipur, it flew about 150 km in roughly 250 seconds,
+  striking a Bay of Bengal target with high accuracy. Designed as a cost-effective, quick-reaction,
+  all-weather precision battlefield weapon carrying a ~200 kg payload, it is intended to replace the
+  ageing liquid-fuelled Prithvi-I. An export-oriented variant was shown as Pragati.
+claims:
+  - field: range_km
+    basis: demonstrated
+    value: 150
+    text: >-
+      Demonstrated 150 km flight in about 250 seconds during the 21 July 2011 maiden test, reaching
+      ~35 km apogee.
+    source:
+      title: "FIRST PHOTOS: Prahaar Missile Test"
+      tier: indian-news
+      publisher: Livefist Defence
+      url: https://www.livefistdefence.com/first-photos-prahaar-missile-tes/
+  - field: nuclear_capable
+    basis: assessed
+    text: >-
+      Indian sources describe Prahaar as a conventional battlefield missile; CSIS Missile Threat
+      lists nuclear among possible warhead options. Catalogued here as conventional per the
+      developer's stated role.
+    source:
+      title: Prahaar | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/prahaar/
+sources:
+  - title: Prahaar | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/prahaar/
+    accessed: "2026-06-16"
+  - title: "FIRST PHOTOS: Prahaar Missile Test"
+    tier: indian-news
+    publisher: Livefist Defence
+    url: https://www.livefistdefence.com/first-photos-prahaar-missile-tes/
+    accessed: "2026-06-16"
+  - title: Indian Army test launches Prahaar short-range ballistic missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-test-launches-prahaar-missile/
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  7.3 m length, 0.42 m diameter, ~1,280 kg launch weight. Demonstrated CEP under 10 m. Nuclear
+  capability is disputed: developer/Indian sources frame it as conventional-only; CSIS lists nuclear
+  as a possible warhead. Did not achieve full Army induction at scale; effectively superseded by the
+  Pranash development effort.

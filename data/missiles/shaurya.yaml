@@ -1,0 +1,102 @@
+id: shaurya
+name: Shaurya
+aka:
+  - Shourya
+  - Shaurya missile
+category: surface-to-surface
+range_class: SRBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Army / Strategic Forces Command
+status: operational
+range_km:
+  min: 700
+  max: 1900
+payload_kg: 1000
+speed_mach: 7.5
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - canister (ground-based, road-mobile)
+  - underground silo
+variants:
+  - name: Shaurya (original)
+    notes: Land-based, canister-launched derivative of the K-15 SLBM; range ~700-1000 km
+  - name: Shaurya NG / extended-range
+    notes: >-
+      Reported next-generation/extended-range development with ranges cited up to ~1,900 km and
+      improved seekers
+first_test: "2008-11-12"
+description: >-
+  Shaurya is a canister-launched, road-mobile surface-to-surface ballistic missile developed by DRDO
+  as the land-based derivative of the K-15 Sagarika SLBM. Like the K-15 it uses a gas generator to
+  eject the missile from its canister before motor ignition, and it follows a quasi-ballistic,
+  high-speed (hypersonic-class) trajectory, manoeuvring during the terminal phase to complicate
+  interception. It was first test-fired on 12 November 2008 from the Integrated Test Range at
+  Chandipur, reaching about Mach 5 over roughly 300 km, with a longer-range test in 2011. It is
+  nuclear-capable and stored/launched from a sealed canister for rapid reaction.
+claims:
+  - field: range_km
+    value: 700
+    basis: demonstrated
+    text: >-
+      Baseline range of ~700 km, with the 2008 test crossing ~300 km at Mach 5 and later tests
+      demonstrating the full ~700 km.
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+  - field: range_km
+    value: 1900
+    basis: reported
+    text: >-
+      Some sources report a range envelope of 700-1,900 km (payload-dependent / extended-range
+      variant).
+    source:
+      title: BO5 / K-15 / Sagarika / Shourya (Valor)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+  - field: speed_mach
+    value: 7.5
+    basis: demonstrated
+    text: Reported to fly at up to Mach 7.5 in cruise/terminal phase; first 2008 test reached Mach 5.
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+sources:
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+  - title: Shaurya successfully test-fired
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/news/schools/shaurya-successfully-test-fired-150476/amp
+    accessed: "2026-06-16"
+  - title: BO5 / K-15 / Sagarika / Shourya (Valor)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+    accessed: "2026-06-16"
+  - title: Shaurya Missile
+    tier: indian-news
+    publisher: Drishti IAS
+    url: https://www.drishtiias.com/daily-news-analysis/shaurya-missile
+    accessed: "2026-06-16"
+  - title: Shaurya (missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Shaurya_(missile)
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Land-based canister-launched derivative of the K-15 SLBM. First test 12 November 2008 from
+  Chandipur ITR (reached Mach 5 over ~300 km); a second test demonstrating ~700 km full range
+  followed on 24 September 2011. Range figures vary by source (700 to 1,900 km) and a
+  next-generation/extended-range 'Shaurya NG' is reported in development. Categorised as
+  surface-to-surface SRBM though described in the press as hypersonic.

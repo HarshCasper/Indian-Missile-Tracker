@@ -1,0 +1,74 @@
+id: 2011-07-21-prahaar-maiden-flight
+missile_id: prahaar
+designation: Prahaar maiden flight test
+date: "2011-07-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+apogee_km: 35
+range_tested_km: 150
+description: >-
+  DRDO conducted the maiden flight test of the Prahaar surface-to-surface tactical ballistic missile
+  at about 08:20 IST on 21 July 2011 from Launch Complex-III, ITR Chandipur, off the Odisha coast
+  (Balasore). The single-stage solid-propellant missile reached an apogee of about 35 km, flew ~150
+  km in roughly 250 seconds, and struck a pre-designated target in the Bay of Bengal with terminal
+  accuracy under 10 m, meeting all mission objectives. Independently corroborated by the PIB
+  release, Broadsword (Ajai Shukla), Livefist, and GlobalSecurity.
+notes: >-
+  Maiden flight. Missile length 7.3 m, diameter 0.42 m (420 mm), launch weight ~1,280 kg, ~200 kg
+  payload. Intended to fill the gap between multi-barrel rockets (Pinaka) and Prithvi-class SRBMs;
+  described as comparable to the US ATACMS. Date, site, and outcome agree across PIB plus at least
+  two independent reliable sources.
+claims:
+  - field: range_tested_km
+    value: 150
+    basis: official
+    text: Travelled ~150 km in about 250 seconds, striking the target with terminal accuracy <10 m.
+    source:
+      title: DRDO Launches 'PRAHAAR' (PIB press release)
+      tier: pib
+      publisher: Press Information Bureau, Government of India
+      url: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=73407
+      date: "2011-07-21"
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 35
+    basis: official
+    text: Missile reached a height of ~35 km before reaching the target at 150 km range.
+    source:
+      title: DRDO Launches 'PRAHAAR' (PIB press release)
+      tier: pib
+      publisher: Press Information Bureau, Government of India
+      url: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=73407
+      date: "2011-07-21"
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO Launches 'PRAHAAR' (official press release)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/newsite/erelcontent.aspx?relid=73407
+    date: "2011-07-21"
+    accessed: "2026-06-16"
+  - title: "'Prahaar' makes its first flight"
+    tier: indian-news
+    publisher: Broadsword by Ajai Shukla
+    url: https://www.ajaishukla.com/2011/07/prahaar-makes-its-first-flight.html
+    date: "2011-07-21"
+    accessed: "2026-06-16"
+  - title: "First Photos: Prahaar Missile Test"
+    tier: indian-news
+    publisher: Livefist Defence
+    url: https://www.livefistdefence.com/first-photos-prahaar-missile-tes/
+    date: "2011-07-21"
+    accessed: "2026-06-16"
+  - title: Prahaar / Pragati (Indian missile programs)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/prahaar.htm
+    accessed: "2026-06-16"
+  - title: Prahaar (missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Prahaar_(missile)
+    accessed: "2026-06-16"
