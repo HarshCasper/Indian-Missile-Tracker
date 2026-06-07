@@ -1,0 +1,44 @@
+id: 2001-09-21-prithvi-iii-ins-subhadra-first-success
+missile_id: prithvi-iii
+variant: naval / ship-launched; attributed by some sources to 'Dhanush'
+designation: First successful naval test (Dhanush/Prithvi-III lineage)
+date: "2001-09-21"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+description: >-
+  Second flight test and first reported successful test of the naval ship-launched missile, fired
+  from INS Subhadra in the Bay of Bengal on 21 September 2001. FAS records that 'Prithvi-III was
+  first successfully tested September 21, 2001,' after which it was to be operationalized and
+  integrated into the Indian Navy. The GlobalSecurity Sukanya page records the same 21 Sep 2001 INS
+  Subhadra launch as a DHANUSH test.
+notes: >-
+  DISPUTED ATTRIBUTION: FAS labels the system 'Prithvi-III'; the GlobalSecurity P-50 Sukanya page
+  calls the identical 21 Sep 2001 INS Subhadra event 'Dhanush.' CSIS treats Dhanush as a separate
+  Prithvi-family variant rather than a synonym for Prithvi-III, so the system identity is unresolved
+  and confidence is set to disputed. Both sources are foreign-news tier; FAS conflates Prithvi-III
+  with the naval Dhanush ('also referred to as the Dhanush'). Launch was over the Bay of Bengal off
+  the Odisha coast; site_id set to offshore-visakhapatnam per ship/submarine-launch convention
+  (actual anchorage off Chandipur/Odisha). Vessel: INS Subhadra (P51, Sukanya-class). No
+  PIB/Indian-news source independently confirms this as a Prithvi-III test.
+claims:
+  - field: system_identity
+    text: >-
+      FAS calls the 21 Sep 2001 INS Subhadra test 'Prithvi-III'; GlobalSecurity's Sukanya page calls
+      the same event 'Dhanush.' Sources conflict on the missile's designation.
+    basis: assessed
+    source:
+      title: P 50 Sukanya (INS Subhadra)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm
+sources:
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: Federation of American Scientists (FAS)
+    url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+  - title: P 50 Sukanya (INS Subhadra)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm

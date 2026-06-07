@@ -1,0 +1,33 @@
+id: 2004-11-07-dhanush-first-operational
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: First fully operational test (Navy induction)
+date: "2004-11-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  The Dhanush was successfully test-fired from the naval ship INS Subhadra (P51) off Balasore in the
+  Bay of Bengal, in what was described as the first fully operational test of the ship-based
+  ballistic missile, marking its induction into the Indian Navy. The 350 km-range surface-to-surface
+  missile met its parameters.
+notes: >-
+  Ship-launched from INS Subhadra (P51), off the Odisha coast; site_id offshore-visakhapatnam used
+  as the Bay-of-Bengal ship-launch proxy. Launch reported at about 06:50 GMT. The Wisconsin India
+  Missile Milestones page records the November 2004 test as 'marking the induction of the system
+  into the Navy'. The NBC/AP source (nbcnews.com/id/wbna6425362) returned HTTP 403 on re-fetch and
+  could not be re-verified directly; the date, success, and induction framing are corroborated by
+  the Wisconsin Project milestones page.
+sources:
+  - title: "India Missile Milestones: 1947-2012"
+    tier: foreign-news
+    publisher: Wisconsin Project on Nuclear Arms Control
+    url: https://www.wisconsinproject.org/india-missile-milestones-1947-2012/
+    accessed: "2026-06-16"
+  - title: India test fires nuclear-capable missile
+    tier: foreign-news
+    publisher: NBC News / Associated Press
+    url: https://www.nbcnews.com/id/wbna6425362
+    accessed: "2026-06-16"

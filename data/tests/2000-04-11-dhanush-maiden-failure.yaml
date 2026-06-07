@@ -1,0 +1,63 @@
+id: 2000-04-11-dhanush-maiden-failure
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: Maiden flight test
+date: "2000-04-11"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+description: >-
+  The first flight test of the ship-launched Dhanush (naval Prithvi variant) from the offshore
+  patrol vessel INS Subhadra in the Bay of Bengal off the Odisha (then Orissa) coast. The missile
+  failed at or shortly after take-off, flying only a few seconds before breaking into two pieces and
+  barely clearing the ship; it was characterized as a technology-demonstrator failure caused by
+  take-off/blast-off stage problems.
+notes: >-
+  Ship-launched from INS Subhadra (Sukanya-class OPV), off the Odisha coast in the Bay of Bengal;
+  site_id offshore-visakhapatnam used as the Bay-of-Bengal ship-launch proxy. Outcome predominantly
+  reported as a failure (FAS, CSIS); the Wisconsin Project's 2000 update alternatively quoted
+  India's scientific adviser calling it a 'partial success' that crashed into the sea 25-30 km from
+  the launch vessel - see disputed claim. Astronautix (currently unreachable) describes the failure
+  occurring after about 30 seconds of flight.
+sources:
+  - title: Sagarika / Dhanush - India Missile Special Weapons Delivery Systems (FAS)
+    tier: foreign-news
+    publisher: Federation of American Scientists
+    url: https://nuke.fas.org/guide/india/missile/sagarika.htm
+    accessed: "2026-06-16"
+  - title: Dhanush | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/
+    accessed: "2026-06-16"
+  - title: "India: Ballistic Missile Update - 2000"
+    tier: foreign-news
+    publisher: Wisconsin Project on Nuclear Arms Control
+    url: https://www.wisconsinproject.org/india-ballistic-missile-update-2000/
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    text: >-
+      FAS describes the 11 April 2000 maiden flight as a failure - the missile flew for only about
+      four seconds and broke into two pieces, barely clearing the ship.
+    basis: reported
+    source:
+      title: Sagarika / Dhanush (FAS)
+      tier: foreign-news
+      publisher: Federation of American Scientists
+      url: https://nuke.fas.org/guide/india/missile/sagarika.htm
+      accessed: "2026-06-16"
+  - field: outcome
+    text: >-
+      The Wisconsin Project 2000 update quoted India's defence-ministry scientific adviser
+      describing the April 2000 test as a 'partial success' in which the missile crashed into the
+      sea about 25-30 km from the launch vessel.
+    basis: reported
+    source:
+      title: "India: Ballistic Missile Update - 2000"
+      tier: foreign-news
+      publisher: Wisconsin Project on Nuclear Arms Control
+      url: https://www.wisconsinproject.org/india-ballistic-missile-update-2000/
+      accessed: "2026-06-16"

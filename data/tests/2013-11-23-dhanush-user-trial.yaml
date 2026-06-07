@@ -1,0 +1,31 @@
+id: 2013-11-23-dhanush-user-trial
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: User training trial
+date: "2013-11-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  The nuclear-capable Dhanush was successfully test-fired from a naval ship off the Odisha coast in
+  the Bay of Bengal as part of a Navy training exercise conducted by the Strategic Forces Command in
+  cooperation with DRDO. The ITR director reported the trial met all mission objectives.
+notes: >-
+  Ship-launched (reported as INS Subhadra), off the Odisha coast in the Bay of Bengal; site_id
+  offshore-visakhapatnam used as the Bay-of-Bengal ship-launch proxy. Conducted 23 November 2013;
+  the Naval Technology article carries a 24 November 2013 publication date but describes the 23
+  November event. The missile validated mission parameters (elevation, trajectory, azimuth, flight
+  path, stage separation).
+sources:
+  - title: India's Navy successfully tests Dhanush missile
+    tier: foreign-news
+    publisher: Naval Technology
+    url: https://www.naval-technology.com/news/news-indian-navy-successfully-tests-dhanush-missile/
+    accessed: "2026-06-16"
+  - title: Dhanush | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/
+    accessed: "2026-06-16"

@@ -1,0 +1,61 @@
+id: 2001-09-21-dhanush-first-successful
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: Developmental flight test (first successful)
+date: "2001-09-21"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: offshore-visakhapatnam
+range_tested_km: 150
+description: >-
+  Flight test of the ship-launched Dhanush (Prithvi-III) from INS Subhadra in the Bay of Bengal off
+  the Odisha coast. FAS records this as the first successful test of the Prithvi-III / Dhanush;
+  secondary accounts report it flew to a range of about 150 km (93 miles).
+notes: >-
+  Ship-launched from INS Subhadra, off the Odisha coast; site_id offshore-visakhapatnam used as the
+  Bay-of-Bengal ship-launch proxy. CORRECTION: the original list labelled this the 'second
+  developmental flight' with outcome 'unknown'. FAS (Prithvi page) states the Prithvi-III/Dhanush
+  was first successfully tested on 21 September 2001, so outcome corrected to 'success'. The
+  Encyclopedia.com chronology indicates this was actually the THIRD test (April 2000 first/failed,
+  an intermediate test in December 2000, then September 2001), reporting a range of ~150 km. The
+  December 2000 test is mentioned by Encyclopedia.com but no precise date or outcome could be
+  independently verified, so it is not added as a separate entry. Confidence 'reported' because the
+  exact day and range come from a single solid source each.
+sources:
+  - title: Prithvi - India Missile Special Weapons Delivery Systems (FAS)
+    tier: foreign-news
+    publisher: Federation of American Scientists
+    url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+    accessed: "2026-06-16"
+  - title: Ballistic and Cruise Missile Development
+    tier: foreign-news
+    publisher: Encyclopedia.com
+    url: >-
+      https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/ballistic-and-cruise-missile-development
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    text: >-
+      FAS states 'Prithvi-III was first successfully tested September 21, 2001' and notes it is the
+      naval version also referred to as the Dhanush.
+    basis: reported
+    source:
+      title: Prithvi (FAS)
+      tier: foreign-news
+      publisher: Federation of American Scientists
+      url: https://nuke.fas.org/guide/india/missile/prithvi.htm
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 150
+    text: >-
+      Encyclopedia.com reports the September 2001 Dhanush test was over a range of 93 miles (about
+      150 km), and describes it as the third test after April 2000 (failed) and December 2000.
+    basis: reported
+    source:
+      title: Ballistic and Cruise Missile Development
+      tier: foreign-news
+      publisher: Encyclopedia.com
+      url: >-
+        https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/ballistic-and-cruise-missile-development
+      accessed: "2026-06-16"

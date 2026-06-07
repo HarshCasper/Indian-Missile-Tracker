@@ -1,0 +1,32 @@
+id: 2011-03-11-dhanush-user-trial
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: User training trial
+date: "2011-03-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  India test-fired the nuclear-capable, 350 km-range Dhanush from a naval ship in the Bay of Bengal
+  between Paradip and Puri off the Odisha coast at about 10:03-10:05 hrs IST, by Indian Navy
+  personnel as part of a user-training exercise. The missile followed a textbook trajectory and hit
+  the target with high accuracy.
+notes: >-
+  Ship-launched, off the Odisha coast between Paradip and Puri in the Bay of Bengal; site_id
+  offshore-visakhapatnam used as the Bay-of-Bengal ship-launch proxy. GlobalSecurity (IRNA) confirms
+  the 11 March 2011 date, ~10:05 hrs IST launch, success, and 350 km range. One source
+  (naval-technology) carries the publication date 13 March 2011 but describes the same 11 March 2011
+  event.
+sources:
+  - title: India test fires Ship-based Dhanush missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA report)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110311-irna01.htm
+    accessed: "2026-06-16"
+  - title: Prithvi II, Dhanush test fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/amp/story/india%2Fprithvi-dhanush-test-fired-2400610
+    accessed: "2026-06-16"

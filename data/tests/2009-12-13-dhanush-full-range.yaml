@@ -1,0 +1,31 @@
+id: 2009-12-13-dhanush-full-range
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: Developmental/user trial
+date: "2009-12-13"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Dhanush at its full 350 km range from the naval
+  ship INS Subhadra off Chandipur in the Bay of Bengal off the Odisha coast. DRDO stated the test
+  met all parameters.
+notes: >-
+  Ship-launched from INS Subhadra, off Chandipur/Odisha coast in the Bay of Bengal; site_id
+  offshore-visakhapatnam used as the Bay-of-Bengal ship-launch proxy. GlobalSecurity (IRNA) confirms
+  the 13 December 2009 date, naval-ship launch, success, and 350 km range, and notes the previous
+  successful test was 30 March 2007. Some outlets reported the date as 14 December 2009, but the 13
+  December date is the predominant one.
+sources:
+  - title: India successfully test fires nuclear-capable 'Dhanush' missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA report)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2009/india-091213-irna01.htm
+    accessed: "2026-06-16"
+  - title: Dhanush | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/
+    accessed: "2026-06-16"

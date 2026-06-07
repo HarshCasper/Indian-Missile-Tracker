@@ -1,0 +1,76 @@
+id: 2000-04-prithvi-iii-ins-subhadra-maiden
+missile_id: prithvi-iii
+variant: naval / ship-launched (250 km variant); attributed by most sources to 'Dhanush'
+designation: Maiden naval sea trial (Dhanush/Prithvi-III lineage)
+date: "2000-04-11"
+date_precision: day
+outcome: partial
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+description: >-
+  First flight test of the naval/ship-launched missile of the Prithvi family, fired from the
+  reinforced helicopter deck of the Sukanya-class patrol vessel INS Subhadra anchored offshore in
+  the Bay of Bengal in April 2000. V. K. Aatre (scientific adviser to the Indian MoD) described it
+  as only a 'partial success'; naval sources said the missile crashed into the sea roughly 25-30 km
+  from the launch vessel. Independent sources (Wisconsin Project, GlobalSecurity Sukanya page)
+  record this as a DHANUSH test, not a Prithvi-III test.
+notes: >-
+  DISPUTED ATTRIBUTION: The two most independent sources for this event (Wisconsin Project;
+  GlobalSecurity P-50 Sukanya page) call the missile 'Dhanush,' NOT 'Prithvi-III.' CSIS Missile
+  Threat explicitly treats Dhanush as a distinct variant of the Prithvi family (alongside Prithvi-I,
+  Prithvi-II and the air-defence interceptor) rather than as a synonym for Prithvi-III; only the
+  conflating FAS/GlobalSecurity main Prithvi pages equate the naval system with 'Prithvi-III.'
+  Because the system identity cannot be cleanly resolved as Prithvi-III, confidence is set to
+  disputed. Exact date 2000-04-11 comes ONLY from the GlobalSecurity Sukanya page; Wisconsin Project
+  gives only 'April 2000' and 'a ship anchored 20 km offshore' (does not name INS Subhadra). One
+  GlobalSecurity line places the 2000 failure at the Chandipur-on-sea ITR rather than aboard the
+  ship. Launch was over the Bay of Bengal off the Odisha coast; site_id set to
+  offshore-visakhapatnam per ship/submarine-launch convention. Vessel reported as INS Subhadra (P51,
+  Sukanya-class). Outcome changed from 'failure' to 'partial' to match the cited 'partial success'
+  characterization.
+claims:
+  - field: range_class
+    value: 250
+    text: Reported as the 250 km naval variant.
+    basis: reported
+    source:
+      title: Dhanush | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/dhanush/
+  - field: outcome_characterization
+    text: >-
+      Described as only a 'partial success' by V. K. Aatre, scientific adviser to the Indian MoD;
+      naval sources said the missile crashed into the sea approximately 25-30 km from the launch
+      vessel.
+    basis: reported
+    source:
+      title: "India: Ballistic Missile Update - 2000"
+      tier: foreign-news
+      publisher: Wisconsin Project on Nuclear Arms Control
+      url: https://www.wisconsinproject.org/india-ballistic-missile-update-2000/
+  - field: system_identity
+    text: >-
+      Independent sources name the missile 'Dhanush,' not 'Prithvi-III'; CSIS treats Dhanush as a
+      separate variant of the Prithvi family. Attribution to Prithvi-III stems from
+      FAS/GlobalSecurity conflation.
+    basis: assessed
+    source:
+      title: P 50 Sukanya (INS Subhadra)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm
+sources:
+  - title: "India: Ballistic Missile Update - 2000"
+    tier: foreign-news
+    publisher: Wisconsin Project on Nuclear Arms Control
+    url: https://www.wisconsinproject.org/india-ballistic-missile-update-2000/
+  - title: P 50 Sukanya (INS Subhadra)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm
+  - title: Dhanush | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/dhanush/

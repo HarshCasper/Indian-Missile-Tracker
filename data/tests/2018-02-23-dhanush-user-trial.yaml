@@ -1,0 +1,41 @@
+id: 2018-02-23-dhanush-user-trial
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: User training trial
+date: "2018-02-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable Dhanush in full operational configuration from a
+  Sukanya-class naval offshore patrol vessel positioned in the Bay of Bengal about 45 km off the
+  Paradip coast, Odisha, at about 10:52 am IST. The trial, conducted by the Strategic Forces Command
+  of the Navy, met all parameters; a defence official described near-zero circular error
+  probability.
+notes: >-
+  ADDED test (was missing/cut off in the truncated input list). Ship-launched from a Sukanya-class
+  OPV ~45 km off Paradip/Odisha coast in the Bay of Bengal; site_id offshore-visakhapatnam used as
+  the Bay-of-Bengal ship-launch proxy. Date (23 February 2018), location, ~10:52 am launch, success,
+  and up-to-350 km range corroborated by The Diplomat, GlobalSecurity (Sputnik) and CSIS. CAVEAT:
+  several outlets called it 'the third test in a month of Dhanush' - this most likely refers to it
+  being among several strategic-missile tests India conducted that month (Agni, Prithvi etc.) rather
+  than literally three Dhanush firings; treat the 'third Dhanush test' phrasing with caution.
+sources:
+  - title: India Successfully Test-Fires Nuclear-Capable Ship-Launched Ballistic Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/02/india-successfully-test-fires-nuclear-capable-ship-launched-ballistic-missile/
+    accessed: "2026-06-16"
+  - title: India test-fires Dhanush ballistic missile (Feb 2018)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (Sputnik report)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180223-sputnik01.htm
+    accessed: "2026-06-16"
+  - title: India Test Fires Dhanush Ballistic Missile
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-test-fires-dhanush-ballistic-missile/
+    accessed: "2026-06-16"

@@ -1,0 +1,59 @@
+id: 2005-12-28-prithvi-iii-ins-rajput-350km
+missile_id: prithvi-iii
+variant: naval / ship-launched (enhanced ~350 km); attributed by GlobalSecurity to 'Dhanush'
+designation: Enhanced naval test from INS Rajput (Dhanush/Prithvi-III lineage)
+date: "2005-12-28"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  A naval version of the missile, reportedly an enhanced ~350 km variant, was test-fired from the
+  destroyer INS Rajput over the Bay of Bengal on 28 December 2005 and reportedly struck a land-based
+  target successfully. The only source documenting the 28 Dec 2005 INS Rajput date (GlobalSecurity
+  P-50 Sukanya page) records it as a DHANUSH launch; the '350 km enhanced / land-target' narrative
+  traces to the conflating FAS/GlobalSecurity main Prithvi pages.
+notes: >-
+  DISPUTED ATTRIBUTION AND CORRECTED SOURCING: The original entry claimed CSIS Missile Threat
+  corroborated this test and the 350 km figure. That is INCORRECT - the CSIS Dhanush page contains
+  NO 2005 test, NO INS Rajput, and NO 350 km enhanced version (it gives a range estimate of 150-400
+  km and lists only 2000, Dec 2009 and Mar 2010 tests). The false CSIS corroboration has been
+  removed. The 28 December 2005 INS Rajput date is sourced ONLY to the GlobalSecurity P-50 Sukanya
+  page, which labels the event 'Dhanush,' not 'Prithvi-III.' CSIS treats Dhanush as a distinct
+  Prithvi-family variant, so the Prithvi-III identity is unresolved; confidence set to disputed
+  (single source + conflicting designation). Launch over the Bay of Bengal off the Odisha coast;
+  site_id set to offshore-visakhapatnam per ship/submarine-launch convention. Vessel: INS Rajput
+  (destroyer).
+claims:
+  - field: range_tested_km
+    value: 350
+    text: >-
+      Reportedly an enhanced ~350 km version that hit a land-based target; figure traces to
+      FAS/GlobalSecurity main Prithvi narrative, not to a primary or Indian-news source.
+    basis: reported
+    source:
+      title: Prithvi - India Missile Special Weapons Delivery Systems
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm
+  - field: system_identity
+    text: >-
+      GlobalSecurity's Sukanya page records the 28 Dec 2005 INS Rajput launch as 'Dhanush,' not
+      'Prithvi-III'; CSIS treats Dhanush as a separate variant. Designation is disputed and the date
+      rests on a single source.
+    basis: assessed
+    source:
+      title: P 50 Sukanya (INS Subhadra)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm
+sources:
+  - title: P 50 Sukanya (INS Subhadra)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/p-sukanya.htm
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm

@@ -1,0 +1,50 @@
+id: 2004-10-27-prithvi-iii-chandipur-sss
+missile_id: prithvi-iii
+variant: "surface-to-surface (two-stage: solid first stage + liquid second stage)"
+designation: Prithvi-III surface-to-surface test
+date: "2004-10-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 300
+description: >-
+  India successfully test-fired the surface-to-surface Prithvi-III from the Integrated Test Range
+  (ITR) at Chandipur-on-sea, Odisha, on 27 October 2004. The ~8.5 m, ~1 m-diameter, two-stage (solid
+  first stage, liquid second stage) nuclear-capable missile was reported with a range of 250-300 km
+  and described as ship/submarine-launchable. About 2,000 villagers were evacuated as a precaution;
+  DRDO chief M. Natarajan and the design scientists witnessed the test.
+notes: >-
+  CONFIRMED: Two independent foreign-news sources (IRNA via GlobalSecurity and AFP via SpaceWar)
+  explicitly identify this as a 'Prithvi III' / 'Prithvi-III' surface-to-surface test from Chandipur
+  ITR with a successful outcome and a 250-300 km range; GlobalSecurity's main Prithvi page
+  corroborates the two-stage solid+liquid configuration. This is the single well-corroborated
+  Prithvi-III flight test in this list. Minor source discrepancy on launch time: IRNA gives 11:29 pm
+  local, AFP gives ~11:29 am; the date is consistent across sources. The GlobalSecurity Sukanya page
+  lists a separate 7 November 2004 INS Subhadra 'Dhanush' launch, which is a distinct (Dhanush)
+  naval event and is not merged here. No PIB/Indian-news primary source was located, but two
+  independent reliable foreign sources agree on date, site and outcome.
+claims:
+  - field: range_tested_km
+    min: 250
+    max: 300
+    text: Range reported as 250-300 km by the Indian Defence Ministry spokesman.
+    basis: reported
+    source:
+      title: India test-fires surface-to-surface Prithvi III missile (IRNA)
+      tier: foreign-news
+      publisher: IRNA via GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2004/india-041027-irna01.htm
+sources:
+  - title: India test-fires surface-to-surface Prithvi III missile (IRNA)
+    tier: foreign-news
+    publisher: IRNA via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2004/india-041027-irna01.htm
+  - title: India test-fires nuclear-capable ballistic missile (AFP)
+    tier: foreign-news
+    publisher: Agence France-Presse via SpaceWar.com
+    url: https://www.spacewar.com/2004/041027070025.nbc2d2qg.html
+  - title: Prithvi - India Missile Special Weapons Delivery Systems
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/prithvi.htm

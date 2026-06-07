@@ -1,0 +1,31 @@
+id: 2010-03-27-dhanush-user-trial-salvo
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: User training trial (with Prithvi-II)
+date: "2010-03-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  The Dhanush was successfully test-fired from INS Subhadra in the Bay of Bengal off the Odisha
+  coast near Puri at about 05:44 hrs as part of a Navy user-training exercise, in near-simultaneous
+  mode with a land-based Prithvi-II fired from ITR Chandipur at about 05:48 hrs. The naval missile,
+  with a range up to 350 km, met all parameters.
+notes: >-
+  Ship-launched from INS Subhadra, off the Odisha coast near Puri in the Bay of Bengal; conducted in
+  salvo/quick-succession with a Prithvi-II fired from ITR Chandipur. site_id offshore-visakhapatnam
+  used as the Bay-of-Bengal ship-launch proxy. GlobalSecurity (IRNA) confirms date, vessel (INS
+  Subhadra), 05:44 hrs launch time, success, and the simultaneous Prithvi-II test.
+sources:
+  - title: India test fires nuke capable Prithvi-II and Dhanush missiles
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA report)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100327-irna01.htm
+    accessed: "2026-06-16"
+  - title: Prithvi-II, Dhanush Tested Successfully Today
+    tier: indian-news
+    publisher: Livefist Defence
+    url: https://www.livefistdefence.com/prithvi-ii-dhanush-tested-successfully/
+    accessed: "2026-06-16"

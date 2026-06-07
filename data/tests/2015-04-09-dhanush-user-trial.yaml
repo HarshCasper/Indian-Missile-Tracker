@@ -1,0 +1,39 @@
+id: 2015-04-09-dhanush-user-trial
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: User training trial
+date: "2015-04-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  India successfully test-fired the nuclear-capable, 350 km-range Dhanush from an offshore patrol
+  vessel off the Odisha coast in the Bay of Bengal at about 11:02 hrs as part of a Strategic Forces
+  Command user-training exercise. The missile hit the designated target on the water with high
+  precision.
+notes: >-
+  ADDED test (was missing/cut off in the truncated input list). Ship-launched from a naval offshore
+  patrol vessel off the Odisha coast; site_id offshore-visakhapatnam used as the Bay-of-Bengal
+  ship-launch proxy. Launch at about 11:02 local time on 9 April 2015, conducted by the Strategic
+  Forces Command. Date, success, and 350 km full-range corroborated by GlobalSecurity (Sputnik),
+  Naval Technology and Indian outlets (PTI via Business Standard, Deccan Herald).
+sources:
+  - title: India successfully test-fires nuclear-capable Dhanush ballistic missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (Sputnik report)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-150409-sputnik02.htm
+    accessed: "2026-06-16"
+  - title: India successfully test-fired Dhanush missile
+    tier: indian-news
+    publisher: Business Standard (PTI)
+    url: >-
+      https://www.business-standard.com/article/economy-policy/india-successfully-test-fired-dhanush-missile-112100503005_1.html
+    accessed: "2026-06-16"
+  - title: India successfully test-fires nuclear-capable Dhanush ballistic missile
+    tier: foreign-news
+    publisher: Naval Technology
+    url: >-
+      https://www.naval-technology.com/uncategorised/newsindia-successfully-test-fires-nuclear-capable-dhanush-ballistic-missile-4551046/
+    accessed: "2026-06-16"

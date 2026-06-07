@@ -1,0 +1,74 @@
+id: 2007-03-30-dhanush-user-trial
+missile_id: dhanush
+variant: Prithvi-III (naval)
+designation: Developmental/user trial
+date: "2007-03-30"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 350
+description: >-
+  Dhanush was successfully test-fired from a naval ship in the Bay of Bengal off the Odisha coast,
+  near the Integrated Test Range at Chandipur. Sources agree the launch succeeded and the missile
+  reached its designated target, but disagree on the firing vessel (INS Subhadra vs INS Rajput) and
+  the range demonstrated (250 km vs 350 km).
+notes: >-
+  Ship-launched, off the Odisha coast; site_id offshore-visakhapatnam used as the Bay-of-Bengal
+  ship-launch proxy. DOWNGRADED to 'disputed': the Arms Control Association confirms the date as 30
+  March 2007 and a successful naval Prithvi/Dhanush test, but domain-b reports the missile was fired
+  from INS Rajput positioned ~60 km from ITR Chandipur at about 2:30 pm with a 250 km range, while
+  other reporting attributes the launch to INS Subhadra at 350 km (the list's original note that INS
+  Rajput served only as a tracking platform is not supported by domain-b, which names it as the
+  launch vessel). CORRECTION: the original list cited a 2011 GlobalSecurity URL that does not cover
+  this 2007 event; replaced with the Arms Control Association and domain-b sources. Some sources
+  give the date as 31 March 2007, but Arms Control Association anchors it to 30 March 2007.
+sources:
+  - title: Tests, Arrests Draw Attention to Indian Missiles
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2007-05/tests-arrests-draw-attention-indian-missiles
+    accessed: "2026-06-16"
+  - title: Dhanush, naval surface-to-surface missile, test fired successfully
+    tier: indian-news
+    publisher: domain-b.com
+    url: >-
+      https://www.domain-b.com/aviation-aerospace/news-reports/dhanush-naval-surface-to-surface-missile-test-fired-successfully
+    accessed: "2026-06-16"
+claims:
+  - field: notes
+    text: >-
+      domain-b reports the missile was test-fired from INS Rajput, positioned nearly 60 km from the
+      ITR Chandipur, at around 2:30 pm.
+    basis: reported
+    source:
+      title: Dhanush, naval surface-to-surface missile, test fired successfully
+      tier: indian-news
+      publisher: domain-b.com
+      url: >-
+        https://www.domain-b.com/aviation-aerospace/news-reports/dhanush-naval-surface-to-surface-missile-test-fired-successfully
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 250
+    text: >-
+      domain-b reports the 30/31 March 2007 Dhanush had a reported range of about 250 km (carrying a
+      warhead up to 750 kg), noting range varies between 250-350 km depending on warhead size.
+    basis: reported
+    source:
+      title: Dhanush, naval surface-to-surface missile, test fired successfully
+      tier: indian-news
+      publisher: domain-b.com
+      url: >-
+        https://www.domain-b.com/aviation-aerospace/news-reports/dhanush-naval-surface-to-surface-missile-test-fired-successfully
+      accessed: "2026-06-16"
+  - field: date
+    text: >-
+      Arms Control Association dates the test to 30 March 2007: 'Three other systems were recently
+      tested, beginning March 30 with a naval version of the Prithvi, the Dhanush.'
+    basis: reported
+    source:
+      title: Tests, Arrests Draw Attention to Indian Missiles
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2007-05/tests-arrests-draw-attention-indian-missiles
+      accessed: "2026-06-16"
