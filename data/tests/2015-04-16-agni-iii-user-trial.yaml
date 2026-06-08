@@ -1,0 +1,28 @@
+id: 2015-04-16-agni-iii-user-trial
+missile_id: agni-iii
+designation: Third user trial (Strategic Forces Command)
+date: "2015-04-16"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+description: >-
+  Third Strategic Forces Command user trial of the Agni-III, fired from Launch Complex-4 of the
+  Integrated Test Range at Wheeler/Abdul Kalam Island off the Odisha coast. The trial was fully
+  successful and carried out to establish the repeatability of the missile's performance; the
+  missile has a strike range of more than 3,000 km and can carry up to a 1.5-tonne warhead.
+notes: Two-stage solid-propellant missile, ~17 m long, ~2 m diameter, ~50 t launch weight.
+sources:
+  - title: India successfully test-fires Agni-III missile (PTI)
+    tier: foreign-news
+    publisher: PTI / GlobalSecurity
+    date: "2015-04-16"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-150416-pdo01.htm
+    accessed: "2026-06-16"
+  - title: India tests 3500 km range Agni-III nuke-tipped missile (third user trial)
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/archive/nation/india-test-fires-3-000-km-range-n-missile-68171
+    accessed: "2026-06-16"

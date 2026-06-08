@@ -1,0 +1,33 @@
+id: 2026-02-06-agni-iii-user-trial
+missile_id: agni-iii
+designation: User training launch (Strategic Forces Command)
+date: "2026-02-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 3000
+description: >-
+  Successful test-firing of the Agni-III intermediate-range ballistic missile from the Integrated
+  Test Range (ITR), Chandipur, Odisha, conducted under the supervision of the Strategic Forces
+  Command as part of a routine training exercise. Defence officials confirmed the test met all
+  mission objectives and validated all operational and technical parameters.
+notes: >-
+  Added during fact-check; missing from the original list. Note: launched from ITR Chandipur, not
+  Abdul Kalam Island. Strike range stated as exceeding 3,000 km (3,000-3,500 km).
+sources:
+  - title: >-
+      India successfully test-fires Agni-III Intermediate Range Ballistic Missile from Integrated
+      Test Range in Odisha
+    tier: pib
+    publisher: NewsOnAir (All India Radio / Prasar Bharati, Govt. of India)
+    date: "2026-02-06"
+    url: >-
+      https://www.newsonair.gov.in/india-successfully-test-fires-agni-iii-intermediate-range-ballistic-missile-from-integrated-test-range-in-odisha
+    accessed: "2026-06-16"
+  - title: "Inside Agni-3 Missile Test: Range, Capability, Purpose and Strategic Significance Explained"
+    tier: indian-news
+    publisher: Indian Masterminds
+    date: "2026-02-06"
+    url: https://indianmasterminds.com/news/india-successfully-test-fires-agni-3-missile-183482/
+    accessed: "2026-06-16"

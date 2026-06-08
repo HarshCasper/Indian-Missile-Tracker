@@ -1,0 +1,41 @@
+id: 2022-11-23-agni-iii-user-trial
+missile_id: agni-iii
+designation: User training launch (Strategic Forces Command)
+date: "2022-11-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+description: >-
+  Successful training launch of the Agni-III intermediate-range ballistic missile from APJ Abdul
+  Kalam Island, Odisha, carried out under the aegis of the Strategic Forces Command as part of
+  routine user training launches. The launch was for a predetermined range and validated all
+  operational parameters of the system.
+notes: >-
+  Added during fact-check; missing from the original list. Confirmed by an official Ministry of
+  Defence / PIB release plus Indian media.
+sources:
+  - title: >-
+      India carries out successful training launch of Intermediate Range Ballistic Missile, Agni-3
+      from APJ Abdul Kalam Island
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    date: "2022-11-23"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1878370
+    accessed: "2026-06-16"
+  - title: >-
+      India carries out successful training launch of Intermediate Range Ballistic Missile, Agni-3
+      (PIB text)
+    tier: foreign-news
+    publisher: PIB via GlobalSecurity
+    date: "2022-11-23"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-221123-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: India successfully conducts training launch of Agni-3 Intermediate Range Ballistic Missile
+    tier: indian-news
+    publisher: India TV
+    date: "2022-11-23"
+    url: >-
+      https://www.indiatvnews.com/news/india/agni-3-missile-launch-india-successfully-conducts-training-launch-of-intermediate-range-ballistic-missile-latest-updates-2022-11-23-826051
+    accessed: "2026-06-16"

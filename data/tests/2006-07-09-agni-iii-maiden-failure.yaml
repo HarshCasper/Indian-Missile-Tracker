@@ -1,0 +1,31 @@
+id: 2006-07-09-agni-iii-maiden-failure
+missile_id: agni-iii
+designation: Maiden flight test
+date: "2006-07-09"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  Maiden flight test of the Agni-III IRBM, launched from then-Wheeler Island off the Odisha coast.
+  The missile rose to roughly 12 km before a malfunction; it failed to reach its target and fell
+  into the Bay of Bengal. Post-flight analysis attributed the failure to a first-stage
+  flexseal/thrust-vector-control fault and/or second-stage non-separation. India's defence ministry
+  initially described the launch as successful before correcting it.
+notes: >-
+  Launched from then-Wheeler Island (now Dr A.P.J. Abdul Kalam Island), Odisha coast. Some accounts
+  cite a heat-shield/thrust-vector-control sealing problem; others cite second-stage non-separation.
+  Defence Minister Pranab Mukherjee called it a 'snag'.
+sources:
+  - title: India says missile launch failed
+    tier: foreign-news
+    publisher: Al Jazeera
+    date: "2006-07-10"
+    url: https://www.aljazeera.com/news/2006/7/10/india-says-missile-launch-failed
+    accessed: "2026-06-16"
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"

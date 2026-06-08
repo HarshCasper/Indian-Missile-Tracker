@@ -1,0 +1,57 @@
+id: 2019-11-30-agni-iii-night-trial-failure
+missile_id: agni-iii
+designation: First night trial (failed)
+date: "2019-11-30"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 115
+description: >-
+  First-ever nighttime user trial of the Agni-III, launched at about 7:15 pm from a mobile launcher
+  in full operational configuration at the Integrated Test Range on Abdul Kalam Island. The missile
+  behaved abnormally after first-stage separation, deviated from its planned trajectory after about
+  115 km, and was terminated; the intended trajectory was about 2,800 km. Preliminary investigation
+  pointed to a manufacturing/metallurgical defect.
+notes: >-
+  Both CSIS and The Print agree the launch occurred the night of Saturday 30 November 2019 (~7:15
+  pm); CSIS labels it 'December 1, 2019', which reflects next-day reporting/IST-UTC conversion, not
+  a true date conflict. Range_tested_km set to ~115 km, the distance flown before termination.
+claims:
+  - field: date
+    value: 0
+    basis: reported
+    text: >-
+      Launch on Saturday evening 30 November 2019 (~7:15 pm), reported by The Print filed 1 December
+      2019
+    source:
+      title: DRDO and SFC to look into why nuclear-capable Agni night test failed
+      tier: indian-news
+      publisher: The Print
+      date: "2019-12-01"
+      url: >-
+        https://theprint.in/defence/drdo-and-sfc-to-look-into-why-nuclear-capable-agni-night-test-failed/328862/
+      accessed: "2026-06-16"
+  - field: date
+    value: 0
+    basis: reported
+    text: CSIS lists the failed night launch as 'December 1, 2019' (next-day labeling)
+    source:
+      title: India Agni-3 Missile Test Fails
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-3/
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO and SFC to look into why nuclear-capable Agni night test failed
+    tier: indian-news
+    publisher: The Print
+    date: "2019-12-01"
+    url: >-
+      https://theprint.in/defence/drdo-and-sfc-to-look-into-why-nuclear-capable-agni-night-test-failed/328862/
+    accessed: "2026-06-16"
+  - title: Agni-III (test history including failed night launch)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"

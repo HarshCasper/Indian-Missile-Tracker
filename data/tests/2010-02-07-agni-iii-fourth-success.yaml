@@ -1,0 +1,56 @@
+id: 2010-02-07-agni-iii-fourth-success
+missile_id: agni-iii
+designation: Fourth flight test (final developmental trial)
+date: "2010-02-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3500
+apogee_km: 350
+description: >-
+  Fourth flight test (final developmental trial), launched from Inner Wheeler Island / Abdul Kalam
+  Island off the Odisha coast. Per the DRDO press release the missile was tested to full range and
+  hit the target with pinpoint accuracy, meeting all mission objectives; the Ministry subsequently
+  declared the system ready for induction (Army accepted it in 2011).
+notes: >-
+  Launched from Inner Wheeler Island, Dhamra, Bhadrak district, Odisha. Range conflicts: ~3,000 km
+  per IRNA/GlobalSecurity, vs ~3,500 km full range with ~350 km apogee per DRDO release reported by
+  Broadsword (Ajai Shukla) and CSIS.
+claims:
+  - field: range_tested_km
+    value: 3500
+    basis: official
+    text: >-
+      ~3,500 km full range, apogee ~350 km; DRDO release stated full-range test, target hit, all
+      objectives met
+    source:
+      title: "Agni-3 test successful: missile flies 3500 kilometers (cites DRDO press release)"
+      tier: indian-news
+      publisher: Broadsword / Ajai Shukla
+      date: "2010-02-07"
+      url: https://www.ajaishukla.com/2010/02/agni-3-test-successful-missile-flies.html
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 3000
+    basis: reported
+    text: 3,000 km stated range per IRNA/GlobalSecurity
+    source:
+      title: India test fires nuclear-capable Agni-III missile
+      tier: foreign-news
+      publisher: IRNA / GlobalSecurity
+      date: "2010-02-07"
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100207-irna01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: India test fires nuclear-capable Agni-III missile
+    tier: foreign-news
+    publisher: IRNA / GlobalSecurity
+    date: "2010-02-07"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100207-irna01.htm
+    accessed: "2026-06-16"

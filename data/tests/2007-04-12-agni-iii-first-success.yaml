@@ -1,0 +1,30 @@
+id: 2007-04-12-agni-iii-first-success
+missile_id: agni-iii
+designation: Second flight test (first successful)
+date: "2007-04-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3500
+apogee_km: 350
+description: >-
+  Second developmental flight test and the first fully successful Agni-III launch. Fired from
+  Wheeler Island off the Odisha coast, the missile flew about 3,500 km to its designated target area
+  in the Indian Ocean, demonstrating the indigenous two-stage solid propulsion and guidance systems
+  and placing India in a small group of countries with intermediate-range ballistic missile
+  capability.
+notes: >-
+  Reported range ~3,500 km, apogee ~350 km. Some sources give a ~3,000 km demonstrated range and
+  describe it as full-range.
+sources:
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: "India test fires nuclear-capable Agni-III missile (context: April 2007 first success)"
+    tier: foreign-news
+    publisher: IRNA / GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100207-irna01.htm
+    accessed: "2026-06-16"

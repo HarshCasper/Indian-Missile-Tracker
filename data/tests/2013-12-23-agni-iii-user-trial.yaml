@@ -1,0 +1,26 @@
+id: 2013-12-23-agni-iii-user-trial
+missile_id: agni-iii
+designation: Second user trial (Strategic Forces Command)
+date: "2013-12-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+description: >-
+  Second Strategic Forces Command user trial of the Agni-III, launched from Wheeler/Abdul Kalam
+  Island off the Odisha coast. The launch was successful, continuing a string of post-induction
+  successes establishing repeatability of the missile's performance.
+notes: Described by CSIS as among the successful post-induction launches. Demonstrated range >3,000 km.
+sources:
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: Agni-III test-fired successfully
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2013-12-23"
+    url: https://www.deccanherald.com/india/agni-iii-test-fired-successfully-2301658
+    accessed: "2026-06-16"

@@ -1,0 +1,30 @@
+id: 2012-09-21-agni-iii-first-user-trial
+missile_id: agni-iii
+designation: First user trial (Strategic Forces Command)
+date: "2012-09-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+apogee_km: 500
+description: >-
+  First user (Strategic Forces Command) trial of the Agni-III, using a missile randomly selected
+  from a production lot and launched from a rail-mobile launcher at Wheeler/Abdul Kalam Island. The
+  missile reached an apogee of about 500 km and a range of about 3,000 km before impacting in the
+  Indian Ocean, validating operational guidance and propulsion reliability.
+notes: >-
+  Post-induction production-unit test conducted by SFC personnel with DRDO support; reported as
+  hitting the pre-designated target with high accuracy.
+sources:
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: Agni III missile successfully test-fired
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2012-09-21"
+    url: https://www.deccanherald.com/india/agni-iii-missile-successfully-test-2362165
+    accessed: "2026-06-16"

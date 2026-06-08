@@ -1,0 +1,61 @@
+id: agni-iii
+name: Agni-III
+aka:
+  - Agni-3
+  - Agni III
+category: surface-to-surface
+range_class: IRBM
+developer: Advanced Systems Laboratory / Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 3000
+  max: 3500
+payload_kg: 1500
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - rail-mobile launcher
+variants:
+  - name: Agni-III
+    notes: Two-stage solid-fuel intermediate-range ballistic missile.
+first_test: "2006-07-09"
+description: >-
+  The Agni-III is a two-stage, solid-propellant intermediate-range ballistic missile developed by
+  DRDO's Advanced Systems Laboratory to extend India's reach to ~3,000-3,500 km with a payload up to
+  ~1,500 kg. Its maiden flight on 9 July 2006 was a failure, with the missile falling short into the
+  sea; the first successful test followed on 12 April 2007. The missile is about 16.7 m long, ~2 m
+  in diameter, and weighs roughly 48,000 kg at launch. It was declared operational around 2011 with
+  the Strategic Forces Command.
+claims:
+  - field: range_km
+    value: 3500
+    basis: assessed
+    text: Range assessed at 3,000-3,500 km with a ~1,500 kg payload.
+    source:
+      title: Agni-III | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-3/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-III | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: India tests nuclear-capable missile
+    tier: foreign-news
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2006/7/9/india-tests-nuclear-capable-missile-2
+    accessed: "2026-06-16"
+  - title: Agni-III missile successfully test fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/amp/story/india/agni-iii-missile-successfully-test-2362165
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Maiden test 9 July 2006 failed (fell short into the sea); first successful test 12 April 2007.
+  Operational ~2011; only a small number believed in service.

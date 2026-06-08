@@ -1,0 +1,27 @@
+id: 2017-04-27-agni-iii-user-trial
+missile_id: agni-iii
+designation: Fourth user trial (Strategic Forces Command)
+date: "2017-04-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+description: >-
+  Strategic Forces Command user trial of the Agni-III, lifted off at about 9:12 am from Launch Pad
+  No. 4 of the Integrated Test Range at Abdul Kalam Island off the Odisha coast. All mission
+  objectives were met, with trajectory tracked by east-coast radars. The missile can carry a
+  1.5-tonne payload to more than 3,000 km.
+notes: User trial carried out by SFC with DRDO support.
+sources:
+  - title: India test-fires nuclear-capable Agni III ballistic missile
+    tier: foreign-news
+    publisher: Xinhua
+    date: "2017-04-27"
+    url: http://www.xinhuanet.com//english/2017-04/27/c_136240453.htm
+    accessed: "2026-06-16"
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"

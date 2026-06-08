@@ -1,0 +1,30 @@
+id: 2008-05-07-agni-iii-third-success
+missile_id: agni-iii
+designation: Third flight test
+date: "2008-05-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+apogee_km: 350
+description: >-
+  Third developmental flight test, conducted from the Integrated Test Range on Wheeler Island off
+  the Odisha coast. The missile carried a dummy payload roughly 3,000 km into the Indian Ocean,
+  reaching an altitude of about 350 km; the re-entry vehicle withstood high re-entry temperatures.
+  The test validated operational readiness of the two-stage solid-propellant missile.
+notes: >-
+  Launched from Wheeler/Abdul Kalam Island. Demonstrated range commonly cited as ~3,000 km. The
+  original list's Tribune citation (slug 68171) was found to render content about the April 2015
+  test and was therefore replaced with CSIS and GlobalSecurity.
+sources:
+  - title: Agni-III
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-3/
+    accessed: "2026-06-16"
+  - title: "India test fires nuclear-capable Agni-III missile (context: third test, May 2008)"
+    tier: foreign-news
+    publisher: IRNA / GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100207-irna01.htm
+    accessed: "2026-06-16"
