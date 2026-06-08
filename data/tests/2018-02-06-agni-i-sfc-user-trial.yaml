@@ -1,0 +1,33 @@
+id: 2018-02-06-agni-i-sfc-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2018-02-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: Strategic Forces Command user trial
+range_tested_km: 700
+description: >-
+  Successful test of the nuclear-capable 700 km-range Agni-I from launch pad-4 of the ITR at Dr
+  A.P.J. Abdul Kalam Island, off the Odisha coast, conducted at about 8:30 a.m. by the Strategic
+  Forces Command of the Army. Reported as the 18th Agni-I and a 'complete success' meeting all
+  mission objectives.
+notes: >-
+  Added test missing from the original list. Confirmed by The Diplomat and India.com; this was a
+  morning (not night) launch.
+sources:
+  - title: India Test Fires Nuclear Capable Medium-Range Ballistic Missile (Agni-I, 6 Feb 2018)
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/02/india-test-fires-nuclear-capable-medium-range-ballistic-missile/
+    accessed: "2026-06-16"
+  - title: >-
+      India Successfully Test-fires Indigenous Nuclear Capable Agni-I Ballistic Missile Off Odisha
+      Coast (6 Feb 2018)
+    tier: indian-news
+    publisher: India.com
+    url: >-
+      https://www.india.com/news/india/india-successfully-test-fires-indigenous-nuclear-capable-agni-i-ballistic-missile-off-odisha-coast-2880048/
+    accessed: "2026-06-16"

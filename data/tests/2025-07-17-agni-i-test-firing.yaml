@@ -1,0 +1,23 @@
+id: 2025-07-17-agni-i-test-firing
+missile_id: agni-i
+variant: Agni-I
+date: "2025-07-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+designation: Agni-I / Prithvi-II combined test-firing
+description: >-
+  Successful test-firing of the Agni-I (alongside Prithvi-II) from the Integrated Test Range,
+  Chandipur, Odisha, on 17 July 2025. The launches validated all operational and technical
+  parameters.
+notes: >-
+  Added test missing from the original list. Official PIB / Ministry of Defence release. Launch site
+  is ITR Chandipur (not Abdul Kalam Island) per the official statement; both Agni-I and Prithvi-II
+  were fired the same day from Chandipur.
+sources:
+  - title: Successful test-firing of Prithvi-II & Agni-I Ballistic Missiles (17 July 2025)
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence (via GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250717-india-pib01.htm
+    accessed: "2026-06-16"

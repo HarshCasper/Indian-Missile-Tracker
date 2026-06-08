@@ -1,0 +1,22 @@
+id: 2023-12-07-agni-i-training-launch
+missile_id: agni-i
+variant: Agni-I
+date: "2023-12-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: SFC training launch
+description: >-
+  Successful user training launch of the Agni-1 SRBM from Dr A.P.J. Abdul Kalam Island, Odisha,
+  conducted under the aegis of the Strategic Forces Command, validating all operational and
+  technical parameters. Range not disclosed in the official release.
+notes: >-
+  Added test missing from the original list. Official Ministry of Defence / PIB release, the
+  highest-precedence source tier.
+sources:
+  - title: Successful training launch of Short-Range Ballistic Missile 'Agni-1' (7 Dec 2023)
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence (via GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2023/india-231207-india-pib01.htm
+    accessed: "2026-06-16"

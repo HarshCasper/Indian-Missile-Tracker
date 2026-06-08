@@ -1,0 +1,24 @@
+id: 2008-03-23-agni-i-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2008-03-23"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: Army user trial
+range_tested_km: 700
+description: >-
+  Successful user trial of the nuclear-capable 700 km-range Agni-I from Wheeler Island, off the
+  Odisha coast, conducted by the Strategic Forces Command from the same facility as the October 2007
+  trial as part of operational-readiness activity.
+notes: >-
+  Site reported as Wheeler Island (ITR, Bhadrak, Odisha). Primarily further-reading/secondary
+  sourcing; no single tier-1 contemporaneous URL independently re-verified, so confidence kept at
+  reported.
+sources:
+  - title: Agni-I - User Trials by Indian Army (lists 23 March 2008 trial)
+    tier: further-reading
+    publisher: Liquisearch
+    url: https://www.liquisearch.com/agni-i/user_trials_by_indian_army
+    accessed: "2026-06-16"

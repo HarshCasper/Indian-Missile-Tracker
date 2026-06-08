@@ -1,0 +1,41 @@
+id: 2002-01-25-agni-i-maiden-flight
+missile_id: agni-i
+variant: Agni-I
+date: "2002-01-25"
+date_precision: day
+outcome: partial
+confidence: disputed
+site_id: abdul-kalam-island
+designation: Maiden flight test
+range_tested_km: 700
+description: >-
+  First flight test of the Agni-I SRBM, launched from a road-mobile launcher at the Integrated Test
+  Range, Wheeler Island. The single-stage solid-fuel missile was reconfigured from the first stage
+  of Agni-II to fill the gap between Prithvi-II and Agni-II. CSIS Missile Threat assesses the
+  reentry vehicle failed to separate properly (partial); some Indian/secondary sources describe the
+  maiden flight as successful.
+notes: >-
+  Outcome disputed: CSIS Missile Threat reports a reentry-vehicle separation problem (partial);
+  several Indian/secondary sources call it a success. Launch site is the ITR facility on Wheeler
+  Island (later renamed Dr A.P.J. Abdul Kalam Island).
+claims:
+  - field: outcome
+    text: Reentry vehicle reportedly failed to separate; assessed partial success
+    basis: assessed
+    source:
+      title: Agni-1 | Missile Threat (CSIS)
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-1/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-1 | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-1/
+    accessed: "2026-06-16"
+  - title: India tests advanced missile (notes 2002/2003 tests)
+    tier: foreign-news
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2007/4/12/india-tests-advanced-missile
+    accessed: "2026-06-16"

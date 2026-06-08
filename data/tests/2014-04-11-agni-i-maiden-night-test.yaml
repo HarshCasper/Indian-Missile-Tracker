@@ -1,0 +1,35 @@
+id: 2014-04-11-agni-i-maiden-night-test
+missile_id: agni-i
+variant: Agni-I
+date: "2014-04-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: Maiden night trial
+range_tested_km: 700
+description: >-
+  First (maiden) nighttime user trial of the nuclear-capable 700 km-range Agni-I, conducted by the
+  Army's Strategic Forces Command. The single-stage solid-fuel surface-to-surface missile was fired
+  from a mobile launcher at about 2310 hours from launch pad-4 of the ITR at Wheeler Island, off the
+  Odisha coast. The trial was successful and all mission objectives were met.
+notes: >-
+  Date corrected from 2014-04-12 to 2014-04-11. The test was reported as a Friday night launch; 11
+  April 2014 was a Friday (12 April was a Saturday), and Deccan Herald carried the 'Agni missile
+  test a success' story dated 11 April 2014. Multiple later sources explicitly call this 'the first
+  such successful (night) test in April 2014'. A widely circulated 'September 2014' night-trial date
+  in some secondary summaries appears to be a misdating of this same April 2014 event (identical
+  2310-hours/700 km/'maiden night test' details) and was NOT added as a separate test.
+sources:
+  - title: Agni missile test a success (11 April 2014)
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/india/agni-missile-test-success-2186665
+    accessed: "2026-06-16"
+  - title: >-
+      India successfully conducted night trial of Agni-I ballistic missile (April 2014, first night
+      trial)
+    tier: further-reading
+    publisher: GKToday
+    url: https://www.gktoday.in/india-successfully-conducted-night-trial-agni-i-ballistic-missile/
+    accessed: "2026-06-16"

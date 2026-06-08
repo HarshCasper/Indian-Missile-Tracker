@@ -1,0 +1,46 @@
+id: 2018-10-30-agni-i-night-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2018-10-30"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: Night trial (Strategic Forces Command)
+range_tested_km: 700
+description: >-
+  Successful night trial of the nuclear-capable 700 km-range Agni-I from Dr A.P.J. Abdul Kalam
+  Island, off the Odisha coast, as part of periodic SFC training activity. The missile hit the
+  target area with accuracy; reported as the second known nighttime Agni-I trial after April 2014.
+notes: >-
+  Added test missing from the original list. Date conflict: Indian reporting (Daily Pioneer, etc.)
+  gives Tuesday 30 October 2018 (reported 31 Oct); Sputnik (via GlobalSecurity, file dated 181031)
+  states 31 October 2018. The Tuesday 30 October 2018 date is best-supported. NOTE: the original
+  list's '2007 first user trial' had cited the CSIS URL
+  india-conducts-successful-agni-1-flight-test, which in fact describes THIS October 2018 test; that
+  source is recorded here where it belongs.
+claims:
+  - field: date
+    text: Indian outlets report Tuesday 30 Oct 2018; Sputnik reports 31 Oct 2018
+    basis: reported
+    note: 1-day reporting discrepancy
+    source:
+      title: India test-fires Agni-1 missile (31 Oct 2018)
+      tier: foreign-news
+      publisher: Sputnik via GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-181031-sputnik01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India successfully test-fires Agni-I ballistic missile from Abdul Kalam Island (30 Oct 2018,
+      night trial)
+    tier: indian-news
+    publisher: India.com
+    url: >-
+      https://www.india.com/news/india/india-successfully-test-fires-agni-i-ballistic-missile-from-abdul-kalam-island-1658436/
+    accessed: "2026-06-16"
+  - title: Agni-1 missile test (reported 31 Oct 2018; Tuesday launch)
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-181031-sputnik01.htm
+    accessed: "2026-06-16"

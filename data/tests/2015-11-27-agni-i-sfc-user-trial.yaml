@@ -1,0 +1,29 @@
+id: 2015-11-27-agni-i-sfc-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2015-11-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: Strategic Forces Command user trial
+range_tested_km: 700
+description: >-
+  Successful Strategic Forces Command user trial of the 700 km-range Agni-I from Dr A.P.J. Abdul
+  Kalam Island off the Odisha coast on Friday, 27 November 2015. Defence sources described it as a
+  'perfect launch' conducted during SFC exercises.
+notes: >-
+  Added test missing from the original list. Confirmed by Sputnik (via GlobalSecurity) and India
+  Today (relayed via University of Chicago Atomic Age blog).
+sources:
+  - title: India Successfully Tests Nuclear-Capable Agni-I Missile (27 Nov 2015)
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-151127-sputnik01.htm
+    accessed: "2026-06-16"
+  - title: Agni-I nuclear-capable missile test fired successfully in Odisha (India Today, 28 Nov 2015)
+    tier: further-reading
+    publisher: University of Chicago Atomic Age (citing India Today)
+    url: >-
+      https://lucian.uchicago.edu/blogs/atomicage/2015/11/28/agni-i-nuclear-capable-missile-test-fired-successfully-in-odisha-via-india-today/
+    accessed: "2026-06-16"

@@ -1,0 +1,40 @@
+id: 2010-11-25-agni-i-upgraded-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2010-11-25"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: User trial (upgraded version)
+description: >-
+  Strategic Forces Command user trial of an upgraded Agni-I with improved reentry technology and
+  maneuverability, fired from a rail-mobile launcher from launch pad-4 of the ITR, off the Odisha
+  coast. The trial was reported successful.
+notes: >-
+  Sources cite a range capability of 700-900 km for the upgraded version; the demonstrated distance
+  for this specific shot was not separately stated. Single solid foreign-news source (IRNA)
+  independently seen.
+claims:
+  - field: range_capability_km
+    text: Upgraded version with range extension up to 700-900 km
+    basis: reported
+    min: 700
+    max: 900
+    source:
+      title: India successfully tests N-capable Agni I missile (25 Nov 2010)
+      tier: foreign-news
+      publisher: IRNA via GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-101125-irna01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: India successfully tests N-capable Agni I missile (25 Nov 2010)
+    tier: foreign-news
+    publisher: IRNA via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-101125-irna01.htm
+    accessed: "2026-06-16"
+  - title: Agni-I - User Trials by Indian Army (lists 25 Nov 2010 upgraded trial)
+    tier: further-reading
+    publisher: Liquisearch
+    url: https://www.liquisearch.com/agni-i/user_trials_by_indian_army
+    accessed: "2026-06-16"

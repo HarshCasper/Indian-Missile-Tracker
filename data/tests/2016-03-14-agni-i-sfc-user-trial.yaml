@@ -1,0 +1,23 @@
+id: 2016-03-14-agni-i-sfc-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2016-03-14"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: Strategic Forces Command user trial
+range_tested_km: 700
+description: >-
+  Successful test of the 700 km-range Agni-I from Dr A.P.J. Abdul Kalam Island off the Odisha coast
+  on Monday morning, 14 March 2016, conducted as part of a Strategic Forces Command exercise. The
+  ~15 m missile carries a one-tonne payload.
+notes: >-
+  Added test missing from the original list. Single solid foreign-news source (Sputnik via
+  GlobalSecurity) independently seen.
+sources:
+  - title: India Carries Out Another Successful Test of Nuclear-Capable Agni-I Missile (14 March 2016)
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2016/india-160314-sputnik01.htm
+    accessed: "2026-06-16"

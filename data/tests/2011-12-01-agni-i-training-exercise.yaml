@@ -1,0 +1,28 @@
+id: 2011-12-01-agni-i-training-exercise
+missile_id: agni-i
+variant: Agni-I
+date: "2011-12-01"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: Training exercise launch
+range_tested_km: 700
+description: >-
+  Agni-I successfully test-fired as part of a Strategic Forces Command training exercise from the
+  Odisha coast (ITR), with logistic support from DRDO. Fired from a road-mobile launcher, the
+  missile impacted the target area in the Bay of Bengal.
+notes: >-
+  Reported as a training/operational-readiness launch by the Army's SFC at the ITR. The earlier
+  '~600 seconds flight time' detail could not be independently re-verified and has been dropped.
+sources:
+  - title: Training Launch Of Agni-1 Missile Off Odisha Coast Successful (1 Dec 2011)
+    tier: indian-news
+    publisher: Odisha Bytes
+    url: https://odishabytes.com/training-launch-of-agni-1-missile-off-odisha-coast-successful/
+    accessed: "2026-06-16"
+  - title: Agni-1 | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-1/
+    accessed: "2026-06-16"

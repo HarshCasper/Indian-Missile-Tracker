@@ -1,0 +1,43 @@
+id: 2007-10-05-agni-i-first-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2007-10-05"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: First Indian Army user/training trial
+range_tested_km: 700
+description: >-
+  First user (training) trial of the nuclear-capable Agni-I conducted by the Indian Army, marking
+  the missile's entry into operational service with the Strategic Forces Command. The 700 km-range
+  solid-fuel SRBM was fired from a mobile launcher. Reported as the fourth Agni-I launch overall.
+notes: >-
+  Launch-site conflict: most secondary references place it at Wheeler Island (ITR, later Abdul Kalam
+  Island, Bhadrak, Odisha); RIA Novosti reports it at Chandipur, Odisha. The original list's CSIS
+  citation (india-conducts-successful-agni-1-flight-test) was a wrong URL that actually describes
+  the October 2018 test; it has been replaced with the RIA Novosti contemporaneous report.
+claims:
+  - field: site_id
+    text: >-
+      Site reported as Wheeler Island by most secondary sources but as Chandipur, Orissa by RIA
+      Novosti
+    basis: reported
+    note: site conflict between Wheeler Island and Chandipur
+    source:
+      title: India test fires Agni A-I missile from Chandipur, Orissa
+      tier: foreign-news
+      publisher: RIA Novosti via GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-071005-rianovosti01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: India test fires Agni A-I missile (5 October 2007, Chandipur, Orissa)
+    tier: foreign-news
+    publisher: RIA Novosti via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-071005-rianovosti01.htm
+    accessed: "2026-06-16"
+  - title: Agni-I - User Trials by Indian Army
+    tier: further-reading
+    publisher: Liquisearch
+    url: https://www.liquisearch.com/agni-i/user_trials_by_indian_army
+    accessed: "2026-06-16"

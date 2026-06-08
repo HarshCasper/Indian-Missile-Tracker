@@ -1,0 +1,24 @@
+id: 2012-12-12-agni-i-practice-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2012-12-12"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: SFC practice trial
+range_tested_km: 700
+description: >-
+  Successful practice trial of the 700 km-range Agni-I conducted by the Army's Strategic Forces
+  Command. The surface-to-surface missile was fired from a mobile launcher from launch pad-4 of the
+  ITR at Wheeler Island, about 100 km from Balasore. ITR Director M.V.K.V. Prasad confirmed the test
+  was successful.
+notes: >-
+  Wheeler Island = ITR facility, later renamed Abdul Kalam Island. Single solid foreign-news source
+  (IRNA) independently seen.
+sources:
+  - title: India test-fires nuclear-capable Agni-I missile (12 Dec 2012)
+    tier: foreign-news
+    publisher: IRNA via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2012/india-121212-irna01.htm
+    accessed: "2026-06-16"

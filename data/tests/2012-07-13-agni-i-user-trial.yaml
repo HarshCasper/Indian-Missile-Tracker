@@ -1,0 +1,23 @@
+id: 2012-07-13-agni-i-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2012-07-13"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: Army-DRDO user trial
+range_tested_km: 700
+description: >-
+  Strategic Forces Command user trial of the 700 km-range Agni-I from launch pad-4 at Wheeler
+  Island, fired from a mobile launcher. The trial, jointly conducted by the Army and DRDO,
+  reconfirmed the technical parameters laid down for the user.
+notes: >-
+  Missile capable of carrying conventional or nuclear payload up to ~1 tonne. Sourcing is
+  secondary/further-reading; confidence kept at reported.
+sources:
+  - title: Indian Army Successfully Tests Agni-I Missile (13 July 2012)
+    tier: further-reading
+    publisher: Insights on India
+    url: https://www.insightsonindia.com/2012/07/13/indian-army-successfully-tests-agni-i-missile/
+    accessed: "2026-06-16"

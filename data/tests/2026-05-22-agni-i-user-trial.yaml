@@ -1,0 +1,31 @@
+id: 2026-05-22-agni-i-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2026-05-22"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+designation: Strategic Forces Command user trial
+range_tested_km: 700
+description: >-
+  Successful test launch of the short-range nuclear-capable Agni-1 from the Integrated Test Range at
+  Chandipur, Odisha, on Friday 22 May 2026, conducted under the Strategic Forces Command. The launch
+  validated all operational and technical parameters.
+notes: >-
+  Added test missing from the original list. Confirmed by the Ministry of Defence statement and
+  multiple Indian outlets. Launch site reported as ITR Chandipur (not Abdul Kalam Island). Stated
+  range 700-1200 km capability.
+sources:
+  - title: India successfully tests short range Agni-1 ballistic missile from Odisha range (22 May 2026)
+    tier: indian-news
+    publisher: India TV News
+    url: >-
+      https://www.indiatvnews.com/news/india/india-successfully-tests-short-range-agni-1-ballistic-missile-from-odisha-range-2026-05-22-1042116
+    accessed: "2026-06-16"
+  - title: India Successfully Test Launches Agni-I Ballistic Missile (22 May 2026)
+    tier: indian-news
+    publisher: Defence Capital
+    url: >-
+      https://defencecapital.in/2026/05/22/indias-nuclear-weapon-forces-test-agni-i-missile-in-user-trials/
+    accessed: "2026-06-16"

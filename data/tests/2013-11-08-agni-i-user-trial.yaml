@@ -1,0 +1,29 @@
+id: 2013-11-08-agni-i-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2013-11-08"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+designation: Army user trial
+range_tested_km: 700
+description: >-
+  Successful Army user trial of the 700 km-range Agni-I from Wheeler Island, off the Odisha coast.
+  The single-stage solid-fuel surface-to-surface missile was fired from a mobile launcher from
+  launch pad-4 of the ITR by the Strategic Forces Command.
+notes: >-
+  Date is cross-confirmed: subsequent 2014 reports repeatedly cite 'the last Agni-I trial was
+  carried out by the SFC on 8 November 2013 from the same base', corroborating the 8 Nov 2013 user
+  trial.
+sources:
+  - title: Agni-I successfully test-fired (8 Nov 2013)
+    tier: indian-news
+    publisher: The Pioneer
+    url: https://www.dailypioneer.com/2013/top-stories/agni-i-successfully-test-fired.html
+    accessed: "2026-06-16"
+  - title: India successfully conducted night trial of Agni-I (cites 8 Nov 2013 as prior trial)
+    tier: further-reading
+    publisher: GKToday
+    url: https://www.gktoday.in/india-successfully-conducted-night-trial-agni-i-ballistic-missile/
+    accessed: "2026-06-16"

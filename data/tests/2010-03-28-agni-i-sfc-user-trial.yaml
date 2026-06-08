@@ -1,0 +1,24 @@
+id: 2010-03-28-agni-i-sfc-user-trial
+missile_id: agni-i
+variant: Agni-I
+date: "2010-03-28"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+designation: Strategic Forces Command user trial
+range_tested_km: 700
+description: >-
+  Strategic Forces Command user trial of the 700 km-range Agni-I from Wheeler Island. The
+  surface-to-surface single-stage solid-fuel missile was fired from a mobile launcher; the dummy
+  warhead reentered and impacted in the Bay of Bengal with guidance and reentry systems working
+  well.
+notes: >-
+  Reported via IRNA (carried by GlobalSecurity.org). Single solid foreign-news source independently
+  seen; confidence kept at reported.
+sources:
+  - title: India successfully test fires Agni-1 missile (28 March 2010)
+    tier: foreign-news
+    publisher: IRNA via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100328-irna01.htm
+    accessed: "2026-06-16"

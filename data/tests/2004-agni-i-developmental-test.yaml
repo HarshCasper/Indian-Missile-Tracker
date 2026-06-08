@@ -1,0 +1,30 @@
+id: 2004-agni-i-developmental-test
+missile_id: agni-i
+variant: Agni-I
+date: "2004"
+date_precision: year
+outcome: success
+confidence: disputed
+site_id: abdul-kalam-island
+designation: Developmental flight test
+description: >-
+  A 2004 developmental flight test of Agni-I from Wheeler Island, in the period the Indian Army
+  approved the missile for full-rate production (August 2004). It is counted as the third Agni-I
+  launch (after 2002 and 2003) in contemporaneous reporting.
+notes: >-
+  Date downgraded from a specific 'July 5, 2004' to year-level precision: the only specific-day
+  attribution traced to thin secondary (Asian Tribune) summaries that could not be independently
+  re-verified. RIA Novosti's 2007 report counts the Oct 2007 launch as the fourth, implying
+  2002/2003/2004 prior launches, which supports a 2004 test occurring but not the exact day.
+  Confidence downgraded to disputed due to weak day-level sourcing.
+sources:
+  - title: Agni-1 | Missile Threat (CSIS)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-1/
+    accessed: "2026-06-16"
+  - title: India test fires Agni A-I missile (counts Oct 2007 as fourth launch; prior 2002/2003/2004)
+    tier: foreign-news
+    publisher: RIA Novosti via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-071005-rianovosti01.htm
+    accessed: "2026-06-16"
