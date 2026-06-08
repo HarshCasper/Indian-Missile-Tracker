@@ -1,0 +1,54 @@
+id: 2017-01-02-agni-iv-user-trial-sixth
+missile_id: agni-iv
+designation: Strategic Forces Command user trial (6th trial)
+date: "2017-01-02"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  The nuclear-capable Agni-IV was successfully flight-tested at about 11:55 hrs from Launch
+  Complex-4 of the Integrated Test Range at Dr A.P.J. Abdul Kalam Island as part of a user trial,
+  the sixth trial of the missile. The surface-to-surface missile met all mission objectives.
+notes: >-
+  Sixth trial; conducted by Strategic Forces Command with a mobile launcher. Date, site and success
+  independently re-verified. Range figure conflicts: most Indian reports cite the missile's 4,000 km
+  strike range, while CSIS Missile Threat lists 3,100 km for this specific test; both recorded as
+  claims.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: reported
+    text: Strike range of 4,000 km
+    source:
+      title: Agni-IV test fired
+      tier: indian-news
+      publisher: The Tribune (India)
+      url: https://www.tribuneindia.com/news/archive/agni-iv-test-fired-345211
+      date: "2017-01-02"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 3100
+    basis: reported
+    text: CSIS Missile Threat lists 3,100 km for the January 2, 2017 test
+    source:
+      title: Agni-IV | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-4/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV test fired
+    tier: indian-news
+    publisher: The Tribune (India)
+    url: https://www.tribuneindia.com/news/archive/agni-iv-test-fired-345211
+    date: "2017-01-02"
+    accessed: "2026-06-16"
+  - title: Nuclear-capable Agni-IV missile test-fired from Abdul Kalam Island
+    tier: indian-news
+    publisher: Scroll.in
+    url: >-
+      https://scroll.in/latest/906749/nuclear-capable-agni-iv-missile-test-fired-from-abdul-kalam-island
+    date: "2017-01-02"
+    accessed: "2026-06-16"

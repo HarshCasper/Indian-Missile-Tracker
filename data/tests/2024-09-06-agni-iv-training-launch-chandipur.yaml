@@ -1,0 +1,53 @@
+id: 2024-09-06-agni-iv-training-launch-chandipur
+missile_id: agni-iv
+designation: Routine user training launch (Strategic Forces Command)
+date: "2024-09-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 4000
+description: >-
+  A successful launch of the Agni-4 IRBM was carried out on September 06, 2024 from the Integrated
+  Test Range (ITR) at Chandipur, Odisha. The launch, conducted under the aegis of the Strategic
+  Forces Command, successfully validated all operational and technical parameters. The Agni-4 has a
+  range of approximately 4,000 km.
+notes: >-
+  Newly added test that was missing from the original list. Confirmed by an official PIB/MoD press
+  release (PRID=2052666). Notably the first Agni-4 launch reported from the ITR at Chandipur rather
+  than Abdul Kalam (Wheeler) Island; site_id set to itr-chandipur accordingly. Some news reports
+  give the date as September 7, 2024, but the PIB release, India TV and Business Standard give
+  September 6, 2024.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: official
+    text: Agni-4 has a range of approximately 4,000 kilometres
+    source:
+      title: Successful launch of Agni-4 Ballistic Missile
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2052666
+      date: "2024-09-06"
+      accessed: "2026-06-16"
+sources:
+  - title: Successful launch of Agni-4 Ballistic Missile
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2052666
+    date: "2024-09-06"
+    accessed: "2026-06-16"
+  - title: India successfully launches Agni-4 intermediate range ballistic missile from Odisha
+    tier: indian-news
+    publisher: India TV
+    url: >-
+      https://www.indiatvnews.com/news/india/india-successfully-launches-agni-4-intermediate-range-ballistic-missile-from-odisha-latest-updates-2024-09-06-950846
+    date: "2024-09-06"
+    accessed: "2026-06-16"
+  - title: India successfully tests Agni-4 ballistic missile off Odisha coast
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/india-successfully-tests-agni-4-ballistic-missile-off-odisha-coast-124090601417_1.html
+    date: "2024-09-06"
+    accessed: "2026-06-16"

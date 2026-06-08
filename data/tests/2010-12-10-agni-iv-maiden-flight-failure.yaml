@@ -1,0 +1,37 @@
+id: 2010-12-10-agni-iv-maiden-flight-failure
+missile_id: agni-iv
+designation: Maiden flight (initially designated Agni-II Prime / Agni-II+)
+date: "2010-12-10"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  The maiden flight test of the missile (then publicly referred to as Agni-II Prime / Agni-II+)
+  failed seconds after lift-off from Wheeler Island, deviating from its trajectory and plunging into
+  the Bay of Bengal due to a first-stage control-system malfunction. DRDO later reworked the design
+  and re-flew it as the Agni-IV.
+notes: >-
+  Missile was designated Agni-II Prime/Agni-II+ at the time; the Agni-IV name was applied to the
+  upgraded variant from 2011. Some catalogues count this as the first Agni-IV test; others begin
+  Agni-IV trial numbering with the November 2011 success. Independently re-verified: failure on
+  2010-12-10 from Wheeler Island confirmed by Defense Update and IDSA.
+sources:
+  - title: Agni II Plus Fails First Flight Test
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20101210_agni-ii-plus.html
+    date: "2010-12-10"
+    accessed: "2026-06-16"
+  - title: "The Agni-II Trial Failure: Evaluation rather than Flagellation is needed"
+    tier: indian-news
+    publisher: IDSA (Manohar Parrikar Institute for Defence Studies and Analyses)
+    url: >-
+      https://demo.idsa.in/publisher/the-agni-ii-trial-failure-evaluation-rather-than-flagellation-is-needed/
+    accessed: "2026-06-16"
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"

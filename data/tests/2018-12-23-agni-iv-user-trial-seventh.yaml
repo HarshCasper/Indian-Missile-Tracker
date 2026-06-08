@@ -1,0 +1,45 @@
+id: 2018-12-23-agni-iv-user-trial-seventh
+missile_id: agni-iv
+designation: Strategic Forces Command user training launch (7th trial)
+date: "2018-12-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  The Strategic Forces Command of the Indian Army successfully test-fired the Agni-IV at about
+  08:30-08:35 hrs from Launch Complex-4 of the Integrated Test Range at Dr A.P.J. Abdul Kalam Island
+  as a user training exercise. It was the seventh trial of the missile, which has a 4,000 km strike
+  capability; all mission objectives were met.
+notes: >-
+  Seventh trial of the Agni-IV. CSIS Missile Threat lists this as 'December 3, 2018', but Indian and
+  wire reports (National Herald, GlobalSecurity/Sputnik, Daily Pioneer) consistently date it
+  December 23, 2018; the December 23 date is treated as correct. Date conflict noted but resolved.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: reported
+    text: 4,000 km strike capability
+    source:
+      title: Nuclear ballistic missile Agni-IV successfully test fired off Odisha coast
+      tier: indian-news
+      publisher: National Herald
+      url: >-
+        https://www.nationalheraldindia.com/news/nuclear-ballistic-missile-agni-iv-successfully-test-fired-off-odisha-coast
+      date: "2018-12-23"
+      accessed: "2026-06-16"
+sources:
+  - title: Nuclear ballistic missile Agni-IV successfully test fired off Odisha coast
+    tier: indian-news
+    publisher: National Herald
+    url: >-
+      https://www.nationalheraldindia.com/news/nuclear-ballistic-missile-agni-iv-successfully-test-fired-off-odisha-coast
+    date: "2018-12-23"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Agni-IV Nuclear-Capable Missile (Sputnik)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-181223-sputnik01.htm
+    date: "2018-12-23"
+    accessed: "2026-06-16"

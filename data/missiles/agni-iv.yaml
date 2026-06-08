@@ -1,0 +1,63 @@
+id: agni-iv
+name: Agni-IV
+aka:
+  - Agni-4
+  - Agni IV
+  - Agni-II Prime
+category: surface-to-surface
+range_class: IRBM
+developer: Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 3000
+  max: 4000
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - road-mobile launcher
+variants:
+  - name: Agni-II Prime
+    notes: Original designation; an upgraded Agni-II variant re-designated Agni-IV in 2011.
+first_test: "2010-12-10"
+description: >-
+  The Agni-IV is a lightweight, two-stage solid-propellant intermediate-range ballistic missile
+  developed by DRDO, originally trialled under the designation Agni-II Prime and re-designated
+  Agni-IV in 2011. Its first flight test on 10 December 2010 failed due to a control-system fault,
+  with the first successful test on 15 November 2011 covering about 3,000 km. It is roughly 20 m
+  long, weighs about 17,000 kg, and carries an approximately 1,000 kg nuclear-capable warhead with a
+  CEP under 100 m, using ring-laser-gyro inertial guidance. It provides reach across nearly all of
+  mainland China when launched from northeastern India.
+claims:
+  - field: range_km
+    value: 4000
+    basis: official
+    text: DRDO describes the Agni-IV as a ~4,000 km class missile; CSIS assesses 3,000-4,000 km.
+    source:
+      title: Agni-IV | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-4/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"
+  - title: India Test Fires New Agni-IV Ballistic Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org / RIA Novosti
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140120-rianovosti01.htm
+    accessed: "2026-06-16"
+  - title: Agni-IV test fired
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/news/archive/agni-iv-test-fired-345211
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Originally designated Agni-II Prime; re-designated Agni-IV in 2011. First test 10 Dec 2010 failed;
+  first success 15 Nov 2011. Some sources cite range as high as 4,000 km.

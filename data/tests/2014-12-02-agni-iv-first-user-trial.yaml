@@ -1,0 +1,44 @@
+id: 2014-12-02-agni-iv-first-user-trial
+missile_id: agni-iv
+designation: First Strategic Forces Command user trial
+date: "2014-12-02"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3500
+description: >-
+  First user trial of the Agni-IV by the Indian Army's Strategic Forces Command (SFC), fired from a
+  mobile launcher at about 09:45 a.m. from Wheeler Island. The missile flew to a range reported as
+  more than 3,500 km; this was the fourth consecutive successful flight overall.
+notes: >-
+  First of the SFC user/army trials (fourth consecutive success overall). Date, site and success
+  independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 3500
+    basis: reported
+    text: Successfully launched to a range of over 3,500 km
+    source:
+      title: Agni-IV | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-4/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"
+  - title: Ballistic missile Agni-IV test-fired as part of user trial
+    tier: foreign-news
+    publisher: Missile Defense Advocacy Alliance
+    url: >-
+      https://www.missiledefenseadvocacy.org/other-news/ballistic-missile-agni-iv-test-fired-as-part-of-user-trial/
+    accessed: "2026-06-16"
+  - title: Agni-IV
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-iv.htm
+    accessed: "2026-06-16"

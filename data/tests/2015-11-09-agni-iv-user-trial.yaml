@@ -1,0 +1,41 @@
+id: 2015-11-09-agni-iv-user-trial
+missile_id: agni-iv
+designation: Strategic Forces Command user trial (5th trial)
+date: "2015-11-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  An unarmed Agni-IV with a 4,000 km strike range was successfully test-fired at about 09:45 local
+  time from the Dr A.P.J. Abdul Kalam (Wheeler) Island launch complex as a Strategic Forces Command
+  user trial, the fifth trial of the missile. It followed its trajectory and met all mission
+  parameters, monitored by telemetry, electro-optical and radar stations along the coast.
+notes: >-
+  Described as the fifth trial of the Agni-IV; conducted by SFC of the Indian Army. Date, site and
+  success independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: reported
+    text: 4,000 km strike range, two-stage missile
+    source:
+      title: Agni-IV successfully test-fired
+      tier: indian-news
+      publisher: Oneindia
+      url: https://www.oneindia.com/india/agni-iv-successfully-test-fired-1923027.html
+      date: "2015-11-09"
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV successfully test-fired
+    tier: indian-news
+    publisher: Oneindia
+    url: https://www.oneindia.com/india/agni-iv-successfully-test-fired-1923027.html
+    date: "2015-11-09"
+    accessed: "2026-06-16"
+  - title: Agni-IV
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-iv.htm
+    accessed: "2026-06-16"

@@ -1,0 +1,50 @@
+id: 2012-09-19-agni-iv-full-range-dev-trial
+missile_id: agni-iv
+designation: Second successful flight test (developmental)
+date: "2012-09-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  Second consecutive successful developmental flight from Wheeler Island, launched from a
+  road-mobile launcher at about 11:48 a.m. The missile reached an altitude of over 800 km and
+  impacted near its pre-defined target in the Indian Ocean after about a 20-minute flight,
+  reportedly with sub-100 m accuracy, demonstrating the system's full 4,000 km range.
+notes: >-
+  Range reporting differs between sources (4,000 km in most Indian/CSIS accounts; ~3,500 km in some
+  wire reports). Date, site and success independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: reported
+    text: Test-fired to its full range of 4,000 km
+    source:
+      title: Agni-IV | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-4/
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 3500
+    basis: reported
+    text: Reported range of approximately 3,500 km
+    source:
+      title: India successfully test fires Agni-IV missile (RFE/RL)
+      tier: foreign-news
+      publisher: GlobalSecurity.org / RFE-RL
+      url: https://www.globalsecurity.org/wmd/library/news/india/2012/india-120919-rferl01.htm
+      date: "2012-09-19"
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"
+  - title: Agni-IV
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-iv.htm
+    accessed: "2026-06-16"

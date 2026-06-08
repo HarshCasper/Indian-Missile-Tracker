@@ -1,0 +1,41 @@
+id: 2014-01-20-agni-iv-third-dev-trial
+missile_id: agni-iv
+designation: Third successful developmental flight test
+date: "2014-01-20"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  Third consecutive successful launch from Launch Complex-4 of the Integrated Test Range at Wheeler
+  Island, fired from a road-mobile launcher in the actual weapon/SFC configuration to a range of
+  about 4,000 km, reaching a maximum altitude of about 850 km before landing in the Indian Ocean.
+  Reported to carry a 1-ton (mock nuclear) payload.
+notes: >-
+  Third consecutive successful launch in the development series, following the 2011 and 2012 tests.
+  Date, site and success independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: reported
+    text: Flight tested to a range of 4,000 km
+    source:
+      title: India Test Fires New Agni-IV Ballistic Missile (RIA Novosti)
+      tier: foreign-news
+      publisher: GlobalSecurity.org / RIA Novosti
+      url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140120-rianovosti01.htm
+      date: "2014-01-20"
+      accessed: "2026-06-16"
+sources:
+  - title: India Test Fires New Agni-IV Ballistic Missile (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / RIA Novosti
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140120-rianovosti01.htm
+    date: "2014-01-20"
+    accessed: "2026-06-16"
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"

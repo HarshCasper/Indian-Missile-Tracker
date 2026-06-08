@@ -1,0 +1,50 @@
+id: 2022-06-06-agni-iv-training-launch
+missile_id: agni-iv
+designation: Routine user training launch (Strategic Forces Command)
+date: "2022-06-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4000
+description: >-
+  A successful training launch of the Agni-4 IRBM was carried out at approximately 1930 hours on
+  June 06, 2022 from APJ Abdul Kalam Island, Odisha. The successful test, part of routine user
+  training launches under the aegis of the Strategic Forces Command, validated all operational
+  parameters and the reliability of the system. The Agni-4 has a range of around 4,000 km.
+notes: >-
+  Confirmed by an official PIB/MoD press release (PRID=1831654). Date, site and success
+  independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 4000
+    basis: official
+    text: Agni-4 ballistic missile has a range of around 4,000 kilometres
+    source:
+      title: Intermediate Range Ballistic Missile, Agni-4, successfully tested
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1831654
+      date: "2022-06-06"
+      accessed: "2026-06-16"
+sources:
+  - title: Intermediate Range Ballistic Missile, Agni-4, successfully tested
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1831654
+    date: "2022-06-06"
+    accessed: "2026-06-16"
+  - title: India successfully carries out training launch of Agni 4 missile
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/article/current-affairs/india-successfully-carries-out-training-launch-of-agni-4-missile-122060601039_1.html
+    date: "2022-06-06"
+    accessed: "2026-06-16"
+  - title: India successfully tests Agni-4 missile
+    tier: indian-news
+    publisher: Business Today
+    url: >-
+      https://www.businesstoday.in/latest/story/india-successfully-tests-agni-4-missile-336562-2022-06-06
+    date: "2022-06-06"
+    accessed: "2026-06-16"

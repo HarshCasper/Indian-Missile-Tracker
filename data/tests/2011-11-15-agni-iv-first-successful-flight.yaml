@@ -1,0 +1,40 @@
+id: 2011-11-15-agni-iv-first-successful-flight
+missile_id: agni-iv
+designation: First successful flight test (developmental)
+date: "2011-11-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 3000
+apogee_km: 900
+description: >-
+  The first fully successful flight test of the Agni-IV was conducted at about 09:00 hrs from a
+  road-mobile launcher at Wheeler Island. The two-stage solid-fuel missile flew about 3,000 km,
+  reached an apogee near 900 km and met all mission objectives, with the re-entry vehicle surviving
+  temperatures above 3,000 C.
+notes: >-
+  First test under the Agni-IV designation; widely reported as a developmental DRDO trial. Date,
+  site and success independently re-verified.
+claims:
+  - field: range_tested_km
+    value: 3000
+    basis: reported
+    text: Travelled about 3,000 km and reached ~900 km apogee
+    source:
+      title: Agni-IV | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-4/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-IV | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-4/
+    accessed: "2026-06-16"
+  - title: Agni-IV
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-iv.htm
+    accessed: "2026-06-16"
