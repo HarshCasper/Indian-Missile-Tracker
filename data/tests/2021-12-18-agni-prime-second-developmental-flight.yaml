@@ -1,0 +1,42 @@
+id: 2021-12-18-agni-prime-second-developmental-flight
+missile_id: agni-prime
+variant: Agni-P (developmental)
+designation: Second developmental flight test
+date: "2021-12-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  Second developmental flight test of Agni-P, fired at about 1106 hrs from Dr A.P.J. Abdul Kalam
+  Island off the Odisha coast. The missile again followed a textbook trajectory and met all mission
+  objectives, proving the reliable performance of the advanced technologies integrated into the
+  system; DRDO said the test had additional features compared with the first flight.
+notes: >-
+  Two-stage canisterised solid-propellant missile with dual-redundant navigation and guidance. No
+  demonstrated range stated. Date (18 December 2021, 1106 hrs) and site independently confirmed via
+  Deccan Herald and GlobalSecurity's Agni-P test history.
+sources:
+  - title: India successfully test-fires nuclear-capable Agni-P ballistic missile
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/india-successfully-test-fires-nuclear-capable-agni-p-ballistic-missile-1062168.html
+    date: "2021-12-18"
+    accessed: "2026-06-16"
+  - title: >-
+      Agni P - Indian Missile Programs (test history including 18 December 2021 second flight at
+      1106 hrs)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-p.htm
+    date: "2021-12-18"
+    accessed: "2026-06-16"
+  - title: India Successfully Conducts Second Agni Prime Ballistic Missile Test
+    tier: foreign-news
+    publisher: Overt Defense
+    url: >-
+      https://www.overtdefense.com/2021/12/21/india-successfully-conducts-second-agni-prime-ballistic-missile-test/
+    date: "2021-12-21"
+    accessed: "2026-06-16"

@@ -1,0 +1,42 @@
+id: 2024-04-03-agni-prime-second-user-trial
+missile_id: agni-prime
+variant: Agni-P
+designation: User trial (Strategic Forces Command & DRDO)
+date: "2024-04-03"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  Strategic Forces Command, with DRDO, conducted a successful flight test of the new-generation
+  ballistic missile Agni-Prime from Dr A.P.J. Abdul Kalam Island off the Odisha coast at about 1900
+  hrs. The test met all trial objectives, validated by range sensors at multiple locations including
+  two down-range ships at the terminal point. Witnessed by the Chief of Defence Staff, Chief of SFC,
+  and senior DRDO and Indian Army officials.
+notes: >-
+  Second user trial (fifth overall flight). PIB release dated 4 April 2024 for the 3 April 2024
+  launch. No demonstrated range disclosed. Date, site (Abdul Kalam Island), ~1900 hrs time, outcome
+  and witnesses independently confirmed via PIB mirror and Janes.
+sources:
+  - title: >-
+      New Generation Ballistic Missile Agni-Prime successfully flight-tested by Strategic Forces
+      Command & DRDO off the Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2017114
+    date: "2024-04-04"
+    accessed: "2026-06-16"
+  - title: Agni-Prime successfully flight-tested off the Odisha coast (PIB text mirror)
+    tier: pib
+    publisher: PIB / Ministry of Defence (mirrored on GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2024/india-240404-india-pib03.htm
+    date: "2024-04-04"
+    accessed: "2026-06-16"
+  - title: India test-fires Agni-Prime ballistic missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-fires-agni-prime-ballistic-missile
+    date: "2024-04-04"
+    accessed: "2026-06-16"

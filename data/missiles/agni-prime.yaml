@@ -1,0 +1,88 @@
+id: agni-prime
+name: Agni-Prime
+aka:
+  - Agni-P
+  - Agni Prime
+  - Agni P
+category: surface-to-surface
+range_class: MRBM
+developer: Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 1000
+  max: 2000
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - road-mobile canister launcher
+  - rail-based mobile launcher
+variants:
+  - name: Agni-P (road-mobile)
+    notes: >-
+      Canisterised two-stage road-mobile variant; inducted after a series of successful flight
+      trials.
+  - name: Agni-P (rail-based)
+    notes: >-
+      Rail-based mobile launcher variant first tested 24 September 2025, making India one of few
+      nations with rail-network canisterised launch.
+first_test: "2021-06-28"
+description: >-
+  The Agni-Prime (Agni-P) is a new-generation, two-stage, canisterised solid-propellant
+  medium/intermediate-range ballistic missile developed by DRDO, lighter and more advanced than
+  earlier Agni variants, with a range of about 1,000-2,000 km. It was first flight tested on 28 June
+  2021 off the Odisha coast and incorporates composite rocket-motor casings and advanced navigation
+  and guidance. It is launchable from both road-mobile and (from September 2025) rail-based mobile
+  launchers, and the road-mobile version has been inducted into service. The missile carries an
+  approximately 1,000 kg conventional or nuclear payload.
+claims:
+  - field: range_km
+    min: 1000
+    max: 2000
+    basis: official
+    text: >-
+      DRDO/SFC describe Agni-Prime as an intermediate-range missile designed to cover ranges up to
+      ~2,000 km (commonly cited 1,000-2,000 km).
+    source:
+      title: >-
+        DRDO carries out successful launch of Intermediate Range Agni-Prime Missile from a Rail
+        based Mobile launcher system
+      tier: pib
+      publisher: Press Information Bureau (Ministry of Defence)
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      New Generation Ballistic Missile Agni-Prime successfully flight-tested by Strategic Forces
+      Command & DRDO off the Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (Ministry of Defence)
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2017114&reg=3&lang=2
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO carries out successful launch of Intermediate Range Agni-Prime Missile from a Rail based
+      Mobile launcher system
+    tier: pib
+    publisher: Press Information Bureau (Ministry of Defence)
+    date: "2025-09-24"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979
+    accessed: "2026-06-16"
+  - title: India Tests New Agni Missile
+    tier: foreign-news
+    publisher: Arms Control Association
+    date: "2021-09-01"
+    url: https://www.armscontrol.org/act/2021-09/news-briefs/india-tests-new-agni-missile
+    accessed: "2026-06-16"
+  - title: India successfully tests first-of-its-kind Agni-Prime missile from rail-based mobile launcher
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2025-09-24"
+    url: >-
+      https://www.deccanherald.com/india/watch-india-successfully-test-fires-agni-prime-missile-from-rail-based-mobile-platform-3742370
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  First flight test 28 June 2021 off Odisha; further tests including 18 Dec 2021. Road-mobile
+  version inducted; first rail-based mobile launcher test 24 September 2025.

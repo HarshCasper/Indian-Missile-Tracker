@@ -1,0 +1,55 @@
+id: 2021-06-28-agni-prime-maiden-developmental-flight
+missile_id: agni-prime
+variant: Agni-P (developmental)
+designation: First developmental flight test
+date: "2021-06-28"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  Maiden developmental flight test of the new-generation, canisterised, two-stage solid-propellant
+  MRBM Agni-P (Agni-Prime), conducted at about 1055 hrs from a canisterised launcher off the Odisha
+  coast (Dr A.P.J. Abdul Kalam Island). The missile followed a textbook trajectory and met all
+  mission objectives; telemetry, radar and electro-optical stations along the eastern coast tracked
+  the flight. Stated design strike range is 1,000-2,000 km.
+notes: >-
+  First flight of the system. Source descriptions cite road-mobile canister and maneuverable
+  re-entry vehicle (MaRV) features; no range was demonstrated/stated for this specific flight. Date
+  (28 June 2021), site and 1055 hrs time independently verified via The Tribune and GlobalSecurity's
+  mirror of the DRDO/MoD account.
+claims:
+  - field: range_design_km
+    text: Design strike range 1,000-2,000 km (not the distance flown in this test)
+    min: 1000
+    max: 2000
+    basis: reported
+    source:
+      title: India successfully test-fires Agni Prime missile off Odisha coast
+      tier: indian-news
+      publisher: The Tribune
+      url: >-
+        https://www.tribuneindia.com/news/nation/india-successfully-test-fires-agni-prime-missile-off-odisha-coast-275239
+      date: "2021-06-28"
+      accessed: "2026-06-16"
+sources:
+  - title: India successfully test-fires Agni Prime missile off Odisha coast
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/nation/india-successfully-test-fires-agni-prime-missile-off-odisha-coast-275239
+    date: "2021-06-28"
+    accessed: "2026-06-16"
+  - title: India Successfully Test-Fires Next-Generation Nuclear-Capable Ballistic Missile Agni P
+    tier: foreign-news
+    publisher: Sputnik (mirrored on GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2021/india-210628-sputnik01.htm
+    date: "2021-06-28"
+    accessed: "2026-06-16"
+  - title: Agni P - Indian Missile Programs (test history including 28 June 2021 maiden flight)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-p.htm
+    date: "2021-06-28"
+    accessed: "2026-06-16"

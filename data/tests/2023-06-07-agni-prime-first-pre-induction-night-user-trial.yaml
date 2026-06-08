@@ -1,0 +1,42 @@
+id: 2023-06-07-agni-prime-first-pre-induction-night-user-trial
+missile_id: agni-prime
+variant: Agni-P
+designation: First pre-induction night launch (user trial)
+date: "2023-06-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  First pre-induction night launch of Agni-Prime, conducted by the users (Strategic Forces Command)
+  with DRDO from Dr A.P.J. Abdul Kalam Island off the Odisha coast at about 7:30 pm. All objectives
+  were successfully demonstrated, with radar, telemetry and electro-optical systems plus two
+  down-range ships capturing the full trajectory. This first user trial, after three successful
+  developmental flights, paved the way for induction.
+notes: >-
+  Night trial / first user (pre-induction) trial. PIB release dated 8 June 2023; the launch itself
+  was on the night of 7 June 2023. No demonstrated range disclosed. Verified PIB press release URL
+  (PRID=1930689) added as the primary citation.
+sources:
+  - title: "'Agni Prime' ballistic missile successfully flight-tested by DRDO off Odisha coast"
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1930689
+    date: "2023-06-08"
+    accessed: "2026-06-16"
+  - title: >-
+      'Agni Prime' ballistic missile successfully flight-tested by DRDO off Odisha coast (PIB text
+      mirror)
+    tier: pib
+    publisher: PIB / Ministry of Defence (mirrored on GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2023/india-230608-india-pib02.htm
+    date: "2023-06-08"
+    accessed: "2026-06-16"
+  - title: "'Agni Prime' ballistic missile successfully flight-tested by DRDO off Odisha coast"
+    tier: indian-news
+    publisher: ANI
+    url: >-
+      https://www.aninews.in/news/national/general-news/agni-prime-ballistic-missile-successfully-flight-tested-by-drdo-off-odisha-coast20230608130428/
+    date: "2023-06-08"
+    accessed: "2026-06-16"

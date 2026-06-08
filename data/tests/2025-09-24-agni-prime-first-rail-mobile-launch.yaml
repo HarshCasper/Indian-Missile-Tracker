@@ -1,0 +1,75 @@
+id: 2025-09-24-agni-prime-first-rail-mobile-launch
+missile_id: agni-prime
+variant: Agni-P (rail-based mobile launcher)
+designation: First rail-based mobile launcher test
+date: "2025-09-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 0
+description: >-
+  DRDO with the Strategic Forces Command carried out the first-of-its-kind launch of the
+  intermediate-range Agni-Prime from a specially designed rail-based mobile launcher under a full
+  operational scenario. The missile trajectory was tracked by various ground stations and it was a
+  textbook launch meeting all mission objectives. The rail-mobile system can move on the railway
+  network without preconditions, giving cross-country mobility, short reaction time and reduced
+  visibility, placing India among a small group of nations with canisterised rail-launch capability.
+notes: >-
+  PIB release dated 25 September 2025 for the 24 September 2025 launch; some outlets reported the
+  date as 25 September. PIB (via GlobalSecurity mirror) and Janes both give 24 September 2025.
+  Launch site officially undisclosed (a railway location in India), so site_id left empty. Design
+  range up to ~2,000 km; distance flown not disclosed.
+claims:
+  - field: launch_date
+    text: >-
+      PIB/MoD and Janes give 24 September 2025; some Indian outlets (e.g. newsonair, India TV,
+      Onmanorama) headlined 25 September 2025 (the PIB release date)
+    value: 2025
+    basis: official
+    source:
+      title: India carries out first rail-based launch of Agni-Prime ballistic missile
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/industry/india-carries-out-first-rail-based-launch-of-agni-prime-ballistic-missile
+      date: "2025-09-25"
+      accessed: "2026-06-16"
+  - field: range_design_km
+    text: Designed to cover range up to 2,000 km (not distance flown in this test)
+    min: 1000
+    max: 2000
+    basis: official
+    source:
+      title: >-
+        DRDO carries out the successful launch of Intermediate Range Agni-Prime Missile from a Rail
+        based Mobile launcher system (PIB text mirror)
+      tier: pib
+      publisher: PIB / Ministry of Defence (mirrored on GlobalSecurity.org)
+      url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250925-india-pib01.htm
+      date: "2025-09-25"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      DRDO carries out the successful launch of Intermediate Range Agni-Prime Missile from a Rail
+      based Mobile launcher system
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2170979
+    date: "2025-09-25"
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO carries out the successful launch of Intermediate Range Agni-Prime Missile from a Rail
+      based Mobile launcher system (PIB text mirror)
+    tier: pib
+    publisher: PIB / Ministry of Defence (mirrored on GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250925-india-pib01.htm
+    date: "2025-09-25"
+    accessed: "2026-06-16"
+  - title: India carries out first rail-based launch of Agni-Prime ballistic missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/industry/india-carries-out-first-rail-based-launch-of-agni-prime-ballistic-missile
+    date: "2025-09-25"
+    accessed: "2026-06-16"
+site_id: null

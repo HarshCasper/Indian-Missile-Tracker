@@ -1,0 +1,44 @@
+id: 2022-10-21-agni-prime-third-developmental-flight-max-range
+missile_id: agni-prime
+variant: Agni-P (developmental)
+designation: Third developmental flight test (maximum range)
+date: "2022-10-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  Third and final developmental flight test of Agni-P, fired off the Odisha coast (Dr A.P.J. Abdul
+  Kalam Island) to achieve maximum range. The missile met all mission parameters/test objectives.
+  This third consecutive success established the accuracy and reliability of the system and
+  effectively completed developmental trials, clearing it for user trials.
+notes: >-
+  Marked completion of developmental trials. Maximum range flown but exact distance not officially
+  disclosed; design max ~2,000 km. The original MilitaryLeak citation was a dead link (HTTP 404) and
+  was removed; replaced with The Tribune. Janes (2024) and GlobalSecurity corroborate this as the
+  third developmental test after which development was declared complete.
+sources:
+  - title: Medium-range ballistic missile Agni Prime successfully test-fired from Odisha coast
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/nation/medium-range-ballistic-missile-agni-prime-successfully-test-fired-from-odisha-coast-443505
+    date: "2022-10-21"
+    accessed: "2026-06-16"
+  - title: >-
+      India test-fires Agni-Prime ballistic missile (confirms June 2021, December 2021, October 2022
+      developmental tests)
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-fires-agni-prime-ballistic-missile
+    date: "2024-04-04"
+    accessed: "2026-06-16"
+  - title: Made-in-India Agni Prime missile successfully test fired
+    tier: indian-news
+    publisher: The Pioneer
+    url: >-
+      https://www.dailypioneer.com/2022/india/made-in-india-agni-prime-missile-successfully-test-fired.html
+    date: "2022-10-21"
+    accessed: "2026-06-16"
