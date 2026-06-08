@@ -1,0 +1,30 @@
+id: 2012-08-09-agni-ii-user-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: SFC user trial
+date: "2012-08-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Successful user trial by the Army's Strategic Forces Command from Launch Complex-4 of the ITR,
+  Wheeler Island, fired at ~08:48 IST from a mobile launcher. ITR Director MVKV Prasad said all
+  mission parameters were met. The two-stage, solid-propelled missile flew to its ~2,000 km range.
+notes: >-
+  SFC training exercise; DRDO logistic support. Date+site+outcome corroborated by
+  GlobalSecurity/IRNA and Deccan Herald (Indian news).
+sources:
+  - title: India's nuclear capable Agni-II missile successfully test fired
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2012/india-120809-irna01.htm
+    date: "2012-08-09"
+    accessed: "2026-06-16"
+  - title: Agni-II test-fired
+    tier: indian-news
+    publisher: Deccan Herald (PTI)
+    url: https://www.deccanherald.com/amp/story/india%2Fagni-ii-test-fired-2352402
+    date: "2012-08-09"
+    accessed: "2026-06-16"

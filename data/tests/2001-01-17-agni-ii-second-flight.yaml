@@ -1,0 +1,61 @@
+id: 2001-01-17-agni-ii-second-flight
+missile_id: agni-ii
+variant: Agni-II
+designation: Second flight test (final operational configuration)
+date: "2001-01-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2100
+description: >-
+  Second flight test of the Agni-II, fired at 10:01 IST. India's Defence Ministry said the missile
+  was tested in its 'final operational configuration' and that mission objectives were met
+  satisfactorily; reported range ~2,000-2,100 km. This test demonstrated road-mobile (TEL) launch
+  capability and cleared the missile for limited production.
+notes: >-
+  Launch site disputed: most sources (GlobalSecurity, CSIS) cite Wheeler Island (IC-4 pad); Arms
+  Control Association states the Interim/Integrated Test Range at Chandipur. Both are on the Odisha
+  coast; site_id set to abdul-kalam-island per the majority of sources, dispute recorded in claims.
+  Demonstrated road TEL launch; ~1,000 kg payload over 2,000+ km.
+sources:
+  - title: India Tests Agni-2 Ballistic Missile
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2001-03/india-tests-agni-2-ballistic-missile
+    date: 2001-03
+    accessed: "2026-06-16"
+  - title: Agni-II
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+  - title: Agni-II (test history)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-ii.htm
+    accessed: "2026-06-16"
+claims:
+  - field: site
+    basis: reported
+    text: >-
+      Launch site disputed: Wheeler Island (IC-4) per GlobalSecurity/CSIS vs Interim Test Range,
+      Chandipur per Arms Control Association
+    source:
+      title: India Tests Agni-2 Ballistic Missile
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2001-03/india-tests-agni-2-ballistic-missile
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 2100
+    min: 2000
+    max: 2100
+    basis: reported
+    text: Reported range ~2,000-2,100 km
+    source:
+      title: India Tests Agni-2 Ballistic Missile
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2001-03/india-tests-agni-2-ballistic-missile
+      accessed: "2026-06-16"

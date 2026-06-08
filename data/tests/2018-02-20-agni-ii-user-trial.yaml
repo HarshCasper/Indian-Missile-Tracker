@@ -1,0 +1,56 @@
+id: 2018-02-20-agni-ii-user-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: SFC user trial
+date: "2018-02-20"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Agni-II user trial launched at ~08:38 IST from a transporter-erector-launcher at the Integrated
+  Test Range on Dr A.P.J. Abdul Kalam Island, off the Odisha coast. CSIS Missile Threat reported the
+  launch by the Strategic Forces Command as successful; estimated range 2,000-3,500 km with a 1,000
+  kg payload.
+notes: >-
+  Date corroborated as 20 Feb 2018 by Scroll.in, The Diplomat and Millennium Post (a separate Agni-I
+  test occurred 6 Feb 2018, which one GlobalSecurity/Sputnik item conflated). Outcome treated as
+  reported: CSIS Missile Threat states it was successful, while The Diplomat noted at the time it
+  was 'unclear' whether the test succeeded given the 2017 failure. Confidence kept at reported
+  pending an official (PIB/MoD) confirmation.
+sources:
+  - title: India Test Fires Agni-2 Ballistic Missile
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-test-fires-agni-2-ballistic-missile/
+    date: "2018-02-20"
+    accessed: "2026-06-16"
+  - title: >-
+      Nuclear-capable ballistic missile Agni-II test launched from Abdul Kalam Island off Odisha
+      coast
+    tier: indian-news
+    publisher: Scroll.in
+    url: >-
+      https://scroll.in/latest/869364/india-test-fires-nuclear-capable-ballistic-missile-agni-ii-off-odisha-coast
+    date: "2018-02-20"
+    accessed: "2026-06-16"
+  - title: India Test Fires Nuclear Capable Medium-Range Ballistic Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/02/india-test-fires-nuclear-capable-medium-range-ballistic-missile/
+    date: 2018-02
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    basis: reported
+    text: >-
+      CSIS reports the 20 Feb 2018 launch as successful; The Diplomat noted at the time it was
+      unclear whether the test succeeded.
+    source:
+      title: India Test Fires Agni-2 Ballistic Missile
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/india-test-fires-agni-2-ballistic-missile/
+      accessed: "2026-06-16"

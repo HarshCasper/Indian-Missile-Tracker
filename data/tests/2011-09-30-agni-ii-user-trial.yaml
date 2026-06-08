@@ -1,0 +1,34 @@
+id: 2011-09-30-agni-ii-user-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: Army/SFC user trial
+date: "2011-09-30"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Successful user trial of the Agni-II from a mobile launcher at Wheeler Island, Odisha, conducted
+  by the Strategic Forces Command. The missile struck a target ~2,000 km away, meeting all mission
+  parameters. The missile was already inducted and under production at the time.
+notes: >-
+  Conducted by SFC as a user trial; DRDO logistic support. Date+site+outcome corroborated by Indian
+  Defence Review, CSIS Missile Threat and GlobalSecurity.
+sources:
+  - title: Agni-II Missile Test-Fired
+    tier: indian-news
+    publisher: Indian Defence Review
+    url: https://www.indiandefencereview.com/news/agni-ii-missile-test-fired/
+    date: "2011-09-30"
+    accessed: "2026-06-16"
+  - title: Agni-II
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+  - title: Agni-II (test history)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-ii.htm
+    accessed: "2026-06-16"

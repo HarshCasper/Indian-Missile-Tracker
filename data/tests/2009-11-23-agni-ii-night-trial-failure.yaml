@@ -1,0 +1,33 @@
+id: 2009-11-23-agni-ii-night-trial-failure
+missile_id: agni-ii
+variant: Agni-II
+designation: Night trial attempt (failed)
+date: "2009-11-23"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: abdul-kalam-island
+description: >-
+  Attempted night trial of the Agni-II from Wheeler Island. After a smooth liftoff and first-stage
+  separation, the second-stage booster malfunctioned and the missile failed to achieve its
+  trajectory, dropping into the sea. This was the second consecutive 2009 failure, again attributed
+  to second-stage separation problems; DRDO later attributed the failures to
+  production/quality-control anomalies rather than design flaws.
+notes: >-
+  Described as a night-time trial attempt that failed at the second stage and fell into the Bay of
+  Bengal. NOTE on terminology: this 2009 attempt and the 2010-05-17 'post-sunset' launch were both
+  billed at the time as first night/dusk trials, but Indian press in 2019 (Business Standard, ETV
+  Bharat) reported the 16 Nov 2019 launch as the 'first night trial' of Agni-II; the conflicting
+  'first night trial' claims are recorded across the 2009/2010/2019 entries.
+sources:
+  - title: An Indian Nuclear-Capable Ballistic Missile Test Failed Shortly After Launch. What Happened?
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2017/05/an-indian-nuclear-capable-ballistic-missile-test-failed-shortly-after-launch-what-happened/
+    accessed: "2026-06-16"
+  - title: India successfully test-fires ballistic missile Agni-II (references the two prior failures)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100517-irna01.htm
+    accessed: "2026-06-16"

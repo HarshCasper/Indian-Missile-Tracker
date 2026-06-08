@@ -1,0 +1,69 @@
+id: 2017-05-04-agni-ii-user-trial-disputed
+missile_id: agni-ii
+variant: Agni-II
+designation: SFC user trial (outcome disputed)
+date: "2017-05-04"
+date_precision: day
+outcome: failure
+confidence: disputed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Strategic Forces Command user trial of the Agni-II fired at ~10:23 IST from Dr A.P.J. Abdul Kalam
+  Island, intended to re-establish the operational effectiveness of the system. Indian defence
+  sources and some outlets reported it as successful (full range, accurate splashdown), but the
+  outcome is disputed: a Times of India source and subsequent open-source satellite-imagery analysis
+  concluded the missile was aborted in early boost phase (~550 m from the pad) and broke up in
+  midair. DRDO never officially confirmed success.
+notes: >-
+  Outcome DISPUTED. Reported success: Deccan Chronicle and Sputnik/GlobalSecurity. Assessed failure:
+  Times of India report plus satellite-imagery analysis by Arms Control Wonk (Grace Liu et al.) and
+  CSIS Missile Threat, which found smoke plumes, debris and burn scars consistent with an
+  intentional abort/breakup during boost phase. DRDO declined to comment. Confidence set to
+  disputed; both positions recorded in claims.
+sources:
+  - title: An Indian Nuclear-Capable Ballistic Missile Test Failed Shortly After Launch. What Happened?
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2017/05/an-indian-nuclear-capable-ballistic-missile-test-failed-shortly-after-launch-what-happened/
+    accessed: "2026-06-16"
+  - title: "Missed Missiles: Finding a Failed Missile Test in India"
+    tier: foreign-news
+    publisher: Arms Control Wonk
+    url: >-
+      https://www.armscontrolwonk.com/archive/1206159/missed-missiles-finding-a-failed-missile-test-in-india/
+    accessed: "2026-06-16"
+  - title: India successfully test-fires Agni-II ballistic missile
+    tier: indian-news
+    publisher: Deccan Chronicle
+    url: >-
+      https://www.deccanchronicle.com/science/science/040517/india-successfully-test-fires-agni-ii-ballistic-missile.html
+    date: "2017-05-04"
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    basis: assessed
+    text: >-
+      Assessed FAILURE: satellite imagery (smoke plumes, debris ~550 m from pad, burn scars)
+      indicates the missile was aborted/broke up during early boost phase; Times of India reported
+      failure.
+    source:
+      title: "Missed Missiles: Finding a Failed Missile Test in India"
+      tier: foreign-news
+      publisher: Arms Control Wonk
+      url: >-
+        https://www.armscontrolwonk.com/archive/1206159/missed-missiles-finding-a-failed-missile-test-in-india/
+      accessed: "2026-06-16"
+  - field: outcome
+    basis: reported
+    text: >-
+      Reported SUCCESS: Indian defence sources said the missile achieved full range and hit the
+      pre-designated target with high accuracy.
+    source:
+      title: India successfully test-fires Agni-II ballistic missile
+      tier: indian-news
+      publisher: Deccan Chronicle
+      url: >-
+        https://www.deccanchronicle.com/science/science/040517/india-successfully-test-fires-agni-ii-ballistic-missile.html
+      accessed: "2026-06-16"

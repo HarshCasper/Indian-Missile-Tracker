@@ -1,0 +1,30 @@
+id: 2013-04-07-agni-ii-user-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: Army training trial
+date: "2013-04-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Successful Army training trial of the Agni-II from Wheeler Island at ~10:20 IST. The ~660-second
+  flight achieved full ~2,000 km range, splashing down at the designated Bay of Bengal target.
+  Reported to have validated an improved navigation system for better accuracy.
+notes: >-
+  Army user/training trial; CSIS calls the 7 April 2013 trial a total success. Outcome+approx. range
+  corroborated by CSIS Missile Threat and contemporary Indian reporting. New-navigation-system claim
+  is reported, not officially confirmed.
+sources:
+  - title: Agni-II
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+  - title: Nuclear Capable Agni-II Missile (April 2013 trial)
+    tier: indian-news
+    publisher: Examrace
+    url: https://www.examrace.com/Current-Affairs/2013/Nuclear-Capable-Agni-II-Missile.html
+    date: "2013-04-07"
+    accessed: "2026-06-16"

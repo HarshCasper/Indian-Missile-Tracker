@@ -1,0 +1,32 @@
+id: 2009-05-19-agni-ii-user-trial-failure
+missile_id: agni-ii
+variant: Agni-II
+designation: Army user trial (failed)
+date: "2009-05-19"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: abdul-kalam-island
+description: >-
+  First Indian Army user trial of the Agni-II, fired at 10:06 IST from Launch Pad-4 of the ITR on
+  Wheeler Island. The test failed: the second stage did not operate correctly (problem at stage
+  separation / second-stage ignition) and the missile veered off course. This was the first of two
+  consecutive 2009 failures attributed to second-stage problems.
+notes: >-
+  Aim was to give the Army confidence to fire the missile independently. Failure attributed to
+  second-stage malfunction / separation failure, corroborated by The Diplomat and multiple secondary
+  accounts. IDSA commentary cited (note: its working URL is on the demo.idsa.in subdomain, which was
+  unreachable at access time); failure itself is independently corroborated, so kept as reported.
+sources:
+  - title: An Indian Nuclear-Capable Ballistic Missile Test Failed Shortly After Launch. What Happened?
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2017/05/an-indian-nuclear-capable-ballistic-missile-test-failed-shortly-after-launch-what-happened/
+    accessed: "2026-06-16"
+  - title: "The Agni-II Trial Failure: Evaluation rather than Flagellation is needed"
+    tier: indian-news
+    publisher: Institute for Defence Studies and Analyses (IDSA)
+    url: >-
+      https://demo.idsa.in/publisher/the-agni-ii-trial-failure-evaluation-rather-than-flagellation-is-needed/
+    accessed: "2026-06-16"

@@ -1,0 +1,55 @@
+id: 2019-11-16-agni-ii-first-night-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: First successful night trial (SFC)
+date: "2019-11-16"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Strategic Forces Command night trial of the nuclear-capable Agni-II, fired at ~19:30 IST from the
+  Integrated Test Range on Dr A.P.J. Abdul Kalam Island, off the Odisha coast. The ~2,000 km-range
+  missile hit the target with accuracy on the planned trajectory; tracked by radars, telemetry
+  stations, electro-optic instruments and two naval ships near the impact point. Widely reported as
+  the first night trial of the Agni-II.
+notes: >-
+  Conducted by the Army's SFC with DRDO logistic support. Reported by Indian press (Business
+  Standard/PTI, ETV Bharat, KSG) as the 'first night trial' of the Agni-II and by GlobalSecurity as
+  the 'first night launch' of the system; this 'first' conflicts with the 2009-11-23 night attempt
+  and 2010 'post-sunset' claims (the 2009 attempt failed and 2019 is the first SUCCESSFUL night
+  trial). Date+site+outcome agree across multiple independent sources.
+sources:
+  - title: India successfully conducts night trial of 2,000-km range Agni II missile
+    tier: indian-news
+    publisher: Business Standard (PTI)
+    url: >-
+      https://www.business-standard.com/article/pti-stories/first-night-trial-of-agni-ii-missile-conducted-successfully-119111601291_1.html
+    date: "2019-11-16"
+    accessed: "2026-06-16"
+  - title: India successfully conducts first night trial of Agni-2 ballistic missile
+    tier: indian-news
+    publisher: ETV Bharat
+    url: >-
+      https://www.etvbharat.com/english/state/odisha/india-successfully-conducts-first-night-trial-of-agni-2-ballistic-missile/na20191116230439089
+    date: "2019-11-16"
+    accessed: "2026-06-16"
+  - title: Agni-II (test history) - November 2019 night launch
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-ii.htm
+    accessed: "2026-06-16"
+claims:
+  - field: first_night_trial
+    basis: reported
+    text: >-
+      Reported as the 'first night trial' of Agni-II in 2019, conflicting with the failed 2009-11-23
+      night attempt; best read as the first SUCCESSFUL night trial.
+    source:
+      title: India successfully conducts night trial of 2,000-km range Agni II missile
+      tier: indian-news
+      publisher: Business Standard (PTI)
+      url: >-
+        https://www.business-standard.com/article/pti-stories/first-night-trial-of-agni-ii-missile-conducted-successfully-119111601291_1.html
+      accessed: "2026-06-16"

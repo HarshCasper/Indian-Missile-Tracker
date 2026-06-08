@@ -1,0 +1,61 @@
+id: 1999-04-11-agni-ii-maiden-flight
+missile_id: agni-ii
+variant: Agni-II
+designation: Maiden flight test
+date: "1999-04-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  First flight test of the Agni-II MRBM, fired at 09:47 IST from a rail-mobile launcher (IC-4 pad)
+  on Inner Wheeler Island (later Dr A.P.J. Abdul Kalam Island) off the Odisha coast. Officials
+  called it a 'perfect text-book launch'; the missile splashed down roughly 2,000-2,100 km downrange
+  in the Bay of Bengal on a trajectory said to simulate a 2,800-3,000 km range. Defence Minister
+  George Fernandes and scientific adviser A.P.J. Abdul Kalam were present.
+notes: >-
+  Launched from converted rail carriage / rail-mobile launcher. India notified Pakistan in advance
+  per the Lahore agreement. Simulated full range cited as 2,800-3,000 km. Date+site+outcome agree
+  across GlobalSecurity, Arms Control Association and CSIS Missile Threat.
+sources:
+  - title: India successfully test-fires Agni-II (GlobalSecurity / India news 990411)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/1999/990411-india2.htm
+    date: "1999-04-11"
+    accessed: "2026-06-16"
+  - title: Agni-II
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+  - title: India Tests Agni-2 Ballistic Missile
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2001-03/india-tests-agni-2-ballistic-missile
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 2000
+    min: 2000
+    max: 2100
+    basis: reported
+    text: Splashed down ~2,000-2,100 km downrange
+    source:
+      title: India successfully test-fires Agni-II (GlobalSecurity)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/1999/990411-india2.htm
+      accessed: "2026-06-16"
+  - field: simulated_range_km
+    min: 2800
+    max: 3000
+    basis: reported
+    text: Trajectory said to simulate a 2,800-3,000 km range
+    source:
+      title: Agni-II
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-2/
+      accessed: "2026-06-16"

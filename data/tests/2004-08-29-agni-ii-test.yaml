@@ -1,0 +1,38 @@
+id: 2004-08-29-agni-ii-test
+missile_id: agni-ii
+variant: Agni-II
+designation: Developmental/induction-era test
+date: "2004-08-29"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+range_tested_km: 1200
+description: >-
+  Agni-II test-fired from Wheeler Island in the period when the missile was being inducted into the
+  Strategic Forces Command (service entry ~2004). The CSIS Missile Threat test history documents
+  this date with an approximately 1,200 km demonstrated range from a rail-mobile launcher; described
+  as one of the consecutive successful technical trials that preceded series production.
+notes: >-
+  Single solid secondary source (CSIS Missile Threat) documents this exact date with a 1,200 km
+  demonstrated range; treated as reported. The 1,200 km figure likely reflects the distance flown in
+  this particular trial rather than the missile's ~2,000+ km max range. Could not corroborate the
+  precise 29 Aug 2004 date in contemporary news (a 2004 launch was reportedly postponed on 29 Aug
+  for a technical snag then fired); retained as reported pending a second source.
+sources:
+  - title: Agni-II
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 1200
+    basis: reported
+    text: Range demonstrated ~1,200 km
+    source:
+      title: Agni-II
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-2/
+      accessed: "2026-06-16"

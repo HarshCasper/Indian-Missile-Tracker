@@ -1,0 +1,60 @@
+id: agni-ii
+name: Agni-II
+aka:
+  - Agni-2
+  - Agni II
+category: surface-to-surface
+range_class: MRBM
+developer: Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 2000
+  max: 3500
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - road-mobile launcher
+  - rail-mobile launcher
+variants:
+  - name: Agni-II
+    notes: Baseline two-stage solid-fuel medium-range ballistic missile.
+first_test: "1999-04-11"
+description: >-
+  The Agni-II is a two-stage, solid-propellant medium-range ballistic missile developed by DRDO
+  (development begun July 1997) to give India a rail/road-mobile nuclear delivery option against
+  targets out to ~2,000 km and beyond. It was first flight tested on 11 April 1999 from Wheeler
+  Island off the Odisha coast. The missile is about 20 m long, weighs roughly 17,000 kg at launch,
+  and carries an approximately 1,000 kg nuclear-capable payload. It entered service with the
+  Strategic Forces Command around 2004.
+claims:
+  - field: range_km
+    value: 2000
+    basis: assessed
+    text: Stated at 'over 2,000 km'; operational range assessed between ~2,000 and 3,500 km.
+    source:
+      title: Agni-II | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-2/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-II | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-2/
+    accessed: "2026-06-16"
+  - title: Agni-II
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/agni-ii.htm
+    accessed: "2026-06-16"
+  - title: Agni-II test fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/amp/story/india%2Fagni-ii-test-fired-2352402
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: First flight test 11 April 1999 from a rail-mobile launcher at Wheeler Island. Inducted ~2004.

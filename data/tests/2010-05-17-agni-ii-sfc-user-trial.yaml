@@ -1,0 +1,45 @@
+id: 2010-05-17-agni-ii-sfc-user-trial
+missile_id: agni-ii
+variant: Agni-II
+designation: SFC user trial (return-to-flight after 2009 failures)
+date: "2010-05-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Strategic Forces Command user trial of the nuclear-capable Agni-II from Launch Complex-4, Wheeler
+  Island, fired from a mobile launcher. The flight achieved full ~2,000 km range and was the first
+  successful test after the two 2009 failures, helping declare the system operational.
+notes: >-
+  GlobalSecurity/IRNA describes this as fired 'this morning' (a daytime launch), which conflicts
+  with the original list's 'first post-sunset' characterization; the post-sunset/dusk claim could
+  not be confirmed and has been removed from the assertion. Range and success corroborated by
+  GlobalSecurity and PTI/Gulf News. Flight time of ~660 s / 11 minutes is reported but not
+  consistently sourced.
+sources:
+  - title: India successfully test-fires ballistic missile Agni-II
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100517-irna01.htm
+    date: "2010-05-17"
+    accessed: "2026-06-16"
+  - title: Agni-II missile successfully test-fired (PTI)
+    tier: indian-news
+    publisher: PTI via Gulf News
+    url: https://gulfnews.com/world/asia/india/nuclear-capable-agni-ii-missile-test-fired-1.1410223
+    date: "2010-05-17"
+    accessed: "2026-06-16"
+claims:
+  - field: timing
+    basis: reported
+    text: >-
+      Original list called this the 'first post-sunset' launch, but GlobalSecurity describes a
+      morning launch; the post-sunset claim is unconfirmed.
+    source:
+      title: India successfully test-fires ballistic missile Agni-II
+      tier: foreign-news
+      publisher: GlobalSecurity.org / IRNA
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100517-irna01.htm
+      accessed: "2026-06-16"
