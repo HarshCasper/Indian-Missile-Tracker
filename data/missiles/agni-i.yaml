@@ -1,0 +1,65 @@
+id: agni-i
+name: Agni-I
+aka:
+  - Agni-1
+  - Agni I
+category: surface-to-surface
+range_class: SRBM
+developer: Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 700
+  max: 1200
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - road-mobile transporter erector launcher
+  - rail-mobile launcher
+variants:
+  - name: Agni-I
+    notes: >-
+      Single-stage, solid-fuel short-range ballistic missile derived from the Agni Technology
+      Demonstrator after re-entry studies.
+first_test: "2002-01-25"
+description: >-
+  The Agni-I is a single-stage, solid-propellant short-range ballistic missile developed by DRDO,
+  conceived as a quick-reaction, road/rail-mobile system bridging the gap between the Prithvi and
+  longer-range Agni variants. Its first flight test on 25 January 2002 reportedly suffered a
+  re-entry vehicle separation issue, with a successful test following on 9 January 2003. It has a
+  baseline range around 700 km (up to ~1,200 km with reduced payload) and carries a roughly 1,000 kg
+  conventional or nuclear payload. It was accepted into Indian Army service with the Strategic
+  Forces Command around 2007.
+claims:
+  - field: range_km
+    value: 700
+    basis: assessed
+    text: Standard range ~700 km; up to ~1,200 km with a reduced payload.
+    source:
+      title: Agni-I | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-1/
+      accessed: "2026-06-16"
+sources:
+  - title: Agni-I | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-1/
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Nuclear-Capable Agni-I Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-151127-sputnik01.htm
+    accessed: "2026-06-16"
+  - title: Agni Missile, History, Types, Range, Significance (UPSC Notes)
+    tier: further-reading
+    publisher: Vajiram & Ravi
+    url: https://vajiramandravi.com/upsc-exam/agni-missile/
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  First flight test 25 Jan 2002 reportedly had RV separation failure; first fully successful test 9
+  Jan 2003. Operational with the Strategic Forces Command since ~2007.
