@@ -1,0 +1,31 @@
+id: 2016-12-26-agni-v-fourth-test-canister
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Fourth flight test; second canister launch
+date: "2016-12-26"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India conducted the fourth (final experimental) flight test of the Agni-V at about 11:05 IST from
+  Launch Complex 4 on Wheeler Island, fired from a canister on a road-mobile launcher. It was the
+  second canister launch and was declared a complete success, with all mission objectives met,
+  clearing the way for user trials by the Strategic Forces Command.
+notes: >-
+  Launch Complex 4, Wheeler Island. Fourth test and second canister-on-road-mobile-launcher launch.
+  PIB issued a release dated 27 December 2016 (printrelease.aspx?relid=155897).
+sources:
+  - title: Successful Test launch of AGNI V
+    tier: pib
+    publisher: Press Information Bureau (Govt. of India)
+    url: https://www.pib.gov.in/newsite/printrelease.aspx?relid=155897
+  - title: India Conducts Fourth Agni-5 Test-Launch
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-conducts-fourth-agni-5-test-launch/
+  - title: India Tests Agni-V Ballistic Missile
+    tier: foreign-news
+    publisher: Defense News
+    url: https://www.defensenews.com/space/2016/12/26/india-tests-agni-v-ballistic-missile/

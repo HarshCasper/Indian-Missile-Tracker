@@ -1,0 +1,41 @@
+id: 2018-01-18-agni-v-fifth-test-user-trial
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Fifth flight test; first pre-induction/user trial
+date: "2018-01-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 4900
+description: >-
+  India successfully test-fired the Agni-V at about 09:53 IST from Launch Pad-4 at Dr A.P.J. Abdul
+  Kalam Island, launched from a canister on a road-mobile launcher. This fifth flight test was the
+  first user-associated/pre-induction trial conducted by the Strategic Forces Command with DRDO; the
+  missile flew roughly 4,900 km in about 19 minutes and hit its target in the Indian Ocean.
+notes: Launch Pad-4, Abdul Kalam Island. First user/pre-induction trial.
+claims:
+  - field: range_tested_km
+    value: 4900
+    basis: reported
+    text: Covered about 4,900 km in 19 minutes
+    source:
+      title: Agni-V | Missile Threat - CSIS
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-5/
+sources:
+  - title: India test-flies Agni-V ballistic missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-flies-agni-v-ballistic-missile
+  - title: India successfully test-fires nuclear capable Agni-V ballistic missile
+    tier: indian-news
+    publisher: Deccan Chronicle
+    url: >-
+      https://www.deccanchronicle.com/nation/current-affairs/180118/india-successfully-test-fires-nuclear-capable-icbm-agni-v-off-odisha-coast.html
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/

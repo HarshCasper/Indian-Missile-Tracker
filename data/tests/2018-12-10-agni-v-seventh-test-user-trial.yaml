@@ -1,0 +1,27 @@
+id: 2018-12-10-agni-v-seventh-test-user-trial
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Seventh flight test; user-associated trial
+date: "2018-12-10"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India successfully test-fired the Agni-V from a mobile launcher at Launch Pad-4 of the Integrated
+  Test Range on Dr A.P.J. Abdul Kalam Island. It was the seventh flight test of the missile and a
+  user-associated trial conducted by the Strategic Forces Command with DRDO scientists; all
+  objectives were met.
+notes: >-
+  Launch Pad/Complex 4, Abdul Kalam Island. Seventh flight test and third user-associated trial of
+  2018.
+sources:
+  - title: India Test Fires Agni-V Nuclear-Capable ICBM
+    tier: foreign-news
+    publisher: The Diplomat
+    url: https://thediplomat.com/2018/12/india-test-fires-agni-v-nuclear-capable-icbm/
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/

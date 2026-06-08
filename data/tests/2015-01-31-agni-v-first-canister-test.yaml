@@ -1,0 +1,33 @@
+id: 2015-01-31-agni-v-first-canister-test
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Third flight test; first canister launch
+date: "2015-01-31"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India successfully test-fired the first canisterised version of the Agni-V at about 08:09 IST from
+  Wheeler Island, launched from a sealed canister mounted on a TATRA road-mobile launcher. This
+  third flight test carried a dummy payload, demonstrated the production-ready canister-launch
+  configuration, and impacted the target in the Indian Ocean.
+notes: >-
+  Launch Complex 4, Wheeler Island (Dr A.P.J. Abdul Kalam Island). First canister/road-mobile
+  launch. An early search summary citing 'December 2015' was Wikipedia-derived noise; CSIS and
+  Indian/foreign press all confirm 31 January 2015.
+sources:
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/
+  - title: India test-fires nuclear-capable Agni-V missile
+    tier: foreign-news
+    publisher: Gulf News
+    url: >-
+      https://gulfnews.com/amp/story/world%2Fasia%2Findia%2Findia-test-fires-nuclear-capable-agni-v-missile-2-1.1952048
+  - title: First Canister-based Agni-V missile successfully test-fired
+    tier: further-reading
+    publisher: GKToday
+    url: https://www.gktoday.in/canister-based-agni-v-missile-successfully-test-fired/

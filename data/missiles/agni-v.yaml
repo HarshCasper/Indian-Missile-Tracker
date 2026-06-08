@@ -1,0 +1,99 @@
+id: agni-v
+name: Agni-V
+aka:
+  - Agni-5
+  - Agni V
+category: surface-to-surface
+range_class: ICBM
+developer: Defence Research and Development Organisation (DRDO)
+operators:
+  - India (Strategic Forces Command)
+status: operational
+range_km:
+  min: 5000
+  max: 8000
+payload_kg: 1500
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - road-mobile canister transporter erector launcher
+variants:
+  - name: Agni-V (canisterised)
+    notes: Three-stage, solid-fuel, road-mobile canister-launched variant for rapid deployment.
+  - name: Agni-V MIRV (Mission Divyastra)
+    notes: >-
+      MIRV-capable variant carrying multiple independently targetable re-entry vehicles; first
+      tested 11 March 2024.
+first_test: "2012-04-19"
+description: >-
+  The Agni-V is India's longest-range deployed ballistic missile, a three-stage, solid-propellant,
+  canisterised system developed by DRDO primarily for nuclear deterrence against China. First flight
+  tested on 19 April 2012 from Wheeler Island, it officially has a range of 'over 5,000 km,' though
+  several foreign analysts assess its true reach considerably higher, into ICBM territory. On 11
+  March 2024 India conducted Mission Divyastra, the first flight test of an Agni-V variant equipped
+  with MIRV (Multiple Independently Targetable Re-entry Vehicle) technology. It is inducted with the
+  Strategic Forces Command.
+claims:
+  - field: range_km
+    value: 5000
+    basis: official
+    text: Indian government/DRDO officially state range as 'over 5,000 km'.
+    source:
+      title: DRDO successfully conducts Mission Divyastra (first flight test of MIRV-equipped Agni-V)
+      tier: pib
+      publisher: Press Information Bureau (Ministry of Defence)
+      url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2013549&reg=3&lang=2
+      accessed: "2026-06-16"
+  - field: range_km
+    min: 5000
+    max: 8000
+    basis: assessed
+    text: >-
+      Foreign analysts assess the real range higher than the official figure, with estimates ranging
+      up to ~8,000 km (some Chinese sources suggest up to 8,000 km).
+    source:
+      title: Agni-V | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-5/
+      accessed: "2026-06-16"
+  - field: payload_kg
+    value: 1500
+    basis: assessed
+    text: Payload commonly cited as ~1,500 kg; CSIS lists maximum throw weight up to ~1,650 kg.
+    source:
+      title: Agni-V | Missile Threat
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/agni-5/
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO successfully conducts Mission Divyastra (first MIRV flight test of Agni-V)
+    tier: pib
+    publisher: Press Information Bureau (Ministry of Defence)
+    date: "2024-03-11"
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2013549&reg=3&lang=2
+    accessed: "2026-06-16"
+  - title: Agni-V | Missile Threat
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/
+    accessed: "2026-06-16"
+  - title: India Announces Successful Agni-5 Test
+    tier: foreign-news
+    publisher: Arms Control Association
+    date: "2012-05-01"
+    url: https://www.armscontrol.org/act/2012-05/india-announces-successful-agni-5-test
+    accessed: "2026-06-16"
+  - title: India conducts first test of MIRV-equipped Agni-V missile; PM hails DRDO
+    tier: indian-news
+    publisher: Business Standard
+    date: "2024-03-11"
+    url: >-
+      https://www.business-standard.com/amp/external-affairs-defence-security/news/india-conducts-first-test-of-mirv-equipped-agni-5-missile-pm-hails-drodo-124031100776_1.html
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Range is disputed: official 'over 5,000 km' vs foreign analyst assessments up to ~8,000 km. First
+  test 19 April 2012; first MIRV test (Mission Divyastra) 11 March 2024. Now canisterised and
+  inducted with the Strategic Forces Command.

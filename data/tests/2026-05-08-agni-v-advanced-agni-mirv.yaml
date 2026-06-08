@@ -1,0 +1,54 @@
+id: 2026-05-08-agni-v-advanced-agni-mirv
+missile_id: agni-v
+variant: canisterised (road-mobile); MIRV-equipped (Advanced Agni)
+designation: Advanced Agni MIRV flight-trial (second MIRV test)
+date: "2026-05-08"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+description: >-
+  India conducted a successful flight-trial of an Advanced Agni missile with Multiple Independently
+  Targetable Re-entry Vehicle (MIRV) system from Dr A.P.J. Abdul Kalam Island, Odisha. The missile
+  was flight-tested with multiple payloads targeted to different impact points spatially distributed
+  over a large area of the Indian Ocean Region, tracked by ground and ship-based stations. The
+  Ministry of Defence stated all mission objectives were met. It was the second publicly
+  acknowledged MIRV test after Mission Divyastra (2024).
+notes: >-
+  Launch Complex-IV, Abdul Kalam Island. PIB Release ID 2259380, dated 8 May 2026. Designation
+  ambiguity: the official PIB release and Janes call it an 'Advanced Agni' missile (not explicitly
+  Agni-5/Agni-V); Janes notes it 'closely resembles the Agni V missile currently in service.'
+  Included under agni-v as the second Agni-V-family MIRV test, but the exact variant designation was
+  deliberately not specified by the MoD. Number of re-entry vehicles not disclosed.
+claims:
+  - field: designation
+    note: >-
+      Officially called 'Advanced Agni' by PIB and Janes, not explicitly Agni-5/Agni-V; variant
+      attribution to the Agni-V family is assessed, not officially stated
+    text: >-
+      PIB and Janes describe it as an 'Advanced Agni missile with MIRV'; Janes notes it closely
+      resembles the in-service Agni-V
+    source:
+      title: India conducts trial of MIRV-capable Agni missile
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-conducts-trial-of-mirv-capable-agni-missile
+    basis: official
+sources:
+  - title: >-
+      India conducts successful flight-trial of Advanced Agni missile with Multiple Independently
+      Targeted Re-Entry Vehicle system
+    tier: pib
+    publisher: Press Information Bureau (Govt. of India)
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2259380&reg=3&lang=2
+  - title: India conducts trial of MIRV-capable Agni missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-conducts-trial-of-mirv-capable-agni-missile
+  - title: India successfully tests Agni missile with MIRV system
+    tier: indian-news
+    publisher: ANI
+    url: >-
+      https://www.aninews.in/news/national/general-news/india-successfully-tests-agni-missile-with-mirv-system20260509171817/

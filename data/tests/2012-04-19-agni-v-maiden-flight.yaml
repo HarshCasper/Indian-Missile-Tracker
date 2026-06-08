@@ -1,0 +1,56 @@
+id: 2012-04-19-agni-v-maiden-flight
+missile_id: agni-v
+variant: open-launch (rail-mobile)
+designation: Maiden flight (first developmental test)
+date: "2012-04-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+apogee_km: 600
+description: >-
+  India conducted the maiden flight test of the three-stage, solid-fuel Agni-V at about 08:05 IST
+  from Launch Complex 4 of the Integrated Test Range on Wheeler Island (now Dr A.P.J. Abdul Kalam
+  Island), using a rail-mobile launcher. The re-entry vehicle impacted a pre-designated target point
+  more than 5,000 km away in the Indian Ocean after a roughly 20-minute flight.
+notes: >-
+  Launch Complex 4, Wheeler Island (now Dr A.P.J. Abdul Kalam Island). Apogee figures vary across
+  sources (RV re-entry altitude vs. peak); ~600 km is an assessed peak figure and not uniformly
+  cited.
+claims:
+  - field: range_tested_km
+    value: 5000
+    basis: reported
+    text: Impacted target more than 5,000 km away in the Indian Ocean
+    source:
+      title: India makes flawless launch of long-range missile
+      tier: foreign-news
+      publisher: NPR
+      url: >-
+        https://www.npr.org/sections/thetwo-way/2012/04/19/150949418/india-make-flawless-launch-of-long-range-missile
+  - field: apogee_km
+    value: 600
+    basis: assessed
+    text: >-
+      Peak apogee assessed at roughly 600 km; figure not uniformly cited and CSIS does not state it
+      explicitly
+    source:
+      title: India Fires Agni-V Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      url: https://thediplomat.com/2012/04/india-fires-agni-v-missile/
+sources:
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/
+  - title: India tests long-range ballistic missile
+    tier: foreign-news
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2012/4/19/india-tests-long-range-ballistic-missile
+  - title: India makes flawless launch of long-range missile
+    tier: foreign-news
+    publisher: NPR
+    url: >-
+      https://www.npr.org/sections/thetwo-way/2012/04/19/150949418/india-make-flawless-launch-of-long-range-missile

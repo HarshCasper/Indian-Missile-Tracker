@@ -1,0 +1,34 @@
+id: 2021-10-27-agni-v-eighth-test-night
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Eighth flight test (first night/dusk launch)
+date: "2021-10-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  A successful launch of the surface-to-surface ballistic missile Agni-5 was carried out at about
+  19:50 IST from Dr A.P.J. Abdul Kalam Island, Odisha. The three-stage solid-fuelled missile is
+  capable of striking targets at ranges up to 5,000 km; the test came amid border tensions with
+  China and was widely reported as the first nighttime/dusk Agni-V launch.
+notes: >-
+  Launch Complex 4, Abdul Kalam Island. Eighth flight test, conducted around dusk (~19:50 IST);
+  reported by some outlets as the first night test.
+sources:
+  - title: >-
+      Surface to Surface Ballistic Missile, Agni-5, successfully launched from APJ Abdul Kalam
+      Island
+    tier: pib
+    publisher: Press Information Bureau (Govt. of India)
+    url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1767034
+  - title: India successfully test fires Agni 5 ballistic missile from APJ Abdul Kalam Island
+    tier: indian-news
+    publisher: Business Today
+    url: >-
+      https://www.businesstoday.in/latest/economy/story/india-successfully-test-fires-agni-5-ballistic-missile-from-apj-abdul-kalam-island-310655-2021-10-28
+  - title: India Tests Missile Capable of Reaching China
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2021-12/news/india-tests-missile-capable-reaching-china

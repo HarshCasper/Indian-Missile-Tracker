@@ -1,0 +1,31 @@
+id: 2025-08-20-agni-v-sfc-user-trial
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Strategic Forces Command user trial
+date: "2025-08-20"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 5000
+description: >-
+  India successfully test-fired the Agni-5 under the Strategic Forces Command from the Integrated
+  Test Range, Chandipur, Odisha. The Ministry of Defence stated the launch validated all operational
+  and technical parameters. The official PIB release described it as an 'Intermediate Range
+  Ballistic Missile' user trial.
+notes: >-
+  Fired from the Integrated Test Range (ITR), Chandipur, Odisha (not Abdul Kalam Island). PIB
+  Release ID 2158574, dated 20 August 2025. Officially termed an 'Agni 5 Intermediate Range
+  Ballistic Missile' SFC user trial; some Indian outlets cite range exceeding 5,000 km.
+sources:
+  - title: Successful test-firing of 'Agni 5' Intermediate Range Ballistic Missile
+    tier: pib
+    publisher: Press Information Bureau (Govt. of India) via GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250820-india-pib01.htm
+  - title: >-
+      India successfully test-fires nuclear-capable Agni-5 missile, extending strike range beyond
+      5000 km
+    tier: indian-news
+    publisher: Organiser
+    url: >-
+      https://organiser.org/2025/08/22/310357/bharat/india-successfully-test-fires-nuclear-capable-agni-5-missile-extending-strike-range-beyond-5000-km/

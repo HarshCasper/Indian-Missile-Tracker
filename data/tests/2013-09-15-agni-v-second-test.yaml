@@ -1,0 +1,31 @@
+id: 2013-09-15-agni-v-second-test
+missile_id: agni-v
+variant: open-launch (rail-mobile)
+designation: Second developmental flight test
+date: "2013-09-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India conducted the second test flight of the Agni-V at about 08:50 IST from a rail-mobile
+  launcher at Launch Complex 4 of the Integrated Test Range on Wheeler Island off the Odisha coast.
+  The missile flew for just over 20 minutes and hit its pre-designated target in the Indian Ocean
+  about 5,000 km away, meeting all mission objectives with reported accuracy.
+notes: >-
+  Launch Complex 4, Wheeler Island. ITR director M.V.K.V. Prasad stated all mission objectives were
+  met with accuracy.
+sources:
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/
+  - title: India test-fires long-range missile
+    tier: foreign-news
+    publisher: Fox News / AP
+    url: https://www.foxnews.com/world/india-test-fires-long-range-missile.amp
+  - title: Agni-V special coverage (second test)
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/2013/20130916/main2.htm

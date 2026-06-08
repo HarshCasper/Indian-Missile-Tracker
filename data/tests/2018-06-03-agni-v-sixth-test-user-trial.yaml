@@ -1,0 +1,26 @@
+id: 2018-06-03-agni-v-sixth-test-user-trial
+missile_id: agni-v
+variant: canisterised (road-mobile)
+designation: Sixth flight test; user-associated trial
+date: "2018-06-03"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India successfully test-fired the Agni-V at about 09:45 IST from Dr A.P.J. Abdul Kalam Island off
+  the Odisha coast in a user-associated trial conducted by DRDO and the Strategic Forces Command.
+  The Ministry of Defence stated all mission objectives were achieved and the missile hit its target
+  with accuracy after covering its full distance.
+notes: Launch Complex 4, Abdul Kalam Island. Sixth flight test overall and second test of 2018.
+sources:
+  - title: Agni-V | Missile Threat - CSIS
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/agni-5/
+  - title: Pakistan, China rattled as India set to conduct user trial of Agni-V
+    tier: indian-news
+    publisher: DNA India
+    url: >-
+      https://www.dnaindia.com/india/report-pakistan-china-rattled-as-india-set-to-conduct-first-user-trial-of-nuclear-capable-agni-v-missile-2912517

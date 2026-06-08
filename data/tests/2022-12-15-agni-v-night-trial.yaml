@@ -1,0 +1,28 @@
+id: 2022-12-15-agni-v-night-trial
+missile_id: agni-v
+variant: canisterised (road-mobile); lighter version with new technologies
+designation: Night trial (ninth flight test)
+date: "2022-12-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 5000
+description: >-
+  India successfully carried out a night trial of the Agni-V from Dr A.P.J. Abdul Kalam Island off
+  the Odisha coast. The trial validated new technologies and equipment that make the missile lighter
+  than earlier versions; the missile is capable of striking targets at ranges up to 5,000 km with a
+  high degree of accuracy.
+notes: >-
+  Launch Complex 4, Abdul Kalam Island. Night trial; reported as testing a lighter composite version
+  with new technologies. Ranges of 5,000-5,500 km cited by some Indian outlets with a 1.5 t payload.
+sources:
+  - title: India successfully carries out night trials of nuclear-capable Agni-V missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (republishing All India Radio)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-221216-allindiaradio01.htm
+  - title: India successfully carries out night trials of Agni 5 nuclear capable ballistic missile
+    tier: indian-news
+    publisher: Business Today
+    url: >-
+      https://www.businesstoday.in/latest/story/india-successfully-carries-out-night-trials-of-agni-5-nuclear-capable-ballistic-missile-356581-2022-12-15

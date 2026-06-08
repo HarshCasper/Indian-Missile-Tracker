@@ -1,0 +1,44 @@
+id: 2024-03-11-agni-v-mission-divyastra-mirv
+missile_id: agni-v
+variant: canisterised (road-mobile); MIRV-equipped
+designation: Mission Divyastra (first MIRV flight test)
+date: "2024-03-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+description: >-
+  India conducted the first flight test of the indigenously developed Agni-5 with Multiple
+  Independently Targetable Re-entry Vehicle (MIRV) technology, named Mission Divyastra, from Dr
+  A.P.J. Abdul Kalam Island, Odisha. The missile carried multiple dummy re-entry vehicles tracked by
+  ground and ship-based telemetry/radar stations; DRDO stated the mission accomplished its designed
+  parameters, making India one of a small group of MIRV-capable nations.
+notes: >-
+  Launch Complex 4, Abdul Kalam Island. First Agni-5 MIRV test. Reported to carry roughly 4-6 dummy
+  warheads; exact number not officially disclosed. PIB Release ID 2013549, dated 11 March 2024.
+claims:
+  - field: warheads
+    note: Reported 4-6 dummy re-entry vehicles; exact number not officially disclosed by DRDO
+    text: Missile reportedly carried between four and six dummy warheads
+    source:
+      title: Maiden Test for India's Agni-5 MIRV Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      url: https://thediplomat.com/2024/03/maiden-test-for-indias-agni-5-mirv-missile/
+    basis: reported
+sources:
+  - title: DRDO successfully conducts Mission Divyastra
+    tier: pib
+    publisher: Press Information Bureau (Govt. of India)
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2013549&reg=3&lang=2
+  - title: Maiden Test for India's Agni-5 MIRV Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: https://thediplomat.com/2024/03/maiden-test-for-indias-agni-5-mirv-missile/
+  - title: >-
+      Mission Divyastra: India successfully conducts 1st flight test of nuclear-capable Agni-5
+      missile with MIRV tech
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/india/mission-divyastra-india-successfully-conducts-1st-flight-test-of-nuclear-capable-agni-5-missile-with-mirv-tech-599503
