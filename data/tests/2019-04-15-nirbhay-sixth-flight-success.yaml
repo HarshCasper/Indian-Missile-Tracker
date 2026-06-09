@@ -1,0 +1,39 @@
+id: 2019-04-15-nirbhay-sixth-flight-success
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: Sixth developmental flight test
+date: "2019-04-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Sixth developmental flight trial from the ITR, Chandipur, intended to prove repeatability of the
+  boost and cruise phases using waypoint navigation. Per DRDO/PIB the missile took off vertically,
+  turned horizontal, separated its booster, deployed wings, started its engine and cruised through
+  the intended waypoints in about 43 minutes, sustaining very low altitude (reported down to ~5 m)
+  for roughly 10 minutes to demonstrate sea-skimming. Concluded the original developmental phase.
+notes: >-
+  PIB and most Indian outlets state the site as ITR Chandipur. Flight ~43 minutes; demonstrated
+  range not separately stated (design range ~1,000 km).
+sources:
+  - title: Successful Trial of 'Nirbhay' Sub-Sonic Cruise Missile (PRID 1570660)
+    publisher: Press Information Bureau (PIB)
+    tier: pib
+    url: https://pib.gov.in/PressReleasePage.aspx?PRID=1570660
+    date: "2019-04-15"
+    accessed: "2026-06-16"
+  - title: Nirbhay missile cruises at 5-m altitude for nearly 10 min
+    publisher: Onmanorama
+    tier: indian-news
+    url: >-
+      https://www.onmanorama.com/news/india/2019/04/15/india-test-fires-nirbhay-subsonic-missile-successfully.html
+    date: "2019-04-15"
+    accessed: "2026-06-16"
+  - title: India Test Fires Nuclear-Capable Nirbhay Cruise Missile
+    publisher: The Diplomat
+    tier: foreign-news
+    url: https://thediplomat.com/2019/04/india-test-fires-nuclear-capable-nirbhay-cruise-missile/
+    date: "2019-04-15"
+    accessed: "2026-06-16"

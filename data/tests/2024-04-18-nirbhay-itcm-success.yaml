@@ -1,0 +1,39 @@
+id: 2024-04-18-nirbhay-itcm-success
+missile_id: nirbhay
+variant: ITCM (Indigenous Technology Cruise Missile, Manik engine)
+designation: ITCM flight test (indigenous propulsion / Manik turbofan)
+date: "2024-04-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Successful flight test of the Indigenous Technology Cruise Missile (ITCM), the Nirbhay derivative
+  powered by the indigenous GTRE 'Manik' turbofan engine, from the ITR, Chandipur. All subsystems
+  performed as expected; the missile followed waypoint navigation and demonstrated very low altitude
+  sea-skimming flight. The trial was monitored by IAF Su-30MKI aircraft. Design strike range ~1,000
+  km.
+notes: >-
+  Conducted 18 April 2024 from ITR Chandipur, Odisha. Air-monitored by Su-30MKI (the missile itself
+  was ground-launched). Developed by DRDO's ADE (Bengaluru) with GTRE Manik propulsion. Note: the
+  separate LRLACM maiden test (Nov 2024) is a different missile and is excluded.
+sources:
+  - title: >-
+      DRDO conducts successful flight test of Indigenous Technology Cruise Missile from Chandipur
+      off Odisha coast
+    publisher: NewsOnAir (Prasar Bharati / All India Radio)
+    tier: indian-news
+    url: >-
+      https://newsonair.gov.in/drdo-conducts-successful-flight-test-of-indigenous-technology-cruise-missile-from-chandipur-off-odisha-coast
+    date: "2024-04-18"
+    accessed: "2026-06-16"
+  - title: >-
+      Major Boost to Atmanirbharta: DRDO successfully tests indigenous 'Nirbhay' ITCM at Chandipur
+      test range
+    publisher: Organiser
+    tier: indian-news
+    url: >-
+      https://organiser.org/2024/04/19/233321/bharat/major-boost-to-atmanirbharta-drdo-successfully-tests-indigenous-nirbhay-itcm-at-chandipur-test-range/
+    date: "2024-04-19"
+    accessed: "2026-06-16"

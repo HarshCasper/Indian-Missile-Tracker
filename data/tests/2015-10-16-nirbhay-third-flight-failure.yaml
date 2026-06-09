@@ -1,0 +1,38 @@
+id: 2015-10-16-nirbhay-third-flight-failure
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: Third developmental flight test
+date: "2015-10-16"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 128
+description: >-
+  Third flight test from ITR Chandipur. Booster ignition, booster separation, wing deployment and
+  engine start were achieved, but the trial was aborted after about 700 seconds; the missile
+  nose-dived into the Bay of Bengal after covering only about 128 km. Reported cause was a
+  guidance/wing-deployment problem that caused the inertial navigation system to lose its reference.
+notes: >-
+  Demonstrated only ~128 km before failure. Cause attributed to a guidance/wing-deployment problem.
+  CSIS frames it as terminated due to a guidance-system malfunction.
+sources:
+  - title: "Revealed: India's Deadly New Missile Fails Flight-Test"
+    publisher: The Diplomat
+    tier: foreign-news
+    url: https://thediplomat.com/2015/10/revealed-indias-deadly-new-missile-fails-flight-test/
+    date: "2015-10-16"
+    accessed: "2026-06-16"
+  - title: "Subsonic cruise missile Nirbhay flight test ends in 'failure': report"
+    publisher: India TV News
+    tier: indian-news
+    url: >-
+      https://www.indiatvnews.com/news/india-subsonic-cruise-missile-nirbhay-flight-test-ends-in-failure-report-361925
+    date: "2015-10-16"
+    accessed: "2026-06-16"
+  - title: India's Subsonic Cruise Missile Deviates From Path During Test Launch
+    publisher: Sputnik via GlobalSecurity
+    tier: foreign-news
+    url: https://www.globalsecurity.org/wmd/library/news/india/2015/india-151016-sputnik01.htm
+    date: "2015-10-16"
+    accessed: "2026-06-16"

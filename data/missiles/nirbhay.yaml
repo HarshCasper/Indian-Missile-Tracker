@@ -1,0 +1,87 @@
+id: nirbhay
+name: Nirbhay
+aka:
+  - Nirbhay LRSCM
+  - Long-Range Subsonic Cruise Missile
+  - ITCM (indigenous variant)
+category: cruise
+range_class: cruise
+developer: DRDO (Aeronautical Development Establishment, ADE)
+operators:
+  - India (under induction/limited)
+status: development
+range_km:
+  min: 800
+  max: 1000
+payload_kg: 300
+speed_mach: 0.8
+nuclear_capable: true
+propulsion: turbofan
+launch_platform:
+  - land mobile launcher
+  - ship/submarine (planned)
+  - aircraft (planned)
+variants:
+  - name: Nirbhay (baseline)
+    notes: Original DRDO long-range subsonic cruise missile; early tests used a Russian-origin turbofan.
+  - name: ITCM (Indigenous Technology Cruise Missile)
+    notes: >-
+      Indigenised variant powered by the DRDO/GTRE 'Manik' Small Turbofan Engine; successfully
+      tested April 2024.
+first_test: "2013-03-12"
+description: >-
+  Nirbhay is India's first indigenously developed long-range subsonic cruise missile, designed by
+  DRDO's Aeronautical Development Establishment to cruise at about Mach 0.7-0.8 with a range of
+  roughly 800-1,000 km. It uses a solid rocket booster for launch and a turbofan sustainer, with
+  INS/GPS/NavIC guidance and terrain-hugging sea-skimming flight. Its maiden flight on 12 March 2013
+  from Chandipur was aborted by self-destruct after a trajectory deviation, with a successful flight
+  following in October 2014. The indigenised ITCM variant, powered by the domestic 'Manik' turbofan,
+  was successfully tested in April 2024.
+claims:
+  - field: speed_mach
+    basis: assessed
+    text: Cruise speed cited variously as Mach 0.65-0.8 (subsonic).
+    source:
+      title: Nirbhay
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/nirbhay/
+  - field: nuclear_capable
+    basis: assessed
+    text: >-
+      Assessed as capable of carrying a ~12 kT nuclear warhead in addition to
+      conventional/submunition warheads; India has not officially declared a nuclear role.
+    source:
+      title: Nirbhay
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/nirbhay/
+  - field: payload_kg
+    basis: assessed
+    text: Warhead/payload reported between 200-450 kg depending on source.
+    source:
+      title: Nirbhay Subsonic Cruise Missile
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/nirbhay-subsonic-cruise-missile/
+sources:
+  - title: Nirbhay
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/nirbhay/
+  - title: Nirbhay Subsonic Cruise Missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/nirbhay-subsonic-cruise-missile/
+  - title: India Successfully Tests Indigenous Nirbhay (ITCM) Cruise Missile with Manik Turbofan Engine
+    tier: indian-news
+    publisher: Organiser
+    url: >-
+      https://organiser.org/2024/04/19/233321/bharat/major-boost-to-atmanirbharta-drdo-successfully-tests-indigenous-nirbhay-itcm-at-chandipur-test-range/
+confidence: confirmed
+notes: >-
+  First flight 12 March 2013 was aborted mid-flight by self-destruct after trajectory deviation;
+  first fully successful flight was 17 October 2014. The ITCM (Indigenous Technology Cruise Missile)
+  replaces the earlier Russian-origin engine with the indigenous 'Manik' STFE, and the LRLACM
+  programme is the productionised follow-on. Nuclear capability is an external assessment, not an
+  official Indian declaration.

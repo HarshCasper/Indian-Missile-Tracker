@@ -1,0 +1,39 @@
+id: 2013-03-12-nirbhay-maiden-flight-failure
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: First developmental flight test
+date: "2013-03-12"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Maiden flight test of the Nirbhay subsonic cruise missile from a road-mobile launcher at Launch
+  Complex-3 of the ITR, Chandipur. Lift-off, booster separation and wing deployment succeeded, but
+  roughly 15-17 minutes into flight the missile deviated from its planned path; mission controllers
+  terminated the trial for coastal safety and the missile crashed near the Odisha coast
+  (Jagatsinghpur district).
+notes: >-
+  Launched from Launch Complex-3, ITR Chandipur, Odisha. DRDO publicly characterised it as meeting
+  basic objectives, but independent reporting (Zeenews, Defense Update) treated it as a failed
+  maiden flight.
+sources:
+  - title: First Nirbhay Cruise Missile Test Fails
+    publisher: Defense Update
+    tier: foreign-news
+    url: https://defense-update.com/20130312_india-sets-for-first-nirbhay-cruise-missile-test.html
+    date: "2013-03-12"
+    accessed: "2026-06-16"
+  - title: Cruise missile 'Nirbhay' fails on maiden flight
+    publisher: Zee News
+    tier: indian-news
+    url: >-
+      https://zeenews.india.com/news/nation/cruise-missile-nirbhay-fails-on-maiden-flight_834767.html/amp
+    date: "2013-03-12"
+    accessed: "2026-06-16"
+  - title: Nirbhay (missile profile, flight-test history)
+    publisher: CSIS Missile Threat
+    tier: foreign-news
+    url: https://missilethreat.csis.org/missile/nirbhay/
+    accessed: "2026-06-16"

@@ -1,0 +1,39 @@
+id: 2016-12-21-nirbhay-fourth-flight-failure
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: Fourth developmental flight test
+date: "2016-12-21"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Fourth flight test from the ITR off the Odisha coast (Balasore/Chandipur). The missile veered
+  dangerously to one side within roughly two minutes of lift-off and had to be destroyed in mid-air.
+  Reported causes include loss of engine thrust, failure of the flight-control software, and a
+  wing-deployment problem.
+notes: >-
+  Launched from ITR Chandipur/Balasore, Odisha. CSIS Missile Threat headlines it as the fourth
+  test-launch failure.
+sources:
+  - title: India's Nirbhay Nuclear-Capable Cruise Missile Fails Fourth Test-Launch
+    publisher: CSIS Missile Threat
+    tier: foreign-news
+    url: >-
+      https://missilethreat.csis.org/indias-nirbhay-nuclear-capable-cruise-missile-fails-fourth-test-launch/
+    date: "2016-12-21"
+    accessed: "2026-06-16"
+  - title: India Extends Homemade Missile Program Despite Failed Test
+    publisher: Defense News
+    tier: foreign-news
+    url: >-
+      https://www.defensenews.com/naval/2017/01/11/india-extends-homemade-missile-program-despite-failed-test/
+    date: "2017-01-11"
+    accessed: "2026-06-16"
+  - title: India's First Sub Sonic Missile Nirbhay Fails in Test Flight
+    publisher: Sputnik International
+    tier: foreign-news
+    url: https://sputnikglobe.com/20161221/india-missile-test-1048845161.html
+    date: "2016-12-21"
+    accessed: "2026-06-16"

@@ -1,0 +1,58 @@
+id: 2014-10-17-nirbhay-second-flight-success
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: Second developmental flight test
+date: "2014-10-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 1000
+description: >-
+  Second flight test, fired from a mobile launcher at ITR Chandipur. The missile separated from its
+  booster, deployed wings and cruised through 15 pre-designated waypoints guided by an inertial
+  navigation system aided by GPS before splashing into the Bay of Bengal. Widely reported as the
+  first fully successful Nirbhay flight, to a range of about 1,000 km (some accounts cite ~1,050 km
+  over a ~70 minute flight).
+notes: >-
+  First successful Nirbhay flight. Demonstrated range reported as ~1,000 km (Al Jazeera, CSIS) to
+  ~1,050 km (Ajai Shukla/Business Standard).
+claims:
+  - field: range_tested_km
+    value: 1000
+    basis: reported
+    text: Range of about 1,000 km
+    source:
+      title: India tests first domestic cruise missile
+      publisher: Al Jazeera
+      tier: foreign-news
+      url: https://www.aljazeera.com/news/2014/10/17/india-tests-first-domestic-cruise-missile
+      date: "2014-10-17"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 1050
+    basis: reported
+    text: After 1,050 kilometres the missile splashed into the Bay of Bengal as planned
+    source:
+      title: Nirbhay cruise missile passes crucial test, but reliability still a question
+      publisher: Broadsword (Ajai Shukla)
+      tier: indian-news
+      url: https://www.ajaishukla.com/2017/11/nirbhay-cruise-missile-passes-crucial.html
+      accessed: "2026-06-16"
+sources:
+  - title: India tests first domestic cruise missile
+    publisher: Al Jazeera
+    tier: foreign-news
+    url: https://www.aljazeera.com/news/2014/10/17/india-tests-first-domestic-cruise-missile
+    date: "2014-10-17"
+    accessed: "2026-06-16"
+  - title: Nirbhay (missile profile, flight-test history)
+    publisher: CSIS Missile Threat
+    tier: foreign-news
+    url: https://missilethreat.csis.org/missile/nirbhay/
+    accessed: "2026-06-16"
+  - title: Nirbhay cruise missile passes crucial test, but reliability still a question
+    publisher: Broadsword (Ajai Shukla)
+    tier: indian-news
+    url: https://www.ajaishukla.com/2017/11/nirbhay-cruise-missile-passes-crucial.html
+    accessed: "2026-06-16"

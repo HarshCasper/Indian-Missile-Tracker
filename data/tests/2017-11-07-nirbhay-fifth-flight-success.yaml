@@ -1,0 +1,52 @@
+id: 2017-11-07-nirbhay-fifth-flight-success
+missile_id: nirbhay
+variant: Nirbhay (ground-launched, developmental)
+designation: Fifth developmental flight test
+date: "2017-11-07"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 647
+description: >-
+  Fifth developmental flight trial, fired from Launch Complex-3 of the ITR, Chandipur at about 10:30
+  a.m. Per the PIB/DRDO account the missile flew for about 50 minutes to a range of 647 km,
+  achieving all mission objectives from lift-off to final splash. First success after two
+  consecutive failures (2015 and 2016).
+notes: >-
+  PIB-reported demonstrated range 647 km, ~50 minute flight. Launched from LC-3, ITR Chandipur. Some
+  foreign coverage (The Diplomat) loosely described the site as 'Abdul Kalam Island' but the
+  underlying PIB/ANI account places the launch at LC-3, ITR Chandipur.
+claims:
+  - field: range_tested_km
+    value: 647
+    basis: official
+    text: Nirbhay flew for 50 minutes to a range of 647 km (PIB/DRDO)
+    source:
+      title: India successfully test-fires Nirbhay land-attack cruise missile
+      publisher: Quwa (citing PIB)
+      tier: foreign-news
+      url: >-
+        https://quwa.org/2017/11/07/india-successfully-test-fires-nirbhay-land-attack-cruise-missile/
+      date: "2017-11-07"
+      accessed: "2026-06-16"
+sources:
+  - title: India successfully test-fires Nirbhay land-attack cruise missile
+    publisher: Quwa (citing PIB)
+    tier: foreign-news
+    url: https://quwa.org/2017/11/07/india-successfully-test-fires-nirbhay-land-attack-cruise-missile/
+    date: "2017-11-07"
+    accessed: "2026-06-16"
+  - title: Subsonic cruise missile 'Nirbhay' test fired from Chandipur ITR
+    publisher: ANI
+    tier: indian-news
+    url: >-
+      https://www.aninews.in/news/national/general-news/subsonic-cruise-missile-nirbhay-test-fired-from-chandipur-itr201711071809000002/
+    date: "2017-11-07"
+    accessed: "2026-06-16"
+  - title: India's Subsonic Nuke Capable Cruise Missile Hits Bull's Eye on Fifth Trial
+    publisher: Sputnik via GlobalSecurity
+    tier: foreign-news
+    url: https://www.globalsecurity.org/wmd/library/news/india/2017/india-171107-sputnik02.htm
+    date: "2017-11-07"
+    accessed: "2026-06-16"

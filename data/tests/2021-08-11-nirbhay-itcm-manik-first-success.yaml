@@ -1,0 +1,78 @@
+id: 2021-08-11-nirbhay-itcm-manik-first-success
+missile_id: nirbhay
+variant: ITCM (Indigenous Technology Cruise Missile, Manik engine)
+designation: ITCM developmental trial (first flight with indigenous Manik engine)
+date: "2021-08-11"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+range_tested_km: 150
+description: >-
+  Flight test of the ITCM (Nirbhay derivative) powered by the indigenous GTRE 'Manik' small turbofan
+  engine, from ITR Chandipur off the Odisha coast. Reported as the first successful flight with the
+  indigenous engine, covering about 150 km in roughly 15 minutes. Some analysis (The Defense Post)
+  later characterised it as only partially successful, noting the missile again deviated from its
+  intended path even though the engine performed, and that the full dive/horizontal flight profile
+  was not validated.
+notes: >-
+  Date disputed: 11 August 2021 (Deccan Herald, EurasianTimes) vs 12 August 2021 (OdishaBytes,
+  Adda247, OvertDefense). Launched from ITR Chandipur. Outcome disputed between 'success' (DRDO/most
+  outlets) and 'partial' (The Defense Post retrospective). Engine: Manik STFE, ~400 kgf thrust class
+  (GTRE, Bengaluru).
+claims:
+  - field: date
+    basis: reported
+    text: Test on August 11, 2021
+    source:
+      title: DRDO Successfully Tests Missile Engine Technology
+      publisher: EurasianTimes
+      tier: foreign-news
+      url: >-
+        https://www.eurasiantimes.com/drdo-successfully-tests-missile-engine-technology-experts-say-will-boost-indias-military-drone-capability/
+      date: "2021-08-11"
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: Test on August 12, 2021
+    source:
+      title: DRDO Successfully Test-Fires Nirbhay Missile
+      publisher: Adda247 Current Affairs
+      tier: indian-news
+      url: https://currentaffairs.adda247.com/drdo-successfully-test-fires-nirbhay-missile/
+      date: "2021-08-12"
+      accessed: "2026-06-16"
+  - field: outcome
+    basis: assessed
+    text: >-
+      Second ITCM test partially successful, as the engine performed properly despite the missile
+      again deviating from its original flight path
+    source:
+      title: India Test Launches Indigenous Cruise Missile
+      publisher: The Defense Post
+      tier: foreign-news
+      url: https://thedefensepost.com/2023/02/23/india-launches-cruise-missile/
+      date: "2023-02-23"
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO successfully tests 'Nirbhay' missile; engine designed by labs in Bengaluru
+    publisher: Deccan Herald
+    tier: indian-news
+    url: >-
+      https://www.deccanherald.com/national/drdo-successfully-tests-nirbhay-missile-engine-designed-by-labs-in-bengaluru-1018720.html
+    date: "2021-08-11"
+    accessed: "2026-06-16"
+  - title: Indigenous Cruise Missile System With 'Manik' Turbofan Engine Test-Fired Off Odisha Coast
+    publisher: OdishaBytes
+    tier: indian-news
+    url: >-
+      https://odishabytes.com/indigenous-cruise-missile-system-with-manik-turbofan-engine-test-fired-off-odisha-coast/
+    date: "2021-08-12"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests The Nirbhay (ITCM) Cruise Missile Developed by The DRDO
+    publisher: Overt Defense
+    tier: foreign-news
+    url: >-
+      https://www.overtdefense.com/2021/08/12/india-successfully-tests-the-nirbhay-itcm-cruise-missile-developed-by-the-drdo/
+    date: "2021-08-12"
+    accessed: "2026-06-16"

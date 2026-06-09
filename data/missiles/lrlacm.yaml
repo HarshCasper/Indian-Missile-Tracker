@@ -1,0 +1,78 @@
+id: lrlacm
+name: LRLACM (Long Range Land Attack Cruise Missile)
+aka:
+  - Long-Range Land Attack Cruise Missile
+  - LR-LACM
+category: cruise
+range_class: cruise
+developer: DRDO (Aeronautical Development Establishment, ADE) with BDL and BEL
+operators:
+  - India (under development; Army/Navy intended)
+status: development
+range_km:
+  min: 1000
+  max: 1500
+speed_mach: 0.8
+nuclear_capable: false
+propulsion: turbofan
+launch_platform:
+  - land mobile articulated launcher
+  - ship (Universal Vertical Launch Module)
+variants:
+  - name: Ground-launched
+    notes: Mobile articulated launcher.
+  - name: Ship-launched
+    notes: Compatible with the Universal Vertical Launch Module (UVLM) used by BrahMos.
+first_test: "2024-11-12"
+description: >-
+  The LRLACM is an indigenous subsonic long-range land-attack cruise missile developed by DRDO's
+  Aeronautical Development Establishment, productionised from the Nirbhay/ITCM lineage with Bharat
+  Dynamics Limited and Bharat Electronics Limited as production partners. It uses the indigenous
+  'Manik' small turbofan engine, waypoint navigation and the ability to loiter and perform terminal
+  manoeuvres, with a reported range around 1,000 km (some reports cite up to ~1,500 km). DRDO
+  conducted its maiden flight test on 12 November 2024 from the Integrated Test Range, Chandipur,
+  off the Odisha coast using a mobile articulated launcher, with all subsystems meeting mission
+  objectives. It is configured to launch from both ground launchers and frontline ships via the
+  Universal Vertical Launch Module.
+claims:
+  - field: range_km
+    basis: official
+    value: 1000
+    text: Reported ~1,000 km range at maiden test (PIB/DRDO release).
+    source:
+      title: DRDO conducts maiden flight-test of Long Range Land Attack Cruise Missile off Odisha coast
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2072829&reg=3&lang=2
+  - field: range_km
+    basis: reported
+    value: 1500
+    text: Some Indian press cite a target range up to ~1,500 km.
+    source:
+      title: India successfully tests indigenous long-range land attack cruise missile
+      tier: indian-news
+      publisher: Business Standard
+      url: >-
+        https://www.business-standard.com/external-affairs-defence-security/news/india-successfully-tests-indigenous-long-range-land-attack-cruise-missile-126061501155_1.html
+sources:
+  - title: >-
+      DRDO conducts maiden flight-test of Long Range Land Attack Cruise Missile off Odisha coast (12
+      Nov 2024)
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2072829&reg=3&lang=2
+  - title: India Flight Tests 1,000 Km Cruise Missile
+    tier: foreign-news
+    publisher: The Defense Post
+    url: https://thedefensepost.com/2024/11/15/india-tests-cruise-missile/
+  - title: DRDO Successfully Conducts Maiden Flight Test of LRLACM
+    tier: indian-news
+    publisher: Adda247 Current Affairs
+    url: >-
+      https://currentaffairs.adda247.com/drdo-successfully-conducts-maiden-flight-test-of-long-range-land-attack-cruise-missile-lrlacm/
+confidence: confirmed
+notes: >-
+  Productionised, indigenised cruise missile derived from the Nirbhay/ITCM line, using the
+  indigenous 'Manik' STFE turbofan. Maiden flight test 12 November 2024 confirmed by PIB. Ground-
+  and ship-launched (UVLM, shared with BrahMos). No nuclear role disclosed; recorded as
+  conventional. Range figures vary (~1,000 km official at test vs ~1,500 km in some reports).

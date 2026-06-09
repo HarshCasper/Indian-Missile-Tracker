@@ -1,0 +1,35 @@
+id: 2022-10-28-nirbhay-itcm-manik-failure
+missile_id: nirbhay
+variant: ITCM (Indigenous Technology Cruise Missile, Manik engine)
+designation: ITCM developmental trial (indigenous Manik turbofan)
+date: "2022-10-28"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  ITCM flight test from the ITR, Chandipur, powered by the indigenous 'Manik' turbofan engine. The
+  engine failed to start after the initial boost phase from the mobile launcher; the missile plunged
+  into the sea about 30 seconds after take-off. Widely reported as a failure and the second
+  ITCM/Manik failure in roughly two years.
+notes: >-
+  Launched from ITR Chandipur, Odisha. Cause attributed to the Manik engine failing to ignite after
+  booster separation. Date 28 October 2022.
+sources:
+  - title: >-
+      Why Did Nirbhay Cruise Missile Test-Fired Yesterday Fail? The New Engine May Have Something To
+      Do With It
+    publisher: Swarajya
+    tier: indian-news
+    url: >-
+      https://swarajyamag.com/news-brief/why-did-nirbhay-cruise-missile-test-fired-yesterday-fail-the-new-engine-may-have-something-to-do-with-it
+    date: "2022-10-29"
+    accessed: "2026-06-16"
+  - title: Big Setback For India's UAV & Missile Program; 'Made In India' Manik Engine Fails Crucial Test
+    publisher: EurasianTimes
+    tier: foreign-news
+    url: >-
+      https://www.eurasiantimes.com/fresh-setback-for-drdos-indigenous-missile-program-as-made-in-india/
+    date: "2022-10-31"
+    accessed: "2026-06-16"

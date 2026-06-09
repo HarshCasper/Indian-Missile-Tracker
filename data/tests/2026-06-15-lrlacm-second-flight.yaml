@@ -1,0 +1,95 @@
+id: 2026-06-15-lrlacm-second-flight
+missile_id: lrlacm
+variant: ground-launched (Dr APJ Abdul Kalam Island)
+date: "2026-06-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  DRDO conducted a successful flight-test of the Long Range Land Attack Cruise Missile (LRLACM) from
+  Dr APJ Abdul Kalam Island off the Odisha coast. All test objectives were fully met as per data
+  captured by tracking instruments deployed by the Integrated Test Range, Chandipur, validating
+  critical technologies across propulsion, guidance, navigation and control through the midcourse
+  and terminal phases. The launch was witnessed by senior DRDO officials and user representatives
+  from the Indian Navy and Indian Air Force, the prospective operators.
+notes: >-
+  Chronologically the second LRLACM flight test, following the 12 Nov 2024 maiden test, though the
+  June 2026 official release and most outlets do not explicitly label it the 'second' test. Defence
+  Minister Rajnath Singh congratulated DRDO and industry partners (ADE Bengaluru is nodal lab). No
+  specific distance flown was disclosed for this test. Date (15 Jun 2026), site (Dr APJ Abdul Kalam
+  Island) and success outcome corroborated across PIB (PRID 2273160), The Tribune, ETV Bharat, India
+  TV, Business Standard and others. PIB and some news pages returned HTTP 403 on direct fetch but
+  titles/content were visible in search and independently corroborated.
+sources:
+  - title: DRDO conducts successful flight-test of Long Range Land Attack Cruise Missile
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    date: "2026-06-15"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2273160&reg=48&lang=2
+    accessed: "2026-06-16"
+  - title: DRDO successfully conducts flight-test of long-range land attack cruise missile
+    tier: indian-news
+    publisher: The Tribune
+    date: "2026-06-15"
+    url: >-
+      https://www.tribuneindia.com/news/india/drdo-successfully-conducts-flight-test-of-long-range-land-attack-cruise-missile/
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO Conducts Successful Flight Test Of Indigenously Developed Long Range Land Attack Cruise
+      Missile
+    tier: indian-news
+    publisher: ETV Bharat
+    date: "2026-06-15"
+    url: >-
+      https://www.etvbharat.com/en/bharat/drdo-conducts-successful-flight-test-of-indigenously-developed-long-range-land-attack-cruise-missile-enn26061506048
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO conducts flight-test of indigenous Long Range Land Attack Cruise Missile: All you need to
+      know
+    tier: indian-news
+    publisher: India TV News
+    date: "2026-06-15"
+    url: >-
+      https://www.indiatvnews.com/news/india/drdo-conducts-flight-test-of-indigenous-long-range-land-attack-cruise-missile-off-odisha-coast-2026-06-15-1044945
+    accessed: "2026-06-16"
+  - title: India successfully tests indigenous long-range land attack cruise missile
+    tier: indian-news
+    publisher: Business Standard
+    date: "2026-06-15"
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/india-successfully-tests-indigenous-long-range-land-attack-cruise-missile-126061501155_1.html
+    accessed: "2026-06-16"
+claims:
+  - field: range_km
+    text: >-
+      Most reporting cites the LRLACM's design/stated strike range as exceeding 1,000 km while
+      flying at subsonic speed (around Mach 0.8). This is a design capability, not a distance
+      demonstrated in this test.
+    value: 1000
+    basis: official
+    source:
+      title: DRDO successfully conducts flight-test of long-range land attack cruise missile
+      tier: indian-news
+      publisher: The Tribune
+      url: >-
+        https://www.tribuneindia.com/news/india/drdo-successfully-conducts-flight-test-of-long-range-land-attack-cruise-missile/
+      accessed: "2026-06-16"
+  - field: range_km
+    text: >-
+      India TV uniquely cited a range of up to 1,500 km. Range figures conflict across outlets
+      (~1,000 km vs 1,500 km); the figure is a design capability, not a distance demonstrated in
+      this test.
+    min: 1000
+    max: 1500
+    basis: reported
+    source:
+      title: >-
+        DRDO conducts flight-test of indigenous Long Range Land Attack Cruise Missile: All you need
+        to know
+      tier: indian-news
+      publisher: India TV News
+      url: >-
+        https://www.indiatvnews.com/news/india/drdo-conducts-flight-test-of-indigenous-long-range-land-attack-cruise-missile-off-odisha-coast-2026-06-15-1044945
+      accessed: "2026-06-16"

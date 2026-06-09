@@ -1,0 +1,34 @@
+id: 2023-02-21-nirbhay-itcm-success
+missile_id: nirbhay
+variant: ITCM (Indigenous Technology Cruise Missile, Manik engine)
+designation: ITCM developmental trial (indigenous Manik/STFE)
+date: "2023-02-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  ITCM flight test from Launch Complex-3 of the ITR, Chandipur, powered by the indigenous small
+  turbofan engine (STFE/Manik). Reported as a successful trial that validated the indigenous engine
+  after the 2020-2022 setbacks, clearing the way to integrate the STFE into the Long-Range Land
+  Attack Cruise Missile (LRLACM).
+notes: >-
+  Test conducted 21 February 2023 from LC-3, ITR Chandipur; reported by some outlets on 23 February
+  2023. Outcome reported as success. Range/duration not publicly quantified.
+sources:
+  - title: India Test Launches Indigenous Cruise Missile
+    publisher: The Defense Post
+    tier: foreign-news
+    url: https://thedefensepost.com/2023/02/23/india-launches-cruise-missile/
+    date: "2023-02-23"
+    accessed: "2026-06-16"
+  - title: >-
+      Indigenous Cruise Missile System With 'Manik' Turbofan Engine Test-Fired Off Odisha Coast (Feb
+      21, 2023, LC-3 ITR Chandipur)
+    publisher: OdishaBytes
+    tier: indian-news
+    url: >-
+      https://odishabytes.com/indigenous-cruise-missile-system-with-manik-turbofan-engine-test-fired-off-odisha-coast/
+    date: "2023-02-21"
+    accessed: "2026-06-16"

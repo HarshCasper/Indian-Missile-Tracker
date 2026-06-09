@@ -1,0 +1,39 @@
+id: 2020-10-12-nirbhay-itcm-manik-failure
+missile_id: nirbhay
+variant: ITCM (Indigenous Technology Cruise Missile, Manik engine)
+designation: ITCM developmental trial (indigenous Manik turbofan)
+date: "2020-10-12"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  First flight test of the Nirbhay-derived Indigenous Technology Cruise Missile (ITCM) fitted with
+  the indigenous GTRE 'Manik' small turbofan engine, from the ITR off the Odisha coast. The booster
+  phase achieved speed and altitude, but the new engine could not reach the required power level in
+  the cruise phase; the missile flew only about eight minutes before the flight was aborted and the
+  missile fell into the Bay of Bengal.
+notes: >-
+  Reported test date 12 October 2020 (some outlets reference the abort as 13 October 2020). Launched
+  from ITR Chandipur, Odisha. Attributed to an engine/technical snag. Marked 'reported' confidence
+  as coverage is single-strand secondary reporting rather than an official failure acknowledgement.
+sources:
+  - title: >-
+      Why Did Nirbhay Cruise Missile Test-Fired Yesterday Fail? The New Engine May Have Something To
+      Do With It
+    publisher: Swarajya
+    tier: indian-news
+    url: >-
+      https://swarajyamag.com/news-brief/why-did-nirbhay-cruise-missile-test-fired-yesterday-fail-the-new-engine-may-have-something-to-do-with-it
+    date: "2020-10-13"
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO successfully tests 'Nirbhay' missile; engine designed by labs in Bengaluru (references
+      October 12, 2020 abort)
+    publisher: Deccan Herald
+    tier: indian-news
+    url: >-
+      https://www.deccanherald.com/national/drdo-successfully-tests-nirbhay-missile-engine-designed-by-labs-in-bengaluru-1018720.html
+    date: "2021-08-11"
+    accessed: "2026-06-16"

@@ -1,0 +1,91 @@
+id: 2024-11-12-lrlacm-maiden-flight
+missile_id: lrlacm
+variant: ground-launched (mobile articulated launcher)
+date: "2024-11-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO conducted the maiden flight-test of the Long Range Land Attack Cruise Missile (LRLACM) from
+  the Integrated Test Range (ITR), Chandipur, off the Odisha coast, launched from a mobile
+  articulated launcher. All sub-systems performed as expected and the missile met its primary
+  mission objectives, following the desired path using waypoint navigation and demonstrating
+  manoeuvres at various altitudes and speeds. The flight was monitored by radar, an electro-optical
+  tracking system and telemetry stations.
+notes: >-
+  First flight test of the LRLACM, a subsonic (around Mach 0.8) cruise missile developed with
+  Aeronautical Development Establishment (ADE), Bengaluru, as nodal lab; Bharat Dynamics Ltd and
+  Bharat Electronics Ltd are development-cum-production partners. No specific distance flown was
+  disclosed for this test. Test date (12 Nov 2024) is corroborated by PIB, All India Radio, ETV
+  Bharat and Army Recognition; The Tribune's 13 Nov 2024 is its publication date, not the test date.
+  PIB pages (PRID 2072829) returned HTTP 403 on direct fetch but the release and its title were
+  visible in search and the content is independently corroborated.
+sources:
+  - title: DRDO conducts maiden flight-test of Long Range Land Attack Cruise Missile off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    date: "2024-11-12"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2072829&reg=3&lang=2
+    accessed: "2026-06-16"
+  - title: DRDO conducts maiden flight-test of Long Range Land Attack Cruise Missile
+    tier: indian-news
+    publisher: All India Radio / News On Air (Prasar Bharati)
+    date: "2024-11-12"
+    url: >-
+      https://www.newsonair.gov.in/drdo-conducts-maiden-flight-test-of-long-range-land-attack-cruise-missile
+    accessed: "2026-06-16"
+  - title: India's Long-Range Land Attack Cruise Missile Completes Maiden Test, Hits All Mission Goals
+    tier: indian-news
+    publisher: ETV Bharat
+    date: "2024-11-13"
+    url: >-
+      https://www.etvbharat.com/en/!bharat/drdo-successfully-test-fires-long-range-land-attack-cruise-missile-from-odishas-chandipur-enn24111302474
+    accessed: "2026-06-16"
+  - title: >-
+      India Conducts First Flight Test of New Long-Range Land Attack Cruise Missile off Indian Ocean
+      Coast
+    tier: foreign-news
+    publisher: Army Recognition
+    date: "2024-11-13"
+    url: >-
+      https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2024/breaking-news-india-conducts-first-flight-test-of-new-long-range-land-attack-cruise-missile-off-indian-ocean-coast
+    accessed: "2026-06-16"
+  - title: Long range cruise missile passes maiden flight test
+    tier: indian-news
+    publisher: The Tribune
+    date: "2024-11-13"
+    url: https://www.tribuneindia.com/news/india/long-range-cruise-missile-passes-maiden-flight-test
+    accessed: "2026-06-16"
+claims:
+  - field: range_km
+    text: >-
+      Most reporting and DRDO-derived figures cite the LRLACM's design/stated strike range as ~1,000
+      km (subsonic, around Mach 0.8); this is a design capability, not a distance demonstrated in
+      this specific test.
+    value: 1000
+    basis: official
+    source:
+      title: Long range cruise missile passes maiden flight test
+      tier: indian-news
+      publisher: The Tribune
+      url: https://www.tribuneindia.com/news/india/long-range-cruise-missile-passes-maiden-flight-test
+      accessed: "2026-06-16"
+  - field: range_km
+    text: >-
+      Some outlets cite a higher figure of over 1,500 km; foreign reporting (Army Recognition)
+      listed maximum range over 1,500 km. Range figures conflict across sources (~1,000 km vs >1,500
+      km) and none is a distance flown in this test.
+    min: 1000
+    max: 1500
+    basis: reported
+    source:
+      title: >-
+        India Conducts First Flight Test of New Long-Range Land Attack Cruise Missile off Indian
+        Ocean Coast
+      tier: foreign-news
+      publisher: Army Recognition
+      url: >-
+        https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2024/breaking-news-india-conducts-first-flight-test-of-new-long-range-land-attack-cruise-missile-off-indian-ocean-coast
+      accessed: "2026-06-16"
