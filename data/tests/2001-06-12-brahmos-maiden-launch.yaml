@@ -1,0 +1,35 @@
+id: 2001-06-12-brahmos-maiden-launch
+missile_id: brahmos
+variant: Surface-launch prototype (vertical)
+designation: First flight test
+date: "2001-06-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  Maiden flight test of the BrahMos supersonic cruise missile, fired from a stationary vertical
+  launcher off the Chandipur coast in Odisha. BrahMos Aerospace describes it as the first successful
+  launch of the system.
+notes: >-
+  First-ever BrahMos launch. The 290 km figure is the missile's design range, not a distance
+  reported as flown in this specific test, so it is not recorded as range_tested_km. Confirmed by
+  the official BrahMos Aerospace history page and a 25th-anniversary retrospective in The Tribune.
+sources:
+  - title: History — first successful BrahMos launch on 12 June 2001
+    tier: pib
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/page/history
+    accessed: "2026-06-16"
+  - title: "BrahMos turns 25: A look at the evolution of India's supersonic cruise missile"
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/defence/brahmos-turns-25-a-look-at-the-evolution-of-indias-supersonic-cruise-missile/
+    accessed: "2026-06-16"
+  - title: How The BrahMos Missile Has Evolved Since It Was Test Fired For The First Time
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/defence/how-the-brahmos-missile-has-evolved-since-it-was-test-fired-for-the-first-time-on-this-day-20-years-ago
+    accessed: "2026-06-16"

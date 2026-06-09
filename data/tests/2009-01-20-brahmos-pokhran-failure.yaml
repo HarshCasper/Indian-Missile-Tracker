@@ -1,0 +1,29 @@
+id: 2009-01-20-brahmos-pokhran-failure
+missile_id: brahmos
+variant: Surface-to-surface (land-attack) Block II (developmental)
+designation: Army developmental test (failure)
+date: "2009-01-20"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: pokhran-range
+description: >-
+  Developmental BrahMos test at the Pokhran range, Rajasthan, in which the missile took off
+  successfully but deviated from its planned path and fell roughly 7 km from the target, attributed
+  to a loss of satellite-navigation input to the inertial navigation system.
+notes: >-
+  ADDED test (missing from original list). Reported as a software/navigation-induced miss; flagged a
+  GPS-dependency concern. Corroborated by an Indian Defence Research Wing account and
+  contemporaneous reporting referenced in the 4 March 2009 follow-up IRNA dispatch.
+sources:
+  - title: India successfully test fires 'BrahMos' missile (references 20 Jan deviation)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2009/india-090304-irna01.htm
+    accessed: "2026-06-16"
+  - title: BrahMos Test Failure During Obama's Inauguration
+    tier: further-reading
+    publisher: Indian Defence Research Wing (idrw.org)
+    url: >-
+      https://idrw.org/brahmos-test-failure-during-obamas-inauguration-a-wake-up-call-for-indias-gps-dependency/
+    accessed: "2026-06-16"

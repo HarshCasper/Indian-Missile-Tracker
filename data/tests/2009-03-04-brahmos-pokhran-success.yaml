@@ -1,0 +1,23 @@
+id: 2009-03-04-brahmos-pokhran-success
+missile_id: brahmos
+variant: Surface-to-surface (land-attack) Block II
+designation: Army developmental test (repeat)
+date: "2009-03-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: pokhran-range
+description: >-
+  Repeat developmental test at the Pokhran range, Rajasthan, after the 20 January 2009 failure. The
+  missile took about two-and-a-half minutes to strike its target and the test was declared
+  successful; witnessed by the Deputy Chief of Army Staff.
+notes: >-
+  ADDED test (missing from original list). Part of the Block-II evaluation with
+  target-discrimination seeker software for land attack. Reported via IRNA/GlobalSecurity and Indian
+  outlets.
+sources:
+  - title: India successfully test fires 'BrahMos' missile (4 March 2009)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2009/india-090304-irna01.htm
+    accessed: "2026-06-16"

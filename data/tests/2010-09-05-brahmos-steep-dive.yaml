@@ -1,0 +1,28 @@
+id: 2010-09-05-brahmos-steep-dive
+missile_id: brahmos
+variant: Surface-to-surface (land-attack) Block II
+designation: Developmental trial (supersonic steep-dive)
+date: "2010-09-05"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  BrahMos fired from Launch Complex-3 at the Integrated Test Range, Chandipur, becoming (per
+  reports) the first cruise missile tested in a steep-dive mode at supersonic speed, addressing the
+  Army's Block-II target-discrimination requirement. Described as the system's 23rd flight.
+notes: >-
+  ADDED test (missing from original list). Corroborated by Sputnik and Army Technology; the 'first
+  cruise missile in supersonic steep-dive' claim is a reported characterization rather than an
+  independently certified record.
+sources:
+  - title: India's BrahMos missile tested in steep-dive mode
+    tier: foreign-news
+    publisher: Sputnik International (RIA Novosti)
+    url: https://sputnikglobe.com/20100906/160483587.html
+    accessed: "2026-06-16"
+  - title: BrahMos Supersonic Cruise Missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/brahmossupersoniccru/
+    accessed: "2026-06-16"

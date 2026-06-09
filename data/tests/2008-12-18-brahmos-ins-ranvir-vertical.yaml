@@ -1,0 +1,23 @@
+id: 2008-12-18-brahmos-ins-ranvir-vertical
+missile_id: brahmos
+variant: Anti-ship (ASM, vertical launch)
+designation: First vertical launch from a moving warship
+date: "2008-12-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+description: >-
+  First-ever vertical launch of BrahMos from a moving warship, fired from the destroyer INS Ranvir
+  in the Bay of Bengal off India's eastern coast. The launch met all mission requirements and gave
+  the ship a full 360-degree engagement capability.
+notes: >-
+  ADDED test (missing from original list). Vessel: INS Ranvir (Rajput-class). Launch in the Bay of
+  Bengal; site approximated to the offshore/naval facility. Confirmed by the official BrahMos
+  Aerospace press release.
+sources:
+  - title: First ever vertical launch of BRAHMOS missile from moving warship
+    tier: pib
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/press-release/62
+    accessed: "2026-06-16"

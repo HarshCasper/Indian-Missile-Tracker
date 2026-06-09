@@ -1,0 +1,23 @@
+id: 2007-02-04-brahmos-mobile-launcher
+missile_id: brahmos
+variant: Surface-to-surface (land-attack)
+designation: Developmental trial (mobile launcher)
+date: "2007-02-04"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  BrahMos test-fired from a road-mobile launcher (a multi-axle Tatra truck serving as the base
+  platform) at the Integrated Test Range, Chandipur, near Balasore, Odisha. Officials called the
+  launch successful pending data analysis.
+notes: >-
+  This entry replaces the original list's '2007-04-16 S-manoeuvre' item, which mis-cited this same
+  IRNA URL: the 4 Feb 2007 IRNA report describes a mobile-launcher test and does NOT mention an
+  evasive 'S' manoeuvre. Date and details taken directly from the IRNA dispatch.
+sources:
+  - title: India test-fires BrahMos missile from mobile launcher
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-070204-irna01.htm
+    accessed: "2026-06-16"

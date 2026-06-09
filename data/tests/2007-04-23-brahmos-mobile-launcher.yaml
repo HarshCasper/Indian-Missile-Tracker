@@ -1,0 +1,22 @@
+id: 2007-04-23-brahmos-mobile-launcher
+missile_id: brahmos
+variant: Surface-to-surface (land-attack)
+designation: Army trial (mobile launcher)
+date: "2007-04-23"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  Land-attack BrahMos fired from a mobile launcher at the Integrated Test Range, Chandipur; the
+  missile followed its predetermined course and met all mission parameters. Reported as the 14th
+  test launch of the system.
+notes: >-
+  Corrected date to 23 April 2007 per the IRNA/GlobalSecurity dispatch (the original compiled entry
+  listed 22 April). IRNA cited a 290 km range for the system.
+sources:
+  - title: India test-fires BrahMos missile from mobile launcher (14th test)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-070423-irna01.htm
+    accessed: "2026-06-16"

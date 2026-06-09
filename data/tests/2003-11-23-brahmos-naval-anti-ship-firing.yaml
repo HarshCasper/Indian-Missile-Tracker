@@ -1,0 +1,24 @@
+id: 2003-11-23-brahmos-naval-anti-ship-firing
+missile_id: brahmos
+variant: Anti-ship (ASM)
+designation: First naval development firing
+date: "2003-11-23"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: offshore-visakhapatnam
+description: >-
+  Anti-ship version of BrahMos fired from an Indian naval warship over the Bay of Bengal; the
+  missile followed its planned trajectory and hit the intended target. IRNA described it as the
+  first development firing of the anti-ship missile from a ship.
+notes: >-
+  Reported via IRNA/GlobalSecurity (24 Nov 2003 dispatch). The IRNA report does NOT name the vessel
+  as INS Rajput and does NOT describe it as the 'sixth' firing; those details in the original
+  compiled entry were unsupported and have been removed. Site approximated to the Bay of Bengal
+  naval test area.
+sources:
+  - title: Indian naval warship carries out first development firing of BrahMos anti-ship missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2003/india-031124-irna02.htm
+    accessed: "2026-06-16"

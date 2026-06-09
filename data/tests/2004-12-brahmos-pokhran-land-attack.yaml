@@ -1,0 +1,51 @@
+id: 2004-12-brahmos-pokhran-land-attack
+missile_id: brahmos
+variant: Surface-to-surface (land-attack) Block I
+designation: First Army land-attack test
+date: 2004-12
+date_precision: month
+outcome: success
+confidence: disputed
+site_id: pokhran-range
+description: >-
+  First test of the land-attack / surface-to-surface BrahMos (Block I) for the Indian Army,
+  conducted at the Pokhran range in Rajasthan, where the missile demonstrated an evasive 'S'
+  manoeuvre at around Mach 2.8.
+notes: >-
+  Date is disputed: most secondary sources place this in December 2004, but a precise day is not
+  reliably attested and some accounts cite November 2004. Recorded at month precision. CAUTION: the
+  URL https://www.brahmos.com/brahmos-in-media/46 cited in the original compilation for a '21
+  November 2004' claim actually serves a report about a 7 November 2015 Pokhran test, so it does not
+  support a 2004 date and has been dropped as a citation.
+claims:
+  - field: date
+    text: December 2004 (evasive 'S' manoeuvre at Mach 2.8, Pokhran)
+    basis: reported
+    source:
+      title: BrahMos – The Great Indian 'Atmanirbhar' Story
+      tier: further-reading
+      publisher: airpowerasia
+      url: >-
+        https://airpowerasia.com/2020/07/18/brahmos-the-great-indian-atmanirbhar-story-a-significant-weapon/
+      accessed: "2026-06-16"
+  - field: date
+    text: December 2004 land-attack Block I test at Pokhran (also references a March 2007 desert test)
+    basis: reported
+    source:
+      title: BrahMos hits 'bull's eye' in Pokhran
+      tier: foreign-news
+      publisher: Gulf News
+      url: https://gulfnews.com/world/asia/india/brahmos-hits-bulls-eye-in-pokhran-1.60035
+      accessed: "2026-06-16"
+sources:
+  - title: BrahMos – The Great Indian 'Atmanirbhar' Story
+    tier: further-reading
+    publisher: airpowerasia
+    url: >-
+      https://airpowerasia.com/2020/07/18/brahmos-the-great-indian-atmanirbhar-story-a-significant-weapon/
+    accessed: "2026-06-16"
+  - title: BrahMos hits 'bull's eye' in Pokhran
+    tier: foreign-news
+    publisher: Gulf News
+    url: https://gulfnews.com/world/asia/india/brahmos-hits-bulls-eye-in-pokhran-1.60035
+    accessed: "2026-06-16"

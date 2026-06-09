@@ -1,0 +1,27 @@
+id: 2004-06-14-brahmos-mobile-launcher
+missile_id: brahmos
+variant: Surface-launch Block I (land)
+designation: Developmental trial (mobile launcher)
+date: "2004-06-14"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  BrahMos fired in an inclined configuration from a land-based mobile launcher at the Integrated
+  Test Range, Chandipur, demonstrating operational flexibility for army applications.
+notes: >-
+  Corrected date to 14 June 2004 (the original compiled entry listed 13 June). Corroborated by
+  Indian Defence Review's BrahMos history and the airpowerasia BrahMos retrospective.
+sources:
+  - title: "BrahMos: The success story of the Indian Cruise Missile"
+    tier: foreign-news
+    publisher: Indian Defence Review
+    url: https://indiandefencereview.com/brahmos-the-success-story-of-the-indian-cruise-missile/
+    accessed: "2026-06-16"
+  - title: BrahMos – The Great Indian 'Atmanirbhar' Story
+    tier: further-reading
+    publisher: airpowerasia
+    url: >-
+      https://airpowerasia.com/2020/07/18/brahmos-the-great-indian-atmanirbhar-story-a-significant-weapon/
+    accessed: "2026-06-16"

@@ -1,0 +1,113 @@
+id: brahmos
+name: BrahMos
+aka:
+  - PJ-10
+  - BrahMos Block I/II/III
+category: cruise
+range_class: cruise
+developer: BrahMos Aerospace (DRDO, India + NPO Mashinostroyeniya/NPOM, Russia)
+operators:
+  - India (Army, Navy, Air Force)
+  - Philippines (export)
+status: operational
+range_km:
+  min: 290
+  max: 450
+payload_kg: 300
+speed_mach: 2.8
+nuclear_capable: false
+propulsion: solid+liquid
+launch_platform:
+  - land mobile autonomous launcher
+  - ship (vertical/inclined)
+  - submarine
+  - aircraft (Su-30MKI)
+variants:
+  - name: Ship-launched (anti-ship/land-attack)
+    notes: Inclined and vertical launch configurations on Indian Navy frontline ships.
+  - name: Land-attack (Block I/II/III)
+    notes: >-
+      Mobile autonomous launcher; Block II added advanced target discrimination, Block III
+      steep-dive/terrain capability.
+  - name: Submarine-launched
+    notes: Vertical-launch from submarine demonstrated in 2013.
+first_test: "2001-06-12"
+description: >-
+  BrahMos is a two-stage supersonic cruise missile jointly developed by India's DRDO and Russia's
+  NPO Mashinostroyeniya through the BrahMos Aerospace joint venture, derived from the Russian P-800
+  Oniks/Yakhont. It uses a solid-propellant booster first stage and a liquid-fuelled ramjet
+  sustainer to cruise at about Mach 2.8 and is deployable from land, ships, submarines and aircraft.
+  The baseline operational range was 290 km (capped by MTCR rules) and was extended to 450 km after
+  India joined the MTCR in 2016. It is the world's fastest operational cruise missile and was first
+  exported to the Philippines.
+claims:
+  - field: range_km
+    basis: official
+    value: 290
+    text: Baseline range up to 290 km per BrahMos Aerospace (MTCR-era cap).
+    source:
+      title: BrahMos Missile
+      tier: further-reading
+      publisher: BrahMos Aerospace
+      url: https://www.brahmos.com/page/brahmos-missile
+  - field: range_km
+    basis: reported
+    value: 450
+    text: >-
+      Extended to 450 km after India joined the MTCR (2016); land-attack ER first tested 11 March
+      2017.
+    source:
+      title: Indian Army test-fires extended range BrahMos cruise missile
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/defence/indian-army-test-fires-extended-range-brahmos-cruise-missile
+  - field: payload_kg
+    basis: official
+    value: 200
+    text: >-
+      Conventional warhead up to 200 kg per BrahMos Aerospace official specs; air-launched and other
+      sources cite 200-300 kg.
+    source:
+      title: BrahMos Missile
+      tier: further-reading
+      publisher: BrahMos Aerospace
+      url: https://www.brahmos.com/page/brahmos-missile
+  - field: speed_mach
+    basis: official
+    value: 2.8
+    note: Some sources cite up to Mach 3.0.
+    source:
+      title: BrahMos Supersonic Cruise Missile
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2003/india-031029-irna01.htm
+sources:
+  - title: >-
+      How The BrahMos Missile Has Evolved Since It Was Test Fired For The First Time 20 Years Ago
+      (12 June 2001)
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/defence/how-the-brahmos-missile-has-evolved-since-it-was-test-fired-for-the-first-time-on-this-day-20-years-ago
+  - title: "BrahMos turns 25: A look at the evolution of India's supersonic cruise missile"
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/defence/brahmos-turns-25-a-look-at-the-evolution-of-indias-supersonic-cruise-missile/
+  - title: Indian Army test-fires extended range BrahMos cruise missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/indian-army-test-fires-extended-range-brahmos-cruise-missile
+  - title: BrahMos Missile (official specs)
+    tier: further-reading
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/page/brahmos-missile
+confidence: confirmed
+notes: >-
+  Name derives from the Brahmaputra and Moskva rivers. Based on Russia's P-800 Oniks/Yakhont.
+  Baseline 290 km range was an MTCR-imposed cap; extended to 450 km after India's 2016 MTCR entry.
+  Officially a conventional precision-strike weapon; classified as conventional (non-nuclear). First
+  combat use reported during India-Pakistan exchanges in May 2025 (Operation Sindoor, per Indian
+  press).

@@ -1,0 +1,30 @@
+id: 2013-03-20-brahmos-submarine-launch
+missile_id: brahmos
+variant: Submarine-launched (vertical, submerged platform)
+designation: First underwater/submerged-platform launch
+date: "2013-03-20"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 290
+description: >-
+  Submarine/underwater version of BrahMos test-fired at 1410 hrs from a submerged pontoon platform
+  in the Bay of Bengal off Visakhapatnam. The missile took off vertically, emerged from underwater,
+  turned toward the target and met all mission objectives for its full 290 km range, making India
+  the first country to launch a supersonic cruise missile vertically from a submerged platform.
+notes: >-
+  ADDED test (missing from original list). Fired from a submerged pontoon (not an operational
+  submarine). Confirmed by the official BrahMos Aerospace press release and Navy Recognition.
+sources:
+  - title: India successfully launches BRAHMOS missile from underwater
+    tier: pib
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/press-release/166
+    accessed: "2026-06-16"
+  - title: India successfully launches BRAHMOS missile from underwater
+    tier: foreign-news
+    publisher: Navy Recognition
+    url: >-
+      https://www.navyrecognition.com/index.php/news/defence-news/year-2013-news/march-2013-navy-world-naval-forces-maritime-industry-technology-news/946--india-successfully-launches-brahmos-missile-from-underwater.html
+    accessed: "2026-06-16"

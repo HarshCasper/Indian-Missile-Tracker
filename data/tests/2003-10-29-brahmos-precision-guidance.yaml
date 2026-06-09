@@ -1,0 +1,24 @@
+id: 2003-10-29-brahmos-precision-guidance
+missile_id: brahmos
+variant: Anti-ship / developmental
+designation: Developmental trial (precision guidance)
+date: "2003-10-29"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  BrahMos test-fired off Chandipur (ITR, near Balasore, Odisha) to evaluate the precision guidance
+  system and an improved fire-control system. DRDO chief controller A.S. Pillai described it as a
+  successful test flight.
+notes: >-
+  Reported by IRNA via GlobalSecurity. The IRNA report describes the launch platform as a ship (the
+  missile can be fired from multiple platforms); the original compiled entry's 'land/mobile Block I'
+  label was not supported and has been corrected to a generic anti-ship developmental trial off the
+  Odisha coast.
+sources:
+  - title: India test fires supersonic anti-ship cruise BrahMos missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2003/india-031029-irna01.htm
+    accessed: "2026-06-16"

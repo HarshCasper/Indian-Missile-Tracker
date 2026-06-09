@@ -1,0 +1,31 @@
+id: 2008-03-05-brahmos-ins-rajput-sea-to-land
+missile_id: brahmos
+variant: Land-attack (sea-launched, LACM)
+designation: First sea-to-land variant test
+date: "2008-03-05"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 290
+description: >-
+  First test of the land-attack variant fired from a warship: launched from the destroyer INS
+  Rajput, the missile selected and destroyed the designated land target on an island in the Andaman
+  and Nicobar group, establishing India's sea-to-land cruise missile capability.
+notes: >-
+  Vessel: INS Rajput; launch off the Andaman and Nicobar islands area (site approximated to the
+  offshore/naval facility). ~300 km class missile. Corroborated across multiple Indian and secondary
+  outlets; original compiled entry's description was truncated in the source data but the core facts
+  (date, INS Rajput, sea-to-land, success) are consistent.
+sources:
+  - title: First test of BrahMos land-attack variant from the sea (5 March 2008, INS Rajput)
+    tier: indian-news
+    publisher: BrahMos Aerospace / Indian Defence Review summary
+    url: https://indiandefencereview.com/brahmos-the-success-story-of-the-indian-cruise-missile/
+    accessed: "2026-06-16"
+  - title: "BrahMos turns 25: A look at the evolution of India's supersonic cruise missile"
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/defence/brahmos-turns-25-a-look-at-the-evolution-of-indias-supersonic-cruise-missile/
+    accessed: "2026-06-16"

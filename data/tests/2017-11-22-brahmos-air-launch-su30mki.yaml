@@ -1,0 +1,31 @@
+id: 2017-11-22-brahmos-air-launch-su30mki
+missile_id: brahmos
+variant: Air-launched cruise missile (BrahMos-A / ALCM)
+designation: First air-launched test from Su-30MKI
+date: "2017-11-22"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  First flight test of the ~2.5-tonne air-launched BrahMos (ALCM) from an Indian Air Force Su-30MKI
+  against a sea-based target in the Bay of Bengal. The aircraft launched from Kalaikunda, the
+  missile was gravity-dropped and its engine ignited before striking the target, completing India's
+  land-sea-air cruise-missile triad.
+notes: >-
+  ADDED test (missing from original list). Air-launched over the Bay of Bengal / eastern test range;
+  site set to itr-chandipur per the air-launch-over-Odisha-range convention, noting it was
+  air-launched from a Su-30MKI. Confirmed by the official BrahMos Aerospace release and Indian media
+  (ANI/Tribune).
+sources:
+  - title: BRAHMOS successfully flight-tested from IAF's Su-30MKI fighter aircraft
+    tier: pib
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/index.php/brahmos-in-media/75
+    accessed: "2026-06-16"
+  - title: BRAHMOS Successfully Flight Tested from IAF's Su-30 MKI Fighter Aircraft
+    tier: indian-news
+    publisher: Raksha Anirveda
+    url: >-
+      https://raksha-anirveda.com/brahmos-successfully-flight-tested-from-iafs-su-30-mki-fighter-aircraft/
+    accessed: "2026-06-16"
