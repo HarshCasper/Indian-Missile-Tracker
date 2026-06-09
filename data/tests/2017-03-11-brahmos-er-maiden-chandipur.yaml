@@ -1,0 +1,55 @@
+id: 2017-03-11-brahmos-er-maiden-chandipur
+missile_id: brahmos-er
+variant: land-attack
+designation: BrahMos Extended Range (ER) maiden flight
+date: "2017-03-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 450
+description: >-
+  First flight test of the extended-range BrahMos land-attack cruise missile, fired from a mobile
+  autonomous launcher at the Integrated Test Range (ITR) Chandipur, Balasore, Odisha. Made possible
+  after India's June 2016 MTCR entry removed the 290 km cap. The missile flew at Mach 2.8 and hit
+  the target precisely, demonstrating reach far beyond 400 km.
+notes: >-
+  BrahMos Aerospace official release stated the armed forces would be empowered to 'knock down enemy
+  targets far beyond the 400 kms' and did not give an exact figure; Indian press reported 450 km.
+  Verified against BrahMos Aerospace release and The Tribune.
+claims:
+  - field: range_tested_km
+    value: 450
+    basis: reported
+    text: Extended range of 450 km reported by Indian press.
+    source:
+      title: BrahMos with range of 450 km test-fired
+      tier: indian-news
+      publisher: The Tribune
+      url: >-
+        https://www.tribuneindia.com/news/archive/nation/brahmos-with-range-of-450-km-test-fired-376166/
+  - field: range_tested_km
+    basis: official
+    min: 400
+    text: >-
+      Official release: capability to 'knock down enemy targets far beyond the 400 kms'; no exact
+      figure given.
+    source:
+      title: BRAHMOS Extended Range (ER) missile successfully test-fired
+      tier: pib
+      publisher: BrahMos Aerospace
+      url: https://www.brahmos.com/press-release/207
+      accessed: "2026-06-16"
+sources:
+  - title: BRAHMOS Extended Range (ER) missile successfully test-fired
+    tier: pib
+    publisher: BrahMos Aerospace
+    date: "2017-03-11"
+    url: https://www.brahmos.com/press-release/207
+    accessed: "2026-06-16"
+  - title: BrahMos with range of 450 km test-fired
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/archive/nation/brahmos-with-range-of-450-km-test-fired-376166/
+    accessed: "2026-06-16"

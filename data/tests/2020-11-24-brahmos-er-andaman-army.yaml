@@ -1,0 +1,46 @@
+id: 2020-11-24-brahmos-er-andaman-army
+missile_id: brahmos-er
+variant: land-attack
+designation: BrahMos ER land-attack, Andaman & Nicobar
+date: "2020-11-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 400
+description: >-
+  Indian Army test-fired the extended-range (over 400 km) land-attack version of the BrahMos
+  supersonic cruise missile at about 1003 hrs from the Andaman and Nicobar Islands in a top-attack
+  mode, successfully hitting its designated target at Mach 2.8. Strike range enhanced from the
+  original 290 km to 400 km.
+notes: >-
+  Launch site was the Andaman and Nicobar Islands (Andaman & Nicobar Command), not one of the listed
+  Odisha-coast facilities; site_id left empty. Designated target was reported at ~200 km in the Bay
+  of Bengal during this trial. Verified via Deccan Herald and Onmanorama/Swarajya.
+claims:
+  - field: range_tested_km
+    value: 400
+    basis: reported
+    min: 400
+    text: Strike range enhanced to over 400 km from the original 290 km.
+    source:
+      title: India test-fires land attack version of BrahMos missile
+      tier: indian-news
+      publisher: Deccan Herald
+      url: >-
+        https://www.deccanherald.com/amp/story/india%2Findia-testfires-land-attack-version-of-brahmos-missile-919581.html
+      accessed: "2026-06-16"
+sources:
+  - title: India test-fires land attack version of BrahMos missile
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2020-11-24"
+    url: >-
+      https://www.deccanherald.com/amp/story/india%2Findia-testfires-land-attack-version-of-brahmos-missile-919581.html
+    accessed: "2026-06-16"
+  - title: BrahMos missile test-fired successfully in top attack mode
+    tier: indian-news
+    publisher: Onmanorama
+    date: "2020-11-24"
+    url: https://www.onmanorama.com/news/india/2020/11/24/brahmos-missile-test-fire.html
+    accessed: "2026-06-16"
+site_id: null

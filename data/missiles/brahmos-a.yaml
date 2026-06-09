@@ -1,0 +1,84 @@
+id: brahmos-a
+name: BrahMos-A (Air-Launched)
+aka:
+  - BrahMos ALCM
+  - PJ-10 BrahMos-A
+  - Air-Launched BrahMos
+category: air-to-surface
+range_class: cruise
+developer: BrahMos Aerospace (DRDO, India + NPOM, Russia)
+operators:
+  - India (Indian Air Force)
+status: operational
+range_km:
+  min: 290
+  max: 450
+payload_kg: 300
+speed_mach: 2.8
+nuclear_capable: false
+propulsion: solid+liquid
+launch_platform:
+  - Su-30MKI fighter aircraft
+variants:
+  - name: BrahMos-A (290 km)
+    notes: Lightened ~2.5 t air-launched variant first fired 22 Nov 2017.
+  - name: BrahMos-A Extended Range
+    notes: Extended-range air-launched version tested from Su-30MKI in 2022; ER reaching ~400+ km.
+first_test: "2017-11-22"
+description: >-
+  BrahMos-A is the air-launched version of the BrahMos supersonic cruise missile, integrated on the
+  Indian Air Force's Su-30MKI fighter. It is a lightened variant (around 2.5 tonnes, the heaviest
+  weapon carried by the Su-30MKI) that is gravity-dropped before its booster and ramjet ignite. It
+  was first successfully flight-tested against a sea target in the Bay of Bengal on 22 November 2017
+  and gives the IAF a long-standoff precision strike capability against land and sea targets. An
+  extended-range air-launched variant was subsequently tested.
+claims:
+  - field: nuclear_capable
+    basis: reported
+    text: >-
+      Some foreign press describe the air-launched BrahMos as capable of a ~300 kg nuclear warhead,
+      but India fields it as a conventional weapon and there is no official confirmation of nuclear
+      arming.
+    source:
+      title: India's Su-30 Fighters Now Come With Nuclear Brahmos Missiles
+      tier: foreign-news
+      publisher: The National Interest
+      url: >-
+        https://nationalinterest.org/blog/buzz/indias-su-30-fighters-now-come-nuclear-brahmos-missiles-113926
+  - field: first_test
+    basis: official
+    value: 2017
+    text: >-
+      First air-launched flight test from Su-30MKI on 22 Nov 2017 against a Bay of Bengal sea
+      target.
+    source:
+      title: BRAHMOS successfully flight-tested from IAF's Su-30MKI fighter aircraft
+      tier: further-reading
+      publisher: BrahMos Aerospace
+      url: https://www.brahmos.com/index.php/brahmos-in-media/75
+sources:
+  - title: BRAHMOS Successfully Flight Tested from IAF's Su-30 MKI Fighter Aircraft (22 Nov 2017)
+    tier: indian-news
+    publisher: Raksha Anirveda
+    url: >-
+      https://raksha-anirveda.com/brahmos-successfully-flight-tested-from-iafs-su-30-mki-fighter-aircraft/
+  - title: India Successfully Test-Fires Supersonic Brahmos Missile From Su-30MKI
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2017/india-171122-sputnik01.htm
+  - title: IAF's Su-30MKI test fires first extended range version of BrahMos missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: >-
+      https://www.airforce-technology.com/news/iafs-su-30mki-test-fires-first-extended-range-version-of-brahmos-missile/
+  - title: BrahMos Air-Launched Weapon System
+    tier: further-reading
+    publisher: BrahMos Aerospace
+    url: https://www.brahmos.com/page/air-launch-system
+confidence: confirmed
+notes: >-
+  Lightened to ~2.5 t for air carriage; gravity-dropped from the Su-30MKI before engine ignition.
+  The 2017 maiden test demonstrated the world's heaviest air-launched supersonic cruise missile
+  capability. Nuclear-capability claims appear only in foreign commentary; India operates it
+  conventionally, so recorded as non-nuclear. Used in strikes during Operation Sindoor (May 2025)
+  per Indian reporting.

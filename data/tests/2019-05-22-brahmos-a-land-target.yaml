@@ -1,0 +1,39 @@
+id: 2019-05-22-brahmos-a-land-target
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290/300 km)
+designation: Second air-launched BrahMos firing (land target)
+date: "2019-05-22"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 300
+description: >-
+  Second live launch of the air-launched BrahMos from a modified Su-30MKI, this time against a land
+  target off India's east coast. The launch from the aircraft was smooth and the missile followed
+  the desired trajectory before directly hitting the land target with reported precision.
+notes: >-
+  Air-launched from a Su-30MKI over the Odisha/Bay of Bengal test range (counted under
+  itr-chandipur); land target reported in the Car Nicobar Islands region per BrahMos
+  Aerospace/Janes. Reported as a milestone toward induction. Range ~300 km is the missile's
+  capability, not a measured distance for this shot.
+sources:
+  - title: Successful firing of BRAHMOS Air Launched Missile from Su-30MKI Aircraft
+    tier: pib
+    publisher: BrahMos Aerospace
+    date: "2019-05-22"
+    url: https://www.brahmos.com/press-release/214
+    accessed: "2026-06-16"
+  - title: Indian Air Force test fires BrahMos-A from Su-30MKI
+    tier: foreign-news
+    publisher: Janes
+    date: "2019-05-23"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/indian-air-force-test-fires-brahmos-a-from-su-30mki
+    accessed: "2026-06-16"
+  - title: India test-fires BrahMos cruise missile from Su-30, successfully hitting land target
+    tier: foreign-news
+    publisher: The Defense Post
+    date: "2019-05-22"
+    url: https://thedefensepost.com/2019/05/22/india-brahmos-missile-test-land-target/
+    accessed: "2026-06-16"

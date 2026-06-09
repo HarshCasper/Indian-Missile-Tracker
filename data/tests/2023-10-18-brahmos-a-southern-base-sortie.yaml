@@ -1,0 +1,36 @@
+id: 2023-10-18-brahmos-a-southern-base-sortie
+missile_id: brahmos-a
+variant: BrahMos-A (Extended Range, ~400-500 km)
+designation: Air-launched BrahMos test from southern peninsula base
+date: "2023-10-18"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  An IAF Su-30MKI taking off from a southern peninsula air base (reported as Thanjavur) successfully
+  test-fired the air-launched BrahMos over the Bay of Bengal, with the launch aircraft covering a
+  sortie of over 1,500 km. Reported as part of pre-induction/operational trials and described as an
+  extended-range variant firing.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal (firing point counted under itr-chandipur);
+  aircraft staged from a southern base, reported as Thanjavur Air Base, with a sortie of over 1,500
+  km. Described by Swarajya as an extended-range version. No PIB/MoD release located in this
+  research, hence 'reported'. This test was MISSING from the original compiled list and has been
+  added.
+sources:
+  - title: >-
+      Flying 1,500 KM From A Southern Air Base, IAF's Su-30 MKI Fighter Jet Successfully Test Fire
+      BrahMos-A Supersonic Cruise Missile
+    tier: indian-news
+    publisher: Swarajya
+    date: "2023-10-18"
+    url: >-
+      https://swarajyamag.com/defence/flying-1500-km-from-a-southern-air-base-iafs-su-30-mki-fighter-jet-successfully-test-fire-brahmos-a-supersonic-cruise-missile
+    accessed: "2026-06-16"
+  - title: IAF Su-30MKI test fires extended Brahmos ALM against sea target / pre-induction trials
+    tier: foreign-news
+    publisher: Airforce Technology
+    date: "2023-10-19"
+    url: https://www.airforce-technology.com/news/iafs-su30mki-brahmos-sea-target/
+    accessed: "2026-06-16"

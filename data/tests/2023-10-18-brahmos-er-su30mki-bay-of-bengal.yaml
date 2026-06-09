@@ -1,0 +1,50 @@
+id: 2023-10-18-brahmos-er-su30mki-bay-of-bengal
+missile_id: brahmos-er
+variant: air-launched (BrahMos-A ER)
+designation: Extended-Range BrahMos air launch from Su-30MKI (2023 pre-induction trial)
+date: "2023-10-18"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 450
+description: >-
+  The IAF test-fired the extended-range air-launched version of the BrahMos from a Su-30MKI that
+  flew from Thanjavur Air Base in Tamil Nadu (covering ~1,500 km) and achieved a direct hit on the
+  designated target in the Bay of Bengal region. Conducted with the Indian Navy and DRDO as part of
+  pre-induction trials of the ER variant.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal; mapped to itr-chandipur per instructions with
+  the air-launch noted. Single-platform confirmation primarily via The Diplomat and
+  Indian/defence-press reporting; no standalone PIB release located for this specific firing, hence
+  confidence 'reported'. ER range assessed at 400-500 km.
+claims:
+  - field: range_tested_km
+    basis: assessed
+    min: 400
+    max: 500
+    text: ER air-launched variant assessed at 400-500 km.
+    source:
+      title: How the Extended Range BrahMos Changes the India-Pakistan Deterrence Equation
+      tier: foreign-news
+      publisher: The Diplomat
+      url: >-
+        https://thediplomat.com/2023/11/how-the-extended-range-brahmos-changes-the-india-pakistan-deterrence-equation/
+      accessed: "2026-06-16"
+sources:
+  - title: How the Extended Range BrahMos Changes the India-Pakistan Deterrence Equation
+    tier: foreign-news
+    publisher: The Diplomat
+    date: 2023-11
+    url: >-
+      https://thediplomat.com/2023/11/how-the-extended-range-brahmos-changes-the-india-pakistan-deterrence-equation/
+    accessed: "2026-06-16"
+  - title: >-
+      Flying 1,500 KM From A Southern Air Base, IAF's Su-30 MKI Fighter Jet Successfully Test Fire
+      BrahMos-A Supersonic Cruise Missile
+    tier: indian-news
+    publisher: Swarajya
+    date: 2023-10
+    url: >-
+      https://swarajyamag.com/defence/flying-1500-km-from-a-southern-air-base-iafs-su-30-mki-fighter-jet-successfully-test-fire-brahmos-a-supersonic-cruise-missile
+    accessed: "2026-06-16"

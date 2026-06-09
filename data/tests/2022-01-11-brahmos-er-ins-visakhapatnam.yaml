@@ -1,0 +1,49 @@
+id: 2022-01-11-brahmos-er-ins-visakhapatnam
+missile_id: brahmos-er
+variant: naval (ship-launched)
+designation: Extended-range BrahMos from INS Visakhapatnam
+date: "2022-01-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 400
+description: >-
+  The Indian Navy test-fired the extended-range (over 400 km) naval variant of the BrahMos
+  supersonic cruise missile from the destroyer INS Visakhapatnam, precisely hitting the designated
+  target ship. Validated the destroyer's combat system and the extended-range missile.
+notes: >-
+  Ship-launched from INS Visakhapatnam (D66). Multiple sources place the firing in the Arabian Sea
+  off the western coast; the launch site is therefore not one of the listed facilities, but site_id
+  is set to offshore-visakhapatnam per the instruction to use that id for ship-launched tests and
+  note the vessel. Verified via Sputnik/GlobalSecurity archive and Overt Defense.
+claims:
+  - field: range_tested_km
+    value: 400
+    basis: reported
+    min: 400
+    text: Extended range of over 400 km.
+    source:
+      title: >-
+        India Test Fires Extended Range Sea-Launched BrahMos Missile From Newest Guided Missile
+        Destroyer
+      tier: foreign-news
+      publisher: Sputnik / GlobalSecurity archive
+      url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220111-sputnik01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Test Fires Extended Range Sea-Launched BrahMos Missile From Newest Guided Missile
+      Destroyer
+    tier: foreign-news
+    publisher: Sputnik / GlobalSecurity archive
+    date: "2022-01-11"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220111-sputnik01.htm
+    accessed: "2026-06-16"
+  - title: Extended Range BrahMos Tested Successfully From INS Visakhapatnam
+    tier: foreign-news
+    publisher: Overt Defense
+    date: "2022-01-12"
+    url: >-
+      https://www.overtdefense.com/2022/01/12/extended-range-brahmos-tested-successfully-from-ins-visakhapatnam/
+    accessed: "2026-06-16"

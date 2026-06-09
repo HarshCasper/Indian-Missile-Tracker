@@ -1,0 +1,49 @@
+id: 2023-10-10-brahmos-er-andaman-army-ground
+missile_id: brahmos-er
+variant: land-attack
+designation: Extended-Range BrahMos ground-launched Army induction trial
+date: "2023-10-10"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 450
+description: >-
+  The BrahMos Missile Regiment of the Indian Army test-fired a ground-launched, surface-to-surface
+  land-attack version of the extended-range BrahMos (BrahMos ER) from the Andaman and Nicobar
+  Islands as part of pre-induction trials. The ER variant is assessed to reach 400-500 km, with
+  improved accuracy from an active radar seeker.
+notes: >-
+  Launch site was the Andaman and Nicobar Islands (Andaman & Nicobar Command), not one of the listed
+  Odisha-coast facilities; site_id left empty. Conducted as an induction trial, not yet inducted at
+  the time. Verified via Janes and Swarajya.
+claims:
+  - field: range_tested_km
+    basis: assessed
+    min: 400
+    max: 500
+    text: ER variant assessed to strike land/sea targets at 400-500 km.
+    source:
+      title: Indian Army test-fires extended range BrahMos cruise missile
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/defence/indian-army-test-fires-extended-range-brahmos-cruise-missile
+      accessed: "2026-06-16"
+sources:
+  - title: Indian Army test-fires extended range BrahMos cruise missile
+    tier: foreign-news
+    publisher: Janes
+    date: 2023-10
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/indian-army-test-fires-extended-range-brahmos-cruise-missile
+    accessed: "2026-06-16"
+  - title: >-
+      Indian Army Successfully Tests Extended-Range BrahMos Missile, Capable Of Striking Upto 500
+      KM: Report
+    tier: indian-news
+    publisher: Swarajya
+    date: 2023-10
+    url: >-
+      https://swarajyamag.com/defence/indian-army-successfully-tests-extended-range-brahmos-missile-capable-of-striking-upto-500-km-report
+    accessed: "2026-06-16"
+site_id: null

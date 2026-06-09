@@ -1,0 +1,25 @@
+id: 2022-03-05-brahmos-er-ins-chennai
+missile_id: brahmos-er
+variant: naval (ship-launched, land-attack)
+designation: Extended-range BrahMos land-attack from INS Chennai
+date: "2022-03-05"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+description: >-
+  The Indian Navy successfully demonstrated the accuracy of an extended-range land-attack BrahMos
+  supersonic cruise missile fired from the stealth destroyer INS Chennai on 5 March 2022; the
+  missile hit its target with pinpoint accuracy, confirming the capability to strike land targets at
+  greater distances from the sea.
+notes: >-
+  Ship-launched from INS Chennai (at sea); not one of the listed land facilities, but site_id set to
+  offshore-visakhapatnam per the ship-launched instruction with the vessel noted here. PIB/MoD
+  release archived via GlobalSecurity. Verified via the archived PIB release.
+sources:
+  - title: INDIAN NAVY SUCCESSFULLY FIRES EXTENDED RANGE BRAHMOS LAND ATTACK MISSILE
+    tier: pib
+    publisher: PIB / Ministry of Defence (GlobalSecurity archive)
+    date: "2022-03-05"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220305-india-pib01.htm
+    accessed: "2026-06-16"

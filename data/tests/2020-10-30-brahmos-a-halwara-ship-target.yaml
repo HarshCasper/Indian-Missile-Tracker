@@ -1,0 +1,51 @@
+id: 2020-10-30-brahmos-a-halwara-ship-target
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290/300 km)
+designation: Long-range sortie from Halwara, ship target
+date: "2020-10-30"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 300
+description: >-
+  An IAF Su-30MKI took off from Halwara air base in Punjab, was refuelled in mid-air, and fired the
+  air-launched BrahMos against a ship target in the Bay of Bengal, achieving a direct hit. The long
+  sortie demonstrated extended strike reach.
+notes: >-
+  Air-launched from a Su-30MKI; target was a ship at sea in the Bay of Bengal (missile firing point
+  off the Odisha range, counted under itr-chandipur). Launch aircraft staged from Halwara, Punjab,
+  took off ~9 am and hit the target ~1:30 pm after mid-air refuelling. The ~3,500-4,000 km figures
+  describe the aircraft's total sortie/strike reach, NOT the missile's own range (~300 km). No
+  single MoD/PIB release was located in this research, hence 'reported'.
+sources:
+  - title: IAF flies from Punjab to successfully launch DRDO's BrahMos to hit target in Bay of Bengal
+    tier: indian-news
+    publisher: ANI
+    date: "2020-10-30"
+    url: >-
+      https://www.aninews.in/news/national/general-news/iaf-flies-from-punjab-to-successfully-launch-drdos-brahmos-to-hit-target-in-bay-of-bengal20201030214812/
+    accessed: "2026-06-16"
+  - title: >-
+      IAF Tests BrahMos Missile; Su-30MKI Fighter Takes Off From Punjab, Destroys Target ~4,000 Km
+      Away
+    tier: foreign-news
+    publisher: Indian Defense News
+    date: "2020-10-31"
+    url: https://www.indiandefensenews.in/2020/10/iaf-tests-brahmos-missile-su-30mki.html
+    accessed: "2026-06-16"
+claims:
+  - field: sortie_distance_km
+    min: 3500
+    max: 4000
+    basis: reported
+    text: >-
+      Reports variously describe the total sortie/strike reach as over 3,500 km (Halwara to firing
+      point and back) or a target hit nearly 4,000 km away; the missile's own range is ~300 km.
+    source:
+      title: IAF flies from Punjab to successfully launch DRDO's BrahMos to hit target in Bay of Bengal
+      tier: indian-news
+      publisher: ANI
+      date: "2020-10-30"
+      url: >-
+        https://www.aninews.in/news/national/general-news/iaf-flies-from-punjab-to-successfully-launch-drdos-brahmos-to-hit-target-in-bay-of-bengal20201030214812/

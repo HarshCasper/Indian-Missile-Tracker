@@ -1,0 +1,48 @@
+id: 2023-11-22-brahmos-er-ins-imphal
+missile_id: brahmos-er
+variant: naval (ship-launched)
+designation: First Extended-Range BrahMos firing by a warship (INS Imphal)
+date: "2023-11-22"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 450
+description: >-
+  The Indian Navy's Visakhapatnam-class destroyer INS Imphal test-fired the extended-range BrahMos
+  supersonic cruise missile during her maiden/pre-commissioning sea trials, scoring a 'bull's eye'
+  direct hit. Described as the first-ever test-firing of the extended-range BrahMos by a warship
+  before commissioning.
+notes: >-
+  Ship-launched from INS Imphal during pre-commissioning trials; not one of the listed land
+  facilities, site_id set to offshore-visakhapatnam per the ship-launched instruction with the
+  vessel noted. Range assessed in excess of 500 km by Janes / over 400-500 km elsewhere. Verified
+  via The Week and Janes.
+claims:
+  - field: range_tested_km
+    basis: assessed
+    min: 400
+    max: 500
+    text: "ER variant assessed at 400-500 km (Janes: 'in excess of 500 km')."
+    source:
+      title: India test-fires extended-range BrahMos on soon-to-be-commissioned destroyer
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/sea/india-test-fires-extended-range-brahmos-on-soon-to-be-commissioned-destroyer
+      accessed: "2026-06-16"
+sources:
+  - title: Home-made in record time, Imphal can fire extended range Brahmos
+    tier: indian-news
+    publisher: The Week
+    date: "2023-11-27"
+    url: >-
+      https://www.theweek.in/news/india/2023/11/27/home-made-in-record-time-imphal-can-fire-extended-range-brahmos.html
+    accessed: "2026-06-16"
+  - title: India test-fires extended-range BrahMos on soon-to-be-commissioned destroyer
+    tier: foreign-news
+    publisher: Janes
+    date: "2023-11-27"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/sea/india-test-fires-extended-range-brahmos-on-soon-to-be-commissioned-destroyer
+    accessed: "2026-06-16"

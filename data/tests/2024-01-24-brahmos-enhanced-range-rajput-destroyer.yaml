@@ -1,0 +1,53 @@
+id: 2024-01-24-brahmos-enhanced-range-rajput-destroyer
+missile_id: brahmos-er
+variant: naval (ship-launched, land-attack)
+designation: BrahMos 'enhanced range' naval test (~900 km) from Rajput-class destroyer
+date: "2024-01-24"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 900
+description: >-
+  The Indian Navy announced the successful engagement of a land-based target with an
+  extended/enhanced-range BrahMos supersonic cruise missile from a Rajput-class destroyer (reported
+  as INS Ranvir or INS Ranvijay). A no-fly/area warning of ~900 km - the longest known for a BrahMos
+  test - accompanied the firing, suggesting a ~800-900 km reach.
+notes: >-
+  DISPUTED variant attribution: sources describe this as an 'enhanced range' BrahMos reaching
+  ~800-900 km, materially longer than the ~400-500 km BrahMos-ER class represented by the other
+  entries. It may be a distinct enhanced-range development rather than the same ER variant; included
+  under brahmos-er with this caveat. Range is inferred from the area-warning length, not officially
+  confirmed. Ship-launched; site_id set to offshore-visakhapatnam per the ship-launched instruction
+  with the vessel noted. Verified via Naval News and MilitaryLeak.
+claims:
+  - field: range_tested_km
+    value: 900
+    basis: assessed
+    min: 800
+    max: 900
+    text: >-
+      Range inferred at ~800-900 km from the ~900 km area warning; the longest known for a BrahMos
+      test. Not officially stated.
+    source:
+      title: Indian Navy Tests BrahMos Missile With 'Enhanced Range' of 900 km
+      tier: foreign-news
+      publisher: Naval News
+      url: >-
+        https://www.navalnews.com/naval-news/2024/02/indian-navy-tests-brahmos-missile-with-enhanced-range-of-900-km/
+      accessed: "2026-06-16"
+sources:
+  - title: Indian Navy Tests BrahMos Missile With 'Enhanced Range' of 900 km
+    tier: foreign-news
+    publisher: Naval News
+    date: 2024-02
+    url: >-
+      https://www.navalnews.com/naval-news/2024/02/indian-navy-tests-brahmos-missile-with-enhanced-range-of-900-km/
+    accessed: "2026-06-16"
+  - title: Indian Navy Successfully Tests BrahMos Missile With Extended Range of 900 Km
+    tier: foreign-news
+    publisher: MilitaryLeak
+    date: "2024-02-04"
+    url: >-
+      https://militaryleak.com/2024/02/04/indian-navy-successfully-tests-brahmos-missile-with-extended-range-of-900-km/
+    accessed: "2026-06-16"

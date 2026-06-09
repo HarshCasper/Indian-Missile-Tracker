@@ -1,0 +1,83 @@
+id: brahmos-er
+name: BrahMos-ER (Extended Range)
+aka:
+  - BrahMos Extended Range
+  - BrahMos 450
+  - BrahMos 800 (planned)
+category: cruise
+range_class: cruise
+developer: BrahMos Aerospace (DRDO, India + NPOM, Russia)
+operators:
+  - India (Army, Navy, Air Force)
+status: operational
+range_km:
+  min: 450
+  max: 800
+payload_kg: 300
+speed_mach: 2.8
+nuclear_capable: false
+propulsion: solid+liquid
+launch_platform:
+  - land mobile autonomous launcher
+  - ship
+  - aircraft (Su-30MKI)
+variants:
+  - name: 450 km ER
+    notes: >-
+      First land-attack ER test 11 March 2017 from a mobile autonomous launcher; achieved by
+      software unlock plus increased fuel after MTCR entry.
+  - name: 800 km ER
+    notes: >-
+      Under development via optimised ramjet cruise and composite weight reduction; reported tests
+      toward ~800 km.
+first_test: "2017-03-11"
+description: >-
+  BrahMos-ER is the extended-range development of the BrahMos enabled by India's 2016 entry into the
+  Missile Technology Control Regime, which removed the previous 290 km cap. The 450 km range was
+  achieved largely by removing software restrictions and increasing internal fuel, and the first
+  extended-range land-attack test was conducted on 11 March 2017 from a mobile autonomous launcher.
+  A further 800 km-class variant is in development by optimising the ramjet cruise profile and using
+  composites to reduce weight for more fuel. It retains the baseline ~Mach 2.8 supersonic speed and
+  200-300 kg warhead.
+claims:
+  - field: range_km
+    basis: reported
+    value: 450
+    text: >-
+      450 km extended range first demonstrated on 11 March 2017; range raised after India's MTCR
+      entry.
+    source:
+      title: "MTCR Relaxations: Range of BrahMos Increased to 450 km"
+      tier: indian-news
+      publisher: SP's Aviation
+      url: >-
+        https://www.sps-aviation.com/story/?id=2603&h=MTCR-Relaxations-Range-of-BrahMos-Increased-to-450-km
+  - field: range_km
+    basis: assessed
+    value: 800
+    text: 800 km-class variant announced/under development; reported tests toward ~800 km.
+    source:
+      title: Russia, India to extend BrahMos supersonic missile's range to 800 km
+      tier: foreign-news
+      publisher: TASS
+      url: https://tass.com/defense/1315847
+sources:
+  - title: India successfully test-fires BrahMos missile with 450 km range
+    tier: indian-news
+    publisher: The News Minute
+    url: >-
+      https://www.thenewsminute.com/news/india-successfully-test-fires-brahmos-missile-450-km-range-58474
+  - title: "MTCR Relaxations: Range of BrahMos Increased to 450 km"
+    tier: indian-news
+    publisher: SP's Aviation
+    url: >-
+      https://www.sps-aviation.com/story/?id=2603&h=MTCR-Relaxations-Range-of-BrahMos-Increased-to-450-km
+  - title: Russia, India to extend BrahMos supersonic missile's range to 800 km
+    tier: foreign-news
+    publisher: TASS
+    url: https://tass.com/defense/1315847
+confidence: confirmed
+notes: >-
+  Often treated as an upgrade of the baseline BrahMos rather than a wholly separate missile. 450 km
+  variant is operational/tested; 800 km class is a development goal achieved via ramjet optimisation
+  and composites. Speed and warhead unchanged from baseline BrahMos.

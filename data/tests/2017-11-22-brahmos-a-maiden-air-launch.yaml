@@ -1,0 +1,53 @@
+id: 2017-11-22-brahmos-a-maiden-air-launch
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290 km)
+designation: First air-launched BrahMos firing
+date: "2017-11-22"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 290
+description: >-
+  Maiden flight test of the air-launched BrahMos (BrahMos-A) cruise missile, gravity-dropped from an
+  IAF Su-30MKI and successfully striking a sea-based target in the Bay of Bengal. The IAF became the
+  first air force in the world to fire an air-launched Mach 2.8 surface-attack missile of this
+  category, completing India's tactical cruise-missile triad.
+notes: >-
+  Air-launched from a Su-30MKI over the Odisha/Bay of Bengal test range (counted under
+  itr-chandipur); target was a sea/ship target. The ~2.5-tonne missile is the heaviest weapon
+  carried by the Su-30MKI. The ~290 km figure is the missile's baseline range capability, not a
+  measured distance for this shot. Crew names appearing in some compilations (Wg Cdr Prashant Nair /
+  Wg Cdr K.P. Kiran Kumar) could not be verified against official sources and have been omitted.
+sources:
+  - title: BRAHMOS successfully flight-tested from IAF's Su-30MKI fighter aircraft
+    tier: pib
+    publisher: BrahMos Aerospace
+    date: "2017-11-22"
+    url: https://www.brahmos.com/index.php/brahmos-in-media/75
+    accessed: "2026-06-16"
+  - title: India Successfully Test-Fires Supersonic Brahmos Missile From Su-30MKI
+    tier: foreign-news
+    publisher: Sputnik / GlobalSecurity.org
+    date: "2017-11-22"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2017/india-171122-sputnik01.htm
+    accessed: "2026-06-16"
+  - title: BrahMos fired from Sukhoi (Tribune News Service)
+    tier: indian-news
+    publisher: The Tribune
+    date: "2017-11-22"
+    url: https://www.tribuneindia.com/news/archive/nation/brahmos-fired-from-sukhoi-502077
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 290
+    basis: reported
+    text: >-
+      Hit a sea target in the Bay of Bengal; the cited distance (~280-290 km) is the missile's
+      baseline range capability rather than a measured shot distance.
+    source:
+      title: India Successfully Test-Fires Supersonic Brahmos Missile From Su-30MKI
+      tier: foreign-news
+      publisher: Sputnik / GlobalSecurity.org
+      date: "2017-11-22"
+      url: https://www.globalsecurity.org/wmd/library/news/india/2017/india-171122-sputnik01.htm

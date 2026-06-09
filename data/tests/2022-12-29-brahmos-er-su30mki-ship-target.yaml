@@ -1,0 +1,32 @@
+id: 2022-12-29-brahmos-er-su30mki-ship-target
+missile_id: brahmos-er
+variant: air-launched (BrahMos-A ER)
+designation: Extended-Range BrahMos air launch vs ship target
+date: "2022-12-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  IAF successfully fired the extended-range version of the BrahMos air-launched missile from a
+  Su-30MKI against a ship target, achieving the desired mission objectives in the Bay of Bengal
+  region. Demonstrated long-range precision strike from the air against sea targets.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal; mapped to itr-chandipur per instructions with
+  the air-launch noted. Verified via the archived PIB release and Business Standard.
+sources:
+  - title: >-
+      IAF successfully fires Extended Range version of BrahMos Air Launched missile against ship
+      target from Su-30MKI
+    tier: pib
+    publisher: PIB / Ministry of Defence (GlobalSecurity archive)
+    date: "2022-12-29"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-221229-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: IAF successfully test-fires extended range version of BrahMos air missile
+    tier: indian-news
+    publisher: Business Standard
+    date: "2022-12-29"
+    url: >-
+      https://www.business-standard.com/article/current-affairs/iaf-successfully-test-fires-extended-range-version-of-brahmos-air-missile-122122900858_1.html
+    accessed: "2026-06-16"

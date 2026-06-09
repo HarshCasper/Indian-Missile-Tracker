@@ -1,0 +1,43 @@
+id: 2022-12-29-brahmos-a-extended-range-ship-target
+missile_id: brahmos-a
+variant: BrahMos-A Extended Range (ER, ~350-400 km)
+designation: Extended Range air-launched firing vs ship target
+date: "2022-12-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 400
+description: >-
+  The IAF successfully fired the Extended Range version of the air-launched BrahMos against a ship
+  target from a Su-30MKI in the Bay of Bengal region, achieving the desired mission objectives. The
+  test demonstrated long-range precision anti-ship strike capability from the Su-30MKI.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal off Odisha (counted under itr-chandipur).
+  Confirmed by an official PIB / Ministry of Defence release (PRID 1887335) dated 29 Dec 2022; some
+  foreign aggregators dated coverage 2-3 Jan 2023, but PIB, Business Today and The Shillong Times
+  confirm 29 Dec 2022. Range ~350-400 km (ER capability). This test was MISSING from the original
+  compiled list and has been added.
+sources:
+  - title: >-
+      SUCCESSFUL FIRING OF EXTENDED RANGE VERSION OF BRAHMOS AIR LAUNCHED MISSILE AGAINST SHIP
+      TARGET FROM SU-30 MKI AIRCRAFT
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2022-12-29"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1887335
+    accessed: "2026-06-16"
+  - title: India successfully test-fires BrahMos missile's extended range version from Sukhoi fighter jet
+    tier: indian-news
+    publisher: Business Today
+    date: "2022-12-29"
+    url: >-
+      https://www.businesstoday.in/latest/story/india-successfully-test-fires-brahmos-missiles-extended-range-version-from-sukhoi-fighter-jet-358230-2022-12-29
+    accessed: "2026-06-16"
+  - title: IAF successfully fires BrahMos missile from Sukhoi SU-30 MKI
+    tier: indian-news
+    publisher: The Shillong Times
+    date: "2022-12-29"
+    url: >-
+      https://theshillongtimes.com/2022/12/29/iaf-successfully-fires-brahmos-missile-from-sukhoi-su-30-mki/
+    accessed: "2026-06-16"

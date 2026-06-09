@@ -1,0 +1,55 @@
+id: 2022-04-19-brahmos-a-decommissioned-ship
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290 km)
+designation: Anti-ship live firing vs decommissioned Navy ship
+date: "2022-04-19"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+description: >-
+  The IAF live-fired the air-launched BrahMos from a Su-30MKI on the eastern seaboard against a
+  decommissioned Indian Navy ship, achieving a direct hit. Conducted with Indian Navy and DRDO
+  coordination to validate the anti-ship strike capability.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal / eastern seaboard (counted under
+  itr-chandipur). Date conflict: Defence Stories/Asian Military Review report 19 April 2022, while
+  aggregators (Airforce Technology, OvertDefense) dated coverage 20-21 April 2022. A separate INS
+  Delhi ship-launched BrahMos test occurred in the same period and is not counted here. Reported as
+  roughly the seventh publicly known air-launch test; no single PIB release located, hence
+  'reported'.
+sources:
+  - title: IAF Conducts Test-Firing of BrahMos Missile From Su-30MKI Aircraft on Eastern Seaboard
+    tier: indian-news
+    publisher: Defence Stories
+    date: "2022-04-19"
+    url: >-
+      https://defencestories.com/2022/04/19/iaf-conducts-live-test-firing-of-brahmos-missile-from-su-30mki-aircraft-on-eastern-seaboard/
+    accessed: "2026-06-16"
+  - title: IAF conducts live-firing of Brahmos missile from Su-30MKI aircraft
+    tier: foreign-news
+    publisher: Airforce Technology
+    date: "2022-04-20"
+    url: >-
+      https://www.airforce-technology.com/news/iaf-conducts-live-firing-of-brahmos-missile-from-su-30mki-aircraft/
+    accessed: "2026-06-16"
+  - title: India Conducts BrahMos Tests From Upgraded INS Delhi And Su-30MKI
+    tier: foreign-news
+    publisher: Overt Defense
+    date: "2022-04-21"
+    url: >-
+      https://www.overtdefense.com/2022/04/21/india-conducts-brahmos-tests-from-upgraded-ins-delhi-and-su-30mki/
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    basis: reported
+    text: >-
+      Defence Stories/Asian Military Review report the firing on 19 April 2022; some aggregators
+      (Airforce Technology, Overt Defense) dated coverage 20-21 April 2022.
+    source:
+      title: IAF Conducts Test-Firing of BrahMos Missile From Su-30MKI Aircraft on Eastern Seaboard
+      tier: indian-news
+      publisher: Defence Stories
+      date: "2022-04-19"
+      url: >-
+        https://defencestories.com/2022/04/19/iaf-conducts-live-test-firing-of-brahmos-missile-from-su-30mki-aircraft-on-eastern-seaboard/

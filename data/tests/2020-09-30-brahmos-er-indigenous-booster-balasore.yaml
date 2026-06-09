@@ -1,0 +1,46 @@
+id: 2020-09-30-brahmos-er-indigenous-booster-balasore
+missile_id: brahmos-er
+variant: land-attack
+designation: BrahMos ER with indigenous booster
+date: "2020-09-30"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 400
+description: >-
+  Extended-range BrahMos surface-to-surface land-attack cruise missile flight-tested at 1030 hrs
+  from a mobile launcher at the ITR, Balasore, Odisha. This flight featured an indigenous Booster
+  and Airframe Section plus other 'Made in India' sub-systems, cruising at Mach 2.8 and hitting a
+  target reported at over 400 km. Described as the second ER test.
+notes: >-
+  ITR Balasore is part of the ITR Chandipur complex. Official BrahMos/PIB release (PRID 1660288)
+  emphasized the indigenous booster; Indian press emphasized 400+ km range. Verified via PIB/BrahMos
+  release and The Week.
+claims:
+  - field: range_tested_km
+    value: 400
+    basis: reported
+    min: 400
+    text: Hit target at over 400 km.
+    source:
+      title: DRDO tests BrahMos missile with extended range to hit targets over 400km away
+      tier: indian-news
+      publisher: The Week
+      url: >-
+        https://www.theweek.in/news/india/2020/09/30/drdo-tests-brahmos-missile-with-extended-range-to-hit-targets-over-400km-away.html
+      accessed: "2026-06-16"
+sources:
+  - title: BrahMos Missile Featuring Indigenous Booster Successfully Flight Tested (PRID 1660288)
+    tier: pib
+    publisher: PIB / BrahMos Aerospace
+    date: "2020-09-30"
+    url: https://pib.gov.in/PressReleasePage.aspx?PRID=1660288
+    accessed: "2026-06-16"
+  - title: DRDO tests BrahMos missile with extended range to hit targets over 400km away
+    tier: indian-news
+    publisher: The Week
+    date: "2020-09-30"
+    url: >-
+      https://www.theweek.in/news/india/2020/09/30/drdo-tests-brahmos-missile-with-extended-range-to-hit-targets-over-400km-away.html
+    accessed: "2026-06-16"

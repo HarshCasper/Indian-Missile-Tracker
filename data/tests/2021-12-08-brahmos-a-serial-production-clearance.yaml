@@ -1,0 +1,42 @@
+id: 2021-12-08-brahmos-a-serial-production-clearance
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290 km)
+designation: Serial-production clearance firing
+date: "2021-12-08"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 290
+description: >-
+  The air-launched BrahMos was successfully fired from a Su-30MKI off the Odisha coast at about
+  10:30 hours; the missile followed its pre-planned trajectory and met all mission objectives. The
+  'copy book' flight confirmed the missile's structural integrity and functional performance and
+  cleared the system for serial production in India.
+notes: >-
+  Air-launched from a Su-30MKI over ITR Chandipur / Bay of Bengal off Odisha. Operational range ~290
+  km (capability). MoD/PIB-attributed release reported by multiple outlets (ANI, Business Standard,
+  Airforce Technology, Sputnik).
+sources:
+  - title: India successfully test-fires air-launched version of BrahMos supersonic cruise missile
+    tier: indian-news
+    publisher: ANI
+    date: "2021-12-08"
+    url: >-
+      https://www.aninews.in/news/national/general-news/india-successfully-test-fires-air-launched-version-of-brahmos-supersonic-cruise-missile20211209061726/
+    accessed: "2026-06-16"
+  - title: India test-fires air version of BrahMos missile from Sukhoi 30 MK-I jet
+    tier: foreign-news
+    publisher: Airforce Technology
+    date: "2021-12-08"
+    url: https://www.airforce-technology.com/news/india-test-fires-air-version-of-brahmos-missile/
+    accessed: "2026-06-16"
+  - title: >-
+      India Clears Serial Production of Air-Launched BrahMos Missile with Successful Test from
+      Su-30MKI
+    tier: foreign-news
+    publisher: Sputnik
+    date: "2021-12-08"
+    url: >-
+      https://sputniknews.com/20211208/india-clears-serial-production-of-air-launched-brahmos-missile-with-successful-test-from-su-30mki-1091347332.html
+    accessed: "2026-06-16"

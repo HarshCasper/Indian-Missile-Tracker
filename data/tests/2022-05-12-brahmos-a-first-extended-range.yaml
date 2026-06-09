@@ -1,0 +1,58 @@
+id: 2022-05-12-brahmos-a-first-extended-range
+missile_id: brahmos-a
+variant: BrahMos-A Extended Range (ER, ~350-400 km)
+designation: First Extended Range air-launched BrahMos firing
+date: "2022-05-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 400
+description: >-
+  First launch of the Extended Range (ER) version of the air-launched BrahMos from a Su-30MKI. The
+  missile achieved a direct hit on the designated target in the Bay of Bengal region, giving the IAF
+  the capability to strike land/sea targets over much longer ranges than the baseline ~290 km
+  variant.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal off Odisha (counted under itr-chandipur).
+  Confirmed by an official PIB / Ministry of Defence release dated 12 May 2022. Range reported as
+  extended to over 350 km (some reports ~400 km) from the original ~290 km. This test was MISSING
+  from the original compiled list and has been added.
+sources:
+  - title: >-
+      SUCCESSFUL FIRING OF EXTENDED RANGE VERSION OF BRAHMOS AIR LAUNCHED MISSILE FROM SU-30 MKI
+      AIRCRAFT
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence (via GlobalSecurity.org)
+    date: "2022-05-12"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220512-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: IAF's Su-30MKI test fires first extended range version of Brahmos missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    date: "2022-05-13"
+    url: >-
+      https://www.airforce-technology.com/news/iafs-su-30mki-test-fires-first-extended-range-version-of-brahmos-missile/
+    accessed: "2026-06-16"
+  - title: Extended-range BrahMos launched from Sukhoi-30MKI fighter aircraft
+    tier: indian-news
+    publisher: Business Standard
+    date: "2022-05-12"
+    url: >-
+      https://www.business-standard.com/article/current-affairs/extended-range-brahmos-launched-from-sukhoi-30mki-fighter-aircraft-122051201594_1.html
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 400
+    basis: reported
+    text: >-
+      Range extended to over 350 km from the original ~290 km; several outlets report the target was
+      struck at roughly 400 km. The PIB release confirms an extended-range strike but does not state
+      a precise figure.
+    source:
+      title: IAF's Su-30MKI test fires first extended range version of Brahmos missile
+      tier: foreign-news
+      publisher: Airforce Technology
+      date: "2022-05-13"
+      url: >-
+        https://www.airforce-technology.com/news/iafs-su-30mki-test-fires-first-extended-range-version-of-brahmos-missile/

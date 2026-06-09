@@ -1,0 +1,44 @@
+id: 2019-12-17-brahmos-a-third-launch-integration
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290 km, user configuration)
+designation: Third live launch; integration completed
+date: "2019-12-17"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 300
+description: >-
+  Third live launch of the air-launched BrahMos from a Su-30MKI, against a sea/surface target off
+  the Odisha coast, in user configuration. The missile followed the desired trajectory and achieved
+  a direct hit; the MoD stated the test completed integration of BrahMos-A on the Su-30MKI. The
+  Indian Navy supported the launch.
+notes: >-
+  Air-launched from a Su-30MKI over the Bay of Bengal off Odisha (counted under itr-chandipur). Per
+  India's PIB (release dated 18 Dec 2019), the launch hit a surface target off the Odisha coastline
+  with Indian Navy support. The same day India also fired a separate land-based (surface-to-surface)
+  BrahMos from a mobile launcher, which is NOT counted here as it was not air-launched. Range ~300
+  km is missile capability, not a measured distance.
+sources:
+  - title: >-
+      Two consecutive launches of BrahMos from Land & Air platform validates the weapon's lethality
+      (quotes 18 Dec 2019 PIB)
+    tier: indian-news
+    publisher: Asian Military Review
+    date: "2019-12-18"
+    url: >-
+      https://www.asianmilitaryreview.com/2019/12/two-consecutive-launches-of-brahmos-from-land-air-platform-validates-the-weapons-lethality/
+    accessed: "2026-06-16"
+  - title: Indian air force test-fires BrahMos missile
+    tier: foreign-news
+    publisher: Xinhua
+    date: "2019-12-17"
+    url: http://www.xinhuanet.com/english/2019-12/17/c_138638582.htm
+    accessed: "2026-06-16"
+  - title: India Test Fires 2 BrahMos Supersonic Missiles From Air and Land Platforms
+    tier: foreign-news
+    publisher: The Diplomat
+    date: "2019-12-18"
+    url: >-
+      https://thediplomat.com/2019/12/india-test-fires-2-brahmos-supersonic-missiles-from-air-and-land-platforms/
+    accessed: "2026-06-16"

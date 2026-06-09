@@ -1,0 +1,41 @@
+id: 2021-07-brahmos-a-reported-flight-test
+missile_id: brahmos-a
+variant: BrahMos-A (baseline ~290/300 km)
+designation: Reported July 2021 flight test (unverified)
+date: 2021-07
+date_precision: month
+outcome: unknown
+confidence: disputed
+description: >-
+  Several outlets covering the December 2021 firing referred in passing to the air version of
+  BrahMos having been 'last flight tested in July 2021,' implying a distinct mid-2021 trial. No
+  contemporaneous July 2021 report, specific date, launch site, target type or outcome could be
+  located, so this record is provisional.
+notes: >-
+  Likely a real developmental trial but possibly media conflation; only retrospective mentions (in
+  Dec 2021 coverage such as Airforce Technology and Janes) reference a July 2021 air-launch test. No
+  PIB/DRDO/Janes primary report with a date was found. Launch site unknown (likely a Su-30MKI over
+  the Bay of Bengal/Odisha range if real). Treat as low-confidence/unverified.
+sources:
+  - title: >-
+      India test-fires air version of BrahMos missile from Sukhoi 30 MK-I jet (states the air
+      version 'was last flight tested in July 2021')
+    tier: foreign-news
+    publisher: Airforce Technology
+    date: "2021-12-08"
+    url: https://www.airforce-technology.com/news/india-test-fires-air-version-of-brahmos-missile/
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    basis: reported
+    text: >-
+      Existence of a distinct July 2021 air-launch test rests solely on retrospective phrasing in
+      December 2021 coverage ('last flight tested in July 2021'); no contemporaneous July 2021
+      source with date/site/outcome was found.
+    source:
+      title: India test-fires air version of BrahMos missile from Sukhoi 30 MK-I jet
+      tier: foreign-news
+      publisher: Airforce Technology
+      date: "2021-12-08"
+      url: https://www.airforce-technology.com/news/india-test-fires-air-version-of-brahmos-missile/
+site_id: null
