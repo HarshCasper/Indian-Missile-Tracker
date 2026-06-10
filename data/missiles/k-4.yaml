@@ -1,0 +1,81 @@
+id: k-4
+name: K-4
+aka:
+  - Kalam-4
+  - K4
+category: submarine-launched
+range_class: SLBM
+developer: DRDO (Defence Research and Development Organisation); manufactured by Bharat Dynamics Limited
+operators:
+  - Indian Navy
+status: operational
+range_km:
+  min: 3000
+  max: 3500
+payload_kg: 2000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - Arihant-class SSBN (INS Arihant, INS Arighaat)
+  - submerged pontoon
+first_test: "2014-03-24"
+description: >-
+  The K-4 is an intermediate-range, two-stage solid-fuel submarine-launched ballistic missile
+  developed by DRDO for the Arihant-class SSBNs, dramatically extending the reach of India's
+  sea-based deterrent compared with the K-15. It is roughly 12 m long, 1.3 m in diameter and weighs
+  about 17 tonnes. Early development ejection tests began in 2010 from a submerged pontoon, and a
+  full flight test followed in March 2014. In November 2024 it was test-fired from the submarine INS
+  Arighaat, reported as the first launch of the missile from an operational submarine and a
+  milestone for India's nuclear triad.
+claims:
+  - field: range_km
+    value: 3500
+    basis: reported
+    text: Widely reported maximum range of about 3,500 km.
+    source:
+      title: Indian Navy test fires nuclear-capable K-4 ballistic missile from INS Arighaat
+      tier: indian-news
+      publisher: Deccan Herald
+      url: >-
+        https://www.deccanherald.com/india/indian-navy-test-fires-nuclear-capable-k-4-ballistic-missile-from-ins-arighaat-3295454
+  - field: range_km
+    value: 3000
+    basis: demonstrated
+    text: >-
+      The 24 March 2014 flight test demonstrated a range of about 3,000 km from a submerged pontoon
+      off Visakhapatnam.
+    source:
+      title: K-4 Missile
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+sources:
+  - title: Indian Navy test fires nuclear-capable K-4 ballistic missile from INS Arighaat
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/indian-navy-test-fires-nuclear-capable-k-4-ballistic-missile-from-ins-arighaat-3295454
+    date: "2024-11-28"
+    accessed: "2026-06-16"
+  - title: India's Nuclear Triad Becomes Credible; K-4 Missile Launch from INS Arighat
+    tier: foreign-news
+    publisher: EurAsian Times
+    url: >-
+      https://www.eurasiantimes.com/indias-nuclear-triad-becomes-credible-k-4-missile-launch-from-ins-arighat-makes-k-15-obsolete-for-true-deterrence/
+    accessed: "2026-06-16"
+  - title: K-4 Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+    accessed: "2026-06-16"
+  - title: K-4 (missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/K-4_(missile)
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  First flight test 24 March 2014 from a submerged pontoon off Visakhapatnam (range ~3,000 km).
+  First submarine launch from INS Arighaat in late November 2024 (sources differ on exact date, 27
+  vs 28 Nov 2024). Motors developed with DRDO's HEMRL and ACEM. Carries a nuclear payload of up to
+  ~2 tonnes.

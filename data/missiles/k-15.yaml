@@ -1,0 +1,100 @@
+id: k-15
+name: K-15 Sagarika
+aka:
+  - Sagarika
+  - B-05
+  - BO-05
+  - K-15
+  - PJ-08
+category: submarine-launched
+range_class: SLBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Navy
+status: operational
+range_km:
+  min: 700
+  max: 750
+payload_kg: 1000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - Arihant-class SSBN (INS Arihant)
+  - submerged pontoon/barge
+variants:
+  - name: Shaurya
+    notes: Land-based, canister-launched derivative of the K-15
+first_test: "2008-02-26"
+description: >-
+  The K-15 Sagarika (codenamed B-05) is India's first submarine-launched ballistic missile, a
+  two-stage solid-propellant weapon developed by DRDO for the sea-based leg of India's nuclear
+  triad. It uses a gas booster to eject from the launch tube and breach the surface before its
+  motors ignite. It arms the Arihant-class SSBNs and provides a short-range second-strike
+  capability, primarily against targets in Pakistan. Underwater development tests culminated in
+  fully integrated firings, and it is regarded as operational aboard INS Arihant.
+claims:
+  - field: range_km
+    value: 700
+    basis: assessed
+    text: Maximum range assessed at ~700 km by CSIS Missile Threat.
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+  - field: range_km
+    value: 750
+    basis: reported
+    text: Some sources cite a range of at least 750 km.
+    source:
+      title: BO5 / K-15 / Sagarika / Shourya (Valor)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+  - field: payload_kg
+    value: 1000
+    basis: assessed
+    text: Payload variously reported as 500-1000 kg; CSIS lists 500-800 kg, other sources up to 1000 kg.
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+  - field: first_test
+    basis: reported
+    text: >-
+      First test firings reported from 2004-2008; the missile was test-fired in 2008 and the first
+      fully integrated/underwater test is often cited in January 2010, with a sub-launched test from
+      INS Arihant later. First-test dating is inconsistent across sources.
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+sources:
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+  - title: India's K-15 Sagarika Submarine Launched Ballistic Missile Completes Developmental Tests
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20130127_k5_slbm_complete_tests.html
+    accessed: "2026-06-16"
+  - title: BO5 / K-15 / Sagarika / Shourya (Valor)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+    accessed: "2026-06-16"
+  - title: Sagarika (missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sagarika_(missile)
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  First SLBM of India's 'K' (Kalam) series. Dimensions ~10.8 m length, 0.8 m diameter, launch weight
+  ~6-7 tonnes. Range is sufficient only for second-strike against Pakistan; considered a
+  transitional/R&D platform now being superseded by the longer-range K-4. First-test dates vary
+  widely across sources (2004-2010); treat first_test as approximate.

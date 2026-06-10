@@ -1,0 +1,77 @@
+id: k-5
+name: K-5
+aka:
+  - Kalam-5
+  - K5
+category: submarine-launched
+range_class: SLBM
+developer: DRDO (Defence Research and Development Organisation)
+operators:
+  - Indian Navy
+status: development
+range_km:
+  min: 5000
+  max: 6000
+payload_kg: 2000
+nuclear_capable: true
+propulsion: solid
+launch_platform:
+  - future Arihant-class variants (S4, S4*)
+description: >-
+  The K-5 is an upcoming long-range submarine-launched ballistic missile under development by DRDO
+  for the next-generation Arihant-class SSBNs (S4/S4*), intended to give India an
+  intercontinental-class sea-based deterrent. Reported as a three-stage solid-fuelled system
+  weighing around 20 tonnes, it is described as India's first SLBM optimised for MIRV (multiple
+  independently targetable reentry vehicle) technology. DRDO reportedly completed development of the
+  missile in 2025, with a Stage-II rocket motor static test conducted in September 2025, though it
+  has not yet undergone a public flight test.
+claims:
+  - field: range_km
+    value: 5000
+    basis: reported
+    text: >-
+      Operational range reported at 5,000-6,000 km, confirmed by a former scientist at the Kerala
+      Spacepark foundation event in June 2025.
+    source:
+      title: >-
+        India completes development of K-5 nuclear ballistic missile to expand submarine strike
+        range
+      tier: foreign-news
+      publisher: Army Recognition
+      url: >-
+        https://www.armyrecognition.com/news/navy-news/2025/india-completes-development-of-k-5-nuclear-ballistic-missile-to-expand-submarine-strike-range
+  - field: range_km
+    value: 6000
+    basis: assessed
+    text: Some analysts assess a range as high as 6,000-8,000 km depending on payload weight.
+    source:
+      title: DRDO Completes K-5 Nuclear Missile Development
+      tier: foreign-news
+      publisher: Raksha Anirveda
+      url: >-
+        https://raksha-anirveda.com/drdo-successfully-completes-development-of-k-5-nuclear-ballistic-missile/
+sources:
+  - title: India completes development of K-5 nuclear ballistic missile to expand submarine strike range
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/news/navy-news/2025/india-completes-development-of-k-5-nuclear-ballistic-missile-to-expand-submarine-strike-range
+    date: "2025-07-01"
+    accessed: "2026-06-16"
+  - title: DRDO Completes K-5 Nuclear Missile Development
+    tier: foreign-news
+    publisher: Raksha Anirveda
+    url: >-
+      https://raksha-anirveda.com/drdo-successfully-completes-development-of-k-5-nuclear-ballistic-missile/
+    accessed: "2026-06-16"
+  - title: K-5 (ballistic missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/K-5_(ballistic_missile)
+    accessed: "2026-06-16"
+confidence: reported
+notes: >-
+  Development-stage, not yet flight tested as of mid-2026. Frequently described as the naval
+  counterpart to the land-based Agni-V. Range figures and MIRV claims come from defence-press
+  reporting rather than official DRDO/PIB releases, so treat as reported. Intended for S4/S4* and
+  future SSBNs with vertical launch tubes.
