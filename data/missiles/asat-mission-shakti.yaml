@@ -1,0 +1,92 @@
+id: asat-mission-shakti
+name: PDV Mk-II (Mission Shakti ASAT)
+aka:
+  - PDV Mk-II
+  - PDV Mark-II
+  - Mission Shakti
+  - Project XSV-1
+  - A-SAT
+category: anti-satellite
+range_class: ASAT
+developer: DRDO
+operators:
+  - India
+status: development
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - land-based / ground-launched (Dr APJ Abdul Kalam Island)
+variants:
+  - name: PDV Mk-II ASAT
+    notes: >-
+      Three-stage interceptor with kinetic kill vehicle third stage; uses PDV-derived/K-4 type solid
+      motors
+first_test: "2019-03-27"
+description: >-
+  PDV Mk-II was the kinetic-kill anti-satellite (ASAT) interceptor used in India's Mission Shakti
+  (Project XSV-1), conducted on 27 March 2019 from Dr APJ Abdul Kalam Island, Odisha. The DRDO
+  interceptor destroyed the Indian Microsat-R satellite in low Earth orbit at an altitude of about
+  283 km, making India the fourth country (after the US, Russia and China) to demonstrate an ASAT
+  capability. It is a three-stage missile (about 13 m long, ~18-19 tonnes) with two solid-propellant
+  stages and a hit-to-kill kinetic Kill Vehicle as the third stage, guided by an imaging infrared
+  seeker and a ring-laser-gyro inertial navigation system. It is a direct-ascent ASAT derived from
+  the Prithvi Defence Vehicle BMD interceptor.
+claims:
+  - field: intercept_altitude_km
+    basis: official
+    value: 283
+    text: Target Microsat-R intercepted in LEO at ~283 km altitude (some accounts cite ~282-285 km).
+    source:
+      title: >-
+        Frequently Asked Questions on Mission Shakti, India's Anti-Satellite Missile test conducted
+        on 27 March 2019
+      tier: pib
+      publisher: Ministry of External Affairs (MEA), Government of India
+      url: >-
+        https://www.mea.gov.in/press-releases.htm?dtl/31179/Frequently_Asked_Questions_on_Mission_Shakti_Indias_AntiSatellite_Missile_test_conducted_on_27_March_2019
+  - field: intercept_altitude_km
+    basis: assessed
+    min: 282
+    max: 285
+    text: Independent/analyst accounts report the intercept altitude in the ~282-285 km range.
+    source:
+      title: "India's ASAT Test: An Incomplete Success"
+      tier: foreign-news
+      publisher: Carnegie Endowment for International Peace
+      url: >-
+        https://carnegieendowment.org/research/2019/04/indias-asat-test-an-incomplete-success?lang=en
+sources:
+  - title: >-
+      Frequently Asked Questions on Mission Shakti, India's Anti-Satellite Missile test conducted on
+      27 March 2019
+    tier: pib
+    publisher: Ministry of External Affairs (MEA), Government of India
+    url: >-
+      https://www.mea.gov.in/press-releases.htm?dtl/31179/Frequently_Asked_Questions_on_Mission_Shakti_Indias_AntiSatellite_Missile_test_conducted_on_27_March_2019
+    date: "2019-03-27"
+    accessed: "2026-06-16"
+  - title: Raksha Mantri Shri Rajnath Singh Unveils A-Sat Missile Model in DRDO Bhawan
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1671442
+    accessed: "2026-06-16"
+  - title: "India's ASAT Test: An Incomplete Success"
+    tier: foreign-news
+    publisher: Carnegie Endowment for International Peace
+    url: https://carnegieendowment.org/research/2019/04/indias-asat-test-an-incomplete-success?lang=en
+    date: 2019-04
+    accessed: "2026-06-16"
+  - title: Why India's ASAT Test Was Reckless
+    tier: foreign-news
+    publisher: The Diplomat
+    url: https://thediplomat.com/2019/05/why-indias-asat-test-was-reckless/
+    date: 2019-05
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Direct-ascent kinetic-kill ASAT (non-nuclear, hit-to-kill). Single demonstrated test (Mission
+  Shakti, 27 Mar 2019); not an operationally deployed weapon system, hence status 'development'.
+  Target was the ~740 kg Microsat-R satellite (target satellite mass, not interceptor payload, so
+  payload_kg omitted). Reported missile mass ~18-19 t and length ~13 m. range_class ASAT chosen over
+  ABM as it is the dedicated anti-satellite role. PDV Mk-II is a derivative of the PDV BMD
+  interceptor.

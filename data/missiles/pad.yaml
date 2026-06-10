@@ -1,0 +1,77 @@
+id: pad
+name: Prithvi Air Defence (PAD)
+aka:
+  - Pradyumna
+  - PAD
+  - Prithvi Air Defence Missile
+category: ballistic-missile-defence
+range_class: ABM
+developer: DRDO
+operators:
+  - India
+status: retired
+range_km:
+  min: 300
+  max: 2000
+speed_mach: 5
+nuclear_capable: false
+propulsion: solid+liquid
+launch_platform:
+  - land-based / ground-launched
+variants:
+  - name: PAD / Pradyumna
+    notes: Phase-1 exo-atmospheric interceptor; derived from the Prithvi missile
+first_test: "2006-11-27"
+description: >-
+  The Prithvi Air Defence (PAD), also called Pradyumna, was the exo-atmospheric (high-altitude)
+  interceptor element of the first phase of India's two-tier Ballistic Missile Defence programme,
+  developed by DRDO. First flight-tested on 27 November 2006 when it intercepted a modified
+  Prithvi-II target at roughly 48-50 km altitude, it was designed to engage incoming ballistic
+  missiles of the 300-2,000 km class at altitudes between about 50 and 80 km. Built around a
+  Prithvi-derived first stage (liquid) with a solid second stage, the test made India the fourth
+  nation to demonstrate an anti-ballistic-missile capability. The system was subsequently superseded
+  in the exo-atmospheric role by the Prithvi Defence Vehicle (PDV).
+claims:
+  - field: intercept_altitude_km
+    basis: reported
+    value: 80
+    text: >-
+      Maximum exo-atmospheric interception altitude reported as ~80 km (first test intercept at
+      ~48-50 km).
+    source:
+      title: Prithvi Air Defence (PAD)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/pad.htm
+  - field: speed_mach
+    basis: reported
+    value: 5
+    text: Engagement speed reported as Mach 5 against 300-2,000 km class ballistic missiles.
+    source:
+      title: DRDO Ballistic Missile Defence System
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/drdo-bmd/
+sources:
+  - title: Prithvi Air Defence (PAD)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/pad.htm
+    accessed: "2026-06-16"
+  - title: DRDO Ballistic Missile Defence System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/drdo-bmd/
+    accessed: "2026-06-16"
+  - title: Mission Shakti / Indian BMD programme overview
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Prithvi_Air_Defence
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Phase-1 exo-atmospheric interceptor of DRDO's two-tier BMD. Non-nuclear (kinetic /
+  directional-warhead hit-to-kill defensive interceptor). 'Pradyumna' is the reported alternate
+  name. Now effectively replaced in the exo-atmospheric layer by the PDV; treated as
+  retired/superseded. Used Israeli Green Pine (Swordfish-precursor) radar in early tests per
+  reporting.

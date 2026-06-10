@@ -1,0 +1,69 @@
+id: pdv
+name: Prithvi Defence Vehicle (PDV)
+aka:
+  - PDV
+category: ballistic-missile-defence
+range_class: ABM
+developer: DRDO
+operators:
+  - India
+status: operational
+range_km:
+  min: 50
+  max: 2000
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - land-based / ground-launched
+variants:
+  - name: PDV
+    notes: Exo-atmospheric interceptor; replaces PAD in the upper tier
+  - name: PDV Mk-II
+    notes: ASAT derivative used in Mission Shakti (catalogued separately as asat-mission-shakti)
+first_test: "2014-04-27"
+description: >-
+  The Prithvi Defence Vehicle (PDV) is DRDO's second-generation exo-atmospheric interceptor,
+  developed to replace the earlier PAD in the upper tier of India's Ballistic Missile Defence
+  system. It was first successfully flight-tested on 27 April 2014 off the Odisha coast, destroying
+  its target at an altitude of about 120 km and demonstrating the ability to engage ballistic
+  missiles launched from up to roughly 2,000 km away. The PDV uses solid propulsion with a gimballed
+  directional-warhead/kinetic kill vehicle and is designed to intercept targets in the
+  exo-atmosphere above ~50 km. It is the basis for the PDV Mk-II ASAT used in Mission Shakti.
+claims:
+  - field: intercept_altitude_km
+    basis: demonstrated
+    value: 120
+    text: >-
+      First test (27 April 2014) destroyed the target at ~120 km altitude; design engages targets
+      above ~50 km exo-atmosphere.
+    source:
+      title: India tests a new exo-atmospheric interceptor
+      tier: foreign-news
+      publisher: Defense Update
+      url: https://defense-update.com/20140502_india-tests-new-exo-atmospheric-interceptor.html
+sources:
+  - title: PDV (Prithvi Defence Vehicle)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/pdv.htm
+    accessed: "2026-06-16"
+  - title: India tests a new exo-atmospheric interceptor
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20140502_india-tests-new-exo-atmospheric-interceptor.html
+    date: "2014-05-02"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Prithvi Defense Vehicle, A New Missile Killer System
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2017/02/india-successfully-tests-prithvi-defense-vehicle-a-new-missile-killer-system/
+    date: 2017-02
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Phase-1 upper-tier (exo-atmospheric) interceptor replacing PAD. First flight test 27 April 2014; a
+  notable further test occurred 11 February 2017. Non-nuclear kinetic / directional-warhead
+  interceptor. range_km represents the engagement/intercept envelope (min ~50 km altitude floor;
+  targets out to ~2,000 km class), not a ballistic strike range. speed_mach omitted (no reliable
+  figure found).

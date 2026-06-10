@@ -1,0 +1,74 @@
+id: ad-1
+name: AD-1
+aka:
+  - AD-1 interceptor
+  - Phase-II BMD interceptor
+category: ballistic-missile-defence
+range_class: ABM
+developer: DRDO
+operators:
+  - India
+status: development
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - land-based / ground-launched
+variants:
+  - name: AD-1
+    notes: >-
+      Phase-II long-range interceptor; dual exo/endo-atmospheric role against long-range BMs and
+      aircraft
+first_test: "2022-11-02"
+description: >-
+  AD-1 is a long-range interceptor missile developed by DRDO for Phase-II of India's Ballistic
+  Missile Defence programme, intended to engage intermediate-range/long-range ballistic missiles and
+  aircraft. Its maiden flight test was conducted on 2 November 2022 from Dr APJ Abdul Kalam Island
+  off the Odisha coast, demonstrating a 'large kill altitude bracket' covering both low
+  exo-atmospheric and endo-atmospheric interception. It is propelled by a two-stage solid motor with
+  an indigenous control, navigation and guidance system. AD-1 (with the planned AD-2) is intended to
+  extend India's shield to defeat ballistic missiles of greater range than the Phase-I PAD/AAD/PDV
+  systems.
+claims:
+  - field: range_km
+    basis: reported
+    value: 200
+    text: >-
+      AD-1's range is not officially disclosed; some reports estimate around 200 km. Treat as
+      unverified.
+    source:
+      title: >-
+        DRDO conducts successful maiden flight-test of Phase-II Ballistic Missile Defence
+        interceptor off Odisha coast
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1873179
+sources:
+  - title: >-
+      DRDO conducts successful maiden flight-test of Phase-II Ballistic Missile Defence interceptor
+      off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1873179
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+  - title: DRDO Conducts Successful Maiden Flight-test of Phase-II BMD Interceptor
+    tier: foreign-news
+    publisher: SP's Aviation
+    url: >-
+      https://www.sps-aviation.com/story/?id=3210&h=DRDO-Conducts-Successful-Maiden-Flight-test-of-Phase-II-BMD-Interceptor
+    date: 2022-11
+    accessed: "2026-06-16"
+  - title: India carries out maiden flight test of ballistic missile defence interceptor
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/india-carries-out-maiden-flight-test-of-ballistic-missile-defence-interceptor-1158813.html
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Phase-II BMD interceptor with dual-role (exo + endo) capability against long-range ballistic
+  missiles and aircraft. Non-nuclear kinetic/hit-to-kill defensive interceptor. Official range not
+  disclosed; ~200 km is an unverified press estimate, so range_km left unset and recorded only as a
+  reported claim. speed_mach and payload_kg omitted (no reliable figures). Companion AD-2
+  interceptor is a separate planned system not catalogued here.

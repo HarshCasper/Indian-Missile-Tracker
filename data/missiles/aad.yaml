@@ -1,0 +1,75 @@
+id: aad
+name: Advanced Air Defence (AAD)
+aka:
+  - Ashwin
+  - AAD
+  - Advanced Air Defence Missile
+category: ballistic-missile-defence
+range_class: ABM
+developer: DRDO
+operators:
+  - India
+status: operational
+range_km:
+  min: 150
+  max: 200
+speed_mach: 4.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - land-based / ground-launched canister
+variants:
+  - name: AAD / Ashwin
+    notes: Endo-atmospheric (low-altitude) interceptor, Phase-1 BMD
+first_test: "2007-12-06"
+description: >-
+  The Advanced Air Defence (AAD) missile, also called Ashwin, is the endo-atmospheric (low-altitude,
+  in-atmosphere) interceptor of the first phase of DRDO's Ballistic Missile Defence programme. First
+  flight-tested on 6 December 2007, it intercepts incoming ballistic missiles at altitudes of
+  roughly 15-30 km. It is a single-stage, solid-fuelled, hit-to-kill interceptor about 7.5 m long
+  weighing around 1.2 tonnes, guided by inertial navigation with mid-course radar updates and active
+  terminal homing. It forms the lower tier of the two-layer shield, complementing the
+  exo-atmospheric PAD/PDV interceptors.
+claims:
+  - field: intercept_altitude_km
+    basis: reported
+    value: 30
+    text: Endo-atmospheric interception altitude reported as approximately 15-30 km.
+    source:
+      title: DRDO Ballistic Missile Defence System
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/drdo-bmd/
+  - field: speed_mach
+    basis: reported
+    value: 4.5
+    text: Speed reported as ~Mach 4.5.
+    source:
+      title: DRDO Ballistic Missile Defence System
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/drdo-bmd/
+sources:
+  - title: Ballistic Missile Interceptor AAD Successfully Flight Tested
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1541431
+    accessed: "2026-06-16"
+  - title: India's Advanced Air Defense Interceptor Shoots Down Ballistic Missile Target in Test
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/08/indias-advanced-air-defense-interceptor-shoots-down-ballistic-missile-target-in-test/
+    date: 2018-08
+    accessed: "2026-06-16"
+  - title: DRDO Ballistic Missile Defence System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/drdo-bmd/
+    accessed: "2026-06-16"
+confidence: confirmed
+notes: >-
+  Phase-1 endo-atmospheric (low-altitude) interceptor. Non-nuclear kinetic/hit-to-kill defensive
+  interceptor. payload_kg omitted: ~1.2 t figure is total missile launch weight, not warhead/payload
+  mass, so not recorded as payload. range_km here reflects engagement/intercept envelope, not a
+  ballistic strike range.
