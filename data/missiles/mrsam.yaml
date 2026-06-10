@@ -1,0 +1,82 @@
+id: mrsam
+name: MRSAM / Barak-8
+aka:
+  - Barak-8
+  - LRSAM
+  - MR-SAM
+  - Medium Range Surface-to-Air Missile
+  - Long Range Surface-to-Air Missile
+category: surface-to-air
+range_class: SAM
+developer: DRDO with Israel Aerospace Industries (IAI), Rafael, IAI/Elta; produced with BDL/BEL/L&T
+operators:
+  - Indian Air Force
+  - Indian Army
+  - Indian Navy
+status: operational
+range_km:
+  min: 70
+  max: 100
+speed_mach: 2
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - naval ship (vertical launch)
+  - mobile land launcher
+variants:
+  - name: LRSAM (Barak-8 naval)
+    notes: Long-range ship-borne variant for the Indian Navy
+  - name: MRSAM (land)
+    notes: Land-based variant for IAF and Army
+  - name: Barak-8 ER
+    notes: Extended-range variant assessed up to ~150 km
+first_test: "2014-11-10"
+description: >-
+  MRSAM/Barak-8 (the Indian Navy variant designated LRSAM) is a jointly developed Indian-Israeli
+  surface-to-air missile system built by DRDO and Israel Aerospace Industries with Rafael and Elta,
+  deployed in both naval and land-based configurations. It uses a dual-pulse solid rocket motor,
+  thrust-vector control, and an active radar seeker with inertial mid-course updates to intercept
+  aircraft, missiles and other aerial threats out to about 70-100 km. The missile was first tested
+  in Israel on 10 November 2014, then from INS Kolkata in December 2015, with the land-based version
+  tested off Odisha in June-July 2016. It is operational with the Indian Navy, Air Force and Army.
+claims:
+  - field: range_km
+    value: 70
+    basis: official
+    text: Baseline range commonly stated as 70 km using dual-pulse motor.
+    source:
+      title: Medium-Range Surface-to-Air Missile (MRSAM), India
+      tier: further-reading
+      publisher: Airforce Technology
+      url: https://www.airforce-technology.com/projects/medium-range-surface-to-air-missile-mrsam/
+  - field: range_km
+    value: 100
+    basis: assessed
+    text: >-
+      Some sources cite up to ~100 km; an extended-range Barak-8 ER variant is assessed at ~150 km
+      (Israel tested an ER interceptor 22 March 2021).
+    source:
+      title: Long-Range Surface-to-Air Missile (LRSAM) / Barak 8
+      tier: further-reading
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/military/world/india/lr-sam.htm
+sources:
+  - title: Long-Range Surface-to-Air Missile (LRSAM) / Barak 8
+    tier: further-reading
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/lr-sam.htm
+  - title: Medium-Range Surface-to-Air Missile (MRSAM), India
+    tier: further-reading
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/medium-range-surface-to-air-missile-mrsam/
+  - title: Indian army completes final tests for Israeli-made Barak 8 missile defense system
+    tier: foreign-news
+    publisher: The Times of Israel
+    url: >-
+      https://www.timesofisrael.com/liveblog_entry/indian-army-completes-final-tests-for-israeli-made-barak-8-missile-defense-system-ready-to-be-operational/
+confidence: confirmed
+notes: >-
+  Joint DRDO-IAI programme; naval variant = LRSAM/Barak-8, land variant = MRSAM. First test in
+  Israel 10 Nov 2014; INS Kolkata test 29-30 Dec 2015; land version off Odisha 30 Jun 2016 and three
+  flight tests Jul 2016. Range disputed: ~70 km baseline, up to ~100 km, with Barak-8 ER assessed at
+  ~150 km.

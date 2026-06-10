@@ -1,0 +1,57 @@
+id: qrsam
+name: QRSAM
+aka:
+  - Quick Reaction Surface-to-Air Missile
+category: surface-to-air
+range_class: SAM
+developer: DRDO (DRDL/RCI) with BEL and BDL
+operators:
+  - Indian Army
+status: development
+range_km:
+  min: 25
+  max: 30
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - mobile launcher (truck-mounted, fire-on-the-move)
+first_test: "2017-06-04"
+description: >-
+  QRSAM (Quick Reaction Surface-to-Air Missile) is a short-range, all-weather, mobile air-defence
+  system developed by DRDO for the Indian Army to provide protection to moving armoured columns. The
+  fully automated system fires on the move and comprises a command-and-control system, an
+  active-array battery surveillance radar, an active-array battery multifunction radar and a
+  launcher, using a single-stage solid-propellant missile with a mid-course inertial and terminal
+  active-seeker guidance. It engages high-speed manoeuvring aerial targets at ranges of about 25-30
+  km. Its first flight test was on 4 June 2017, followed by extensive multi-test campaigns including
+  six successful trials in September 2022.
+claims:
+  - field: range_km
+    min: 25
+    max: 30
+    basis: official
+    text: DRDO/PIB describe a range of around 30 km; some reports cite 25-30 km.
+    source:
+      title: >-
+        DRDO & Indian Army successfully conduct six flight-tests of Quick Reaction Surface to Air
+        Missile system off Odisha coast
+      tier: pib
+      publisher: Press Information Bureau
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857724
+sources:
+  - title: Quick Reaction Surface to Air Missile successfully flight-tested off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1597212
+  - title: >-
+      DRDO & Indian Army successfully conduct six flight-tests of Quick Reaction Surface to Air
+      Missile system off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857724
+    date: "2022-09-08"
+confidence: confirmed
+notes: >-
+  First test 4 Jun 2017. Six-test campaign completed 8 Sep 2022 covering long-range medium-altitude,
+  short-range high-altitude, low-RCS, receding/crossing and salvo scenarios. Range commonly cited
+  ~30 km.

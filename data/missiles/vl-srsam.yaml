@@ -1,0 +1,65 @@
+id: vl-srsam
+name: VL-SRSAM
+aka:
+  - Vertical Launch Short Range Surface-to-Air Missile
+category: surface-to-air
+range_class: SAM
+developer: DRDO (DRDL, RCI, R&DE Pune)
+operators:
+  - Indian Navy
+status: development
+range_km:
+  min: 1
+  max: 40
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - naval ship (vertical launch)
+  - truck-mounted launcher (planned land variant)
+variants:
+  - name: Naval VL-SRSAM
+    notes: Ship-borne point-defence variant for the Indian Navy
+  - name: Land-based VL-SRSAM
+    notes: Truck-mounted variant planned for Army/IAF
+first_test: "2021-02-22"
+description: >-
+  VL-SRSAM is an indigenous vertically launched short-range surface-to-air missile developed by
+  DRDO, primarily as a ship-borne point-defence weapon to neutralise close-range aerial threats
+  including sea-skimming targets. Derived from the Astra air-to-air missile airframe, it uses a
+  vertical launch with thrust-vectoring for 360-degree coverage and an indigenous RF seeker for
+  terminal homing. DRDO and the Indian Navy first flight-tested it on 22 February 2021, with further
+  successful trials including from an Indian Naval ship in 2022. A truck-mounted land variant is
+  also under development.
+claims:
+  - field: range_km
+    value: 40
+    basis: assessed
+    text: >-
+      Operational range variously reported between ~25 km and ~80 km depending on variant; the naval
+      point-defence role implies short engagement ranges, with assessments commonly around 30-40 km.
+    source:
+      title: DRDO & Indian Navy successfully flight-test VL-SRSAM
+      tier: foreign-news
+      publisher: Naval News
+      url: >-
+        https://www.navalnews.com/naval-news/2022/08/drdo-indian-navy-successfully-flight-test-vl-srsam/
+sources:
+  - title: DRDO & Indian Navy successfully flight-test VL-SRSAM
+    tier: foreign-news
+    publisher: Naval News
+    url: >-
+      https://www.navalnews.com/naval-news/2022/08/drdo-indian-navy-successfully-flight-test-vl-srsam/
+    date: "2022-08-23"
+  - title: >-
+      DRDO and Indian Navy successfully flight-test Vertical Launch Short Range Surface-to-Air
+      Missile
+    tier: indian-news
+    publisher: Organiser
+    url: >-
+      https://organiser.org/2022/09/03/93026/defence/drdo-and-indian-navy-successfully-flight-test-vertical-launch-short-range-surface-to-air-missile/
+    date: "2022-08-23"
+confidence: reported
+notes: >-
+  First flight test 22 Feb 2021; ship-launched test 24 Jun 2022; further test 23 Aug 2022. Range
+  figures conflict across sources (25 km to 80 km claimed for different variants); naval
+  point-defence role suggests short range. Derived from the Astra AAM airframe.
