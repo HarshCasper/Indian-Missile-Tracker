@@ -1,0 +1,59 @@
+id: akash-ng
+name: Akash-NG
+aka:
+  - Akash New Generation
+  - New Generation Akash
+category: surface-to-air
+range_class: SAM
+developer: DRDO (DRDL Hyderabad with other DRDO labs)
+operators:
+  - Indian Air Force
+status: development
+range_km:
+  min: 40
+  max: 80
+speed_mach: 2.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - mobile canisterised launcher
+first_test: "2021-01-25"
+description: >-
+  Akash-NG (New Generation) is an upgraded surface-to-air missile being developed by DRDO for the
+  Indian Air Force to intercept high-manoeuvrability, low-radar-cross-section aerial threats at
+  extended range. It features an active RF seeker, a smaller and lighter canisterised missile, and a
+  modern multifunction radar and command-and-control suite. DRDO conducted its maiden flight test on
+  25 January 2021 from the Integrated Test Range off Odisha, with further successful trials in 2021
+  and a January 2024 test against a low-altitude high-speed target. User-evaluation trials were
+  reported completed in late 2025.
+claims:
+  - field: range_km
+    value: 70
+    basis: reported
+    text: Reported intercept range commonly cited around 60-80 km; some sources give ~70 km.
+    source:
+      title: DRDO successfully flight-tests surface-to-air missile Akash-NG
+      tier: pib
+      publisher: Press Information Bureau
+      url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1737532
+sources:
+  - title: DRDO successfully flight-tests surface-to-air missile Akash-NG
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1737532
+    date: "2021-07-21"
+  - title: DRDO conducts successful flight-test of New Generation AKASH missile off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1995445&reg=3&lang=2
+    date: "2024-01-12"
+  - title: DRDO successfully completes user-evaluation trials of Akash-NG missile system
+    tier: indian-news
+    publisher: News On Air (Prasar Bharati)
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-completes-user-evaluation-trials-of-akash-ng-missile-system
+confidence: confirmed
+notes: >-
+  Maiden launch 25 Jan 2021; second land-based system test 21 Jul 2021; low-altitude
+  high-speed-target test 12 Jan 2024. Range figures (~60-80 km) are reported/assessed and not given
+  as a single official number; uses solid propulsion (distinct from the baseline Akash ramjet).

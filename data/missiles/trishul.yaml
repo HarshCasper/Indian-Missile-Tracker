@@ -1,0 +1,54 @@
+id: trishul
+name: Trishul
+aka:
+  - Trident
+category: surface-to-air
+range_class: SAM
+developer: DRDO (under IGMDP)
+status: cancelled
+range_km:
+  min: 0.5
+  max: 12
+payload_kg: 5.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - land-based launcher
+  - naval ship
+  - tested for multiple roles
+first_test: "1985-01-01"
+description: >-
+  Trishul was a low-level, quick-reaction, short-range surface-to-air missile developed by DRDO as
+  one of the five projects under the Integrated Guided Missile Development Programme (IGMDP).
+  Intended to defend against low-level (including sea-skimming) targets for the Army, Navy and Air
+  Force, it had a range of about 9-12 km and a roughly 5.5 kg warhead with command-to-line-of-sight
+  guidance. The project suffered persistent technical problems and missed performance goals, and was
+  officially closed around 2008. Its short-range air-defence role was subsequently filled by
+  imported and co-developed systems.
+claims:
+  - field: range_km
+    value: 12
+    basis: reported
+    text: Range commonly cited as 9-12 km.
+    source:
+      title: India test fires Surface-to-Air Trishul missile
+      tier: further-reading
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/military/library/news/2004/02/mil-040210-irna01.htm
+sources:
+  - title: India test fires Surface-to-Air Trishul missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/military/library/news/2004/02/mil-040210-irna01.htm
+    date: "2004-02-10"
+  - title: The Integrated Guided Missile Development Programme
+    tier: further-reading
+    publisher: Insights on India
+    url: >-
+      https://www.insightsonindia.com/science-technology/defence-technology/the-integrated-guided-missile-development-programme/
+confidence: reported
+notes: >-
+  One of five IGMDP missiles. Development began mid-1980s (first test ~1985); persistent technical
+  issues led to formal closure circa 2008 without operational induction. Range ~9-12 km, warhead
+  ~5.5 kg are reported figures from secondary/tertiary sources. Strong primary sourcing is limited
+  because the programme predates the modern PIB online archive.

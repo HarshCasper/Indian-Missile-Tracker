@@ -1,0 +1,79 @@
+id: akash
+name: Akash
+aka:
+  - Akash SAM
+  - Sky
+category: surface-to-air
+range_class: SAM
+developer: DRDO (DRDL), produced by BDL/BEL
+operators:
+  - Indian Army
+  - Indian Air Force
+status: operational
+range_km:
+  min: 25
+  max: 30
+payload_kg: 60
+speed_mach: 2.5
+nuclear_capable: false
+propulsion: ramjet
+launch_platform:
+  - mobile launcher (tracked/wheeled)
+  - static launcher
+variants:
+  - name: Akash Mk-1
+    notes: Original ~25-30 km range SAM inducted by IAF and Army
+  - name: Akash-1S
+    notes: Upgraded with indigenous seeker
+  - name: Akash Prime
+    notes: High-altitude variant with indigenous RF seeker
+  - name: Akash-NG
+    notes: New-generation extended-range variant
+first_test: "1990-01-01"
+description: >-
+  Akash is an all-weather, medium-range surface-to-air missile system developed by DRDO under the
+  Integrated Guided Missile Development Programme (IGMDP) to defend against aircraft, helicopters,
+  UAVs and cruise missiles. It uses a ramjet propulsion system that sustains supersonic speed up to
+  about Mach 2.5 throughout flight, with command guidance via the Rajendra phased-array radar. The
+  system is in service with the Indian Army and Indian Air Force and is produced by BDL and BEL. It
+  engages targets at ranges of roughly 25-30 km.
+claims:
+  - field: range_km
+    value: 30
+    basis: reported
+    text: Strike range commonly cited around 25-30 km for the baseline Mk-1.
+    source:
+      title: Akash (sky) all-weather medium-range surface-to-air missile
+      tier: further-reading
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/akashsurfacetoairmis/
+  - field: payload_kg
+    value: 60
+    basis: reported
+    note: >-
+      Some tertiary sources describe a nuclear-warhead option, but Akash is operationally a
+      conventional fragmentation-warhead SAM.
+    source:
+      title: Akash (sky) all-weather medium-range surface-to-air missile
+      tier: further-reading
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/akashsurfacetoairmis/
+sources:
+  - title: DRDO conducts successful flight-test of New Generation AKASH missile off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1995445&reg=3&lang=2
+    date: "2024-01-12"
+  - title: Akash (sky) all-weather medium-range surface-to-air missile
+    tier: further-reading
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/akashsurfacetoairmis/
+  - title: Akash (Sky) surface-to-air missile
+    tier: further-reading
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/akash.htm
+confidence: confirmed
+notes: >-
+  Range/payload figures vary by variant and source; values shown are for the baseline Mk-1. Ramjet
+  propulsion and ~Mach 2.5 are consistently reported. First flight testing began circa 1990 under
+  IGMDP; full induction came decades later (IAF 2015, Army 2015).

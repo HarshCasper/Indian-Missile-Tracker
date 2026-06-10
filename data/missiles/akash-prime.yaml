@@ -1,0 +1,54 @@
+id: akash-prime
+name: Akash Prime
+aka:
+  - Akash Prime Weapon System
+category: surface-to-air
+range_class: SAM
+developer: DRDO with BDL and BEL
+operators:
+  - Indian Army
+status: development
+range_km:
+  min: 25
+  max: 30
+speed_mach: 2.5
+nuclear_capable: false
+propulsion: ramjet
+launch_platform:
+  - mobile launcher
+first_test: "2021-09-27"
+description: >-
+  Akash Prime is an upgraded variant of the Akash weapon system customised for high-altitude
+  operations above 4,500 m, incorporating an indigenously developed RF seeker for improved target
+  acquisition in low-temperature and thin-atmosphere conditions. It is intended to counter fighter
+  aircraft, cruise missiles and drones. In July 2025 the Indian Army and DRDO successfully trialled
+  the system in high-altitude Ladakh (above 4,500 m), destroying two high-speed aerial targets. The
+  system is developed by DRDO with Bharat Dynamics Limited and Bharat Electronics Limited.
+claims:
+  - field: range_km
+    value: 30
+    basis: reported
+    text: >-
+      Reported engagement range of about 25-30 km, similar to baseline Akash but optimised for high
+      altitude.
+    source:
+      title: Successful trial of Akash Prime at High-Altitude
+      tier: pib
+      publisher: Press Information Bureau
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145517&reg=3&lang=2
+sources:
+  - title: Successful trial of Akash Prime at High-Altitude
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145517&reg=3&lang=2
+    date: "2025-07-17"
+  - title: India achieves successful trial of Akash Prime at high-altitude
+    tier: indian-news
+    publisher: DD News (Prasar Bharati)
+    url: https://ddnews.gov.in/en/india-achieves-successful-trial-of-akash-prime-at-high-altitude/
+    date: "2025-07-17"
+confidence: confirmed
+notes: >-
+  Key differentiators are the indigenous RF seeker and high-altitude (>4,500 m) operation. The
+  variant was first flight-tested on 27 Sep 2021; the widely reported high-altitude Ladakh user
+  trials were July 2025. Range figures are reported, not an official single number.
