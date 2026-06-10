@@ -1,0 +1,19 @@
+id: 2014-05-akash-ripple-mode-test
+missile_id: akash
+date: 2014-05
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: Ripple-mode test
+description: >-
+  Akash was successfully test-fired in ripple mode (rapid successive launches) against a floating
+  target launched by a pilotless target aircraft in May 2014, demonstrating salvo engagement
+  capability.
+confidence: reported
+notes: Month-level. Reported by Airforce Technology.
+sources:
+  - title: Akash Surface-to-Air Missile (SAM) System
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/
+    accessed: "2026-06-16"

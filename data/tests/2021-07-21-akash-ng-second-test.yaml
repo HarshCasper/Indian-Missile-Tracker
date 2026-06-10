@@ -1,0 +1,28 @@
+id: 2021-07-21-akash-ng-second-test
+missile_id: akash-ng
+date: "2021-07-21"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Second flight test (deployment configuration)
+description: >-
+  Second flight test of the Akash-NG from the Integrated Test Range, Chandipur, at about 12:45 pm on
+  21 July 2021, conducted from a land-based platform with the full weapon system — multifunction
+  radar, command/control/communication system and launcher — participating in deployment
+  configuration. Reported successful.
+confidence: confirmed
+notes: Corroborated by MilitaryLeak (foreign-news) and Deccan Herald (indian-news).
+sources:
+  - title: India's DRDO Successfully Flight-tests Akash-NG Surface-to-air Missile
+    tier: foreign-news
+    publisher: MilitaryLeak
+    date: "2021-07-22"
+    url: >-
+      https://militaryleak.com/2021/07/22/indians-drdo-successfully-flight-tests-akash-ng-surface-to-air-missile/
+    accessed: "2026-06-16"
+  - title: Akash-NG missile put to test again with RF seeker developed by DRDO lab in Hyderabad
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/akash-ng-missile-put-to-test-again-with-rf-seeker-developed-by-drdo-lab-in-hyderabad-1012003
+    accessed: "2026-06-16"

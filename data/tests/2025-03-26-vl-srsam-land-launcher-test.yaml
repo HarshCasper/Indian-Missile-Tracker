@@ -1,0 +1,22 @@
+id: 2025-03-26-vl-srsam-land-launcher-test
+missile_id: vl-srsam
+date: "2025-03-26"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Land-based vertical-launcher test
+description: >-
+  VL-SRSAM successfully flight-tested from a land-based vertical launcher at ITR Chandipur on 26
+  March 2025 against a high-speed aerial target at very close range and low altitude. The target was
+  completely destroyed, demonstrating the missile's agility, high turn rates and pin-point accuracy.
+confidence: confirmed
+notes: Primary source is the PIB (Ministry of Defence) release PRID 2115509.
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully flight-test indigenously-developed Vertically-Launched
+      Short-Range Surface-to-Air Missile
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2025-03-26"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2115509
+    accessed: "2026-06-16"

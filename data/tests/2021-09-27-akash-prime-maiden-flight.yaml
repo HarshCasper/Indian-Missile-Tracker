@@ -1,0 +1,42 @@
+id: 2021-09-27-akash-prime-maiden-flight
+missile_id: akash-prime
+variant: Akash Prime
+designation: Maiden Flight Test
+date: "2021-09-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  Maiden flight test of Akash Prime, an upgraded Akash surface-to-air missile fitted with an
+  indigenous active RF seeker for improved accuracy and reliable performance in
+  low-temperature/high-altitude environments. The missile intercepted and destroyed an unmanned
+  aerial target mimicking an enemy aircraft.
+notes: >-
+  First-ever flight test of the Akash Prime variant, from ITR Chandipur, Odisha (~4:30 PM). A
+  modified ground system of the existing Akash weapon system was used; range stations (radars, EOTS,
+  telemetry) monitored the trajectory. 'After improvements' in the official release refers to
+  upgrades over the baseline Akash, not a prior Akash Prime flight. No range figure was disclosed
+  for this test. Date, site, and outcome confirmed by PIB/DRDO and corroborated by Onmanorama and
+  the GlobalSecurity PIB mirror.
+range_tested_km: 0
+sources:
+  - title: Successful Maiden Flight Test of Akash Prime Missile (PIB Press Release PRID 1758711)
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence (Government of India)
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1758711
+    date: "2021-09-27"
+    accessed: "2026-06-16"
+  - title: DRDO successfully flight tests Akash Prime missile
+    tier: indian-news
+    publisher: Onmanorama
+    url: >-
+      https://www.onmanorama.com/news/india/2021/09/27/drdo-successfully-tests-akash-prime-missile.html
+    date: "2021-09-27"
+    accessed: "2026-06-16"
+  - title: Successful Maiden Flight Test of Akash Prime Missile (PIB mirror)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2021/india-210927-india-pib01.htm
+    date: "2021-09-27"
+    accessed: "2026-06-16"

@@ -1,0 +1,19 @@
+id: 2019-12-23-qrsam-itr-test
+missile_id: qrsam
+date: "2019-12-23"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Developmental flight test
+description: >-
+  QRSAM successfully flight-tested from the Integrated Test Range, Chandipur, on 23 December 2019,
+  continuing the developmental campaign toward Army user trials.
+confidence: reported
+notes: Reported by Indian outlets (Deccan Herald).
+sources:
+  - title: India successfully test-fires Quick Reaction Surface to Air Missile system off Odisha coast
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/amp/story/india%2Findia-successfully-test-fires-quick-reaction-surface-to-air-missiles-off-odisha-coast-915224.html
+    accessed: "2026-06-16"

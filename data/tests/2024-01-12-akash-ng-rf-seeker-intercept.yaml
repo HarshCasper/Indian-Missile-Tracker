@@ -1,0 +1,37 @@
+id: 2024-01-12-akash-ng-rf-seeker-intercept
+missile_id: akash-ng
+date: "2024-01-12"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Flight test vs high-speed UAV at very low altitude
+description: >-
+  DRDO conducted a successful flight test of the Akash-NG from the Integrated Test Range, Chandipur,
+  on 12 January 2024 against a high-speed unmanned aerial target flying at very low altitude. The
+  target was intercepted and destroyed, validating the complete weapon system with the indigenously
+  developed Radio Frequency seeker, launcher, multifunction radar and command/control/communication
+  system.
+confidence: confirmed
+notes: >-
+  Primary source is the PIB (Ministry of Defence) release PRID 1995445; corroborated by Business
+  Standard and Broadsword (Ajai Shukla).
+sources:
+  - title: DRDO conducts successful flight-test of New Generation AKASH missile off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2024-01-12"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1995445
+    accessed: "2026-06-16"
+  - title: DRDO successfully conducts flight-test of new-generation AKASH missile
+    tier: indian-news
+    publisher: Business Standard
+    date: "2024-01-12"
+    url: >-
+      https://www.business-standard.com/india-news/drdo-successfully-conducts-flight-test-of-new-generation-akash-missile-124011200341_1.html
+    accessed: "2026-06-16"
+  - title: DRDO successfully flight-tests new Akash missile off Odisha
+    tier: indian-news
+    publisher: Broadsword by Ajai Shukla
+    date: "2024-01-12"
+    url: https://www.ajaishukla.com/2024/01/drdo-successfully-flight-tests-new.html
+    accessed: "2026-06-16"

@@ -1,0 +1,21 @@
+id: 2014-02-22-akash-production-model-trial
+missile_id: akash
+date: "2014-02-22"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Army production-model trial
+description: >-
+  First of a series of Akash trials on 22, 24 and 26 February 2014 at the Integrated Test Range,
+  Chandipur, using the first production-model system produced to equip two Indian Army regiments.
+  The trials validated the series-production missiles and ground systems.
+confidence: reported
+notes: >-
+  GlobalSecurity lists Army production-model trials on 22, 24 and 26 February 2014 at ITR Chandipur.
+  Recorded as three records for the three distinct firing dates.
+sources:
+  - title: Akash (Sky) surface-to-air missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/akash.htm
+    accessed: "2026-06-16"

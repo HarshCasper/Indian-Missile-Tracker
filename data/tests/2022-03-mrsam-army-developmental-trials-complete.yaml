@@ -1,0 +1,20 @@
+id: 2022-03-mrsam-army-developmental-trials-complete
+missile_id: mrsam
+date: 2022-03
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: Completion of Army developmental trials
+description: >-
+  India completed the developmental trials of the MRSAM Army version in early 2022, with a series of
+  flight tests at ITR Chandipur against various aerial threats, clearing the system for production
+  and Army deployment.
+confidence: reported
+notes: Month-level. Reported by Overt Defense (April 2022).
+sources:
+  - title: India Completes Developmental Trials of MRSAM For Army
+    tier: foreign-news
+    publisher: Overt Defense
+    date: "2022-04-01"
+    url: https://www.overtdefense.com/2022/04/01/india-completes-development-trials-of-mrsam-for-army/
+    accessed: "2026-06-16"

@@ -1,0 +1,20 @@
+id: 2007-12-21-akash-trial-conclusion
+missile_id: akash
+date: "2007-12-21"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Concluding IAF trial firing
+description: >-
+  A concluding successful Akash test firing at Chandipur-on-Sea on 21 December 2007, wrapping up the
+  December 2007 IAF user-trial series.
+confidence: reported
+notes: >-
+  Reported via IRNA (carried by GlobalSecurity) as the successful conclusion of the December 2007
+  Akash test firings.
+sources:
+  - title: India concludes Akash missile test firing (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-071222-irna04.htm
+    accessed: "2026-06-16"

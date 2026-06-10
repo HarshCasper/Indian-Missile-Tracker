@@ -1,0 +1,20 @@
+id: 2022-08-23-vl-srsam-second-test
+missile_id: vl-srsam
+date: "2022-08-23"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Second flight test
+description: >-
+  Second successful flight test of the VL-SRSAM from ITR Chandipur on 23 August 2022, against a
+  high-speed unmanned aerial target to validate the system's vertical-launch and interception
+  performance.
+confidence: confirmed
+notes: Primary source is the PIB release mirrored by GlobalSecurity (23 August 2022).
+sources:
+  - title: DRDO & Indian Navy successfully flight-test VL-SRSAM (PIB mirror)
+    tier: pib
+    publisher: GlobalSecurity.org (PIB mirror)
+    date: "2022-08-23"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220823-india-pib02.htm
+    accessed: "2026-06-16"

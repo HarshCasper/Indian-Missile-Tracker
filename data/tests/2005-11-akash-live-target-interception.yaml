@@ -1,0 +1,21 @@
+id: 2005-11-akash-live-target-interception
+missile_id: akash
+date: 2005-11
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: Live aerial-target interception demonstration
+description: >-
+  Akash demonstrated its target-interception capability against two live aerial targets in November
+  2005, a milestone in validating the system's guidance and warhead performance ahead of user
+  trials.
+confidence: reported
+notes: >-
+  Month-level. Reported by Airforce Technology. By August 2006 a cumulative total of about 16 trial
+  firings had been conducted.
+sources:
+  - title: Akash Surface-to-Air Missile (SAM) System
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/
+    accessed: "2026-06-16"

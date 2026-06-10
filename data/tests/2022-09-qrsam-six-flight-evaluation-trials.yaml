@@ -1,0 +1,31 @@
+id: 2022-09-qrsam-six-flight-evaluation-trials
+missile_id: qrsam
+date: 2022-09
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: Six evaluation flight tests (Army)
+description: >-
+  DRDO and the Indian Army successfully conducted six flight tests of the QRSAM system from ITR
+  Chandipur in September 2022 as part of evaluation trials. The tests covered long range, medium
+  range, low-radar-signature and high-manoeuvring targets, as well as a salvo launch, completing the
+  evaluation series ahead of Army induction.
+confidence: confirmed
+notes: >-
+  Primary source is the PIB (Ministry of Defence) release PRID 1857724; corroborated by domain-b.
+  Recorded as one record covering the six-firing September 2022 evaluation series.
+sources:
+  - title: >-
+      DRDO & Indian Army successfully conduct six flight-tests of Quick Reaction Surface to Air
+      Missile system off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2022-09-13"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1857724
+    accessed: "2026-06-16"
+  - title: DRDO and Indian Army successfully conduct six flight-tests of QRSAM system
+    tier: indian-news
+    publisher: domain-b.com
+    date: "2022-09-13"
+    url: https://www.domain-b.com/organisation/govt/drdo/20220913_flight_tests.html
+    accessed: "2026-06-16"

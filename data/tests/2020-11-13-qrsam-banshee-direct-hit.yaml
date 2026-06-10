@@ -1,0 +1,20 @@
+id: 2020-11-13-qrsam-banshee-direct-hit
+missile_id: qrsam
+date: "2020-11-13"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Direct-hit trial vs Banshee target
+description: >-
+  QRSAM achieved a direct hit on a Banshee pilotless target aircraft at medium range and medium
+  altitude during a trial from ITR Chandipur on 13 November 2020, a major milestone validating the
+  system's terminal accuracy.
+confidence: reported
+notes: Reported by Indian outlets (Deccan Herald).
+sources:
+  - title: India successfully test-fires Quick Reaction Surface to Air Missile system
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/amp/story/india%2Findia-successfully-test-fires-quick-reaction-surface-to-air-missile-system-2-1143291.html
+    accessed: "2026-06-16"

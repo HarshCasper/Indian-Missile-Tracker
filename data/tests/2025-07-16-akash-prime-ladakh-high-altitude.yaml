@@ -1,0 +1,103 @@
+id: 2025-07-16-akash-prime-ladakh-high-altitude
+missile_id: akash-prime
+variant: Akash Prime (production-model)
+designation: High-Altitude User Trial (Ladakh) / First-of-Production-Model firing
+date: "2025-07-16"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 0
+description: >-
+  Indian Army Air Defence and DRDO, with Bharat Dynamics Ltd and Bharat Electronics Ltd, conducted a
+  high-altitude user trial of the production-model Akash Prime in eastern Ladakh, customised to
+  operate above 4,500 m. It scored direct hits, destroying two high-speed unmanned aerial targets in
+  the rarefied high-altitude atmosphere.
+notes: >-
+  Conducted in the Ladakh sector at an altitude exceeding 15,000 feet (~4,600 m); not from one of
+  the listed Odisha/AP coastal facilities, so site_id left empty (real site: high-altitude range,
+  eastern Ladakh). Official PIB/MoD milestone date is 16 July 2025 (announced 17 July) and is
+  corroborated by DD News, Janes, and Deccan Herald. NOTE: The compiled list previously asserted a
+  two-day campaign on 15-16 July citing Deccan Herald, but the cited Deccan Herald and DD News
+  articles, the PIB release, and Janes all give a single trial date of 16 July 2025 with two targets
+  destroyed; the two-day-campaign claim could not be substantiated and was removed. Classified by
+  DRDO as the First-of-Production-Model firing, the final step before bulk delivery; follows
+  Operation Sindoor and precedes planned Army induction. Stated operational/engagement range
+  commonly cited as 25-30 km is a general system-capability figure from secondary reporting, not
+  declared as the demonstrated range for this trial, hence range_tested_km left as 0.
+claims:
+  - field: altitude_of_trial
+    value: 4600
+    text: >-
+      Trial conducted at an altitude exceeding 15,000 feet (~4,600 m); system customised to operate
+      above 4,500 m.
+    basis: official
+    source:
+      title: Successful trial of Akash Prime at High-Altitude (PIB Press Release PRID 2145517)
+      tier: pib
+      publisher: Press Information Bureau, Ministry of Defence (Government of India)
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145517
+      date: "2025-07-17"
+      accessed: "2026-06-16"
+  - field: range_km
+    min: 25
+    max: 30
+    text: >-
+      Akash Prime is reported to engage aerial threats at ranges of about 25-30 km; this is a
+      general system-capability figure from secondary reporting (range estimates across outlets
+      vary, ~25-35 km), not the range demonstrated in this specific trial. Neither the PIB release
+      nor DD News states a range figure.
+    basis: reported
+    source:
+      title: What is Akash Prime missile? How is it different from the Akash-NG?
+      tier: indian-news
+      publisher: WION
+      url: >-
+        https://www.wionews.com/india-news/what-is-akash-prime-missile-how-is-it-different-from-the-akash-ng-1752739432646
+      date: "2025-07-17"
+      accessed: "2026-06-16"
+  - field: targets_destroyed
+    value: 2
+    text: >-
+      Akash Prime engaged and destroyed two high-speed unmanned aerial targets at high altitude in
+      the Ladakh sector on 16 July 2025.
+    basis: official
+    source:
+      title: Successful trial of Akash Prime at High-Altitude (PIB Press Release PRID 2145517)
+      tier: pib
+      publisher: Press Information Bureau, Ministry of Defence (Government of India)
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145517
+      date: "2025-07-17"
+      accessed: "2026-06-16"
+sources:
+  - title: Successful trial of Akash Prime at High-Altitude (PIB Press Release PRID 2145517)
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence (Government of India)
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2145517
+    date: "2025-07-17"
+    accessed: "2026-06-16"
+  - title: India achieves successful trial of Akash Prime at high-altitude
+    tier: indian-news
+    publisher: DD News (Prasar Bharati)
+    url: https://ddnews.gov.in/en/india-achieves-successful-trial-of-akash-prime-at-high-altitude/
+    date: "2025-07-17"
+    accessed: "2026-06-16"
+  - title: India test-fires Akash Prime missile (high-altitude trial, Ladakh)
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/india/india-test-fires-akash-prime-missile-3635128
+    date: "2025-07-17"
+    accessed: "2026-06-16"
+  - title: India conducts high-altitude trials of Akash Prime SAM system
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-conducts-high-altitude-trials-of-akash-prime-sam-system
+    date: "2025-07-17"
+    accessed: "2026-06-16"
+  - title: Successful trial of Akash Prime at High-Altitude (PIB mirror)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250717-india-pib04.htm
+    date: "2025-07-17"
+    accessed: "2026-06-16"
+site_id: null

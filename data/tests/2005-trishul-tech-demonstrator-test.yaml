@@ -1,0 +1,21 @@
+id: 2005-trishul-tech-demonstrator-test
+missile_id: trishul
+date: "2005"
+date_precision: year
+site_id: itr-chandipur
+outcome: success
+designation: Technology-demonstrator test
+description: >-
+  Trishul was successfully test-fired in 2005 in its technology-demonstrator role. By October 2006
+  some 80 flight tests had reportedly been completed, though the system was never inducted for
+  operational service.
+confidence: reported
+notes: >-
+  Year-level. Sourced from the NTI India Missile Chronology; cumulative ~80 flight tests by October
+  2006.
+sources:
+  - title: India Missile Chronology (Trishul 2005-2006 entries)
+    tier: foreign-news
+    publisher: Nuclear Threat Initiative (NTI) / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    accessed: "2026-06-16"

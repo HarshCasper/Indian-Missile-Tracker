@@ -1,0 +1,25 @@
+id: 2025-12-akash-ng-user-evaluation-trials
+missile_id: akash-ng
+date: 2025-12
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: User evaluation trials
+description: >-
+  DRDO completed the User Evaluation trials of the Akash-NG missile system, reported in December
+  2025, clearing the way for induction into the Indian armed forces. The missiles intercepted aerial
+  targets across multiple scenarios including near-boundary low-altitude and long-range
+  high-altitude engagements.
+confidence: reported
+notes: >-
+  Month-level (announced ~24 December 2025; specific firing dates not disclosed). Reported by the
+  government broadcaster News on Air (All India Radio); Defence Minister Rajnath Singh congratulated
+  the teams.
+sources:
+  - title: DRDO successfully completes User Evaluation trials of Akash-NG missile system
+    tier: pib
+    publisher: News on Air (All India Radio / Prasar Bharati)
+    date: "2025-12-24"
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-completes-user-evaluation-trials-of-akash-ng-missile-system
+    accessed: "2026-06-16"

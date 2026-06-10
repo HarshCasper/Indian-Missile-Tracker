@@ -1,0 +1,27 @@
+id: 2015-12-30-mrsam-barak8-ins-kolkata-intercept
+missile_id: mrsam
+date: "2015-12-30"
+date_precision: day
+outcome: success
+designation: First sea-based interception (INS Kolkata)
+description: >-
+  The Indian Navy carried out the first sea-based operational interception with the Barak-8 / LRSAM,
+  firing from INS Kolkata against high-speed aerial targets during exercises in the Arabian Sea on
+  29-30 December 2015. Both missiles successfully engaged their targets.
+confidence: reported
+notes: >-
+  Launched at sea from INS Kolkata (Arabian Sea), not from one of the listed coastal ranges, so
+  site_id is null. Barak-8 / MRSAM / LRSAM is a joint DRDO-IAI (Israel Aerospace Industries)
+  programme. Reported by Defense Industry Daily and SP's Naval Forces.
+sources:
+  - title: India & Israel's Barak-8 SAM Development Project(s)
+    tier: foreign-news
+    publisher: Defense Industry Daily
+    url: https://www.defenseindustrydaily.com/india-israel-introducing-mr-sam-03461/
+    accessed: "2026-06-16"
+  - title: BARAK-8 – Advanced Air & Missile Defence System
+    tier: indian-news
+    publisher: SP's Naval Forces
+    url: https://www.spsnavalforces.com/story/?id=811&h=BARAK-8-Advanced-Air-and-Missile-Defence-System
+    accessed: "2026-06-16"
+site_id: null

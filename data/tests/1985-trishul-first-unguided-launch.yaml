@@ -1,0 +1,23 @@
+id: 1985-trishul-first-unguided-launch
+missile_id: trishul
+date: "1985"
+date_precision: year
+site_id: sriharikota-shar
+outcome: unknown
+designation: First unguided launch
+description: >-
+  First (unguided) launch of the Trishul short-range surface-to-air missile, developed under the
+  IGMDP, from the Satish Dhawan Space Centre, Sriharikota, in 1985. It began a prolonged and
+  troubled development programme.
+confidence: reported
+notes: >-
+  Year-level. The Trishul programme (commissioned 1983, targeted for completion by 1992) ran over 24
+  flight trials by 1998 but suffered persistent tracking-radar and mobility problems; it was
+  de-linked as a technology demonstrator in 2003 and effectively shelved. Sourced from the NTI India
+  Missile Chronology.
+sources:
+  - title: India Missile Chronology (Trishul programme entries)
+    tier: foreign-news
+    publisher: Nuclear Threat Initiative (NTI) / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    accessed: "2026-06-16"

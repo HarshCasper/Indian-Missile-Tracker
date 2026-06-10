@@ -1,0 +1,27 @@
+id: 2017-07-04-qrsam-maiden-flight
+missile_id: qrsam
+date: "2017-07-04"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Maiden flight test
+description: >-
+  First flight test of the Quick Reaction Surface-to-Air Missile (QRSAM), an Army air-defence system
+  developed by DRDO, from the Integrated Test Range, Chandipur. The single-stage solid-fuel missile
+  met its initial test objectives.
+confidence: reported
+notes: >-
+  Reported by Indian outlets (Free Press Journal, Tribune India). Several developmental trials
+  followed over 2018-2019.
+sources:
+  - title: India successfully test-fires quick reaction missile
+    tier: indian-news
+    publisher: The Free Press Journal
+    date: "2017-07-04"
+    url: https://www.pressreader.com/india/the-free-press-journal/20170704/281874413429863
+    accessed: "2026-06-16"
+  - title: DRDO successfully tests quick reaction missile
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/news/nation/drdo-successfully-tests-quick-reaction-missile-16073
+    accessed: "2026-06-16"

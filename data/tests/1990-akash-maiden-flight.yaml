@@ -1,0 +1,29 @@
+id: 1990-akash-maiden-flight
+missile_id: akash
+date: "1990"
+date_precision: year
+site_id: itr-chandipur
+outcome: unknown
+designation: Maiden development flight
+description: >-
+  First flight test of the Akash medium-range surface-to-air missile, developed by DRDO under the
+  Integrated Guided Missile Development Programme (IGMDP). It marked the start of a long
+  developmental flight-test campaign; specific outcome details of the maiden launch are not
+  documented in reliable sources.
+confidence: reported
+notes: >-
+  Year-level only. GlobalSecurity and Airforce Technology both state the first Akash test flight was
+  conducted in 1990; about five flight trials had been completed by July 1998 and roughly 16 trial
+  firings by August 2006 — most of these early developmental launches are not individually dated in
+  public sources and are not recorded as separate test records.
+sources:
+  - title: Akash (Sky) surface-to-air missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/akash.htm
+    accessed: "2026-06-16"
+  - title: Akash Surface-to-Air Missile (SAM) System
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/
+    accessed: "2026-06-16"

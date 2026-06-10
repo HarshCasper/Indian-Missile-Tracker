@@ -1,0 +1,19 @@
+id: 2003-12-19-trishul-test
+missile_id: trishul
+date: "2003-12-19"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Developmental test (post de-linking)
+description: >-
+  A Trishul developmental flight test reported in December 2003, around the time the government
+  re-designated the missile as a technology demonstrator and de-linked it from the other IGMDP
+  projects.
+confidence: reported
+notes: Reported via IRNA (carried by GlobalSecurity, 19 December 2003).
+sources:
+  - title: India test fires Trishul missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2003/india-031219-irna01.htm
+    accessed: "2026-06-16"

@@ -1,0 +1,18 @@
+id: 2012-05-akash-iaf-test
+missile_id: akash
+date: 2012-05
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: IAF test firing
+description: >-
+  The Indian Air Force successfully test-fired the Akash from the Integrated Test Range, Chandipur,
+  in May 2012 as part of ongoing operational validation after induction.
+confidence: reported
+notes: Month-level. Reported by Airforce Technology.
+sources:
+  - title: Akash Surface-to-Air Missile (SAM) System
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/akash-surface-to-air-missile-system/
+    accessed: "2026-06-16"

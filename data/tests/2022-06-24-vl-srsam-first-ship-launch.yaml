@@ -1,0 +1,33 @@
+id: 2022-06-24-vl-srsam-first-ship-launch
+missile_id: vl-srsam
+date: "2022-06-24"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: First flight test from a naval ship
+description: >-
+  First flight test of the Vertical Launch Short Range Surface-to-Air Missile (VL-SRSAM) from an
+  Indian naval platform at the Integrated Test Range, Chandipur, on 24 June 2022. The ship-borne
+  weapon system intercepted a high-speed aerial target, demonstrating vertical-launch capability.
+confidence: confirmed
+notes: >-
+  Primary source is the PIB (Ministry of Defence) release (mirrored by GlobalSecurity, 24 June
+  2022); corroborated by Tribune India. Earlier developmental launches of VL-SRSAM occurred from a
+  land-based vertical launcher (incl. a maiden flight in February 2021) but are less consistently
+  documented.
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully flight test Vertical Launch Short Range Surface-to-Air Missile
+      (PIB mirror)
+    tier: pib
+    publisher: GlobalSecurity.org (PIB mirror)
+    date: "2022-06-24"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220624-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: Ship-borne weapon system VL-SRSAM successfully flight-tested off Odisha coast
+    tier: indian-news
+    publisher: The Tribune
+    date: "2022-06-24"
+    url: >-
+      https://www.tribuneindia.com/news/nation/ship-borne-weapon-system-vl-srsam-successfully-flight-tested-off-odisha-coast-406602
+    accessed: "2026-06-16"

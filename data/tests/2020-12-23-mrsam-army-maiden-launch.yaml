@@ -1,0 +1,26 @@
+id: 2020-12-23-mrsam-army-maiden-launch
+missile_id: mrsam
+date: "2020-12-23"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Maiden launch of Army version
+description: >-
+  DRDO achieved a major milestone with the maiden launch of the MRSAM Army version, developed
+  jointly with IAI, on 23 December 2020 from ITR Chandipur, intercepting an aerial target and
+  validating the land-mobile Army configuration.
+confidence: reported
+notes: Reported by Defense News (India-Israel MRSAM) and Airforce Technology.
+sources:
+  - title: Israel and India test MRSAM air defense system
+    tier: foreign-news
+    publisher: Defense News
+    date: "2021-01-05"
+    url: >-
+      https://www.defensenews.com/training-sim/2021/01/05/israel-and-india-test-of-mrsam-air-defense-system/
+    accessed: "2026-06-16"
+  - title: Medium-Range Surface-to-Air Missile (MRSAM), India
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/medium-range-surface-to-air-missile-mrsam/
+    accessed: "2026-06-16"

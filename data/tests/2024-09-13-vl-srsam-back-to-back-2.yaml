@@ -1,0 +1,22 @@
+id: 2024-09-13-vl-srsam-back-to-back-2
+missile_id: vl-srsam
+date: "2024-09-13"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Back-to-back flight test (day 2)
+description: >-
+  Second of two back-to-back VL-SRSAM flight tests from ITR Chandipur on 12-13 September 2024, again
+  intercepting a high-speed aerial target and demonstrating the system's reliability across
+  engagement scenarios.
+confidence: confirmed
+notes: Part of the 12-13 September 2024 back-to-back series; primary source PIB PRID 2054307.
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully flight test Vertical Launch Short Range Surface-to-Air Missile
+      off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2024-09-12"
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2054307
+    accessed: "2026-06-16"

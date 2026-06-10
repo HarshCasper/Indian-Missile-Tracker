@@ -1,0 +1,21 @@
+id: 2016-07-mrsam-three-flight-tests
+missile_id: mrsam
+date: 2016-07
+date_precision: month
+site_id: itr-chandipur
+outcome: success
+designation: Three validation flight tests
+description: >-
+  IAI and DRDO conducted three MRSAM flight tests at the Integrated Test Range off the Odisha coast
+  in July 2016 to validate all missile components, completing the core developmental firing series
+  for the IAF version.
+confidence: reported
+notes: >-
+  Month-level. Reported by Airforce Technology. Recorded as one record covering the three-test July
+  2016 series.
+sources:
+  - title: Medium-Range Surface-to-Air Missile (MRSAM), India
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/medium-range-surface-to-air-missile-mrsam/
+    accessed: "2026-06-16"

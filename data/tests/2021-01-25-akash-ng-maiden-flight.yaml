@@ -1,0 +1,30 @@
+id: 2021-01-25-akash-ng-maiden-flight
+missile_id: akash-ng
+date: "2021-01-25"
+date_precision: day
+site_id: itr-chandipur
+outcome: success
+designation: Maiden flight test
+description: >-
+  Maiden flight test of the New Generation Akash (Akash-NG), launched at about 2:30 pm from a mobile
+  platform at Launch Complex-III of the Integrated Test Range, Chandipur, against an electronic
+  target. The launch met all test objectives, performing high manoeuvres during the trajectory, with
+  the flight path tracked by ITR radar, EOTS and telemetry.
+confidence: confirmed
+notes: >-
+  Date, site and success corroborated by MilitaryLeak (foreign-news) and Indian outlets (Tribune
+  India). Akash-NG features a dual-pulse solid rocket motor, canisterised launcher, RF seeker and
+  AESA multifunction radar.
+sources:
+  - title: Indian DRDO Successfully Test Fires Surface-to-air Akash-NG Missile
+    tier: foreign-news
+    publisher: MilitaryLeak
+    date: "2021-01-27"
+    url: >-
+      https://militaryleak.com/2021/01/27/indian-drdo-successfully-test-fires-surface-to-air-akash-ng-missile/
+    accessed: "2026-06-16"
+  - title: Next gen Akash tested successfully
+    tier: indian-news
+    publisher: The Tribune
+    url: https://www.tribuneindia.com/news/india/next-gen-akash-tested-successfully-580632
+    accessed: "2026-06-16"
