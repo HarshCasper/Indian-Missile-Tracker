@@ -1,0 +1,86 @@
+id: 2013-01-27-k-15-final-developmental-trial
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: 12th and final developmental trial
+date: "2013-01-27"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 700
+apogee_km: 20
+description: >-
+  Twelfth and final developmental flight trial of the K-15 Sagarika, marking completion of its
+  development programme. The missile was ejected from an underwater pontoon off Visakhapatnam, rose
+  to about 20 km altitude and was tested to its full range of ~700 km in the Bay of Bengal,
+  reportedly meeting all objectives with single-digit impact accuracy. Cleared the missile for
+  integration onto INS Arihant.
+notes: >-
+  Reported as the 12th and final flight trial (CSIS, Naval Technology, Defense Update, CASS India
+  all describe 12 development trials completing here). DATE CONFLICT: CSIS, Defense Update and CASS
+  India give 27 Jan 2013; Naval Technology gives 29 Jan 2013 - confidence set to disputed on the
+  date. Launched from an underwater pontoon off Visakhapatnam.
+claims:
+  - field: date
+    value: 27
+    basis: reported
+    text: CASS India and Defense Update date the 12th/final trial to 27 January 2013
+    source:
+      title: "Undersea punch: India's K-15 SLBM completes development tests"
+      tier: indian-news
+      publisher: CASS India
+      url: https://cassindia.com/undersea-punch-indias-k-15-slbm-completes-development-tests/
+      accessed: "2026-06-16"
+  - field: date
+    value: 29
+    basis: reported
+    text: Naval Technology dates the final (12th) trial to 29 January 2013
+    source:
+      title: Indian Navy's K-15 SLBM successfully completes development trials
+      tier: foreign-news
+      publisher: Naval Technology
+      url: >-
+        https://www.naval-technology.com/news/newsindian-navys-k-15-slbm-successfully-completes-development-trials/
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 700
+    basis: reported
+    text: Tested to full range of ~700 km at an altitude of 20 km with single-digit impact accuracy
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 20
+    basis: reported
+    text: The 12th-trial K-15 flew to an altitude of about 20 km
+    source:
+      title: India's K-15 Sagarika Submarine Launched Ballistic Missile Completes Developmental Tests
+      tier: foreign-news
+      publisher: Defense Update
+      url: https://defense-update.com/20130127_k5_slbm_complete_tests.html
+      accessed: "2026-06-16"
+sources:
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+  - title: Indian Navy's K-15 SLBM successfully completes development trials
+    tier: foreign-news
+    publisher: Naval Technology
+    url: >-
+      https://www.naval-technology.com/news/newsindian-navys-k-15-slbm-successfully-completes-development-trials/
+    accessed: "2026-06-16"
+  - title: "Undersea punch: India's K-15 SLBM completes development tests"
+    tier: indian-news
+    publisher: CASS India
+    url: https://cassindia.com/undersea-punch-indias-k-15-slbm-completes-development-tests/
+    accessed: "2026-06-16"
+  - title: India's K-15 Sagarika Submarine Launched Ballistic Missile Completes Developmental Tests
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20130127_k5_slbm_complete_tests.html
+    accessed: "2026-06-16"

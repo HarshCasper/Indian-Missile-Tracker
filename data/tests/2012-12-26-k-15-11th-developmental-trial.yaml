@@ -1,0 +1,65 @@
+id: 2012-12-26-k-15-11th-developmental-trial
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: 11th developmental trial (operational configuration)
+date: "2012-12-26"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: offshore-visakhapatnam
+range_tested_km: 650
+apogee_km: 20
+description: >-
+  Eleventh developmental trial of the K-15 Sagarika, fired in full operational configuration after
+  being delayed from November. The missile was ejected from a submerged pontoon at 20-40 m depth
+  using a gas generator, reached an apogee of about 20 km and was tested to a range of 650 km in the
+  Bay of Bengal off Visakhapatnam. A planned companion launch from a live submarine was cancelled
+  and rescheduled. CSIS confirms the K-15 completed its developmental test programme over this
+  period.
+notes: >-
+  Launched from a submerged pontoon at 20-40 m depth off Visakhapatnam. A companion live-submarine
+  launch was scheduled but cancelled and pushed to the following year. The 650 km range and ~20 km
+  apogee figures are only documented in Wikipedia/Wikipedia-derived sources (further-reading); the
+  existence of a late-2012 developmental trial is corroborated by CSIS (foreign-news) and Defense
+  Update. Date (26 Dec 2012) is from further-reading only.
+claims:
+  - field: range_tested_km
+    value: 650
+    basis: reported
+    text: >-
+      Tested at a range of 650 km during its 11th developmental trial (figure only in
+      Wikipedia/derived sources)
+    source:
+      title: Sagarika (missile)
+      tier: further-reading
+      publisher: Wikipedia
+      url: https://en.wikipedia.org/wiki/Sagarika_(missile)
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 20
+    basis: reported
+    text: >-
+      Fired from 20-40 m depth via gas generator, reached an altitude of about 20 km (figure only in
+      Wikipedia/derived sources)
+    source:
+      title: Sagarika (missile)
+      tier: further-reading
+      publisher: Wikipedia
+      url: https://en.wikipedia.org/wiki/Sagarika_(missile)
+      accessed: "2026-06-16"
+sources:
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+  - title: India's K-15 Sagarika Submarine Launched Ballistic Missile Completes Developmental Tests
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20130127_k5_slbm_complete_tests.html
+    accessed: "2026-06-16"
+  - title: Sagarika (missile) - flight test history
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sagarika_(missile)
+    accessed: "2026-06-16"

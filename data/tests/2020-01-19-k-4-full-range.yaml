@@ -1,0 +1,59 @@
+id: 2020-01-19-k-4-full-range
+missile_id: k-4
+variant: K-4
+date: "2020-01-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 3500
+description: >-
+  Successful flight test of the K-4 from a fixed submerged pontoon (about 20 metres deep) off the
+  Andhra Pradesh coast near Visakhapatnam, after repeated weather-related delays since October 2019.
+  First of two back-to-back tests in January 2020. Indian outlets reported the missile flew toward
+  its full ~3,500 km range with high accuracy.
+notes: >-
+  Launched from a fixed submerged pontoon; recorded under offshore-visakhapatnam. Date (19 January
+  2020), fixed pontoon platform and success confirmed by ThePrint and Arms Control Association.
+  Range disputed: some accounts state the full ~3,500 km range was demonstrated, while others
+  describe a reduced-range/depressed profile, so the range_tested figure is reported, not certain.
+claims:
+  - field: range_tested_km
+    value: 3500
+    basis: reported
+    text: Indian outlets reported the test demonstrated the missile's full ~3,500 km range.
+    source:
+      title: India test fires K-4, a 3,500 km nuclear-capable missile meant for Arihant submarine
+      tier: indian-news
+      publisher: ThePrint
+      url: >-
+        https://theprint.in/defence/india-test-fires-k-4-a-3500-km-nuclear-capable-missile-meant-for-arihant-submarine/351853/
+      date: "2020-01-19"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 3500
+    basis: reported
+    text: >-
+      Arms Control Association reports the January 2020 K-4 tests from submerged pontoons were
+      associated with the missile's 3,500 km range.
+    source:
+      title: India Tests Submarine-Launched Missile
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2020-03/news/india-tests-submarine-launched-missile
+      date: 2020-03
+      accessed: "2026-06-16"
+sources:
+  - title: India test fires K-4, a 3,500 km nuclear-capable missile meant for Arihant submarine
+    tier: indian-news
+    publisher: ThePrint
+    url: >-
+      https://theprint.in/defence/india-test-fires-k-4-a-3500-km-nuclear-capable-missile-meant-for-arihant-submarine/351853/
+    date: "2020-01-19"
+    accessed: "2026-06-16"
+  - title: India Tests Submarine-Launched Missile
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2020-03/news/india-tests-submarine-launched-missile
+    date: 2020-03
+    accessed: "2026-06-16"

@@ -1,0 +1,42 @@
+id: 2018-08-12-k-15-arihant-user-trial-third
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: User trial from INS Arihant (third launch)
+date: "2018-08-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+apogee_km: 0
+description: >-
+  Third of three K-15 (B-05) SLBM user-trial launches from INS Arihant in August 2018, fired on 12
+  August off the Visakhapatnam coast with the submarine submerged about 20 m deep. The missile
+  followed its pre-designated trajectory and impacted the target area with high accuracy, completing
+  the first-phase user trials that operationalised the K-15 on India's SSBN.
+notes: >-
+  Third launch of the three-launch August 2018 user-trial series (two on 11 Aug, one on 12 Aug).
+  Fired from INS Arihant, submerged ~20 m, ~10 km off Vizag. Range not publicly disclosed. Date,
+  site and outcome corroborated across multiple independent sources (PTI-relayed reporting, Modern
+  Diplomacy, CSIS), hence confidence 'confirmed'.
+sources:
+  - title: >-
+      'SAGARIKA' SLBM (K-15) Tested Thrice From INS Arihant SSBN, India In Select Triad Club
+      (relaying PTI/TOI reporting)
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2018/08/sagarika-slbm-k-15-tested-thrice-from.html
+    date: 2018-08
+    accessed: "2026-06-16"
+  - title: Second Age of Arms Race in Indian Ocean and India's Test of K-15 SLBM
+    tier: foreign-news
+    publisher: Modern Diplomacy
+    url: >-
+      https://moderndiplomacy.eu/2018/09/28/second-age-of-arms-race-in-indian-ocean-and-indias-test-of-k-15-srbm/
+    date: "2018-09-28"
+    accessed: "2026-06-16"
+  - title: Sagarika/Shaurya (confirms 3 B-05 launches between 11-12 Aug 2018)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"

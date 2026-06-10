@@ -1,0 +1,50 @@
+id: 2014-03-24-k-4-maiden-flight
+missile_id: k-4
+variant: K-4
+date: "2014-03-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 3000
+description: >-
+  Maiden developmental flight test of the K-4 SLBM, conducted secretly from a submerged pontoon
+  roughly 30 metres deep in the Bay of Bengal off the Visakhapatnam coast. A gas generator ejected
+  the missile, which breached the surface, turned toward its target and flew about 3,000 km. DRDO
+  publicly acknowledged the test only in January 2015 at Aero India.
+notes: >-
+  First developmental flight test. Launched from a submerged pontoon (not a submarine); recorded
+  under offshore-visakhapatnam. Range reported ~3,000 km in this test versus the missile's full
+  design range of ~3,500 km. Date (24 March 2014) and ~3,000 km range corroborated by Arms Control
+  Association and GlobalSecurity.
+claims:
+  - field: range_tested_km
+    value: 3000
+    basis: reported
+    text: Test demonstrated a range of approximately 3,000 km.
+    source:
+      title: India Tests Ballistic Missile for Subs
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2014-06/news-briefs/india-tests-ballistic-missile-subs
+      date: 2014-06
+      accessed: "2026-06-16"
+sources:
+  - title: India Tests Ballistic Missile for Subs
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2014-06/news-briefs/india-tests-ballistic-missile-subs
+    date: 2014-06
+    accessed: "2026-06-16"
+  - title: K-4 Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+    accessed: "2026-06-16"
+  - title: India Inches Closer to Credible Nuclear Triad With K-4 SLBM Test
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2014/05/india-inches-closer-to-credible-nuclear-triad-with-k-4-slbm-test/
+    date: 2014-05
+    accessed: "2026-06-16"

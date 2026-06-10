@@ -1,0 +1,31 @@
+id: 2017-12-17-k-4-failure-battery
+missile_id: k-4
+variant: K-4
+date: "2017-12-17"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: offshore-visakhapatnam
+description: >-
+  Developmental test of the K-4 from a submerged pontoon off the Visakhapatnam coast that ended in
+  failure: the missile did not activate after the launch command (its onboard battery having
+  drained) and ignition failed following ejection from the pontoon. DRDO scientists were reportedly
+  unable to recover the missile from the pontoon, raising safety concerns.
+notes: >-
+  Launched from a submerged pontoon; recorded under offshore-visakhapatnam. Reported as the fourth
+  test of the K-4 by both ThePrint and CSIS Missile Threat. Failure attributed to a
+  drained/discharged battery and ignition failure after ejection.
+sources:
+  - title: "Setback for Indian missile programme: Two failures in a week, submarine version stuck"
+    tier: indian-news
+    publisher: ThePrint
+    url: >-
+      https://theprint.in/report/setback-for-indian-missile-programme-two-failures-in-a-week-submarine-version-stuck/24671/
+    date: 2017-12
+    accessed: "2026-06-16"
+  - title: Indian K-4 SLBM Test Fails
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/indian-k-4-slbm-test-fails/
+    date: 2017-12
+    accessed: "2026-06-16"

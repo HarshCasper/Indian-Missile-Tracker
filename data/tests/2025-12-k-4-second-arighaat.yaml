@@ -1,0 +1,67 @@
+id: 2025-12-k-4-second-arighaat
+missile_id: k-4
+variant: K-4
+date: 2025-12
+date_precision: month
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 3500
+description: >-
+  Reported second launch of the ~3,500 km K-4 from INS Arighaat in the Bay of Bengal off
+  Visakhapatnam in late December 2025, described as part of the final validation cycle toward
+  operationalising the sea-based leg of India's nuclear deterrent. No official Ministry of Defence
+  statement was issued.
+notes: >-
+  ADDED test (missing from the original list). Submarine launch from INS Arighaat; recorded under
+  offshore-visakhapatnam. Exact date disputed across media: reports give 23, 24 or 25 December 2025.
+  No MoD/DRDO confirmation, so outcome reported as success per media but confidence is disputed.
+  Some outlets erroneously describe this as the 'first' Arighaat launch, conflating it with the
+  November 2024 test; multiple sources treat it as a distinct, subsequent test.
+claims:
+  - field: date
+    basis: reported
+    text: >-
+      India TV (citing 'Tuesday') and India Strategic / ArmyRecognition variously date the test to
+      23-25 December 2025.
+    source:
+      title: India showcases nuclear might with K-4 missile test from INS Arighaat
+      tier: indian-news
+      publisher: India TV
+      url: >-
+        https://www.indiatvnews.com/news/india/india-showcases-nuclear-might-with-k4-missile-test-from-ins-arighaat-boosting-sea-strike-power-2025-12-25-1023269
+      date: "2025-12-25"
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: India Strategic / ArmyRecognition date the test to 25 December 2025.
+    source:
+      title: India tests K-4 Long-Range Nuclear Missile from newly commissioned INS Arighaat submarine
+      tier: foreign-news
+      publisher: India Strategic
+      url: >-
+        https://www.indiastrategic.in/india-tests-k-4-long-range-nuclear-missile-from-newly-commissioned-ins-arighaat-submarine/
+      date: 2025-12
+      accessed: "2026-06-16"
+sources:
+  - title: India showcases nuclear might with K-4 missile test from INS Arighaat
+    tier: indian-news
+    publisher: India TV
+    url: >-
+      https://www.indiatvnews.com/news/india/india-showcases-nuclear-might-with-k4-missile-test-from-ins-arighaat-boosting-sea-strike-power-2025-12-25-1023269
+    date: "2025-12-25"
+    accessed: "2026-06-16"
+  - title: India tests K-4 Long-Range Nuclear Missile from newly commissioned INS Arighaat submarine
+    tier: foreign-news
+    publisher: India Strategic
+    url: >-
+      https://www.indiastrategic.in/india-tests-k-4-long-range-nuclear-missile-from-newly-commissioned-ins-arighaat-submarine/
+    date: 2025-12
+    accessed: "2026-06-16"
+  - title: India Tests K-4 Long-Range Nuclear Missile From Newly Commissioned INS Arighaat Submarine
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/news/navy-news/2025/india-tests-k-4-long-range-nuclear-missile-from-newly-commissioned-ins-arighaat-submarine
+    date: 2025-12
+    accessed: "2026-06-16"

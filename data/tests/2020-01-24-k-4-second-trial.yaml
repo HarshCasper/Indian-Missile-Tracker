@@ -1,0 +1,53 @@
+id: 2020-01-24-k-4-second-trial
+missile_id: k-4
+variant: K-4
+date: "2020-01-24"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 3500
+description: >-
+  Second of two back-to-back K-4 flight tests in January 2020, conducted within roughly five-to-six
+  days of the 19 January launch, from a submerged pontoon off the Visakhapatnam coast. Reported as
+  successful and described as a final developmental trial before serial production.
+notes: >-
+  Launched from a submerged pontoon; recorded under offshore-visakhapatnam. Exact date disputed:
+  Indian outlets indicate ~24 January 2020 (a second test within five days of the 19 Jan launch);
+  the Arms Control Association gives 25 January 2020. Confidence kept disputed on the date.
+claims:
+  - field: date
+    basis: reported
+    text: >-
+      Indian reporting places the second January 2020 test around 24 January (within five days of
+      the 19 Jan launch).
+    source:
+      title: India successfully tests its 3,500km-range K-4 missile
+      tier: indian-news
+      publisher: Hindustan Times (via PressReader)
+      url: https://www.pressreader.com/india/hindustan-times-st-jaipur/20200121/281535112948530
+      date: 2020-01
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: Arms Control Association dates the second test to 25 January 2020.
+    source:
+      title: India Tests Submarine-Launched Missile
+      tier: foreign-news
+      publisher: Arms Control Association
+      url: https://www.armscontrol.org/act/2020-03/news/india-tests-submarine-launched-missile
+      date: 2020-03
+      accessed: "2026-06-16"
+sources:
+  - title: India Tests Submarine-Launched Missile
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2020-03/news/india-tests-submarine-launched-missile
+    date: 2020-03
+    accessed: "2026-06-16"
+  - title: India successfully tests its 3,500km-range K-4 missile
+    tier: indian-news
+    publisher: Hindustan Times (via PressReader)
+    url: https://www.pressreader.com/india/hindustan-times-st-jaipur/20200121/281535112948530
+    date: 2020-01
+    accessed: "2026-06-16"

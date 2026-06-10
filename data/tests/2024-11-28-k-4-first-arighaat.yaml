@@ -1,0 +1,65 @@
+id: 2024-11-28-k-4-first-arighaat
+missile_id: k-4
+variant: K-4
+date: "2024-11-28"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 3500
+description: >-
+  First launch of the K-4 from INS Arighaat, India's second Arihant-class SSBN (commissioned 29
+  August 2024), in the Bay of Bengal off Visakhapatnam. This was the first time the ~3,500 km K-4
+  was fired from this submarine, transitioning from pontoon trials toward operational deployment. A
+  maritime warning corridor of ~3,490 km was issued for the test.
+notes: >-
+  Submarine launch from INS Arighaat; recorded under offshore-visakhapatnam. Date most widely
+  reported as 28 November 2024 (Business Standard, Deccan Herald, Naval Technology); some reporting
+  indicates the actual launch occurred on the morning of 27 November 2024 (publication 28 Nov).
+  Confirmed across multiple independent Indian and foreign outlets.
+claims:
+  - field: date
+    basis: reported
+    text: >-
+      Most outlets date the launch to 28 November 2024; some report the launch occurred 27 November
+      2024.
+    source:
+      title: Indian Navy test-fires nuclear-capable K-4 ballistic missile from INS Arighaat
+      tier: indian-news
+      publisher: Deccan Herald
+      url: >-
+        https://www.deccanherald.com/india/indian-navy-test-fires-nuclear-capable-k-4-ballistic-missile-from-ins-arighaat-3295454
+      date: "2024-11-28"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 3500
+    basis: reported
+    text: Test associated with a ~3,490-3,500 km flight corridor in the Bay of Bengal.
+    source:
+      title: India tests nuclear-capable K-4 missile from INS Arighaat
+      tier: foreign-news
+      publisher: Naval Technology
+      url: https://www.naval-technology.com/news/k-4-missile-from-ins-arighaat/
+      date: "2024-11-29"
+      accessed: "2026-06-16"
+sources:
+  - title: Indian Navy test-fires nuclear-capable K-4 ballistic missile from INS Arighaat
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/indian-navy-test-fires-nuclear-capable-k-4-ballistic-missile-from-ins-arighaat-3295454
+    date: "2024-11-28"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests 3,500-km K-4 nuclear missile from INS Arighaat submarine
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/indian-navy-tests-3-500-km-k-4-nuclear-missile-from-ins-arighaat-submarine-124112800434_1.html
+    date: "2024-11-28"
+    accessed: "2026-06-16"
+  - title: India tests nuclear-capable K-4 missile from INS Arighaat
+    tier: foreign-news
+    publisher: Naval Technology
+    url: https://www.naval-technology.com/news/k-4-missile-from-ins-arighaat/
+    date: "2024-11-29"
+    accessed: "2026-06-16"

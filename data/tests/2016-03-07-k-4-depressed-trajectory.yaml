@@ -1,0 +1,48 @@
+id: 2016-03-07-k-4-depressed-trajectory
+missile_id: k-4
+variant: K-4
+date: "2016-03-07"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+description: >-
+  Developmental flight test of the K-4 from a submerged pontoon off the Visakhapatnam coast, flown
+  on a depressed trajectory. The missile cleared the launch tube, breached the surface, achieved
+  stage separation and maintained its trajectory to the designated target with high accuracy.
+notes: >-
+  Launched from a submerged pontoon; recorded under offshore-visakhapatnam. Exact date disputed: The
+  Diplomat reports 7 March 2016, while GlobalSecurity gives 9 March 2016 for the early-March 2016
+  pontoon test. Confidence downgraded to disputed on the date.
+claims:
+  - field: date
+    basis: reported
+    text: The Diplomat dates the depressed-trajectory pontoon test to 7 March 2016.
+    source:
+      title: India Successfully Tests New Ballistic Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      url: https://thediplomat.com/2016/03/india-successfully-tests-new-ballistic-missile/
+      date: 2016-03
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: GlobalSecurity dates the early-March 2016 pontoon test to 9 March 2016.
+    source:
+      title: K-4 Missile
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+      accessed: "2026-06-16"
+sources:
+  - title: India Successfully Tests New Ballistic Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: https://thediplomat.com/2016/03/india-successfully-tests-new-ballistic-missile/
+    date: 2016-03
+    accessed: "2026-06-16"
+  - title: K-4 Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+    accessed: "2026-06-16"

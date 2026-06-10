@@ -1,0 +1,43 @@
+id: 2016-03-31-k-4-first-submarine-arihant
+missile_id: k-4
+variant: K-4
+date: "2016-03-31"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 700
+description: >-
+  First launch of the K-4 from an actual submarine, INS Arihant, about 45 nautical miles off the
+  Visakhapatnam coast in full operational configuration with a dummy payload. The missile was fired
+  from roughly 20 metres underwater and flew about 700 km to its target; the K-4 is rated to ~3,500
+  km.
+notes: >-
+  Submarine launch from INS Arihant; recorded under offshore-visakhapatnam. Demonstrated range in
+  this trial (~700 km) was well below the missile's full design range, consistent with a
+  reduced-range proving shot. Date (31 March 2016), 700 km range and 20 m launch depth confirmed by
+  MarineLink/wire reports.
+claims:
+  - field: range_tested_km
+    value: 700
+    basis: reported
+    text: Missile covered about 700 km in this submarine trial, fired from around 20 metres underwater.
+    source:
+      title: India Test-fires N-Capable K-4 Missile from Arihant Submarine
+      tier: indian-news
+      publisher: MarineLink (wire reports)
+      url: https://www.marinelink.com/news/testfires-submarine408114
+      date: 2016-04
+      accessed: "2026-06-16"
+sources:
+  - title: India Test-fires N-Capable K-4 Missile from Arihant Submarine
+    tier: indian-news
+    publisher: MarineLink (wire reports)
+    url: https://www.marinelink.com/news/testfires-submarine408114
+    date: 2016-04
+    accessed: "2026-06-16"
+  - title: K-4 Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/k-4.htm
+    accessed: "2026-06-16"

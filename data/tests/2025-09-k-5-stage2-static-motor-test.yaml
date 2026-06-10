@@ -1,0 +1,88 @@
+id: 2025-09-k-5-stage2-static-motor-test
+missile_id: k-5
+designation: K-5 Stage-2 solid rocket motor static (ground) test
+variant: K-5 Stage-2 motor
+date: "2025"
+date_precision: year
+outcome: success
+confidence: disputed
+range_tested_km: 0
+description: >-
+  DRDO reportedly conducted a successful static (ground) test of the K-5 SLBM's Stage-2 solid rocket
+  motor in 2025, validating burn time, thrust, ballistic performance, thermal endurance and
+  structural integrity under simulated operational conditions, using over 250 instrumentation
+  channels. This was an explicit non-flight motor qualification, not a launch.
+notes: >-
+  NOT a flight test - this is a ground static motor firing, included for completeness of the K-5
+  developmental record. Conducted at DRDO's Advanced Centre for Energetic Materials (ACEM) /
+  Armament & Combat Engineering Systems facility, Hyderabad (consistently 'Hyderabad' across the
+  sources I verified; the earlier 'Nasik/Nashik' alternative could not be confirmed and was
+  removed). Not one of the listed launch facilities, so site_id left empty. Confidence DISPUTED due
+  to a date conflict: Indian Defense News states 12 September 2025, while NDA Study and Wikipedia
+  (further-reading) place the test in November 2025 (12 Nov cited elsewhere); the November dates may
+  reflect the reporting/publication wave. NOT officially confirmed by DRDO/MoD (no PIB/DRDO release
+  found).
+sources:
+  - title: DRDO Successfully Conducts Static Test of K-5 SLBM Stage-2 Rocket Motor
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2025/11/drdo-successfully-conducts-static-test.html
+    date: 2025-11
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO K-5 SLBM Test Success: The Hidden Missile That Could Change India's Nuclear Defence
+      Future Under the Ocean
+    tier: indian-news
+    publisher: Indian Masterminds
+    url: https://indianmasterminds.com/news/drdo-static-test-drdo-k5-slbm-stage2-rocket-motor-159073/
+    date: 2025-11
+    accessed: "2026-06-16"
+  - title: "DRDO tested K-5 SLBM Stage-2 Motor Successfully: India's Nuclear Triad Sea-Leg Breakthrough"
+    tier: indian-news
+    publisher: NDA Study
+    url: https://ndastudy.com/drdo-tested-k-5-slbm-stage-2-motor-successfully/
+    date: 2025-11
+    accessed: "2026-06-16"
+  - title: K-5 (ballistic missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/K-5_(ballistic_missile)
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    text: >-
+      Static test date reported variably as 12 September 2025 (Indian Defense News) and November
+      2025 (NDA Study; Wikipedia 'November 2025').
+    basis: reported
+    note: >-
+      Sept 12 cited as the test date in one outlet; November appears in others and on Wikipedia and
+      likely reflects publication/reporting timing. Date set to year-precision pending
+      corroboration.
+    source:
+      title: "DRDO tested K-5 SLBM Stage-2 Motor Successfully: India's Nuclear Triad Sea-Leg Breakthrough"
+      tier: indian-news
+      publisher: NDA Study
+      url: https://ndastudy.com/drdo-tested-k-5-slbm-stage-2-motor-successfully/
+      date: 2025-11
+      accessed: "2026-06-16"
+  - field: range_km
+    text: >-
+      Estimated operational range ~5,000 km (baseline) and up to ~8,000 km with a lighter/optimised
+      MIRV payload (assessed in motor-test coverage).
+    min: 5000
+    max: 8000
+    basis: assessed
+    note: >-
+      Range estimates only; not demonstrated in this ground static motor test. The >8,000 km figure
+      is an upper-end assessment tied to a lighter MIRV configuration.
+    source:
+      title: >-
+        DRDO's Milestone: K-5 SLBM Stage-II Motor Test Confirms MIRV Capability and Extended Range
+        Over 8,000 km
+      tier: foreign-news
+      publisher: Indian Defence Research Wing (idrw.org)
+      url: >-
+        https://idrw.org/drdos-milestone-k-5-slbm-stage-ii-motor-test-confirms-mirv-capability-and-extended-range-over-8000-km/
+      date: 2025-11
+      accessed: "2026-06-16"
+site_id: null

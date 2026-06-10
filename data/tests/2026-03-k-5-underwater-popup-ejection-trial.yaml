@@ -1,0 +1,113 @@
+id: 2026-03-k-5-underwater-popup-ejection-trial
+missile_id: k-5
+designation: K-5 underwater pop-up / cold-launch ejection trial
+date: 2026-03
+date_precision: month
+outcome: partial
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+description: >-
+  India reportedly conducted a successful underwater 'pop-up' (cold-launch) ejection trial of the
+  K-5 SLBM in the Bay of Bengal off Visakhapatnam, attributed to the final week of March 2026. The
+  trial ejected an unpowered dummy missile from a submerged vertical launch tube using a
+  high-pressure gas generator and validated the canister/gas-ejection mechanism, hydrodynamic
+  stability and surface breach; the rocket motors were NOT ignited, so this was an ejection-only
+  event ahead of full powered developmental flight trials. First reported publicly by India Today
+  defence journalist Sandeep Unnithan and amplified by multiple Indian defence outlets in May 2026;
+  corroborated independently by open-source analysts noting a Bay of Bengal firing notification
+  (NOTAM) for roughly 30-31 March 2026.
+notes: >-
+  Ejection-only test (booster not fired); recorded as 'partial' because it was not a powered flight.
+  NOT officially confirmed by DRDO or MoD as of June 2026; no PIB/DRDO release exists and the K-5
+  does not appear in CSIS Missile Threat. Confidence DISPUTED due to a date conflict: the dominant
+  account (chakranewz, idrw, indiandefensenews, indianmasterminds, defence.in, citing Sandeep
+  Unnithan/India Today) places the test in the final week of March 2026, while thedefensenews.com
+  states the test occurred on 20 May 2026 (likely conflating the May reporting wave with the event).
+  Launch platform: sources I could verify describe a submerged underwater test platform/pontoon off
+  Visakhapatnam and do NOT name a submarine; I could not verify the previously asserted INS
+  Aridhaman/INS Arighaat attribution, so it has been dropped. Exact day not officially published.
+sources:
+  - title: >-
+      K-5 SLBM Clears Underwater Ejection Trial, Strengthening India's Path To MIRV-Enabled
+      Sea-Based Nuclear Deterrence
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2026/05/k-5-slbm-clears-underwater-ejection.html
+    date: 2026-05
+    accessed: "2026-06-16"
+  - title: The K-5 Emerges
+    tier: indian-news
+    publisher: Chakra News
+    url: https://chakranewz.com/critical-technologies/trending/the-k-5-emerges
+    date: 2026-05
+    accessed: "2026-06-16"
+  - title: What Is K-5 SLBM? India's Secret Weapon Takes Big Step After Underwater Test
+    tier: indian-news
+    publisher: Indian Masterminds
+    url: >-
+      https://indianmasterminds.com/news/defence/india-k5-slbm-pop-up-ejection-trial-mirv-sea-based-deterrence-204173/
+    date: 2026-05
+    accessed: "2026-06-16"
+  - title: India Successfully Carries Out K-5 SLBM Cold-Launch Ejection Test Near Visakhapatnam
+    tier: foreign-news
+    publisher: The Defense News (thedefensenews.com)
+    url: >-
+      https://www.thedefensenews.com/India-Successfully-Carries-Out-K-5-SLBM-Cold-Launch-Ejection-Test-Near-Visakhapatnam/
+    date: 2026-05
+    accessed: "2026-06-16"
+  - title: K-5 (ballistic missile)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/K-5_(ballistic_missile)
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    text: >-
+      Test date disputed: 'final week of March 2026' in most coverage (Unnithan/India Today origin,
+      plus NOTAM ~30-31 March), but thedefensenews.com states 20 May 2026.
+    basis: reported
+    note: >-
+      March 2026 is the dominant, multi-source account; the May 2026 figure is a single outlet that
+      likely conflates reporting/publication timing with the event date.
+    source:
+      title: India Successfully Carries Out K-5 SLBM Cold-Launch Ejection Test Near Visakhapatnam
+      tier: foreign-news
+      publisher: The Defense News (thedefensenews.com)
+      url: >-
+        https://www.thedefensenews.com/India-Successfully-Carries-Out-K-5-SLBM-Cold-Launch-Ejection-Test-Near-Visakhapatnam/
+      date: 2026-05
+      accessed: "2026-06-16"
+  - field: platform
+    text: >-
+      Launch platform reported as a submerged underwater test platform/pontoon off Visakhapatnam; no
+      submarine named in verifiable reporting.
+    basis: reported
+    note: >-
+      Sources read (Indian Defense News, defence.in, Indian Masterminds) describe a
+      pontoon/submerged test platform and explicitly do not name a submarine; an earlier INS
+      Aridhaman/INS Arighaat attribution could not be verified and is not asserted here.
+    source:
+      title: >-
+        K-5 SLBM Clears Underwater Ejection Trial, Strengthening India's Path To MIRV-Enabled
+        Sea-Based Nuclear Deterrence
+      tier: indian-news
+      publisher: Indian Defense News
+      url: https://www.indiandefensenews.in/2026/05/k-5-slbm-clears-underwater-ejection.html
+      date: 2026-05
+      accessed: "2026-06-16"
+  - field: range_km
+    text: Estimated operational range 5,000-6,000 km (most Indian reporting).
+    min: 5000
+    max: 6000
+    basis: reported
+    note: Estimate of the missile's intended range, not a range demonstrated in this ejection trial.
+    source:
+      title: >-
+        K-5 SLBM Clears Underwater Ejection Trial, Strengthening India's Path To MIRV-Enabled
+        Sea-Based Nuclear Deterrence
+      tier: indian-news
+      publisher: Indian Defense News
+      url: https://www.indiandefensenews.in/2026/05/k-5-slbm-clears-underwater-ejection.html
+      date: 2026-05
+      accessed: "2026-06-16"

@@ -1,0 +1,48 @@
+id: 2015-k-15-arihant-unarmed-launch
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: K-15 launch from INS Arihant (unarmed)
+date: "2015"
+date_precision: year
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+apogee_km: 0
+description: >-
+  Reported launch of an unarmed/dummy K-15 Sagarika from the nuclear-powered submarine INS Arihant
+  during its sea trials phase off the eastern coast, validating integration of the SLBM with the
+  SSBN launch system. CSIS notes unarmed test versions were launched by INS Arihant in 2015 (and
+  2016).
+notes: >-
+  Launched from INS Arihant (SSBN) during sea trials in the Bay of Bengal; unarmed/dummy round,
+  range not disclosed. DATE PRECISION downgraded to year: CSIS (foreign-news) only confirms the
+  launch occurred in 2015, with no day given. The widely repeated specific date of 25 November 2015
+  traces only to Wikipedia/Wikipedia-derived sources (further-reading), so it is not asserted here.
+  CSIS also references a 2016 unarmed launch, but no distinct, reliably dated 2016 K-15 flight could
+  be confirmed (likely conflation with this 2015 event); not listed separately. Confidence disputed
+  because no day-level or non-further-reading corroboration exists.
+claims:
+  - field: date
+    value: 2015
+    basis: reported
+    text: >-
+      CSIS states unarmed test versions of the K-15 were launched by INS Arihant in 2015 (year only;
+      the '25 November 2015' day is Wikipedia-derived and unconfirmed)
+    source:
+      title: Sagarika/Shaurya
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+      accessed: "2026-06-16"
+sources:
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
+  - title: Sagarika (missile) - flight test history (specific 25 Nov 2015 date, citing Business Standard)
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sagarika_(missile)
+    accessed: "2026-06-16"

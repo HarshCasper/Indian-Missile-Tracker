@@ -1,0 +1,44 @@
+id: 2018-08-11-k-15-arihant-user-trial-double
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: User trials from INS Arihant (back-to-back launches)
+date: "2018-08-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: offshore-visakhapatnam
+range_tested_km: 0
+apogee_km: 0
+description: >-
+  Two K-15 (B-05) SLBMs were test-fired back-to-back from INS Arihant on 11 August 2018, about 10 km
+  off the Visakhapatnam coast, with the submarine submerged roughly 20 m deep. The missiles followed
+  their pre-designated trajectories and struck the target area with high accuracy (close to zero
+  CEP), as part of the first phase of user trials ahead of operationalisation. Two of the three
+  August 2018 launches occurred on 11 Aug; the third on 12 Aug.
+notes: >-
+  Fired from INS Arihant, submerged ~20 m, ~10 km off Vizag. Secretly conducted; SLBM code-named
+  B-05/Sagarika. Range not publicly disclosed. Date (11 Aug), site (offshore Vizag/INS Arihant) and
+  outcome (success) agree across multiple independent sources (PTI-relayed reporting, Modern
+  Diplomacy, New Indian Express, CSIS), hence confidence 'confirmed'. CSIS independently states
+  three B-05 launches occurred between 11 and 12 August 2018.
+sources:
+  - title: >-
+      'SAGARIKA' SLBM (K-15) Tested Thrice From INS Arihant SSBN, India In Select Triad Club
+      (relaying PTI/TOI reporting)
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2018/08/sagarika-slbm-k-15-tested-thrice-from.html
+    date: 2018-08
+    accessed: "2026-06-16"
+  - title: Second Age of Arms Race in Indian Ocean and India's Test of K-15 SLBM
+    tier: foreign-news
+    publisher: Modern Diplomacy
+    url: >-
+      https://moderndiplomacy.eu/2018/09/28/second-age-of-arms-race-in-indian-ocean-and-indias-test-of-k-15-srbm/
+    date: "2018-09-28"
+    accessed: "2026-06-16"
+  - title: Sagarika/Shaurya (confirms 3 B-05 launches between 11-12 Aug 2018)
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"

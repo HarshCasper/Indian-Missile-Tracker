@@ -1,0 +1,84 @@
+id: 2008-02-26-k-15-maiden-underwater-launch
+missile_id: k-15
+variant: Sagarika (B-05)
+designation: Sagarika maiden underwater launch
+date: "2008-02-26"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: offshore-visakhapatnam
+range_tested_km: 700
+apogee_km: 0
+description: >-
+  India's first publicly reported underwater-launched ballistic missile test. The Sagarika (K-15)
+  was ejected from a submerged pontoon roughly 50 m below the surface and about 8-13 km off the
+  Visakhapatnam coast, simulating a submarine launch; the booster ignited and the missile impacted
+  the sea over 700 km away. Reported as a successful proof of underwater-launch capability, joining
+  the US, Russia, France and China in that club. GlobalSecurity describes it as the 'sixth test' of
+  the Sagarika.
+notes: >-
+  Launched from a submerged pontoon off Visakhapatnam (Bay of Bengal), not from a submarine. DATE
+  CONFLICT: IPCS and most Indian/secondary sources give 26 Feb 2008; GlobalSecurity dates the firing
+  to 27 Feb 2008 and calls it the 'sixth test of the 700-km range Sagarika.' Confidence set to
+  disputed on the date. Design/strike range cited as 750 km (IRNA pre-test report); demonstrated
+  impact reported as over 700 km. CSIS notes the K-15 reportedly underwent ~10 test firings (mostly
+  undated/partial) between 2004 and 2008.
+claims:
+  - field: date
+    value: 26
+    basis: reported
+    text: >-
+      IPCS (Indian think-tank) dates the Sagarika underwater test to 26 February 2008, fired from a
+      pontoon 10 km off Visakhapatnam to a range of 700 km
+    source:
+      title: "Sagarika: A Feather in India's Defense Hat"
+      tier: indian-news
+      publisher: Institute of Peace and Conflict Studies (IPCS)
+      url: https://www.ipcs.org/comm_select.php?articleNo=2512
+      accessed: "2026-06-16"
+  - field: date
+    value: 27
+    basis: reported
+    text: >-
+      GlobalSecurity dates the firing to 27 February 2008 and describes it as the 'sixth test of the
+      700-km range Sagarika'
+    source:
+      title: Sagarika / K-15 / Shourya / Nirbhay
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/sagarika.htm
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 700
+    basis: reported
+    text: >-
+      Missile impacted the sea over 700 km away (design strike range cited as 750 km in the pre-test
+      IRNA report)
+    source:
+      title: Sagarika / K-15 / Shourya / Nirbhay
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/sagarika.htm
+      accessed: "2026-06-16"
+sources:
+  - title: Sagarika / K-15 / Shourya / Nirbhay
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/sagarika.htm
+    accessed: "2026-06-16"
+  - title: "Sagarika: A Feather in India's Defense Hat"
+    tier: indian-news
+    publisher: Institute of Peace and Conflict Studies (IPCS)
+    url: https://www.ipcs.org/comm_select.php?articleNo=2512
+    accessed: "2026-06-16"
+  - title: India ready to test ballistic missile from underwater launcher (pre-test report)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-080216-irna01.htm
+    date: "2008-02-16"
+    accessed: "2026-06-16"
+  - title: Sagarika/Shaurya
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/missile/sagarika-shaurya/
+    accessed: "2026-06-16"
