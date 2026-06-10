@@ -1,0 +1,71 @@
+id: 2009-03-06-pad-pradyumna-second
+missile_id: pad
+designation: PAD / Pradyumna (BMD interception with Swordfish LRTR)
+variant: PAD (Pradyumna)
+date: "2009-03-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 75
+range_tested_km: 0
+description: >-
+  Second flight test of the PAD exo-atmospheric interceptor (by then also referred to as Pradyumna).
+  Launched from a mobile launcher at the Wheeler Island (Dr A.P.J. Abdul Kalam Island) complex, the
+  two-stage interceptor destroyed an incoming target at roughly 75-80 km altitude. The target was a
+  modified ship-launched Dhanush missile fired from a naval vessel about 100 km off the coast in the
+  Bay of Bengal, flown to ~120 km to mimic the terminal phase of a 1,500 km-range ballistic missile.
+  The engagement also validated the indigenous Swordfish (LRTR) long-range tracking radar.
+notes: >-
+  PAD interceptor launched from Wheeler Island (Dr A.P.J. Abdul Kalam Island); the Dhanush target
+  was ship-launched in the Bay of Bengal about 100 km offshore (some reports name INS Subhadra).
+  Reported as the third successful BMD interception in the series (after the 2006 PAD exo test and
+  the 2007 AAD endo test). Interception altitude conflicts between sources: ~75 km (GlobalSecurity,
+  Domain-b) vs ~80 km (IRNA). Date, launch site, and successful outcome agree across multiple
+  independent reliable sources.
+claims:
+  - field: apogee_km
+    value: 75
+    basis: reported
+    text: >-
+      GlobalSecurity and Domain-b state the PAD destroyed the Dhanush-based target at about 75 km
+      altitude.
+    source:
+      title: India tests 'Swordfish' radar with successful missile defence test
+      tier: foreign-news
+      publisher: Domain-b.com
+      url: https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 80
+    basis: reported
+    text: >-
+      Contemporary IRNA/GlobalSecurity reporting states the Prithvi air defence missile intercepted
+      the target at an altitude of about 80 km.
+    source:
+      title: India successfully test-fires interceptor missile (Mar 6, 2009)
+      tier: foreign-news
+      publisher: GlobalSecurity.org (IRNA)
+      url: https://www.globalsecurity.org/space/library/news/2009/space-090306-irna01.htm
+      accessed: "2026-06-16"
+sources:
+  - title: India tests 'Swordfish' radar with successful missile defence test
+    tier: foreign-news
+    publisher: Domain-b.com
+    url: https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
+    accessed: "2026-06-16"
+  - title: India successfully test-fires interceptor missile (Mar 6, 2009)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/space/library/news/2009/space-090306-irna01.htm
+    accessed: "2026-06-16"
+  - title: Indian Missile Defense Program Advances
+    tier: foreign-news
+    publisher: Arms Control Association
+    url: https://www.armscontrol.org/act/2013-01/news/indian-missile-defense-program-advances
+    accessed: "2026-06-16"
+  - title: Prithvi Air Defence (PAD)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/pad.htm
+    accessed: "2026-06-16"

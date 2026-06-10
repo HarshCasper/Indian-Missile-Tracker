@@ -1,0 +1,83 @@
+id: 2024-07-24-ad-1-phase2-end-to-end-intercept
+missile_id: ad-1
+variant: AD-1 (Phase-II AD endo-atmospheric interceptor)
+designation: Phase-II BMD System end-to-end flight-test
+date: "2024-07-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  DRDO conducted a successful end-to-end Phase-II BMD flight-test in which a target missile
+  mimicking an adversary ballistic missile was launched at 1620 hrs, detected and tracked by land-
+  and sea-based weapon-system radars, after which the Phase-II AD endo-atmospheric interceptor
+  (identified by Janes as the AD-1) was launched at 1624 hrs from LC-III at ITR, Chandipur. The test
+  fully met all trial objectives, validating the complete network-centric weapon system of
+  long-range sensors, low-latency communications, mission control centre and the interceptor.
+range_tested_km: 0
+notes: >-
+  Interceptor launched from Launch Complex III (LC-III), ITR Chandipur (Odisha). NOTE: the PIB
+  release itself does NOT use the 'AD-1' name; it calls the interceptor the 'Phase-II AD
+  Endo-atmospheric missile'. Janes explicitly identifies that interceptor as the AD-1, hence
+  inclusion here. Target launch site is also disputed across sources: the PIB release states the
+  target was launched from 'LC-IV Dhamra', whereas Janes states the target was launched from Abdul
+  Kalam Island (~70 km south of Chandipur); both agree the INTERCEPTOR launched from ITR Chandipur.
+  DRDO stated the system demonstrates capability against ballistic missiles of the 5,000 km class
+  (design claim, not range flown in this test). Re-verified against the PIB release (mirrored at
+  globalsecurity.org and drdo.gov.in), Janes, Business Standard and India TV.
+claims:
+  - field: range_km
+    value: 5000
+    text: >-
+      Demonstrated indigenous capability to defend against ballistic missiles of the 5,000 km class
+      (capability claim).
+    basis: official
+    source:
+      title: DRDO successfully flight-tests Phase-II Ballistic Missile Defence System
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036561
+      date: "2024-07-24"
+sources:
+  - title: DRDO successfully flight-tests Phase-II Ballistic Missile Defence System
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2036561
+    date: "2024-07-24"
+    accessed: "2026-06-16"
+  - title: DRDO successfully flight-tests Phase-II Ballistic Missile Defence System (PIB text mirror)
+    tier: pib
+    publisher: GlobalSecurity.org (PIB reprint)
+    url: https://www.globalsecurity.org/space/library/news/2024/space-240724-india-pib01.htm
+    date: "2024-07-24"
+    accessed: "2026-06-16"
+  - title: DRDO successfully flight-tests Phase-II Ballistic Missile Defence System
+    tier: pib
+    publisher: Defence Research and Development Organisation (DRDO), Ministry of Defence
+    url: >-
+      https://www.drdo.gov.in/drdo/press-release/drdo-successfully-flight-tests-phase-ii-ballistic-missile-defence-system
+    date: "2024-07-24"
+    accessed: "2026-06-16"
+  - title: India advances Phase II BMD interceptor
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/security/india-advances-phase-ii-bmd-interceptor
+    date: 2024-07
+    accessed: "2026-06-16"
+  - title: India successfully tests Phase-II ballistic missile defence system
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/india-successfully-tests-phase-ii-ballistic-missile-defence-system-124072401336_1.html
+    date: "2024-07-24"
+    accessed: "2026-06-16"
+  - title: >-
+      Breaking: DRDO successfully conducts flight test of Phase-II Ballistic Missile Defence System
+      (WATCH)
+    tier: indian-news
+    publisher: India TV News
+    url: >-
+      https://www.indiatvnews.com/news/india/drdo-successfully-conducts-flight-test-of-phase-ii-ballistic-missile-defence-system-2024-07-24-943511
+    date: "2024-07-24"
+    accessed: "2026-06-16"

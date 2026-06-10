@@ -1,0 +1,57 @@
+id: 2019-02-12-pdv-upgraded-test
+missile_id: pdv
+variant: PDV (upgraded)
+designation: Upgraded PDV interceptor test
+date: "2019-02-12"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+description: >-
+  Reported test of an upgraded version of the PDV high-altitude interceptor from a defence facility
+  off the Odisha coast, said to have successfully killed a simulated target. The PDV is described as
+  designed to destroy missiles at exo-atmospheric altitudes of 50-150 km against threats fired from
+  around 2,000 km.
+notes: >-
+  WEAK SOURCING / POSSIBLE DUPLICATE: this 12 February 2019 event is reported only by Sputnik
+  (Russian state outlet) and an Indian Defence News blog (further-reading). No PIB/MoD/DRDO release,
+  no major Indian outlet (The Hindu/PTI/TOI/Indian Express) and no Western think-tank covers it as a
+  distinct test; CSIS Missile Threat's PDV record does not list a separate February 2019 trial. Site
+  given only as 'off the coast of Odisha' (assumed Abdul Kalam Island, the usual PDV site). Distinct
+  from the 27 March 2019 Mission Shakti ASAT. Confidence downgraded to 'disputed' because
+  corroboration is limited to a single state-media report plus a blog; cannot be fully verified or
+  ruled out as a re-report of the 2018 night trial.
+claims:
+  - field: apogee_km
+    min: 50
+    max: 150
+    text: designed to destroy missiles at exo-atmospheric altitudes of 50-150 km
+    note: design-envelope figure, not a measured apogee for this test
+    basis: reported
+    source:
+      title: India Successfully Tests Upgraded Version of Ballistic Missile Killer
+      tier: foreign-news
+      publisher: Sputnik
+      url: https://sputniknews.com/20190212/india-prithvi-missile-1072347276.html
+      date: "2019-02-12"
+      accessed: "2026-06-16"
+sources:
+  - title: India Successfully Tests Upgraded Version of Ballistic Missile Killer
+    tier: foreign-news
+    publisher: Sputnik
+    url: https://sputniknews.com/20190212/india-prithvi-missile-1072347276.html
+    date: "2019-02-12"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Upgraded Version of Ballistic Missile Killer (mirror)
+    tier: foreign-news
+    publisher: Sputnik (via GlobalSecurity.org)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-190212-sputnik03.htm
+    date: "2019-02-12"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Upgraded Version of Prithvi Defence Vehicle Interceptor
+    tier: further-reading
+    publisher: Indian Defence News
+    url: https://www.indiandefensenews.in/2019/02/india-successfully-tests-upgraded.html
+    date: "2019-02-13"
+    accessed: "2026-06-16"

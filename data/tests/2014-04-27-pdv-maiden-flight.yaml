@@ -1,0 +1,59 @@
+id: 2014-04-27-pdv-maiden-flight
+missile_id: pdv
+variant: PDV
+designation: PDV maiden flight test
+date: "2014-04-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 2000
+apogee_km: 120
+description: >-
+  Maiden flight test of the Prithvi Defence Vehicle (PDV) exo-atmospheric interceptor, launched at
+  about 9:07 a.m. from Abdul Kalam Island (formerly Wheeler Island) off the Odisha coast. In an
+  automated engagement it intercepted a two-stage target missile mimicking a hostile ballistic
+  missile from over 2,000 km, destroying it at an altitude of more than 120 km in the
+  exo-atmosphere, far exceeding the ~75-80 km ceiling of the earlier PAD interceptor.
+notes: >-
+  First flight of PDV, India's high-altitude exo-atmospheric ABM interceptor intended to replace
+  PAD/Pradyumna. The ~2,000 km figure is the class of incoming missile the system is designed to
+  engage, not the distance the interceptor flew. Target reportedly launched from a ship in the Bay
+  of Bengal. Date, site (Abdul Kalam Island) and successful outcome independently corroborated by Al
+  Jazeera, Defense Update and GlobalSecurity.
+claims:
+  - field: apogee_km
+    value: 120
+    text: destroyed its target at an altitude of more than 120 km in the exo-atmosphere region
+    basis: reported
+    source:
+      title: India tests high-altitude interceptor missile
+      tier: foreign-news
+      publisher: Al Jazeera
+      url: https://www.aljazeera.com/news/2014/4/27/india-tests-high-altitude-interceptor-missile
+      date: "2014-04-27"
+      accessed: "2026-06-16"
+sources:
+  - title: India tests high-altitude interceptor missile
+    tier: foreign-news
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2014/4/27/india-tests-high-altitude-interceptor-missile
+    date: "2014-04-27"
+    accessed: "2026-06-16"
+  - title: India tests a new exo-atmospheric interceptor
+    tier: foreign-news
+    publisher: Defense Update
+    url: https://defense-update.com/20140502_india-tests-new-exo-atmospheric-interceptor.html
+    date: "2014-05-02"
+    accessed: "2026-06-16"
+  - title: India 140427 (interceptor test report)
+    tier: further-reading
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140427-vor01.htm
+    date: "2014-04-27"
+    accessed: "2026-06-16"
+  - title: PDV (Prithvi Defence Vehicle)
+    tier: further-reading
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/pdv.htm
+    accessed: "2026-06-16"

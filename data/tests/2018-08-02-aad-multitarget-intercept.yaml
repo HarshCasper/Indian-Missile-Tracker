@@ -1,0 +1,39 @@
+id: 2018-08-02-aad-multitarget-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD endo-atmospheric multi-target intercept
+date: "2018-08-02"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 20
+description: >-
+  DRDO successfully flight-tested the canister-launched AAD endo-atmospheric interceptor from Abdul
+  Kalam Island at 1130 hrs against multiple simulated targets of the 1500 km class ballistic
+  missile. One target among the simultaneously incoming multiple targets was selected in real time,
+  tracked by the weapon-system radars, and intercepted with high accuracy; all mission objectives
+  were met. First AAD test against multiple targets, exercising decoy/multi-target discrimination.
+notes: >-
+  Sixth AAD interceptor test. Official PIB/MoD release states the missile is capable of intercepting
+  at 15-25 km altitude; witnessed by Air Chief Marshal B.S. Dhanoa, with Raksha Mantri Nirmala
+  Sitharaman congratulating DRDO. Distinct from the later AD-1 (Phase-II, two-stage) interceptor
+  first tested in November 2022.
+range_tested_km: 40
+sources:
+  - title: Ballistic Missile Interceptor AAD Successfully Flight Tested
+    tier: pib
+    publisher: PIB / Ministry of Defence (DRDO)
+    date: "2018-08-02"
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1541431
+  - title: India Tests BMD Interceptor
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    date: "2018-08-02"
+    url: https://missilethreat.csis.org/india-tests-bmd-interceptor/
+  - title: India successfully test-fires Advanced Air Defence interceptor missile off Odisha coast
+    tier: indian-news
+    publisher: India TV
+    date: "2018-08-02"
+    url: >-
+      https://www.indiatvnews.com/news/india-india-successfully-test-fires-advanced-air-defence-interceptor-missile-off-odisha-coast-456035

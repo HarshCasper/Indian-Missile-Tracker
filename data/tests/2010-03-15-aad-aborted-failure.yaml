@@ -1,0 +1,45 @@
+id: 2010-03-15-aad-aborted-failure
+missile_id: aad
+variant: Ashwin
+designation: AAD interceptor trial (aborted)
+date: "2010-03-15"
+date_precision: day
+outcome: failure
+confidence: confirmed
+site_id: abdul-kalam-island
+description: >-
+  Planned AAD intercept that was not completed: the Prithvi target missile fired from ITR Chandipur
+  (Launch Complex III, ~10:02 hrs) deviated from its trajectory after about 11 km (T+20 sec, onboard
+  system malfunction) and fell into the sea, so the AAD interceptor at Wheeler Island was not
+  launched. DRDO described the interceptor as self-aborting due to the target's failure.
+notes: >-
+  Target launched from ITR Chandipur; interceptor sited at Wheeler Island. The NTI chronology
+  (citing Rediff) dates this 15 March 2011 and some agency copy says 16 March 2010, but the majority
+  of contemporaneous reporting (RIA Novosti, IRNA, Livefist) dates the aborted trial to 15 March
+  2010.
+claims:
+  - field: date
+    text: >-
+      NTI chronology dates the failed AAD launch 15 March 2011 (citing Rediff); contemporaneous
+      reporting fixes it at 15 March 2010
+    basis: reported
+    source:
+      title: India Missile Chronology
+      tier: further-reading
+      publisher: NTI / James Martin CNS
+      url: https://www.nti.org/wp-content/uploads/2021/09/india_missile_3.pdf
+sources:
+  - title: India's AAD Interceptor missile fails to take off (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity / RIA Novosti
+    date: "2010-03-15"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100315-rianovosti01.htm
+  - title: India's AAD Interceptor missile fails to take off (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity / IRNA
+    date: "2010-03-15"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100315-irna02.htm
+  - title: "'Enemy' Prithvi Failed, Interceptor Smartly Self-Aborted, Says DRDO"
+    tier: indian-news
+    publisher: Livefist
+    url: https://www.livefistdefence.com/enemy-prithvi-failed-interceptor/

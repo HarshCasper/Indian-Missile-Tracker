@@ -1,0 +1,29 @@
+id: 2011-03-06-aad-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD endo-atmospheric intercept
+date: "2011-03-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 16
+description: >-
+  AAD interceptor positioned at Wheeler Island destroyed a 'hostile' modified Prithvi target
+  ballistic missile (fired from ITR Chandipur ~70 km away) at about 16 km altitude over the Bay of
+  Bengal, flying at roughly Mach 4.5. The interceptor engaged within about four minutes of target
+  launch.
+notes: >-
+  Target launched from ITR Chandipur; interceptor from Wheeler Island. Date/site/outcome agree
+  across multiple independent sources.
+sources:
+  - title: India successfully test-fires ballistic missile interceptor (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity / RIA Novosti
+    date: "2011-03-06"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110306-rianovosti01.htm
+  - title: India successfully test-fires indigenous interceptor missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity / IRNA
+    date: "2011-03-06"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110306-irna01.htm

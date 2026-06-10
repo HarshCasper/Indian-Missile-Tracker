@@ -1,0 +1,85 @@
+id: 2019-02-12-asat-mission-shakti-failed-first-attempt
+missile_id: asat-mission-shakti
+variant: PDV Mk-II
+designation: Mission Shakti (failed first attempt)
+date: "2019-02-12"
+date_precision: day
+outcome: failure
+confidence: disputed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  India's first (failed) attempt to test its PDV Mk-II direct-ascent ASAT against the Microsat-R
+  satellite. The solid-fueled interceptor reportedly failed about 30 seconds into flight, achieving
+  only a suborbital trajectory with no intercept. India publicly announced only a generic
+  experimental flight-vehicle / missile test; the ASAT nature was inferred later when observers
+  matched the trajectory and target satellite to the successful 27 March test.
+notes: >-
+  Disputed. Independently catalogued as a failed ASAT attempt by the Secure World Foundation fact
+  sheet (June 2025), US government sources via Ankit Panda/The Diplomat (30 Mar 2019), and orbital
+  analyst Marco Langbroek (SatTrackCam Leiden). Booster failed within ~30 seconds; SWF lists 0
+  trackable debris and 'suborbital'. Langbroek infers the ASAT intent from a NOTAM hazard zone
+  matching the 27 March test and a Microsat-R pass over Abdul Kalam ~1 minute earlier than on 27
+  March, with a calculated intercept altitude of ~271 km. DRDO publicly disputed any ASAT test on
+  this date, later characterizing 12 February as a test 'against an electronic target' rather than a
+  live-satellite intercept. Launch announced for ~11:10 IST (05:40 UTC) from Dr A.P.J. Abdul Kalam
+  Island, Odisha.
+claims:
+  - field: outcome
+    text: >-
+      DRDO disputed that any ASAT test occurred on 12 February 2019 ('There was no ASAT test on
+      February 12'); it was later characterized as a test against an 'electronic target' rather than
+      a failed live-satellite intercept.
+    basis: official
+    source:
+      title: ASAT test failed on Feb 12, says US expert; claim refuted by DRDO
+      tier: indian-news
+      publisher: The Tribune
+      url: >-
+        https://www.tribuneindia.com/news/archive/nation/asat-test-failed-on-feb-12-says-us-expert-claim-refuted-by-drdo-752460
+      date: 2019-04
+      accessed: "2026-06-16"
+  - field: outcome
+    text: >-
+      Catalogued as a failed ASAT attempt: 'Feb. 2019, PDV-MK II, Abdul Kalam Island, Microsat-R,
+      suborbital, 0 debris, Booster failed within 30 seconds, no intercept.'
+    basis: assessed
+    source:
+      title: Indian Direct-Ascent Anti-Satellite Testing (Fact Sheet FS25/4)
+      tier: foreign-news
+      publisher: Secure World Foundation
+      url: >-
+        https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/684ad9e51707f42ec133c2a8_Fact%20Sheet%202025_Indian%20Direct-Ascent%20Anti-Satellite%20Testing.pdf
+      date: 2025-06
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      Indian Direct-Ascent Anti-Satellite Testing (Fact Sheet FS25/4) - 'Summary of Known or
+      Suspected Indian ASAT Tests in Space': Feb 2019, PDV-MK II, Abdul Kalam Island, Microsat-R,
+      suborbital, 0 debris, booster failed within 30 seconds, no intercept
+    tier: foreign-news
+    publisher: Secure World Foundation
+    url: >-
+      https://cdn.prod.website-files.com/66dcc6872f6ed23bce1db235/684ad9e51707f42ec133c2a8_Fact%20Sheet%202025_Indian%20Direct-Ascent%20Anti-Satellite%20Testing.pdf
+    date: 2025-06
+    accessed: "2026-06-16"
+  - title: "Exclusive: India Conducted a Failed Anti-Satellite Test in February 2019"
+    tier: foreign-news
+    publisher: The Diplomat (Ankit Panda)
+    url: >-
+      https://thediplomat.com/2019/04/exclusive-india-conducted-a-failed-anti-satellite-test-in-february-2019/
+    date: "2019-03-30"
+    accessed: "2026-06-16"
+  - title: An earlier, failed (?) ASAT test by India on 12 February 2019
+    tier: foreign-news
+    publisher: SatTrackCam Leiden (Marco Langbroek)
+    url: https://sattrackcam.blogspot.com/2019/04/an-earlier-failed-asat-test-by-india-on.html
+    date: 2019-04
+    accessed: "2026-06-16"
+  - title: ASAT test failed on Feb 12, says US expert; claim refuted by DRDO
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/archive/nation/asat-test-failed-on-feb-12-says-us-expert-claim-refuted-by-drdo-752460
+    date: 2019-04
+    accessed: "2026-06-16"

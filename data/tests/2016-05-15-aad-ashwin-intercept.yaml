@@ -1,0 +1,57 @@
+id: 2016-05-15-aad-ashwin-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD 'Ashwin' interceptor trial (disputed)
+date: "2016-05-15"
+date_precision: day
+outcome: partial
+confidence: disputed
+site_id: abdul-kalam-island
+description: >-
+  DRDO announced a successful AAD/Ashwin intercept (launched ~11:15 hrs from Abdul Kalam Island) of
+  a nuclear-capable Dhanush/Prithvi-type target ballistic missile launched from a ship in the Bay of
+  Bengal, at endo-atmospheric altitude. The Diplomat subsequently reported that the interceptor may
+  never have launched and that the incoming target simply fell into the sea, making the outcome
+  disputed.
+notes: >-
+  Outcome disputed: DRDO claimed success; The Diplomat ('Did India Hide a Failed Supersonic Missile
+  Test?', May 2016) and Defense Update reported the interceptor was not launched and the target
+  merely fell into the sea (i.e. effectively a failure). Target was ship-launched (modified
+  Dhanush/Prithvi) in the Bay of Bengal. outcome set to 'partial' to reflect the unresolved dispute.
+claims:
+  - field: outcome
+    text: DRDO/Indian government reported a successful intercept of a ship-launched Dhanush target
+    basis: official
+    source:
+      title: India Successfully Tests Supersonic Interceptor Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      date: 2016-05
+      url: https://thediplomat.com/2016/05/india-successfully-tests-supersonic-interceptor-missile/
+  - field: outcome
+    text: >-
+      The Diplomat / Defense Update reported the interceptor was not launched and no interception
+      occurred (failure)
+    basis: reported
+    source:
+      title: Did India Hide a Failed Supersonic Missile Test?
+      tier: foreign-news
+      publisher: The Diplomat
+      date: 2016-05
+      url: https://thediplomat.com/2016/05/did-india-hide-a-failed-supersonic-missile-test/
+sources:
+  - title: India Successfully Tests Supersonic Interceptor Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    date: 2016-05
+    url: https://thediplomat.com/2016/05/india-successfully-tests-supersonic-interceptor-missile/
+  - title: Did India Hide a Failed Supersonic Missile Test?
+    tier: foreign-news
+    publisher: The Diplomat
+    date: 2016-05
+    url: https://thediplomat.com/2016/05/did-india-hide-a-failed-supersonic-missile-test/
+  - title: Successful Indian Missile Intercept was in fact a Failure!
+    tier: foreign-news
+    publisher: Defense Update
+    date: "2016-05-24"
+    url: https://defense-update.com/20160524_bogus_test.html

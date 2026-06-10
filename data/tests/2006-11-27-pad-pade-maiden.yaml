@@ -1,0 +1,71 @@
+id: 2006-11-27-pad-pade-maiden
+missile_id: pad
+designation: PADE (Prithvi Air Defence Exercise)
+variant: PAD
+date: "2006-11-27"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 50
+range_tested_km: 0
+description: >-
+  Maiden flight test of India's Prithvi Air Defence (PAD) interceptor (the PADE - Prithvi Air
+  Defence Exercise). The two-stage PAD interceptor, launched from Wheeler Island (Dr A.P.J. Abdul
+  Kalam Island), intercepted and destroyed a modified Prithvi-II ballistic missile acting as the
+  'enemy' target (fired separately from the ITR Chandipur complex and modified to mimic an
+  M-11-class trajectory) at an altitude of about 40-50 km. With this test India was widely reported
+  to have become the fourth nation after the US, Russia and Israel to demonstrate an
+  anti-ballistic-missile capability.
+notes: >-
+  PAD interceptor launched from Wheeler Island (Dr A.P.J. Abdul Kalam Island); the Prithvi-II target
+  was launched separately from the ITR Chandipur launch complex (the Nov 19 2006 IRNA report
+  describes the Prithvi/target launch from Chandipur as part of the air defence exercise; the
+  interception itself was on Nov 27 2006). Engagement was in the upper-atmosphere/lower-exo region;
+  most sources describe PAD as an exo-atmospheric interceptor and cite 40-50 km, while Army
+  Technology describes the 2006 intercept as in the 'endo-atmosphere at an altitude of 48 km'. Date
+  (27 Nov 2006), launch site, and successful outcome agree across multiple independent reliable
+  sources.
+claims:
+  - field: apogee_km
+    value: 50
+    basis: reported
+    text: >-
+      PAD intercepted the modified Prithvi-II target at an altitude of about 40-50 km (commonly
+      cited as ~50 km).
+    source:
+      title: Prithvi Air Defence (PAD)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/pad.htm
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 48
+    basis: reported
+    text: >-
+      Army Technology states the Prithvi-II was intercepted by the PAD at an altitude of 48 km (and
+      characterises the engagement as endo-atmospheric, conflicting with the more common
+      'exo-atmospheric' description).
+    note: endo- vs exo-atmospheric characterisation differs between sources
+    source:
+      title: DRDO Ballistic Missile Defence System
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/drdo-bmd/
+      accessed: "2026-06-16"
+sources:
+  - title: Prithvi Air Defence (PAD)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/pad.htm
+    accessed: "2026-06-16"
+  - title: DRDO Ballistic Missile Defence System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/drdo-bmd/
+    accessed: "2026-06-16"
+  - title: India test fires "Prithvi" missile (air defence exercise, Nov 2006)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2006/india-061119-irna01.htm
+    accessed: "2026-06-16"

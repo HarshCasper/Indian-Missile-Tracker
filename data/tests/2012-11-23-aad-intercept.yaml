@@ -1,0 +1,29 @@
+id: 2012-11-23-aad-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD endo-atmospheric intercept
+date: "2012-11-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 15
+description: >-
+  AAD supersonic interceptor launched from Wheeler Island after radars tracked an incoming modified
+  Prithvi target fired from ITR Chandipur, hitting and destroying it at about 15 km endo-atmospheric
+  altitude (~12:52 hrs). DRDO spokesman Ravi Kumar Gupta confirmed the direct hit; it was described
+  as the eighth AAD trial.
+notes: >-
+  Target fired from ITR Chandipur; interceptor from Wheeler Island. Oneindia datelines the report 24
+  November 2012 (next-day publication) but the test occurred 23 November 2012.
+sources:
+  - title: India successfully test-fires AAD interceptor missile
+    tier: indian-news
+    publisher: Oneindia
+    date: "2012-11-24"
+    url: >-
+      https://www.oneindia.com/2012/11/24/india-successfully-test-fires-aad-interceptor-missile-1103919.html
+  - title: India test fires missile interceptor
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/india/india-test-fires-missile-interceptor-2375037

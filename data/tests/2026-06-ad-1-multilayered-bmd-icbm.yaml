@@ -1,0 +1,95 @@
+id: 2026-06-ad-1-multilayered-bmd-icbm
+missile_id: ad-1
+variant: AD-1 (endo-atmospheric interceptor)
+designation: Multi-layered Phase-II BMD validation (AD-1 + AD-2 + maiden NASM-MR series)
+date: 2026-06
+date_precision: month
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+description: >-
+  As part of three consecutive DRDO flight-tests on 10-11 June 2026 from ITR Chandipur that
+  validated India's multi-layered Phase-II BMD system, an endo-atmospheric interceptor (widely
+  reported as the AD-1) successfully engaged and destroyed its designated target (reported by
+  sources as an Agni-series missile simulating a hostile IRBM/ICBM-class threat), demonstrating
+  terminal-phase, in-atmosphere interception. A companion exo-atmospheric interceptor (reported as
+  AD-2) handled the mid-course/exo-atmospheric layer (AD-2 is a separate missile and not recorded
+  here). Results were announced by DRDO/MoD around 13 June 2026.
+range_tested_km: 0
+notes: >-
+  DISPUTED on attribution: the official DRDO/MoD statement (e.g. as carried by Asianet Newsable and
+  Raksha Anirveda) refers only to 'interceptors' and does NOT explicitly name the AD-1 or AD-2; the
+  AD-1/AD-2 identities and the Agni-series target are attributed to unnamed 'sources' / 'people
+  aware of the matter' by ThePrint, Business Standard, India TV and others. Hence the AD-1-specific
+  attribution is reported, not officially confirmed, and confidence is set to disputed. Conducted
+  from the Integrated Test Range (ITR), Chandipur, Odisha; target missile(s) reportedly launched
+  from LC-IV Dhamra. Exact calendar day for the AD-1 flight (10 vs 11 June 2026) could not be
+  isolated in available reporting, which treats the AD-1 and AD-2 trials as a 10-11 June test
+  campaign; hence month-level date precision. Target threat band variously described as
+  MRBM/IRBM/ICBM class (commonly 2,000-5,000 km; some reports cite >5,500 km / ICBM class).
+  Re-verified across ThePrint, Business Standard, India TV, Asianet Newsable and Raksha Anirveda.
+claims:
+  - field: range_km
+    value: 5000
+    text: >-
+      Validated interception of ballistic missile targets in the IRBM/ICBM band (commonly cited
+      2,000-5,000 km class; some reports state >5,500 km / ICBM class).
+    basis: reported
+    source:
+      title: >-
+        Phase 2 of ballistic missile defence completed, India in elite group with capability to
+        neutralise ICBMs
+      tier: indian-news
+      publisher: ThePrint
+      url: >-
+        https://theprint.in/defence/phase-2-of-ballistic-missile-defence-completed-india-in-elite-group-with-capability-to-neutralise-icbms/2958767/
+      date: "2026-06-13"
+  - field: variant
+    text: >-
+      Interceptor identity (AD-1) attributed to unnamed sources; the official DRDO/MoD statement
+      referred only to 'interceptors' and did not explicitly name AD-1/AD-2.
+    basis: reported
+    source:
+      title: DRDO successfully tests multi-layered Ballistic Missile Defence system
+      tier: indian-news
+      publisher: Asianet Newsable
+      url: >-
+        https://newsable.asianetnews.com/india/drdo-successfully-tests-multilayered-ballistic-missile-defence-system-articleshow-i7xc46n
+      date: "2026-06-13"
+sources:
+  - title: >-
+      Phase 2 of ballistic missile defence completed, India in elite group with capability to
+      neutralise ICBMs
+    tier: indian-news
+    publisher: ThePrint
+    url: >-
+      https://theprint.in/defence/phase-2-of-ballistic-missile-defence-completed-india-in-elite-group-with-capability-to-neutralise-icbms/2958767/
+    date: "2026-06-13"
+    accessed: "2026-06-16"
+  - title: DRDO validates ICBM interception capability, tests new anti-ship missile
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/india-tests-advanced-missile-defence-system-and-anti-ship-missile-126061300321_1.html
+    date: "2026-06-13"
+    accessed: "2026-06-16"
+  - title: DRDO successfully tests multi-layered Ballistic Missile Defence system
+    tier: indian-news
+    publisher: Asianet Newsable
+    url: >-
+      https://newsable.asianetnews.com/india/drdo-successfully-tests-multilayered-ballistic-missile-defence-system-articleshow-i7xc46n
+    date: "2026-06-13"
+    accessed: "2026-06-16"
+  - title: DRDO Validates Multi-Layered Ballistic Missile Defence Capability
+    tier: indian-news
+    publisher: Raksha Anirveda
+    url: https://raksha-anirveda.com/drdo-validates-multi-layered-ballistic-missile-defence-capability/
+    date: "2026-06-13"
+    accessed: "2026-06-16"
+  - title: "3 tests in 2 days: DRDO's push to strengthen India's ballistic missile capabilities"
+    tier: indian-news
+    publisher: India TV News
+    url: >-
+      https://www.indiatvnews.com/news/india/3-tests-in-2-days-drdo-s-push-to-strengthen-india-s-ballistic-missile-capabilities-2026-06-13-1044685
+    date: "2026-06-13"
+    accessed: "2026-06-16"

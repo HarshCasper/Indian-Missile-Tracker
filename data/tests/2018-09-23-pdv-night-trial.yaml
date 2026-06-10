@@ -1,0 +1,56 @@
+id: 2018-09-23-pdv-night-trial
+missile_id: pdv
+variant: PDV
+designation: PDV Mission night trial
+date: "2018-09-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 66
+description: >-
+  Successful night trial of the PDV exo-atmospheric interceptor, launched at about 8:05 p.m. on the
+  night of Sunday 23 September 2018 from Abdul Kalam Island off the Odisha coast. In an automated
+  operation, land- and sea-based radars detected and tracked a target missile over the Bay of Bengal
+  and the PDV engaged it in the exo-atmosphere (region above ~50 km).
+notes: >-
+  Conducted at night (launch ~8:05 p.m. on 23 September 2018; reports filed 24 September 2018). The
+  Diplomat assessed the engagement targeted MRBM-class threats at roughly 66 km; PDV is designed to
+  engage in the exo-atmosphere above 50 km. Distinct from the 2 August 2018 AAD (endo-atmospheric)
+  interceptor trial, which is a separate system. Date, site and success corroborated by Business
+  Today, Business Insider India and Xinhua.
+claims:
+  - field: apogee_km
+    value: 66
+    text: designed to engage MRBMs at an altitude of approximately 66 km
+    note: analyst assessment of the targeted intercept altitude, not an officially stated figure
+    basis: assessed
+    source:
+      title: India Successfully Tests Prithvi Defense Vehicle (analysis)
+      tier: foreign-news
+      publisher: The Diplomat
+      date: 2018-09
+      accessed: "2026-06-16"
+sources:
+  - title: Major milestone! India conducts successful interceptor missile test at night
+    tier: indian-news
+    publisher: Business Today
+    url: >-
+      https://www.businesstoday.in/latest/economy-politics/story/india-conducts-successful-interceptor-missile-test-at-night-110224-2018-09-24
+    date: "2018-09-24"
+    accessed: "2026-06-16"
+  - title: >-
+      India strengthens its Ballistic Missile Defence Program with a successful interceptor missile
+      test
+    tier: indian-news
+    publisher: Business Insider India
+    url: >-
+      https://www.businessinsider.in/india-strengthens-its-ballistic-missile-defence-program-with-a-successful-interceptor-missile-test/articleshow/65933670.cms
+    date: "2018-09-24"
+    accessed: "2026-06-16"
+  - title: India test-fires interceptor missile
+    tier: foreign-news
+    publisher: Xinhua
+    url: http://www.xinhuanet.com/english/2018-09/24/c_137489677.htm
+    date: "2018-09-24"
+    accessed: "2026-06-16"

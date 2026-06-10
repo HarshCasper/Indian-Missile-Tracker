@@ -1,0 +1,30 @@
+id: 2015-04-aad-failure
+missile_id: aad
+variant: Ashwin
+designation: AAD interceptor trial (failed)
+date: 2015-04
+date_precision: month
+outcome: failure
+confidence: reported
+site_id: abdul-kalam-island
+description: >-
+  An AAD interceptor test failed at Abdul Kalam Island; the missile plunged into the Bay of Bengal a
+  few seconds after lift-off due to an in-flight subsystem malfunction and did not engage the
+  target. The failure was not publicized at the time and was referenced retrospectively by The
+  Diplomat.
+notes: >-
+  Sources place the failure in April 2015 but do not corroborate an exact day; the previously
+  asserted '6 April 2015' date is not supported, so date_precision is set to month. Reported by The
+  Diplomat both in its 23 Nov 2015 coverage (referencing 'a similar test that failed in April') and
+  its May 2016 investigation.
+sources:
+  - title: India Tests Supersonic Advanced Air Defense Missile (references April 2015 failure)
+    tier: foreign-news
+    publisher: The Diplomat
+    date: "2015-11-23"
+    url: https://thediplomat.com/2015/11/india-tests-supersonic-advanced-air-defense-missile/
+  - title: Did India Hide a Failed Supersonic Missile Test? (references April 2015 plunge)
+    tier: foreign-news
+    publisher: The Diplomat
+    date: 2016-05
+    url: https://thediplomat.com/2016/05/did-india-hide-a-failed-supersonic-missile-test/

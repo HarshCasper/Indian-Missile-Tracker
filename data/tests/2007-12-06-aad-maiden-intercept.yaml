@@ -1,0 +1,32 @@
+id: 2007-12-06-aad-maiden-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD maiden endo-atmospheric intercept
+date: "2007-12-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 15
+description: >-
+  Maiden flight test of the Advanced Air Defence (AAD) endo-atmospheric interceptor. The
+  single-stage missile was launched from Wheeler Island (now Abdul Kalam Island) and intercepted a
+  modified Prithvi target missile fired from ITR Chandipur (~70 nm/130 km away) at about 15 km
+  altitude over the Bay of Bengal, validating the endo-atmospheric layer of India's BMD system.
+  Interceptor flew at about Mach 4.
+range_tested_km: 0
+notes: >-
+  Target launched from ITR Chandipur; interceptor from Wheeler Island (renamed Abdul Kalam Island in
+  2015). Almost all sources date the test 6 December 2007; the NTI India Missile Chronology (citing
+  BBC Monitoring) dates it 2 December 2007. Date/site/outcome agree across multiple independent
+  sources.
+sources:
+  - title: India tests hypersonic interceptor missile (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity / RIA Novosti
+    date: "2007-12-06"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-071206-rianovosti02.htm
+  - title: DRDO Ballistic Missile Defence System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/drdo-bmd/

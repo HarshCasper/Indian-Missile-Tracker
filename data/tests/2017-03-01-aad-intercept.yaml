@@ -1,0 +1,31 @@
+id: 2017-03-01-aad-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD endo-atmospheric intercept
+date: "2017-03-01"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 15
+description: >-
+  DRDO conducted a flight test of the indigenously designed AAD ('Ashwin') endo-atmospheric
+  interceptor from a mobile launcher at Abdul Kalam Island (~10:15 hrs). The interceptor destroyed
+  an incoming target ballistic missile with a direct hit at about 15 km altitude over the Bay of
+  Bengal.
+notes: >-
+  Distinct from the 11 February 2017 test, which was the exo-atmospheric PDV (Prithvi Defence
+  Vehicle), not AAD. Date/site/outcome agree across The Diplomat and contemporaneous Indian
+  reporting.
+sources:
+  - title: India Successfully Tests Supersonic Interceptor Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    date: 2017-03
+    url: https://thediplomat.com/2017/03/india-successfully-tests-supersonic-interceptor-missile-2/
+  - title: India a step closer to BMD shield, tests supersonic interceptor
+    tier: indian-news
+    publisher: Zee News
+    date: "2017-03-01"
+    url: >-
+      https://zeenews.india.com/india/drdo-test-fires-missile-capable-of-killing-enemy-missiles-from-odisha-coast-2129698.html

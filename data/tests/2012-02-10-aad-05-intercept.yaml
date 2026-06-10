@@ -1,0 +1,29 @@
+id: 2012-02-10-aad-05-intercept
+missile_id: aad
+variant: AAD-05 / Ashwin
+designation: AAD-05 endo-atmospheric intercept
+date: "2012-02-10"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 15
+description: >-
+  DRDO test-fired the Advanced Air Defence (AAD) interceptor from Wheeler Island, which directly hit
+  and destroyed a modified surface-to-surface Prithvi target missile (fired from ITR Chandipur ~70
+  km away) at about 15 km altitude over the Bay of Bengal. ITR director S.P. Dash confirmed the
+  interceptor directly hit and destroyed the target.
+notes: >-
+  Some secondary sources (e.g. GlobalSecurity) conflate this with an 'April 6, 2012' date;
+  contemporaneous Indian and foreign reporting fix the date at 10 February 2012.
+sources:
+  - title: DRDO's February experiment a successful BMD trial, not a failed A-SAT test
+    tier: indian-news
+    publisher: The Print
+    url: >-
+      https://theprint.in/defence/drdos-february-experiment-a-successful-bmd-trial-not-a-failed-a-sat-test/216326/
+  - title: India Tests Ballistic Missile Interceptor (RIA Novosti)
+    tier: foreign-news
+    publisher: GlobalSecurity / RIA Novosti
+    date: "2012-02-10"
+    url: https://www.globalsecurity.org/space/library/news/2012/space-120210-rianovosti01.htm

@@ -1,0 +1,68 @@
+id: 2017-02-11-pdv-second-test
+missile_id: pdv
+variant: PDV
+designation: PDV interceptor test (second test)
+date: "2017-02-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 100
+description: >-
+  Second flight test of the PDV exo-atmospheric interceptor, launched at about 7:45 a.m. from Abdul
+  Kalam Island off the Odisha coast. In a fully automated engagement, radar detected and tracked a
+  two-stage target missile fired from a ship in the Bay of Bengal mimicking a hostile ballistic
+  missile from over 2,000 km, and the PDV intercepted it at roughly 100 km altitude.
+notes: >-
+  PDV is a two-stage solid-fuelled interceptor fitted with an inertial navigation system and an
+  imaging infrared (IIR) seeker to home on the warhead in the exo-atmosphere (above ~50 km). Sources
+  describe PDV as capable of intercepting at more than ~120 km. Date, site and success corroborated
+  across Deccan Herald (PTI), CSIS Missile Threat and The Diplomat.
+claims:
+  - field: apogee_km
+    value: 100
+    text: intercepted the hostile ballistic missile target at 100 km altitude
+    basis: reported
+    source:
+      title: Interceptor missile successfully test-fired
+      tier: indian-news
+      publisher: Deccan Herald (PTI)
+      url: >-
+        https://www.deccanherald.com/amp/story/india%2Finterceptor-missile-successfully-test-fired-1990105
+      date: "2017-02-11"
+      accessed: "2026-06-16"
+  - field: apogee_km
+    value: 120
+    text: >-
+      capable of destroying targets at a high altitude of more than 120 km in the exo-atmospheric
+      region
+    note: design capability figure, not the altitude achieved in this test
+    basis: reported
+    source:
+      title: India Successfully Tests Prithvi Interceptor
+      tier: foreign-news
+      publisher: CSIS Missile Threat
+      url: https://missilethreat.csis.org/india-successfully-tests-prithvi-interceptor/
+      date: "2017-02-11"
+      accessed: "2026-06-16"
+sources:
+  - title: Interceptor missile successfully test-fired
+    tier: indian-news
+    publisher: Deccan Herald (PTI)
+    url: >-
+      https://www.deccanherald.com/amp/story/india%2Finterceptor-missile-successfully-test-fired-1990105
+    date: "2017-02-11"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Prithvi Interceptor
+    tier: foreign-news
+    publisher: CSIS Missile Threat
+    url: https://missilethreat.csis.org/india-successfully-tests-prithvi-interceptor/
+    date: "2017-02-11"
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Prithvi Defense Vehicle, A New Missile Killer System
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2017/02/india-successfully-tests-prithvi-defense-vehicle-a-new-missile-killer-system/
+    date: 2017-02
+    accessed: "2026-06-16"

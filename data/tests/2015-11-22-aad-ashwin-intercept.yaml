@@ -1,0 +1,42 @@
+id: 2015-11-22-aad-ashwin-intercept
+missile_id: aad
+variant: Ashwin (upgraded)
+designation: AAD 'Ashwin' upgraded interceptor trial
+date: "2015-11-22"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: abdul-kalam-island
+description: >-
+  Test of an upgraded AAD ('Ashwin') supersonic interceptor from Abdul Kalam Island against an
+  electronically simulated/virtual target. The missile flew its trajectory and was reported to have
+  engaged the target in the endo-atmospheric region, validating in-flight parameters; DRDO said it
+  was analysing data from multiple tracking sources for kill assessment.
+notes: >-
+  Widely reported as the 11th interceptor test-firing, against a 'virtual'/simulated target. DRDO
+  did not formally confirm a kill, so confidence is 'reported' rather than 'confirmed'. The 30 km
+  figure is the AAD's design intercept ceiling, not a measured apogee for this test.
+claims:
+  - field: apogee_km
+    text: >-
+      Reported only as the AAD design intercept ceiling (~30 km / 'below 30 km'); actual intercept
+      altitude for this test not stated
+    basis: reported
+    value: 30
+    source:
+      title: India Tests Supersonic Advanced Air Defense Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      date: "2015-11-23"
+      url: https://thediplomat.com/2015/11/india-tests-supersonic-advanced-air-defense-missile/
+sources:
+  - title: India Tests Supersonic Advanced Air Defense Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    date: "2015-11-23"
+    url: https://thediplomat.com/2015/11/india-tests-supersonic-advanced-air-defense-missile/
+  - title: India test-fires AAD interceptor missile
+    tier: foreign-news
+    publisher: Army Technology
+    date: "2015-11-23"
+    url: https://www.army-technology.com/news/newsindia-test-fires-aad-interceptor-missile-4734650/

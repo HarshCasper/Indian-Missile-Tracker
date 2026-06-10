@@ -1,0 +1,29 @@
+id: 2010-07-26-aad-intercept
+missile_id: aad
+variant: Ashwin
+designation: AAD endo-atmospheric intercept
+date: "2010-07-26"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+apogee_km: 15
+description: >-
+  AAD interceptor launched from Wheeler Island intercepted and destroyed a modified
+  surface-to-surface Prithvi target missile (fired from ITR Chandipur ~70 km away) at about 15 km
+  altitude over the Bay of Bengal, at roughly Mach 4. The AAD was launched when the Prithvi reached
+  its apogee (~110 km); radars and thermal cameras confirmed the direct hit and target breakup.
+notes: >-
+  Target fired from ITR Chandipur; interceptor sited at Wheeler Island (later Abdul Kalam Island).
+  One Indian Defence Review reprint mis-dates a 15 km Prithvi intercept to 29 November 2010, but the
+  contemporaneous date is 26 July 2010.
+sources:
+  - title: DRDO successfully tests anti-ballistic missile system
+    tier: indian-news
+    publisher: Broadsword (Ajai Shukla)
+    date: "2010-07-26"
+    url: https://www.ajaishukla.com/2010/07/drdo-successfully-tests-anti-ballistic.html
+  - title: DRDO Ballistic Missile Defence System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/drdo-bmd/

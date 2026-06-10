@@ -1,0 +1,88 @@
+id: 2022-11-02-ad-1-maiden-flight-test
+missile_id: ad-1
+variant: AD-1
+designation: Phase-II BMD interceptor maiden flight-test
+date: "2022-11-02"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+description: >-
+  DRDO conducted the successful maiden flight-test of the Phase-II Ballistic Missile Defence (BMD)
+  interceptor AD-1, a two-stage solid-propelled long-range interceptor designed for both
+  endo-atmospheric and low exo-atmospheric interception of long-range ballistic missiles and
+  aircraft. The PIB release names the interceptor explicitly as the AD-1. All sub-systems performed
+  as expected and the flight was validated by radar, telemetry and electro-optical tracking
+  stations; all Phase-II BMD weapon-system elements at multiple geographic locations participated.
+range_tested_km: 0
+notes: >-
+  Launched from Dr A.P.J. Abdul Kalam Island (Wheeler Island), off the Odisha coast. No specific
+  demonstrated intercept range/altitude was released for this maiden trial; DRDO stated the system
+  is intended to defend against ballistic missiles of the 5,000 km class with a 'large kill altitude
+  bracket'. The 5,000 km figure is a design/capability claim, not a range flown in this test.
+  Independently re-verified against the PIB release (which names AD-1) plus Business Standard, India
+  TV, Janes and Army Technology.
+claims:
+  - field: range_km
+    value: 5000
+    text: >-
+      Capable of intercepting ballistic missiles of the 5,000 km class (design/capability claim, not
+      range flown).
+    basis: official
+    source:
+      title: >-
+        DRDO conducts successful maiden flight-test of Phase-II Ballistic Missile Defence
+        interceptor off Odisha coast
+      tier: pib
+      publisher: Press Information Bureau (PIB), Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1873179
+      date: "2022-11-02"
+sources:
+  - title: >-
+      DRDO conducts successful maiden flight-test of Phase-II Ballistic Missile Defence interceptor
+      off Odisha coast
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1873179
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+  - title: India flight tests phase-II ballistic missile defence interceptor AD-1
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/article/current-affairs/india-flight-tests-phase-ii-ballistic-missile-defence-interceptor-ad-1-122110201331_1.html
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+  - title: DRDO conducts AD-1 ballistic missile defence interceptor (WATCH video)
+    tier: indian-news
+    publisher: India TV News
+    url: >-
+      https://www.indiatvnews.com/news/india/drdo-conducts-ad-1-ballistic-missile-defence-interceptor-watch-video-2022-11-02-820814
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+  - title: India test-flies indigenous AD-1 missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-flies-indigenous-ad-1-missile
+    date: 2022-11
+    accessed: "2026-06-16"
+  - title: DRDO flight tests phase-II ballistic missile defence interceptor
+    tier: foreign-news
+    publisher: Army Technology
+    url: >-
+      https://www.army-technology.com/news/drdo-tests-phase-ii-ballistic-missile-defence-interceptor/
+    date: 2022-11
+    accessed: "2026-06-16"
+  - title: India carries out maiden flight test of ballistic missile defence interceptor
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/india-carries-out-maiden-flight-test-of-ballistic-missile-defence-interceptor-1158813.html
+    date: "2022-11-02"
+    accessed: "2026-06-16"
+  - title: Indian Ballistic Missile Defence Programme
+    tier: further-reading
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indian_Ballistic_Missile_Defence_Programme
+    accessed: "2026-06-16"
