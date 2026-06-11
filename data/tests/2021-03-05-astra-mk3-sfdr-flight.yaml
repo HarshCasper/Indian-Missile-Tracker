@@ -1,0 +1,38 @@
+id: 2021-03-05-astra-mk3-sfdr-flight
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR propulsion-based missile system
+date: "2021-03-05"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO conducted a successful flight demonstration of SFDR technology from ITR Chandipur off the
+  Odisha coast at around 1030 hrs on 5 March 2021. An air-launch scenario was simulated using a
+  booster motor, after which the nozzle-less booster accelerated the vehicle to the required Mach
+  number for ramjet operation; all subsystems including the ground booster motor performed as
+  expected.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 launch. Developed by DRDL
+  Hyderabad with RCI and HEMRL. PIB official release PRID 1702670.
+confidence: confirmed
+sources:
+  - title: >-
+      DRDO conducts successful flight test of Solid Fuel Ducted Ramjet (PIB official release, PRID
+      1702670)
+    tier: pib
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1702670
+    publisher: Press Information Bureau, Government of India
+    date: "2021-03-05"
+  - title: DRDO conducts successful flight test of SFDR missile system off Odisha coast (5 March 2021)
+    tier: indian-news
+    url: >-
+      https://www.republicworld.com/india/drdo-conducts-sucessful-flight-test-of-sfdr-missile-system-off-odisha-coast
+    publisher: Republic World
+    date: "2021-03-05"
+  - title: Flight test of SFDR technology successful (6 March 2021)
+    tier: indian-news
+    url: https://www.pressreader.com/india/deccan-chronicle/20210306/281681142617599
+    publisher: Deccan Chronicle
+    date: "2021-03-06"

@@ -1,0 +1,23 @@
+id: 2015-03-astra-su30-lakshya-direct-hit
+missile_id: astra
+variant: Mk1
+date: 2015-03
+date_precision: month
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Air launch vs Lakshya PTA
+description: >-
+  Astra with onboard telemetry was air-launched from a Su-30MKI against a Lakshya pilotless target
+  aircraft off the coast near ITR Chandipur in March 2015, achieving a direct hit. A 30 g turn rate
+  was also demonstrated in the same month.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI over the Odisha range; site_id itr-chandipur with air-launch note.
+  Single reliable secondary source.
+sources:
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+    accessed: "2026-06-16"

@@ -1,0 +1,22 @@
+id: 2010-07-07-astra-day-trial
+missile_id: astra
+variant: Mk1
+date: "2010-07-07"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Developmental ground-launch trial
+description: >-
+  Ground-launched Astra test fired around 14:07 hrs on 7 July 2010 at the Integrated Test Range,
+  Chandipur (about 15 km from the coast, near Balasore), the day after the first night trial;
+  reported successful as the second consecutive trial.
+range_tested_km: 0
+notes: Daytime launch following the night trial; both confirmed by IRNA/GlobalSecurity. Ground launcher.
+sources:
+  - title: India successfully test fires Astra missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100707-irna01.htm
+    date: "2010-07-07"
+    accessed: "2026-06-16"

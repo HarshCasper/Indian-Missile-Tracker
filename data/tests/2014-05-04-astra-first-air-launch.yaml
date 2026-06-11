@@ -1,0 +1,30 @@
+id: 2014-05-04-astra-first-air-launch
+missile_id: astra
+variant: Mk1
+date: "2014-05-04"
+date_precision: day
+outcome: success
+confidence: reported
+designation: First live air launch (Su-30MKI)
+description: >-
+  First live air launch of the Astra, fired from an IAF Su-30MKI (HAL-integrated) on 4 May 2014 over
+  a naval range in the western sector (off Goa). Demonstrated control, guidance and safe separation
+  of the missile from the aircraft, meeting all mission objectives.
+range_tested_km: 0
+notes: >-
+  Site corrected: this was a western-sector naval range off Goa, NOT Chandipur, so site_id left
+  empty (not one of the listed Odisha/AP facilities). Air-launched from Su-30MKI. First of three
+  May-June 2014 air-launch trials.
+sources:
+  - title: India successfully test fires Astra missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2014/india-140504-irna01.htm
+    date: "2014-05-04"
+    accessed: "2026-06-16"
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+    accessed: "2026-06-16"
+site_id: null

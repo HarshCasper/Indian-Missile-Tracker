@@ -1,0 +1,32 @@
+id: 2019-09-astra-user-trials
+missile_id: astra
+variant: Mk1
+date: 2019-09
+date_precision: month
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+designation: User/development trials (5 trials)
+description: >-
+  Five trials of the Astra BVRAAM air-launched from a Su-30MKI off the coast of Chandipur, Odisha,
+  during 16-19 September 2019, against Jet Banshee targets across all threat scenarios. Three
+  missiles were launched in combat configuration with warhead, neutralising manoeuvring targets, and
+  a telemetered missile scored a direct hit at maximum range.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI. Confirmed by official PIB/DRDO release and corroborating ANI coverage.
+  Five trials over 16-19 Sep 2019.
+sources:
+  - title: DRDO conducts five trials of Air-to-Air Missile 'Astra'; All successful (PIB/MoD)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=1585599
+    date: "2019-09-19"
+    accessed: "2026-06-16"
+  - title: DRDO successfully flight tests Air-to-Air Missile Astra from Su-30 MKI
+    tier: indian-news
+    publisher: ANI
+    url: >-
+      https://www.aninews.in/news/national/general-news/drdo-successfully-flight-tests-air-to-air-missile-astra-from-su-30-mki20190919215923/
+    date: "2019-09-19"
+    accessed: "2026-06-16"

@@ -1,0 +1,24 @@
+id: 2012-12-22-astra-guided-trial-2
+missile_id: astra
+variant: Mk1
+date: "2012-12-22"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Guided development flight trial
+description: >-
+  Ground-launched guided development trial of the Astra from Chandipur (about 15 km from Balasore)
+  on 22 December 2012; navigation, control, airframe and propulsion subsystems were validated.
+  Described as the third developmental trial in four days. Reported successful.
+range_tested_km: 0
+notes: >-
+  Ground launcher. IRNA/GlobalSecurity dates this firing 22 December 2012. Part of the December 2012
+  guided-trial series following the 2011 configuration freeze.
+sources:
+  - title: India testfires Astra missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2012/india-121222-irna01.htm
+    date: "2012-12-22"
+    accessed: "2026-06-16"

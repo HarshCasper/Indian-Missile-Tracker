@@ -1,0 +1,47 @@
+id: 2007-03-25-astra-first-bvr-groundlaunch
+missile_id: astra
+variant: Mk1
+date: 2007-03
+date_precision: month
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+designation: Developmental ground-launch trial (control & guidance)
+description: >-
+  India test-fired the Astra in a developmental (ground-launched) configuration from a launch pad at
+  the Interim Test Range, Chandipur. IRNA/GlobalSecurity place the firing on 25 March 2007 and
+  report it successful; the missile is 3.8 m, single-stage, solid-fuel.
+range_tested_km: 0
+notes: >-
+  Date disputed: IRNA/GlobalSecurity report 25 March 2007; NTI/The Statesman chronology reports 30
+  March 2007 (success after an earlier failure). Likely the same campaign reported on different
+  dates. Ground launch; the 2007 control/guidance trials encountered wing-induced oscillations per
+  later DRDO accounts.
+sources:
+  - title: India successfully test-fires Astra BVR missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-070325-irna01.htm
+    date: "2007-03-25"
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    basis: reported
+    text: 25 March 2007
+    note: IRNA/GlobalSecurity, reported successful
+    source:
+      title: India test-fires Astra (IRNA)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2007/india-070325-irna01.htm
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: 30 March 2007
+    note: The Statesman via NTI chronology
+    source:
+      title: India Missile Chronology
+      tier: foreign-news
+      publisher: NTI / James Martin CNS
+      url: https://media.nti.org/pdfs/india_missile.pdf
+      accessed: "2026-06-16"

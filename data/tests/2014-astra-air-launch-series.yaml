@@ -1,0 +1,24 @@
+id: 2014-astra-air-launch-series
+missile_id: astra
+variant: Mk1
+date: "2014"
+date_precision: year
+outcome: success
+confidence: reported
+designation: Air-launch trial series (Su-30MKI)
+description: >-
+  Remainder of the three air-launch trials of the Astra from Su-30MKI conducted during May-June
+  2014, demonstrating missile control, guidance, long-range capability and safe separation from the
+  aircraft. Conducted over a naval range in the western sector.
+range_tested_km: 0
+notes: >-
+  Aggregated entry for the second/third of the three May-June 2014 air-launch trials (the first
+  being 4 May 2014). Exact individual dates not separately reported in reliable sources; date kept
+  at year precision. Western-sector naval range (off Goa), so site_id left empty.
+sources:
+  - title: Astra air-to-air missile (programme overview)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/astra.htm
+    accessed: "2026-06-16"
+site_id: null

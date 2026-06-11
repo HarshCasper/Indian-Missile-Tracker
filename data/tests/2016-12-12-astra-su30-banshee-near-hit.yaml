@@ -1,0 +1,23 @@
+id: 2016-12-12-astra-su30-banshee-near-hit
+missile_id: astra
+variant: Mk1
+date: "2016-12-12"
+date_precision: day
+outcome: partial
+confidence: reported
+site_id: itr-chandipur
+designation: User trial vs Banshee PTA (Su-30MKI)
+description: >-
+  Two Astra missiles were air-launched from a Su-30MKI against a Banshee pilotless target aircraft
+  off the coast of Chandipur on 12 December 2016, achieving a 'near hit' regarded as a success by
+  DRDO/IAF after the 8 December failure.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI. Characterised as a 'near hit' (partial), recovering from the 8 Dec
+  2016 failure.
+sources:
+  - title: Astra air-to-air missile (programme overview)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/astra.htm
+    accessed: "2026-06-16"

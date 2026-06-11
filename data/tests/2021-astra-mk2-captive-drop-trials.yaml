@@ -1,0 +1,84 @@
+id: 2021-astra-mk2-captive-drop-trials
+missile_id: astra-mk2
+variant: Mk2
+designation: Astra Mk-II captive-carry and launch-drop (ejection) trials
+date: "2021"
+date_precision: year
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  During 2021, DRDO is reported to have conducted captive-carry and launch (drop/ejection) trials of
+  the Astra Mk2 from a Su-30MKI over the Odisha test range, validating the missile's
+  ejector-launcher ejection and retraction mechanism. These were non-powered separation/drop trials,
+  not a live powered or guided firing. As of mid-2026 no powered/guided flight test of the Astra Mk2
+  has been officially confirmed; powered trials with the new dual-pulse motor are planned for 2026.
+notes: >-
+  Air-launched from Su-30MKI over the Odisha range; site inferred as the Integrated Test Range /
+  Odisha coast and not explicitly stated. Year-level date only. Downgraded to disputed: the only
+  DIRECT source for the '2021 captive/launch-drop trials' wording is the Indian Defense Analysis
+  WordPress blog (further-reading tier, cannot count as a citation), which attributes it to a MoD
+  annual report; no PIB or mainstream indian/foreign outlet was found that directly states a 2021
+  captive/drop trial. Program-context sources (ThePrint, EurAsian Times) confirm the Mk2 was in
+  development in 2020-2021 but do not independently confirm this specific trial event. This was a
+  captive/drop trial, not a guided firing.
+claims:
+  - field: range_km
+    text: >-
+      Astra Mk2 design/projected range commonly cited as 130-160 km (later targeted toward 200+ km
+      with the upgraded dual-pulse motor)
+    basis: reported
+    min: 130
+    max: 160
+    note: Design/projected range, not demonstrated in this non-powered trial.
+    source:
+      title: >-
+        DRDO Is Planning To Test Astra Mk-2 Missile; Here's A Lowdown On The New 130 KM Range
+        Air-To-Air Missile
+      tier: indian-news
+      publisher: Swarajya
+      url: >-
+        https://swarajyamag.com/defence/iaf-is-planning-to-test-astra-mk-2-missile-heres-a-lowdown-on-the-new-130-km-range-air-to-air-missile
+      date: "2024-04-18"
+      accessed: "2026-06-16"
+  - field: test_type
+    text: >-
+      Reported as 2021 captive-carry and launch/drop (ejection) trials validating the
+      ejector-launcher; non-powered separation trial, not a guided firing
+    basis: reported
+    note: >-
+      Only direct statement is a further-reading blog citing a MoD annual report; not independently
+      corroborated by a higher-tier outlet.
+    source:
+      title: Astra Mark-2 missile maiden flight test confirmed
+      tier: further-reading
+      publisher: Indian Defense Analysis
+      url: >-
+        https://indiandefenseanalysis.wordpress.com/2023/09/07/astra-mark-2-missile-maiden-flight-test-confirmed/
+      date: "2023-09-07"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      DRDO Is Planning To Test Astra Mk-2 Missile; Here's A Lowdown On The New 130 KM Range
+      Air-To-Air Missile
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/defence/iaf-is-planning-to-test-astra-mk-2-missile-heres-a-lowdown-on-the-new-130-km-range-air-to-air-missile
+    date: "2024-04-18"
+    accessed: "2026-06-16"
+  - title: India working on next 'Astra' missile with 160 km range as Mk1 is integrated in IAF, Navy
+    tier: indian-news
+    publisher: ThePrint
+    url: >-
+      https://theprint.in/defence/india-working-on-next-astra-missile-with-160-km-range-as-mk1-is-integrated-in-iaf-navy/566699/
+    date: "2020-12-15"
+    accessed: "2026-06-16"
+  - title: Astra Mark-2 missile maiden flight test confirmed
+    tier: further-reading
+    publisher: Indian Defense Analysis
+    url: >-
+      https://indiandefenseanalysis.wordpress.com/2023/09/07/astra-mark-2-missile-maiden-flight-test-confirmed/
+    date: "2023-09-07"
+    accessed: "2026-06-16"

@@ -1,0 +1,42 @@
+id: 2026-02-03-astra-mk3-sfdr-demonstration
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR technology demonstration
+date: "2026-02-03"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO carried out a successful demonstration of SFDR technology from ITR Chandipur off the Odisha
+  coast at around 1045 hrs on 3 February 2026. All subsystems — the nozzle-less booster, solid fuel
+  ducted ramjet motor and fuel flow controller — performed as expected after a ground booster motor
+  accelerated the vehicle to the desired Mach number; flight data confirmed performance.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 / Gandiva launch; the PIB release
+  names SFDR technology, not Astra Mk3 / Gandiva, but this is the SFDR propulsion lineage of the
+  Gandiva. PIB official release PRID 2222635 (posted 3 Feb 2026, 1715 hrs). Labs: DRDL, HEMRL, RCI
+  and ITR Chandipur.
+confidence: confirmed
+sources:
+  - title: >-
+      DRDO carries out successful demonstration of Solid Fuel Ducted Ramjet technology (PIB official
+      release, PRID 2222635)
+    tier: pib
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2222635
+    publisher: Press Information Bureau, Government of India
+    date: "2026-02-03"
+  - title: >-
+      DRDO carries out successful demonstration of Solid Fuel Ducted Ramjet technology (PIB mirror;
+      3 Feb 2026, 1045 hrs; nozzle-less booster, SFDR motor, fuel flow controller)
+    tier: foreign-news
+    url: https://www.globalsecurity.org/wmd/library/news/india/2026/india-260203-india-pib02.htm
+    publisher: GlobalSecurity.org
+    date: "2026-02-03"
+    accessed: "2026-06-16"
+  - title: DRDO carries out a successful demonstration of Solid Fuel Ducted Ramjet technology
+    tier: indian-news
+    url: >-
+      https://www.aninews.in/news/national/general-news/drdo-carries-out-a-successful-demonstration-of-solid-fuel-ducted-ramjet-technology20260203195603/
+    publisher: ANI
+    date: "2026-02-03"

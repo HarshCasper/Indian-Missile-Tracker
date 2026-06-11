@@ -1,0 +1,23 @@
+id: 2008-09-13-astra-devtrial-1
+missile_id: astra
+variant: Mk1
+date: "2008-09-13"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Phase-2 development flight trial
+description: >-
+  First of two ground-launched developmental flight tests on 13 September 2008 from the Interim Test
+  Range, Balasore/Chandipur, in the second phase of the development programme. Objective was to test
+  mid-course guidance toward a manoeuvring target aircraft via a secure data link; DRDO reported all
+  subsystems performed as designed.
+range_tested_km: 0
+notes: DRDO release text reproduced by Broadsword (Ajai Shukla). Ground launcher, not air-launched.
+sources:
+  - title: DRDO announces successful test firing of Astra Air-to-Air Missile (DRDO release text)
+    tier: indian-news
+    publisher: Broadsword / Ajai Shukla
+    url: https://www.ajaishukla.com/2008/09/drdo-announces-successful-test-firing.html
+    date: "2008-09-14"
+    accessed: "2026-06-16"

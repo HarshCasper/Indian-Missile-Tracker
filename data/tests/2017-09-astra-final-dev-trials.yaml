@@ -1,0 +1,31 @@
+id: 2017-09-astra-final-dev-trials
+missile_id: astra
+variant: Mk1
+date: 2017-09
+date_precision: month
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+designation: Final development flight trials (7 trials)
+description: >-
+  Final development flight trials of the Astra BVRAAM conducted over the Bay of Bengal off the coast
+  of Chandipur, Odisha, during 11-14 September 2017. Seven trials were conducted against Pilotless
+  Target Aircraft, including very-long-range engagement, high-manoeuvring medium-range engagement
+  and salvo launches. Two missiles were fired in combat configuration with warhead, neutralising the
+  targets. All subsystems performed accurately.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI. Confirmed by official PIB/DRDO release and corroborating
+  Indian/foreign press. Seven trials over 11-14 Sep 2017.
+sources:
+  - title: Successful Flight Test of Astra BVR Air-to-Air Missile (PIB/MoD)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1547472
+    date: "2017-09-14"
+    accessed: "2026-06-16"
+  - title: Astra air-to-air missile (programme overview)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/astra.htm
+    accessed: "2026-06-16"

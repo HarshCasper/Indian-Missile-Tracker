@@ -1,0 +1,45 @@
+id: 2010-07-06-astra-night-trial
+missile_id: astra
+variant: Mk1
+date: "2010-07-06"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: First night trial
+description: >-
+  First night-time ground-launch test of the Astra from the Integrated Test Range, Chandipur (near
+  Balasore), conducted in inclement weather on the evening of 6 July 2010 and reported successful.
+range_tested_km: 0
+notes: >-
+  Date confirmed by IRNA/GlobalSecurity (6 July 2010 night, preceding the 7 July daytime test). A '6
+  June 2010' figure appears only in further-reading and is treated as erroneous. First
+  night/inclement-weather launch.
+sources:
+  - title: India successfully test fires Astra missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100707-irna01.htm
+    date: "2010-07-07"
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    basis: reported
+    text: night of 6 July 2010
+    note: IRNA/GlobalSecurity (reliable)
+    source:
+      title: India successfully test fires Astra missile
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100707-irna01.htm
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: 6 June 2010
+    note: further-reading only; treated as erroneous
+    source:
+      title: Astra (missile)
+      tier: further-reading
+      publisher: Military History Wiki
+      url: https://military-history.fandom.com/wiki/Astra_(missile)
+      accessed: "2026-06-16"

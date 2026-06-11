@@ -1,0 +1,25 @@
+id: 2003-05-astra-maiden-ballistic
+missile_id: astra
+variant: Mk1
+date: 2003-05
+date_precision: month
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Maiden ballistic ground trials
+description: >-
+  First flight tests of the Astra, conducted in a ballistic configuration without control and
+  guidance systems from a ground launcher at the Interim Test Range, Chandipur/Balasore, between 9
+  and 12 May 2003 to validate the basic airframe and propulsion. Three ballistic ground-launch tests
+  reported.
+range_tested_km: 0
+notes: >-
+  Three ballistic ground-launch tests over 9-12 May 2003; no live guidance/seeker. Day-precision (9
+  May) appears only in further-reading; reliable secondary coverage gives only May 2003, so date
+  demoted to month precision.
+sources:
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+    accessed: "2026-06-16"

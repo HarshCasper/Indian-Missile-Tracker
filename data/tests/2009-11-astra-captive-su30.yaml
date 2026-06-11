@@ -1,0 +1,23 @@
+id: 2009-11-astra-captive-su30
+missile_id: astra
+variant: Mk1
+date: 2009-11
+date_precision: month
+outcome: success
+confidence: reported
+designation: Captive-flight trials (Su-30MKI)
+description: >-
+  Captive-carry flight trials of the Astra were conducted from a Su-30MKI near Pune in November
+  2009, with seven sorties to verify aero-mechanical integration and integrity of the missile
+  carried on the fighter. No live separation/firing.
+range_tested_km: 0
+notes: >-
+  Captive-carry (no free flight). Conducted near Pune (Lohegaon AFS), not one of the listed coastal
+  ranges, so site_id left empty. Single reliable secondary source.
+sources:
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+    accessed: "2026-06-16"
+site_id: null

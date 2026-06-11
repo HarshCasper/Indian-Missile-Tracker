@@ -1,0 +1,49 @@
+id: 2022-04-08-astra-mk3-sfdr-booster-flight
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR booster flight test
+date: "2022-04-08"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO successfully flight-tested the Solid Fuel Ducted Ramjet booster at ITR Chandipur off the
+  Odisha coast on 8 April 2022, demonstrating reliable functioning of all critical components of the
+  propulsion system and meeting all mission objectives. Performance was confirmed via telemetry,
+  radar and electro-optical tracking systems deployed by ITR.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 launch. Projected end-system
+  range cited as ~350 km. Developed by DRDL Hyderabad with RCI and HEMRL Pune.
+confidence: confirmed
+claims:
+  - field: range
+    value: 350
+    text: >-
+      Projected end-system (SFDR-based AAM) range cited as ~350 km; this is the intended missile
+      range, not a distance flown in this booster test.
+    basis: reported
+    source:
+      title: DRDO successfully flight-tests Solid Fuel Ducted Ramjet (SFDR) technology
+      tier: indian-news
+      url: >-
+        https://www.business-standard.com/article/pti-stories/india-successfully-flight-testes-missile-system-sfdr-booster-122040800852_1.html
+      publisher: Business Standard / PTI
+      date: "2022-04-08"
+sources:
+  - title: India successfully flight tests missile system SFDR booster (PTI)
+    tier: indian-news
+    url: https://theprint.in/india/india-successfully-flight-tests-missile-system-sfdr-booster/908445/
+    publisher: The Print / PTI
+    date: "2022-04-08"
+  - title: India successfully flight tests missile system SFDR booster in Odisha (PTI)
+    tier: indian-news
+    url: >-
+      https://www.business-standard.com/article/pti-stories/india-successfully-flight-testes-missile-system-sfdr-booster-122040800852_1.html
+    publisher: Business Standard / PTI
+    date: "2022-04-08"
+  - title: India successfully test fires missile system SFDR booster (8 April 2022)
+    tier: indian-news
+    url: https://www.theweek.in/wire-updates/national/2022/04/08/del75-def-missile-ld-sfdr.html
+    publisher: The Week / PTI
+    date: "2022-04-08"

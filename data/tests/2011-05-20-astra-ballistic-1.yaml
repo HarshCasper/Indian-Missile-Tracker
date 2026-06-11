@@ -1,0 +1,41 @@
+id: 2011-05-20-astra-ballistic-1
+missile_id: astra
+variant: Mk1
+date: "2011-05-20"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Ballistic flight test
+description: >-
+  First of two consecutive-day ballistic flight tests of the Astra from the Integrated Test Range,
+  Chandipur, on 20 May 2011, to evaluate the motor, propulsion system and aerodynamic configuration.
+  Reported successful.
+range_tested_km: 0
+notes: >-
+  Ground-launched ballistic configuration; two tests on 20 and 21 May 2011 per IRNA and Deccan
+  Herald.
+sources:
+  - title: India successfully test fired Astra Missile for second day (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110521-irna01.htm
+    date: "2011-05-21"
+    accessed: "2026-06-16"
+  - title: Astra ballistic flight test carried out
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/content/162788/astra-ballistic-flight-test-carried.html
+    accessed: "2026-06-16"
+claims:
+  - field: range_km
+    value: 80
+    basis: reported
+    text: 80 km head-on; 20 km tail-chase (design figures)
+    note: design ranges cited in coverage, not measured this flight
+    source:
+      title: India test fired Astra for second day
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2011/india-110521-irna01.htm
+      accessed: "2026-06-16"

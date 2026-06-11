@@ -1,0 +1,22 @@
+id: 2015-05-astra-su30-high-g
+missile_id: astra
+variant: Mk1
+date: 2015-05
+date_precision: month
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Air-launch high-g trials (Su-30MKI)
+description: >-
+  In May 2015 the Astra was air-launched twice from a Su-30MKI from the ITR, Odisha, for high-g
+  manoeuvres, demonstrating performance across different engagement scenarios. Reported successful.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI over the Odisha range; site_id itr-chandipur with air-launch note.
+  Single reliable secondary source.
+sources:
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+    accessed: "2026-06-16"

@@ -1,0 +1,24 @@
+id: 2018-09-26-astra-pre-induction-trial
+missile_id: astra
+variant: Mk1
+date: "2018-09-26"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Pre-induction trial (Su-30MKI)
+description: >-
+  Pre-induction trial of the Astra air-launched from a Su-30MKI over the Bay of Bengal near
+  Chandipur on 26 September 2018, successfully engaging a manoeuvring aerial target (Banshee) with
+  high precision as part of the final pre-induction trial series.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI. Reported by MoD/Defence Ministry statement via Sputnik (GlobalSecurity
+  mirror); part of the September 2018 pre-induction series.
+sources:
+  - title: India Tests Pre-Induction Trial of Beyond Visual Range Air-to-Air Missile Astra
+    tier: foreign-news
+    publisher: GlobalSecurity.org / Sputnik
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180926-sputnik01.htm
+    date: "2018-09-26"
+    accessed: "2026-06-16"

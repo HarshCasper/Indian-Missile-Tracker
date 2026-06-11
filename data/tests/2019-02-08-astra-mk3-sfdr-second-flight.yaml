@@ -1,0 +1,44 @@
+id: 2019-02-08-astra-mk3-sfdr-second-flight
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR propulsion-based missile system (second flight test)
+date: "2019-02-08"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Second flight test of the SFDR propulsion system from ITR Chandipur on 8 February 2019. The
+  missile was launched to high altitude to simulate aircraft-release conditions, then the
+  nozzle-less booster ignited and accelerated the vehicle to ramjet Mach number; per the Ministry of
+  Defence statement, ground-booster performance and ground-booster/nozzle-less-booster separation
+  were satisfactory, the trajectory was tracked by telemetry and radar to touchdown, and all mission
+  objectives were met.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 launch. The test date is 8
+  February 2019 (MoD statement, reported by DefPost and Republic World). Army-Technology's article
+  carries an 11 February 2019 dateline, but that is its publication date, not the test date, so
+  there is no genuine date conflict.
+confidence: confirmed
+sources:
+  - title: >-
+      India's DRDO Flight Tests Second Indigenously Developed 'Solid Fuel Ducted Ramjet (SFDR)'
+      Propulsion Based Missile System
+    tier: foreign-news
+    url: >-
+      https://defpost.com/indias-drdo-flight-tests-second-indigenously-developed-solid-fuel-ducted-ramjet-sfdr-propulsion-based-missile-system/
+    publisher: DefPost
+    date: "2019-02-08"
+  - title: DRDO conducts successful flight test of SFDR missile system off Odisha coast
+    tier: indian-news
+    url: >-
+      https://www.republicworld.com/india/drdo-conducts-sucessful-flight-test-of-sfdr-missile-system-off-odisha-coast
+    publisher: Republic World
+    date: "2019-02-08"
+  - title: >-
+      India's DRDO flight tests SFDR propulsion based missile system (article dateline 11 Feb 2019;
+      test was 8 Feb 2019)
+    tier: foreign-news
+    url: https://www.army-technology.com/news/india-sfdr-missile-system/
+    publisher: Army-Technology
+    date: "2019-02-11"

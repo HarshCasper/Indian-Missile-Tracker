@@ -1,0 +1,24 @@
+id: 2012-12-21-astra-guided-trial-1
+missile_id: astra
+variant: Mk1
+date: "2012-12-21"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+designation: Guided development flight trial
+description: >-
+  First of consecutive-day guided ground-launch trials of the Astra from launch pad-1 at the ITR,
+  Chandipur, on 21 December 2012, validating the new (frozen) aerodynamic configuration against a
+  simulated/electronic target. Reported successful.
+range_tested_km: 0
+notes: >-
+  Ground launcher (launch pad-1). Tests reported on 21 and 22 December 2012; the 21 Dec firing is
+  covered by Deccan Herald.
+sources:
+  - title: Astra missile successfully test-fired
+    tier: indian-news
+    publisher: Deccan Herald
+    url: https://www.deccanherald.com/content/299951/astra-missile-successfully-test-fired.html
+    date: "2012-12-21"
+    accessed: "2026-06-16"

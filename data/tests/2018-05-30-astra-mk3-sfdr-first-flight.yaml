@@ -1,0 +1,51 @@
+id: 2018-05-30-astra-mk3-sfdr-first-flight
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR propulsion-based missile system (first flight test)
+date: "2018-05-30"
+date_precision: day
+outcome: partial
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  First flight test of the Solid Fuel Ducted Ramjet (SFDR) propulsion system that powers the future
+  Astra Mk3 / Gandiva BVRAAM, conducted from the Integrated Test Range (ITR) Chandipur off the
+  Odisha coast on 30 May 2018. It demonstrated India's first nozzle-less booster and reached ~Mach 3
+  in the booster phase. The booster phase was officially announced as successful; secondary
+  reporting (attributed to The Economic Times via aggregation) states the ramjet (second) stage
+  failed to activate, making it a partial success.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 missile launch; the Astra Mk3 /
+  Gandiva uses this SFDR propulsion. Outcome listed as partial: officially/secondarily framed as a
+  successful nozzle-less booster-phase test (GlobalSecurity, Defense Update), but secondary
+  reporting attributed to The Economic Times states the ramjet sustainer stage failed to ignite. No
+  usable non-Wikipedia URL was found that directly carries the failure claim, so confidence is kept
+  at reported and the failure is recorded as a claim. Reached ~Mach 3 in booster phase.
+confidence: reported
+claims:
+  - field: outcome
+    text: >-
+      Ramjet (second/sustainer) stage reportedly failed to activate during this first test, making
+      it only partially successful. This claim is attributed to The Economic Times via secondary
+      aggregation; primary/official releases describe the booster-phase test as successful.
+    basis: reported
+    source:
+      title: >-
+        Solid Fuel Ducted Ramjet (Military History Fandom / Military Wiki) — used only to locate the
+        secondary (Economic Times) report; not itself a citation
+      tier: further-reading
+      url: https://military-history.fandom.com/wiki/Solid_Fuel_Ducted_Ramjet
+      publisher: Fandom
+sources:
+  - title: >-
+      Astra-2 Solid Fuel Ducted Ramjet (SFDR) — first test flight May 2018, Mach 3 booster phase,
+      nozzle-less booster successfully tested
+    tier: foreign-news
+    url: https://www.globalsecurity.org/military/world/india/sfdr.htm
+    publisher: GlobalSecurity.org
+    accessed: "2026-06-16"
+  - title: India Tests Solid Fuel Ducted Ramjet for Future AAM/SAM Propulsion
+    tier: foreign-news
+    url: https://defense-update.com/20180603_sfdr.html
+    publisher: Defense Update
+    date: "2018-06-03"

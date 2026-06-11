@@ -1,0 +1,60 @@
+id: 2024-12-13-astra-mk3-sfdr-final-flight
+missile_id: astra-mk3
+variant: SFDR technology demonstrator
+designation: SFDR propulsion-based missile system (final developmental test)
+date: "2024-12-13"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO conducted what officials described as likely the final developmental flight test of the SFDR
+  propulsion-based missile system on Friday, 13 December 2024, from a static (fixed) launcher at
+  Launch Complex-III of the Integrated Test Range off the Odisha coast. The missile flew its
+  intended trajectory at over Mach 3 and precisely neutralised an aerial target, validating the
+  engine, navigation system and overall design ahead of long-range AAM development.
+notes: >-
+  SFDR technology-demonstrator flight, not an integrated Astra Mk3 / Gandiva launch. Launched from a
+  static/fixed launcher at Launch Complex-III, ITR (Odisha coast). A defence official said this
+  could be the last developmental trial, indicating readiness for induction; SFDR is intended to
+  enable AAMs neutralising targets at over 300 km. Date confirmed as 13 December 2024 (a Friday;
+  reported 13-14 Dec by MyIndMakers and Raksha Anirveda). Domain-b's article carries a 16 December
+  2024 date, which appears to be a later report/aggregator date rather than the test date.
+confidence: confirmed
+claims:
+  - field: range
+    value: 300
+    text: >-
+      SFDR technology intended to enable long-range air-to-air missiles capable of neutralising
+      targets at over 300 km; this is the projected end-system range, not the distance flown in this
+      test.
+    basis: official
+    source:
+      title: DRDO successfully tests SFDR propulsion missile system in final trial
+      tier: indian-news
+      url: >-
+        https://myind.net/Home/viewArticle/drdo-successfully-tests-sfdr-propulsion-missile-system-in-final-trial
+      publisher: MyIndMakers
+      date: "2024-12-14"
+sources:
+  - title: >-
+      DRDO successfully tests SFDR propulsion missile system in final trial (test on Friday 13 Dec
+      2024; static launcher, Launch Complex-III, Mach 3, aerial target destroyed)
+    tier: indian-news
+    url: >-
+      https://myind.net/Home/viewArticle/drdo-successfully-tests-sfdr-propulsion-missile-system-in-final-trial
+    publisher: MyIndMakers
+    date: "2024-12-14"
+  - title: DRDO Successfully Tests SFDR Missile System (13 December 2024)
+    tier: indian-news
+    url: https://raksha-anirveda.com/drdo-successfully-tests-sfdr-missile-system/
+    publisher: Raksha Anirveda
+    date: "2024-12-13"
+  - title: >-
+      DRDO successfully flight-tests solid fuel ducted ramjet booster missile (gives a 16 Dec 2024
+      date; Launch Complex-III, fixed launcher, Mach 3)
+    tier: indian-news
+    url: >-
+      https://www.domain-b.com/defence/defence-production/drdo-successfully-flight-tests-solid-fuel-ducted-ramjet-booster-missile
+    publisher: Domain-b
+    date: "2024-12-16"

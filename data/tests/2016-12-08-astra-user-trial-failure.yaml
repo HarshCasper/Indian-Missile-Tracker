@@ -1,0 +1,23 @@
+id: 2016-12-08-astra-user-trial-failure
+missile_id: astra
+variant: Mk1
+date: "2016-12-08"
+date_precision: day
+outcome: failure
+confidence: reported
+site_id: itr-chandipur
+designation: User trial (Su-30MKI)
+description: >-
+  User trial of the Astra off the coast of Chandipur on 8 December 2016 in which the missile lost
+  velocity after launch, departed its trajectory and fell to the ground, exploding on impact.
+  Recorded as a failure.
+range_tested_km: 0
+notes: >-
+  Air-launched user trial. Failure documented in the GlobalSecurity Astra programme overview.
+  Distinct from the 12 Dec 2016 near-hit.
+sources:
+  - title: Astra air-to-air missile (programme overview)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/astra.htm
+    accessed: "2026-06-16"

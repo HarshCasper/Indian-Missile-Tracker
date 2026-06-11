@@ -1,0 +1,75 @@
+id: 2022-10-04-astra-mk2-separation-trial-afday-video
+missile_id: astra-mk2
+variant: Mk2
+designation: Astra Mk-II separation/dummy-ejection trial (IAF 90th Air Force Day promo video)
+date: "2022-10-04"
+date_precision: day
+outcome: unknown
+confidence: disputed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Ahead of the 90th Air Force Day (8 October 2022), on 4 October 2022 the IAF released a promotional
+  video showing a missile marked 'BVR MK-II Astra' being ejected/launched from a Su-30MKI. Analysts
+  (Swarajya, EurAsian Times) assessed the footage as a dummy ejection/separation developmental trial
+  because the missile's dual-pulse motor was not seen igniting, i.e. a separation trial rather than
+  a powered guided firing. The exact trial date is not stated; 4 October 2022 is the video-release
+  date.
+notes: >-
+  Air-launched separation trial from Su-30MKI over the Odisha range; site inferred (not explicitly
+  stated). The 4 Oct 2022 date is the video-RELEASE date, not necessarily the trial date. Sources
+  conflict on whether the clip shows a real launch or only a dummy/separation ejection, so
+  confidence is disputed and outcome is unknown. No powered guided firing of the Astra Mk2 had been
+  confirmed as of mid-2026.
+claims:
+  - field: range_km
+    text: Mk2 range cited as 160 km in the Air Force Day promo coverage
+    basis: reported
+    value: 160
+    note: Projected/design range, not demonstrated by this separation trial.
+    source:
+      title: >-
+        IAF Shows Off 160 Km Range Astra Mk-II Missile In Promo Video Released Ahead Of 90th Air
+        Force Day
+      tier: indian-news
+      publisher: Swarajya
+      url: >-
+        https://swarajyamag.com/news-brief/iaf-shows-off-160-km-range-astra-mk-ii-missile-in-promo-video-released-ahead-of-90th-air-force-day
+      date: "2022-10-04"
+      accessed: "2026-06-16"
+  - field: test_type
+    text: >-
+      Footage assessed as a dummy ejection/separation trial (no dual-pulse motor ignition shown),
+      not a powered guided launch
+    basis: assessed
+    note: >-
+      EurAsian Times: experts noted the video was from a dummy ejection developmental trial because
+      the dual-pulse motor was not seen igniting. Swarajya's promo coverage does not distinguish
+      live vs dummy, hence sources conflict.
+    source:
+      title: >-
+        India's 'Astra Mk2' BVR Missile Breaks Cover; IAF's New Promo Video Shows Su-30 MKI Fighter
+        Firing The Indigenous Weapon
+      tier: foreign-news
+      publisher: The EurAsian Times
+      url: https://www.eurasiantimes.com/indias-astra-mk2-bvr-missile-breaks-cover-iafs-new-promo/
+      date: "2022-10-06"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      IAF Shows Off 160 Km Range Astra Mk-II Missile In Promo Video Released Ahead Of 90th Air Force
+      Day
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/news-brief/iaf-shows-off-160-km-range-astra-mk-ii-missile-in-promo-video-released-ahead-of-90th-air-force-day
+    date: "2022-10-04"
+    accessed: "2026-06-16"
+  - title: >-
+      India's 'Astra Mk2' BVR Missile Breaks Cover; IAF's New Promo Video Shows Su-30 MKI Fighter
+      Firing The Indigenous Weapon
+    tier: foreign-news
+    publisher: The EurAsian Times
+    url: https://www.eurasiantimes.com/indias-astra-mk2-bvr-missile-breaks-cover-iafs-new-promo/
+    date: "2022-10-06"
+    accessed: "2026-06-16"

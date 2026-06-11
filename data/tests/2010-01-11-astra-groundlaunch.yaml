@@ -1,0 +1,46 @@
+id: 2010-01-11-astra-groundlaunch
+missile_id: astra
+variant: Mk1
+date: "2010-01-11"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+designation: Developmental ground-launch trial
+description: >-
+  Ground-launched Astra test on 11 January 2010 from launch pad No. 2 at the ITR, Chandipur-on-sea.
+  IRNA/GlobalSecurity report navigation, control, airframe and propulsion subsystems were validated
+  and characterise the trial as successful.
+range_tested_km: 0
+notes: >-
+  Outcome disputed: IRNA (reliable) reports success; further-reading secondary sources describe a
+  slight failure in the missile's electronic system. Confidence kept disputed; outcome set to
+  success per the reliable IRNA source.
+sources:
+  - title: India test fires air-to-air Astra Missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org / IRNA
+    url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100111-irna01.htm
+    date: "2010-01-11"
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    basis: reported
+    text: successful; subsystems validated
+    note: IRNA/GlobalSecurity
+    source:
+      title: India test fires air-to-air Astra Missile (IRNA)
+      tier: foreign-news
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/library/news/india/2010/india-100111-irna01.htm
+      accessed: "2026-06-16"
+  - field: outcome
+    basis: reported
+    text: slight failure in electronic system
+    note: secondary/further-reading accounts
+    source:
+      title: Astra (missile)
+      tier: further-reading
+      publisher: Military History Wiki / Fandom
+      url: https://military-history.fandom.com/wiki/Astra_(missile)
+      accessed: "2026-06-16"

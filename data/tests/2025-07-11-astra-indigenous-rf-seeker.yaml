@@ -1,0 +1,35 @@
+id: 2025-07-11-astra-indigenous-rf-seeker
+missile_id: astra
+variant: Mk1
+date: "2025-07-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+designation: Flight test with indigenous RF seeker (Su-30MKI)
+description: >-
+  DRDO and IAF flight-tested the Astra BVRAAM fitted with an indigenous Radio Frequency (RF) seeker,
+  air-launched from a Su-30 Mk-I off the coast of Odisha on 11 July 2025. Two launches were carried
+  out against high-speed unmanned aerial targets at different ranges and aspects; in both cases the
+  missiles destroyed the targets with pin-point accuracy.
+range_tested_km: 0
+notes: >-
+  Air-launched from Su-30MKI over the Odisha range; site_id itr-chandipur with air-launch note.
+  Confirmed by official PIB/MoD release (mirrored on GlobalSecurity) and Indian press (Business
+  Standard).
+sources:
+  - title: >-
+      DRDO & IAF conduct successful flight-test of Astra BVR Air-to-Air missile with indigenous RF
+      Seeker from Su-30 Mk-I (PIB/MoD)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250711-india-pib01.htm
+    date: "2025-07-11"
+    accessed: "2026-06-16"
+  - title: DRDO, IAF successfully test BVR air-to-air missile Astra from Su-30 Mk-I
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/drdo-iaf-successfully-test-bvr-air-to-air-missile-astra-from-su-30-mk-i-125071101482_1.html
+    date: "2025-07-11"
+    accessed: "2026-06-16"
