@@ -1,0 +1,40 @@
+id: 2024-04-13-mpatgm-pokhran-warhead-tandem-penetration
+missile_id: mpatgm
+variant: weapon-system
+designation: MPATGM Weapon System Field-Evaluation / Warhead Flight Trials
+date: "2024-04-13"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+description: >-
+  DRDO and the Indian Army conducted successful warhead flight trials of the complete MPATGM weapon
+  system (missile, launcher, target acquisition system, fire-control unit) at the Pokhran Field
+  Firing Range. Penetration trials of the tandem warhead were completed successfully and the warhead
+  was found capable of defeating modern armour-protected main battle tanks, marking conclusion of
+  technology development.
+notes: >-
+  Pokhran Field Firing Range, Rajasthan. Warhead Flight Trials conducted 13 April 2024; PIB release
+  dated 14 April 2024 (PRID 2017876). Field-evaluated in different flight configurations; specific
+  range not quantified in this release. Re-verified against PIB (via GlobalSecurity mirror) and
+  Janes.
+sources:
+  - title: >-
+      DRDO & Indian Army conduct successful trials of indigenous Man Portable Anti-tank Guided
+      Missile Weapon System
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2017876
+    date: "2024-04-14"
+  - title: >-
+      DRDO & Indian Army conduct successful trials of indigenous Man Portable Anti-tank Guided
+      Missile Weapon System (PIB mirror)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2024/india-240414-india-pib01.htm
+    date: "2024-04-14"
+  - title: India test-fires man-portable anti-tank guided missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-fires-manportable-anti-tank-guided-missile

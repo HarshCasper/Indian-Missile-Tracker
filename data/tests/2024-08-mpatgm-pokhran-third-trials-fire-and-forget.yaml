@@ -1,0 +1,54 @@
+id: 2024-08-mpatgm-pokhran-third-trials-fire-and-forget
+missile_id: mpatgm
+variant: weapon-system
+designation: MPATGM Weapon System Trials (third trials)
+date: 2024-08
+date_precision: month
+outcome: success
+confidence: disputed
+site_id: pokhran-range
+description: >-
+  DRDO and the Indian Army carried out a further successful trial of the MPATGM at the Pokhran
+  firing range, with the fire-and-forget missile hitting its target with high accuracy. Reported as
+  the third trial of the weapon system, conducted as part of the campaign ahead of user evaluation.
+  Distinct from the April 2024 warhead trials.
+notes: >-
+  Pokhran Firing Range, Rajasthan (about 112 km from Jaisalmer). The exact day is disputed: Army
+  Recognition dates the 'third trials' to 16 August 2024, while Business Standard published video of
+  an MPATGM test on 13 August 2024 (referring to the field firing range near Jaisalmer). Both
+  describe an August 2024 third trial at Pokhran; the day-level date does not agree across sources,
+  so confidence is 'disputed' and date precision set to month.
+claims:
+  - field: date
+    basis: reported
+    text: Army Recognition dates the third trials to 16 August 2024
+    source:
+      title: Indian Army Completes Third Trials of New MPATGM Anti-Tank Missile System
+      tier: foreign-news
+      publisher: Army Recognition
+      url: >-
+        https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2024/indian-army-completes-third-trials-of-new-mpatgm-anti-tank-missile-system
+  - field: date
+    basis: reported
+    text: >-
+      Business Standard published the MPATGM test video on 13 August 2024 (test at the field firing
+      range near Jaisalmer, Rajasthan)
+    source:
+      title: "Watch: Indigenous portable anti-tank missile successfully tested by DRDO"
+      tier: indian-news
+      publisher: Business Standard
+      url: >-
+        https://www.business-standard.com/external-affairs-defence-security/news/watch-indigenous-portable-anti-tank-missile-successfully-tested-by-drdo-124081300840_1.html
+      date: "2024-08-13"
+sources:
+  - title: "Watch: Indigenous portable anti-tank missile successfully tested by DRDO"
+    tier: indian-news
+    publisher: Business Standard
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/watch-indigenous-portable-anti-tank-missile-successfully-tested-by-drdo-124081300840_1.html
+    date: "2024-08-13"
+  - title: Indian Army Completes Third Trials of New MPATGM Anti-Tank Missile System
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/archives/archives-land-defense/land-defense-2024/indian-army-completes-third-trials-of-new-mpatgm-anti-tank-missile-system

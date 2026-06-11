@@ -1,0 +1,22 @@
+id: 2008-12-28-nag-pokhran-user-trial
+missile_id: nag
+designation: Nag winter user trial
+date: "2008-12-28"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 3.1
+confidence: reported
+description: >-
+  Two Nag flight tests were reported successful: a moving target at 1.8 km was destroyed along with
+  a stationary target at 3.1 km during winter user trials at Pokhran.
+notes: >-
+  Single source: The Hindu (29 Dec 2008). Part of the December 2008 winter user-trial series (five
+  missiles total, day and night). Could not independently re-verify the specific figures from a
+  second reliable source; retained as 'reported'.
+sources:
+  - title: Two flight tests of Nag missile successful
+    tier: indian-news
+    publisher: The Hindu
+    url: http://www.hindu.com/2008/12/29/stories/2008122959211100.htm
+    accessed: "2026-06-16"

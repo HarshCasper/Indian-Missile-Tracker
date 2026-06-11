@@ -1,0 +1,23 @@
+id: 2019-02-nag-winter-user-trials
+missile_id: nag
+designation: Nag winter user trials
+date: 2019-02
+date_precision: month
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: reported
+description: >-
+  The Nag ATGM cleared its winter user trials in February 2019 at the Pokhran Field Firing Ranges.
+  Together with the subsequent summer trials, all ten missiles fired during the winter and summer
+  user trials successfully hit their targets.
+notes: >-
+  Reported by Army Technology and other Indian press; MoD stated all ten missiles across winter (Feb
+  2019) and summer (Jul 2019) trials struck their targets. By difference from the six summer
+  firings, four were fired in the winter trials. No precise day reported.
+sources:
+  - title: India's Nag anti-tank guided missile completes summer user trials
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-nag-anti-tank-missile-summer-trials/
+    accessed: "2026-06-16"

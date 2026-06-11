@@ -1,0 +1,25 @@
+id: 2019-03-14-mpatgm-guided-flight
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Guided Flight Trial (GFT)
+date: "2019-03-14"
+date_precision: day
+outcome: success
+confidence: reported
+description: >-
+  Second successful guided flight trial conducted the day after the 13 March 2019 test in the
+  Rajasthan desert, with the missile striking its designated target precisely at a different range.
+notes: >-
+  Launch site: Rajasthan desert (specific range not named; not one of the listed facilities). The
+  two March 2019 trials engaged targets at different ranges. Single-thread sourcing (Army Technology
+  / GlobalSecurity) for the exact second-day date, hence 'reported'.
+sources:
+  - title: Man-Portable Anti-Tank Guided Missile (MPATGM), India
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/man-portable-anti-tank-guided-missile-mpatgm-india/
+  - title: Nag (Cobra) anti-tank / NAG-MPATGM program
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/nag-mpatgm-program.htm
+site_id: null

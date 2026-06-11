@@ -1,0 +1,28 @@
+id: 1990-11-nag-maiden-flight
+missile_id: nag
+designation: Nag development trial
+date: 1990-11
+date_precision: month
+outcome: unknown
+site_id: itr-chandipur
+confidence: reported
+description: >-
+  The first flight test of the Nag third-generation anti-tank guided missile, developed by DRDO
+  under the Integrated Guided Missile Development Programme (IGMDP). Reported as conducted in
+  November 1990 as the maiden developmental launch; specific outcome details are not documented in
+  reliable sources.
+notes: >-
+  Army Technology (foreign-news) states 'The first test of Nag was conducted in November 1990.' No
+  precise day or detailed outcome documented. ITR Chandipur/Balasore is the assessed early test
+  range for the program; exact site not confirmed in sources. Outcome left unknown.
+sources:
+  - title: Nag Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/nag-anti-tank-guided-missile/
+    accessed: "2026-06-16"
+  - title: Engineering:Nag (missile)
+    tier: further-reading
+    publisher: HandWiki
+    url: https://handwiki.org/wiki/Engineering:Nag_(missile)
+    accessed: "2026-06-16"

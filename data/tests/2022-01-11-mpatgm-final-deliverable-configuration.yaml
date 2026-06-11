@@ -1,0 +1,35 @@
+id: 2022-01-11-mpatgm-final-deliverable-configuration
+missile_id: mpatgm
+variant: final-deliverable-configuration
+designation: MPATGM Final Deliverable Configuration Flight Test
+date: "2022-01-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+description: >-
+  DRDO successfully flight-tested the MPATGM in its final deliverable configuration, fitted with a
+  miniaturised imaging infrared seeker and advanced avionics, launched from a man-portable launcher
+  with integrated thermal sight. The missile impacted and destroyed the designated target; all
+  mission objectives were met.
+notes: >-
+  Launch site not specified in the PIB release; not one of the listed facilities. Validated the
+  production-standard configuration; the system's max range is cited elsewhere as ~2.5 km.
+  Re-verified against PIB (PRID 1789153, via GlobalSecurity mirror) and The Tribune.
+sources:
+  - title: DRDO Flight Tests Final Deliverable Configuration of MPATGM
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1789153
+    date: "2022-01-11"
+  - title: DRDO flight tests man portable anti-tank guided missile
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/nation/drdo-flight-tests-man-portable-anti-tank-guided-missile-360377
+    date: "2022-01-11"
+  - title: DRDO Flight Tests Final Deliverable Configuration of MPATGM (PIB mirror)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220111-india-pib01.htm
+    date: "2022-01-11"
+site_id: null

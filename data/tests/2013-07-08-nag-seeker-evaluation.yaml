@@ -1,0 +1,27 @@
+id: 2013-07-08-nag-seeker-evaluation
+missile_id: nag
+designation: Nag IIR seeker evaluation trials
+date: "2013-07-08"
+date_precision: day
+outcome: partial
+site_id: pokhran-range
+range_tested_km: 3.2
+confidence: reported
+description: >-
+  Seeker evaluation trials of the Nag ATGM were carried out in hot desert conditions at Pokhran,
+  Rajasthan, against moving and static targets at ranges of 2.8 km and 3.2 km, to evaluate an
+  improved imaging-infrared (IIR) seeker. The seeker proved accurate only up to about 2.5 km in
+  extreme heat, short of the 4 km design range, so further improved-seeker trials followed in
+  August-September 2013.
+notes: >-
+  The Hindu (Y. Mallikarjun, 'Seeker evaluation trials for Nag carried out in Rajasthan', published
+  30 July 2013). Trials on 8 July 2013; outcome assessed as partial because the seeker fell short of
+  the 4 km requirement in hot conditions. This is the article the original list mistakenly attached
+  to the '2011 failure' record.
+sources:
+  - title: Seeker evaluation trials for Nag carried out in Rajasthan
+    tier: indian-news
+    publisher: The Hindu
+    url: >-
+      http://www.thehindu.com/news/national/andhra-pradesh/seeker-evaluation-trials-for-nag-carried-out-in-rajasthan/article4970009.ece
+    accessed: "2026-06-16"

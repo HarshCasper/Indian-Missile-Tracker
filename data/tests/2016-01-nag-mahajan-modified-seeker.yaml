@@ -1,0 +1,25 @@
+id: 2016-01-nag-mahajan-modified-seeker
+missile_id: nag
+designation: Nag modified-seeker night trial
+date: 2016-01
+date_precision: month
+outcome: success
+range_tested_km: 4
+confidence: reported
+description: >-
+  A Nag missile fitted with a modified, higher-resolution IIR seeker successfully destroyed a
+  Thermal Target System (TTS) at a range of 4 km during a night trial at the Mahajan Field Firing
+  Range, Rajasthan, in January 2016, demonstrating that the earlier hot-weather seeker problem had
+  been resolved.
+notes: >-
+  Army Technology (foreign-news) documents the January 2016 modified-seeker test at Mahajan Field
+  Firing Range, 4 km, against a TTS developed by a Jodhpur defence laboratory. Mahajan FFR is not
+  one of the listed facilities, so site_id left empty. Real site name: Mahajan Field Firing Range,
+  Rajasthan.
+sources:
+  - title: Nag Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/nag-anti-tank-guided-missile/
+    accessed: "2026-06-16"
+site_id: null

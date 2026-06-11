@@ -1,0 +1,46 @@
+id: 2015-07-13-helina-chandan-first-helicopter-trials
+missile_id: helina
+variant: HELINA (Helicopter-launched Nag)
+designation: First helicopter-launched developmental trials
+date: "2015-07-13"
+date_precision: day
+outcome: partial
+confidence: reported
+range_tested_km: 7
+description: >-
+  Three developmental trials of the helicopter-launched Nag (HELINA) were conducted on 13 July 2015
+  by HAL/DRDO from a HAL Rudra (armed ALH / ALH-WSI) at the Chandan firing range in Jaisalmer
+  district, Rajasthan. Two of the three missiles hit their targets at a range of about 7 km; the
+  third reportedly missed. These were the first helicopter-launched firings of the system, predating
+  the 2018 Pokhran trial.
+notes: >-
+  Outcome is partial: two of three missiles hit (7 km), one reportedly missed. Launch site was
+  Chandan firing range, Jaisalmer (Rajasthan), which is not among the listed known facilities, so
+  site_id is left empty. Date (13 July 2015) and the 2-of-3 outcome are reported by GlobalSecurity
+  and Indian explainer coverage; treat as reported rather than confirmed pending an official
+  DRDO/PIB release.
+sources:
+  - title: Nag (Cobra) Dhruvastra / HeliNa (Helicopter-launched Nag) anti-tank missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/nag-dhruvastra.htm
+    accessed: "2026-06-16"
+  - title: "EXPLAINED: All You Need To Know About Anti-Tank Guided Missile Helina"
+    tier: indian-news
+    publisher: Oneindia
+    url: >-
+      https://www.oneindia.com/india/explained-all-you-need-to-know-about-anti-tank-guided-missile-helina-that-can-destroy-targets-mil-3395014.html
+    accessed: "2026-06-16"
+claims:
+  - field: outcome
+    value: 2
+    basis: reported
+    text: Two of three missiles hit targets at ~7 km; one reportedly missed
+    source:
+      title: "EXPLAINED: All You Need To Know About Anti-Tank Guided Missile Helina"
+      tier: indian-news
+      publisher: Oneindia
+      url: >-
+        https://www.oneindia.com/india/explained-all-you-need-to-know-about-anti-tank-guided-missile-helina-that-can-destroy-targets-mil-3395014.html
+      accessed: "2026-06-16"
+site_id: null

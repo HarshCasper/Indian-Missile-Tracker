@@ -1,0 +1,36 @@
+id: 2012-nag-mahajan-user-trial-failure
+missile_id: nag
+designation: Nag user trial / NAMICA carrier trial (failure)
+date: "2012"
+date_precision: year
+outcome: failure
+confidence: disputed
+description: >-
+  User trials at the Mahajan Field Firing Range (MFFR), Rajasthan, in mid-2012 went badly: most of
+  the Nag missiles under test failed to hit their targets and the new NAMICA tracked carrier
+  underperformed. DRDO characterised the trials as only a 'partial success'; Army officials
+  expressed dissatisfaction.
+notes: >-
+  DISPUTED date: Livefist ('New Nag Carrier Botches Trials') reports the trials took place in JULY
+  2012 at Mahajan, while the original list and other Indian press place them in AUGUST 2012. The
+  original list's 'four fired, one hit' count could not be independently confirmed (Livefist says
+  only 'most of the missiles failed to hit'). Site Mahajan Field Firing Range is not one of the
+  listed facilities, so site_id left empty. Real site name: Mahajan Field Firing Range, Rajasthan.
+claims:
+  - field: date
+    text: Trials at Mahajan reported as July 2012 by Livefist vs August 2012 elsewhere
+    basis: reported
+    note: Date conflict between sources.
+    source:
+      title: New Nag Carrier Botches Trials
+      tier: foreign-news
+      publisher: Livefist Defence
+      url: https://www.livefistdefence.com/new-nag-carrier-botches-trials/
+      accessed: "2026-06-16"
+sources:
+  - title: New Nag Carrier Botches Trials
+    tier: foreign-news
+    publisher: Livefist Defence
+    url: https://www.livefistdefence.com/new-nag-carrier-botches-trials/
+    accessed: "2026-06-16"
+site_id: null

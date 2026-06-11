@@ -1,0 +1,23 @@
+id: 2008-12-26-nag-pokhran-user-trial
+missile_id: nag
+designation: Nag winter user trial
+date: "2008-12-26"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 3.3
+confidence: reported
+description: >-
+  During winter user trials at Pokhran, a Nag missile zeroed in on a target tank from a distance of
+  3.3 km, as required by the Indian Army.
+notes: >-
+  Single source: The Hindu archive (26 Dec 2008). Part of the December 2008 winter user-trial series
+  in which five missiles were reportedly fired day and night against stationary and moving targets.
+  Could not independently re-verify the specific 26 Dec date / 3.3 km figure from a second reliable
+  source; retained as 'reported'.
+sources:
+  - title: Nag test (archive, 26 Dec 2008)
+    tier: indian-news
+    publisher: The Hindu
+    url: http://www.hindu.com/2008/12/26/stories/2008122655801200.htm
+    accessed: "2026-06-16"

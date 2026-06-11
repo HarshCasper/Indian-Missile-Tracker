@@ -1,0 +1,44 @@
+id: 2026-01-11-mpatgm-kk-ranges-top-attack-moving-target
+missile_id: mpatgm
+variant: weapon-system
+designation: MPATGM Top-Attack Flight Test Against a Moving Target
+date: "2026-01-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+description: >-
+  DRDO successfully flight-tested the third-generation fire-and-forget MPATGM with top-attack
+  capability against a moving target. The missile, employing its imaging infrared (IIR) homing
+  seeker, engaged and destroyed a thermal target system simulating a moving tank, demonstrating
+  day/night engagement of armoured vehicles. Conducted by DRDO's Defence Research & Development
+  Laboratory (DRDL), Hyderabad.
+notes: >-
+  Launch site: Army's KK Ranges, Ahilya Nagar (Ahmednagar), Maharashtra (not one of the listed
+  facilities). PIB release PRID 2213690 dated 12 January 2026; test conducted 11 January 2026.
+  Target was a Thermal Target System representing a moving tank. Bharat Dynamics Ltd and Bharat
+  Electronics Ltd are the development-cum-production partners. Newly added test verified against PIB
+  (via GlobalSecurity mirror) and Indian Masterminds.
+sources:
+  - title: >-
+      DRDO successfully flight-tests Man Portable Anti-Tank Guided Missile with top attack
+      capability against a moving target
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2213690&reg=3&lang=1
+    date: "2026-01-12"
+  - title: >-
+      DRDO successfully flight-tests Man Portable Anti-Tank Guided Missile with top attack
+      capability against a moving target (PIB mirror)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2026/india-260112-india-pib03.htm
+    date: "2026-01-12"
+  - title: >-
+      DRDO Successfully Tests Third-Generation MPATGM with Top-Attack Capability Against Moving
+      Target
+    tier: indian-news
+    publisher: Indian Masterminds
+    url: >-
+      https://indianmasterminds.com/news/drdo-tests-third-generation-mpatgm-top-attack-missile-176222/
+    date: "2026-01-12"
+site_id: null

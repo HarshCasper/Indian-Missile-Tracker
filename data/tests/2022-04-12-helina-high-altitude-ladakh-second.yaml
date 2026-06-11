@@ -1,0 +1,43 @@
+id: 2022-04-12-helina-high-altitude-ladakh-second
+missile_id: helina
+variant: HELINA (Army version)
+designation: Second high-altitude user validation flight test
+date: "2022-04-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 7
+description: >-
+  HELINA was again successfully flight-tested on 12 April 2022 from an Advanced Light Helicopter at
+  a high-altitude range in eastern Ladakh, the second successful test on successive days. The trial
+  was carried out at a different range and altitude than the first, and the missile accurately
+  engaged the simulated tank target, establishing consistent performance of the complete system
+  including the Imaging Infra-Red seeker and paving the way for induction into the armed forces.
+notes: >-
+  Conducted at a high-altitude range in eastern Ladakh (different range/altitude from the 11 April
+  test); not among the listed known facilities, so site_id left empty. Second of two successive-day
+  high-altitude validation tests. No further confirmed HELINA/Dhruvastra flight tests are documented
+  after April 2022; the program subsequently moved toward induction (LCH Prachand integration trials
+  planned for later, not yet conducted as of mid-2026).
+sources:
+  - title: Second successful high-altitude flight-test of Indian Dhruvastra HELINA ATGM
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/defense_news_april_2022_global_security_army_industry/second_successful_high-altitude_flight-test_of_indian_dhruvastra_helina_atgm_anti-tank_guided_missile.html
+    date: "2022-04-12"
+    accessed: "2026-06-16"
+  - title: "Watch: Helicopter Launched Anti-Tank Missile Helina Tested In Ladakh; Second Test In Two Days"
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/news-headlines/watch-helicopter-launched-anti-tank-missile-helina-tested-in-ladakh-second-test-in-two-days
+    date: "2022-04-12"
+    accessed: "2026-06-16"
+  - title: India's Helina ATGM tested at high altitude
+    tier: foreign-news
+    publisher: Janes
+    url: https://www.janes.com/osint-insights/defence-news/indias-helina-atgm-tested-at-high-altitude
+    date: "2022-04-12"
+    accessed: "2026-06-16"
+site_id: null

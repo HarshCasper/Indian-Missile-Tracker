@@ -1,0 +1,42 @@
+id: 2021-02-19-helina-dhruvastra-pokhran-user-trials
+missile_id: helina
+variant: HELINA (Army) & Dhruvastra (IAF)
+designation: Joint user trials (five missions)
+date: "2021-02-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 7
+description: >-
+  DRDO conducted successful joint user trials of HELINA (Army version) and Dhruvastra (IAF version)
+  from an Advanced Light Helicopter (ALH) platform in the Pokhran desert ranges, Rajasthan. Five
+  missions evaluated minimum and maximum range; missiles were fired in hover and maximum forward
+  flight against static and moving targets, some with warheads against derelict tanks, including one
+  against a moving target from a forward-flying helicopter.
+notes: >-
+  Confirmed by PIB/MoD official release. Reported as a 100% (five-of-five) hit rate by some outlets.
+  Date reflects the announcement and trial completion (19 Feb 2021).
+sources:
+  - title: >-
+      Successful user trials of DRDO-developed Anti-Tank Guided Missile Systems 'Helina' and
+      'Dhruvastra'
+    tier: pib
+    publisher: Press Information Bureau (PIB), MoD
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1699376
+    date: "2021-02-19"
+    accessed: "2026-06-16"
+  - title: India successfully test fires Helina, Dhruvastra anti-tank guided missiles
+    tier: indian-news
+    publisher: The Print / PTI
+    url: >-
+      https://theprint.in/defence/india-successfully-test-fires-helina-dhruvastra-anti-tank-guided-missiles/608455/
+    date: "2021-02-19"
+    accessed: "2026-06-16"
+  - title: India successfully test fires Helina, Dhruvastra anti-tank guided missiles
+    tier: indian-news
+    publisher: Deccan Herald / PTI
+    url: >-
+      https://www.deccanherald.com/india/india-successfully-test-fires-helina-dhruvastra-anti-tank-guided-missiles-953143.html
+    date: "2021-02-19"
+    accessed: "2026-06-16"

@@ -1,0 +1,39 @@
+id: 2020-07-16-dhruvastra-itr-balasore-developmental
+missile_id: helina
+variant: Dhruvastra (IAF version) / HELINA
+designation: Developmental flight trial (Day 2)
+date: "2020-07-16"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 7
+description: >-
+  A third developmental flight trial of Dhruvastra/HELINA was conducted on 16 July 2020 from a
+  ground-based static launcher at the Integrated Test Range, Balasore/Chandipur, Odisha, in direct
+  and top-attack modes. The trial demonstrated safe separation, full-range controllability and
+  Lock-On-Before-Launch guidance performance, completing the three-trial 15-16 July series.
+notes: >-
+  Ground/static launcher trial. Completes the three-trial series (two on 15 July, one on 16 July).
+  Maximum range of the system cited as 7 km in LOBL mode. ITR Balasore and ITR Chandipur are the
+  same facility.
+sources:
+  - title: India tests anti-tank guided missile 'Dhruvastra'
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-anti-tank-guided-missile-dhruvastra/
+    date: "2020-07-24"
+    accessed: "2026-06-16"
+  - title: India's anti-tank guided missile 'Dhruvastra' test-fired
+    tier: indian-news
+    publisher: Morung Express / PTI
+    url: https://morungexpress.com/indias-anti-tank-guided-missile-dhruvastra-test-fired
+    date: "2020-07-22"
+    accessed: "2026-06-16"
+  - title: Dhruvastra, helicopter-launched Nag Missile, test-fired successfully
+    tier: indian-news
+    publisher: Zee News
+    url: >-
+      https://zeenews.india.com/india/dhruvastra-helicopter-launched-nag-missile-test-fired-successfully-check-key-features-2297556.html
+    date: "2020-07-16"
+    accessed: "2026-06-16"

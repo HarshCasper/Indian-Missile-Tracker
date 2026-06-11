@@ -1,0 +1,25 @@
+id: 2010-07-16-nag-final-validation
+missile_id: nag
+designation: Nag final user validation trial
+date: "2010-07-16"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+confidence: reported
+description: >-
+  Nag was test-fired as part of final user validation trials in July 2010 at the Pokhran ranges;
+  reported successfully completed, clearing the missile for planned induction.
+notes: >-
+  The Hindu (16 Jul 2010) and Brahmand News report the final validation test in July 2010. Single
+  reporting thread; retained as 'reported'.
+sources:
+  - title: Nag validation (archive, 16 Jul 2010)
+    tier: indian-news
+    publisher: The Hindu
+    url: http://www.hindu.com/2010/07/16/stories/2010071653531500.htm
+    accessed: "2026-06-16"
+  - title: India's Nag missile completes final validation test
+    tier: indian-news
+    publisher: Brahmand News
+    url: http://www.brahmand.com/news/Indias-Nag-missile-completes-final-validation-test/4473/1/10.html
+    accessed: "2026-06-16"

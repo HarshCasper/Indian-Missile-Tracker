@@ -1,0 +1,30 @@
+id: 2019-07-nag-summer-user-trials
+missile_id: nag
+designation: Nag summer user trials
+date: 2019-07
+date_precision: month
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: confirmed
+description: >-
+  The Indian Army carried out summer user trials of the Nag ATGM at the Pokhran Field Firing Ranges
+  between 7 and 18 July 2019. Six missiles were fired and all met their mission objectives - minimum
+  range, maximum range, indirect attack and top-attack modes - achieving direct hits, paving the way
+  for production and induction.
+notes: >-
+  Confirmed: PIB official release ('Summer User Trials of Nag Missile successfully Conducted by
+  Indian Army', PRID 1579610) and independently reported by Army Technology, Business Standard and
+  GlobalSecurity. Dates 7-18 July 2019, Pokhran, six missiles, all successful. PIB content verified
+  via search-engine reproduction and Army Technology mirror (PIB blocks direct fetch).
+sources:
+  - title: Summer User Trials of Nag Missile successfully Conducted by Indian Army
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=1579610
+    accessed: "2026-06-16"
+  - title: India's Nag anti-tank guided missile completes summer user trials
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-nag-anti-tank-missile-summer-trials/
+    accessed: "2026-06-16"

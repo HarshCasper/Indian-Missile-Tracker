@@ -1,0 +1,38 @@
+id: 2018-09-15-mpatgm-maiden-max-range
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Developmental Flight Trial (maiden)
+date: "2018-09-15"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 2.5
+description: >-
+  Maiden flight test of the indigenous third-generation man-portable anti-tank guided missile. The
+  missile was test-fired for maximum-range trajectory in top-attack mode and met all mission
+  objectives. First of two consecutive maiden trials.
+notes: >-
+  Launch site: Army's KK Ranges, Ahmednagar, Maharashtra (not one of the listed coastal facilities).
+  Indian MoD stated the two missions of 15 and 16 September 2018 were successfully flight tested for
+  different ranges including the maximum-range capability. 2.5 km is the system's stated maximum
+  range; the specific demonstrated distance in this flight was not separately quantified. Date and
+  site re-verified against The Diplomat, Army Technology, Livefist and Sputnik.
+sources:
+  - title: India's DRDO Test Fires Indigenous Man Portable Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/09/indias-drdo-test-fires-indigenous-man-portable-anti-tank-guided-missile/
+    date: "2018-09-17"
+  - title: 1st Test Of Shoulder Launched Anti-Tank NAG Missile
+    tier: foreign-news
+    publisher: Livefist Defence
+    url: >-
+      https://www.livefistdefence.com/india-conducts-1st-test-of-shoulder-launched-anti-tank-nag-missile/
+    date: "2018-09-16"
+  - title: "Dead End for Spike-MR Deal: India Tests Man Portable Anti-Tank Guided Missile"
+    tier: foreign-news
+    publisher: Sputnik International
+    url: https://sputnikglobe.com/20180917/india-tests-anti-tank-guided-missile-1068098242.html
+    date: "2018-09-17"
+site_id: null

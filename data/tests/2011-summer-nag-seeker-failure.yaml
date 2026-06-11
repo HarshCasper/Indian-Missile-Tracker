@@ -1,0 +1,28 @@
+id: 2011-summer-nag-seeker-failure
+missile_id: nag
+designation: Nag summer user trial (seeker failure)
+date: "2011"
+date_precision: year
+outcome: failure
+site_id: pokhran-range
+range_tested_km: 4
+confidence: disputed
+description: >-
+  Nag tests during the summer of 2011 in Rajasthan reportedly failed to hit the target at the
+  intended 4 km range. The fault was attributed to the IIR heat-seeker, which could not distinguish
+  the target's heat signature from its surroundings at high ambient temperatures over long
+  distances, prompting development of a new higher-resolution seeker by Research Centre Imarat
+  (RCI).
+notes: >-
+  DISPUTED: the original list cited The Hindu article4970009.ece for this 2011 failure, but that
+  article is actually about the JULY 2013 seeker-evaluation trials (re-verified) - that
+  mis-attributed source has been removed and reassigned to the 2013 record. The 2011 summer failure
+  is documented mainly through Wikipedia-derived program histories; no precise date or
+  contemporaneous reliable URL was located. Assessed at Pokhran/Mahajan, Rajasthan. Retained but
+  marked disputed pending a primary source.
+sources:
+  - title: Engineering:Nag (missile) (2011 summer seeker failure; used as lead)
+    tier: further-reading
+    publisher: HandWiki
+    url: https://handwiki.org/wiki/Engineering:Nag_(missile)
+    accessed: "2026-06-16"

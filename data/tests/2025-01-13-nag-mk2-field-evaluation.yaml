@@ -1,0 +1,35 @@
+id: 2025-01-13-nag-mk2-field-evaluation
+missile_id: nag
+designation: Nag Mk 2 field evaluation trials
+date: "2025-01-13"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: confirmed
+variant: Nag Mk 2
+description: >-
+  DRDO and the Indian Army successfully conducted field evaluation trials of the third-generation,
+  fire-and-forget Nag Mk 2 ATGM at the Pokhran Field Firing Range, Rajasthan. In three field trials
+  the missiles destroyed all targets precisely at both maximum and minimum range, validating the
+  firing range. The trials also evaluated the upgraded NAMICA Version-2 carrier (modified
+  BMP-2/Sarath), completing the weapon system's testing and clearing it for induction.
+notes: >-
+  Confirmed: PIB official release (PRID 2092585, dated 13 January 2025) and independently reported
+  by All India Radio/NewsOnAir, Deccan Herald and Tribune India. Three trials, Pokhran, all targets
+  hit, NAMICA Ver-2 evaluated. PIB content verified via search-engine reproduction and news mirrors
+  (PIB blocks direct fetch).
+sources:
+  - title: >-
+      Successful Field Evaluation Trials of indigenously-developed third-generation Anti-Tank
+      Fire-and-Forget Guided Missile 'Nag Mk 2'
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2092585&reg=3&lang=2
+    accessed: "2026-06-16"
+  - title: New version of anti-tank guided missile Nag Mk 2 tested successfully
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/new-version-of-anti-tank-guided-missile-nag-mk-2-tested-successfully-3353348
+    accessed: "2026-06-16"

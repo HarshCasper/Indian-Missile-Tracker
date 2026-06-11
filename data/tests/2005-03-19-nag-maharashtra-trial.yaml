@@ -1,0 +1,25 @@
+id: 2005-03-19-nag-maharashtra-trial
+missile_id: nag
+designation: Nag development trial
+date: "2005-03-19"
+date_precision: day
+outcome: success
+confidence: reported
+description: >-
+  The third-generation anti-tank guided missile Nag was successfully test-fired in March 2005. DRDL
+  director Prahlada described Nag as an all-weather, day-and-night weapon whose infra-red imaging
+  guidance ensures high accuracy, mainly attacking a battle tank from the top.
+notes: >-
+  Reported by BBC Monitoring South Asia ('India test fires anti-tank missile', 20 March 2005), as
+  compiled in the NTI India Missile Chronology. Source places the test in the 'western Indian state
+  of Maharashtra' (likely the Ahmednagar armoured-corps ranges); not one of the listed facilities,
+  so site_id left empty. Real site name per source: Maharashtra.
+sources:
+  - title: >-
+      India Missile Chronology (citing 'India test fires anti-tank missile', BBC Monitoring South
+      Asia, 20 March 2005)
+    tier: foreign-news
+    publisher: Nuclear Threat Initiative (NTI) / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    accessed: "2026-06-16"
+site_id: null

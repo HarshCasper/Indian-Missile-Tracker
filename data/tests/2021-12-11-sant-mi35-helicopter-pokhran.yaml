@@ -1,0 +1,76 @@
+id: 2021-12-11-sant-mi35-helicopter-pokhran
+missile_id: sant
+variant: helicopter-launched (MMW seeker)
+designation: Helicopter-launched Stand-off Anti-tank (SANT) Missile
+date: "2021-12-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 10
+description: >-
+  DRDO and the Indian Air Force successfully flight-tested the helicopter-launched SANT missile from
+  the Pokhran ranges in Rajasthan on 11 December 2021, meeting all mission objectives. The release
+  mechanism, advanced guidance and tracking algorithms, and all avionics with integrated software
+  performed satisfactorily. The missile uses a state-of-the-art millimetre-wave (MMW) seeker for
+  high-precision strike and can neutralise targets at a range up to 10 km.
+notes: >-
+  Air-launched (helicopter) over the Pokhran range, Rajasthan; site mapped to pokhran-range.
+  Verified directly against the official PIB/MoD release (PRID 1780481, dated 11 DEC 2021) plus
+  Tribune/PTI and Airforce Technology. Designed and developed by Research Centre Imarat (RCI),
+  Hyderabad with other DRDO labs and industry. PIB describes it as the third in a recent series of
+  indigenous stand-off weapons tested (after a long-range bomb and the SMART anti-airfield weapon).
+  IMPORTANT: the official PIB release does NOT name the helicopter platform; the 'first Mi-35
+  launch' detail comes only from secondary news reporting, so it is recorded as a 'reported' claim,
+  not official.
+claims:
+  - field: range_tested_km
+    value: 10
+    basis: official
+    text: MoD/PIB official release states the SANT can neutralise targets in a range up to 10 km.
+    source:
+      title: DRDO & Indian Air Force successfully flight-test indigenous Stand-Off Anti-Tank Missile
+      tier: pib
+      publisher: Press Information Bureau (PIB), Ministry of Defence
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780481
+      date: "2021-12-11"
+      accessed: "2026-06-16"
+  - field: launch_platform
+    basis: reported
+    text: >-
+      Secondary reporting states this was the first launch from a Russian-origin Mi-35 helicopter
+      gunship. The official PIB release does not specify the platform, so this detail is reported,
+      not official.
+    source:
+      title: IAF-DRDO flight-tested Helicopter-launched SANT Missile
+      tier: indian-news
+      publisher: Adda247 Current Affairs
+      url: https://currentaffairs.adda247.com/drdo-indian-air-force/
+      date: "2021-12-12"
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO & Indian Air Force successfully flight-test indigenous Stand-Off Anti-Tank Missile
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780481
+    date: "2021-12-11"
+    accessed: "2026-06-16"
+  - title: DRDO, Indian Air Force flight-test indigenous SANT missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/news/drdo-iaf-flight-test-sant-missile/
+    date: "2021-12-13"
+    accessed: "2026-06-16"
+  - title: India flight tests helicopter-launched stand-off anti-tank missile
+    tier: indian-news
+    publisher: The Tribune (PTI)
+    url: >-
+      https://www.tribuneindia.com/news/nation/india-flight-tests-helicopter-launched-stand-off-anti-tank-missile-349187
+    date: "2021-12-11"
+    accessed: "2026-06-16"
+  - title: IAF-DRDO flight-tested Helicopter-launched SANT Missile
+    tier: indian-news
+    publisher: Adda247 Current Affairs
+    url: https://currentaffairs.adda247.com/drdo-indian-air-force/
+    date: "2021-12-12"
+    accessed: "2026-06-16"

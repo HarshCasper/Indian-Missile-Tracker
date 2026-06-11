@@ -1,0 +1,56 @@
+id: 2019-02-08-helina-itr-chandipur-air-launched
+missile_id: helina
+variant: HELINA (Army version)
+designation: Developmental flight test off Odisha coast
+date: "2019-02-08"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 7
+description: >-
+  HELINA was successfully flight-tested at about 12:55 pm on 8 February 2019 from an Army helicopter
+  near the Integrated Test Range at Chandipur, Balasore district, Odisha, to validate its
+  full/maximum range (stated 7-8 km) and accuracy. The missile released smoothly, tracked the target
+  throughout and struck with high precision; all flight parameters were monitored by telemetry and
+  tracking systems.
+notes: >-
+  Air-launched from an Army helicopter over the Odisha test range (ITR Chandipur). Multiple Indian
+  outlets cite a 7-8 km hit range for the system. Date (8 Feb 2019) and success confirmed across
+  PTI-sourced outlets.
+sources:
+  - title: Helicopter-launched anti-tank missile 'Helina' test-fired
+    tier: indian-news
+    publisher: The Tribune / PTI
+    url: >-
+      https://www.tribuneindia.com/news/archive/nation/helicopter-launched-anti-tank-missile-helina-test-fired-726000/
+    date: "2019-02-08"
+    accessed: "2026-06-16"
+  - title: Indigenous chopper-launched anti-tank missile 'Helina' test-fired in Odisha
+    tier: indian-news
+    publisher: Business Standard / PTI
+    url: >-
+      https://www.business-standard.com/article/pti-stories/helicopter-launched-anti-tank-missile-helina-test-fired-119020800579_1.html
+    date: "2019-02-08"
+    accessed: "2026-06-16"
+  - title: Anti-tank Missile Helina Flight Tested
+    tier: indian-news
+    publisher: GKToday
+    url: https://www.gktoday.in/anti-tank-missile-helina-flight-tested/
+    date: "2019-02-09"
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 7
+    min: 7
+    max: 8
+    basis: reported
+    text: Hit range of 7-8 km cited by Indian outlets
+    source:
+      title: Helicopter-launched anti-tank missile 'Helina' test-fired
+      tier: indian-news
+      publisher: The Tribune / PTI
+      url: >-
+        https://www.tribuneindia.com/news/archive/nation/helicopter-launched-anti-tank-missile-helina-test-fired-726000/
+      date: "2019-02-08"
+      accessed: "2026-06-16"

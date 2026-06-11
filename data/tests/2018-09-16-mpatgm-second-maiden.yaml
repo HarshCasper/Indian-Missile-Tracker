@@ -1,0 +1,35 @@
+id: 2018-09-16-mpatgm-second-maiden
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Developmental Flight Trial
+date: "2018-09-16"
+date_precision: day
+outcome: success
+confidence: confirmed
+description: >-
+  Second of the two consecutive maiden developmental trials, conducted the morning after the first.
+  Reported as a different-range trajectory in top-attack mode; all mission objectives met.
+notes: >-
+  Launch site: Army's KK Ranges, Ahmednagar, Maharashtra (not one of the listed facilities). The
+  Indian MoD statement described the two missions of 15 and 16 September 2018 as covering different
+  ranges including maximum-range capability. Re-verified against The Diplomat, Army Technology and
+  Livefist.
+sources:
+  - title: India's DRDO Test Fires Indigenous Man Portable Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/09/indias-drdo-test-fires-indigenous-man-portable-anti-tank-guided-missile/
+    date: "2018-09-17"
+  - title: Indian Army conducts twin tests of DRDO-built MPATGM weapon system
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/indian-army-twin-tests-mpatgm-weapon/
+    date: "2018-09-17"
+  - title: 1st Test Of Shoulder Launched Anti-Tank NAG Missile
+    tier: foreign-news
+    publisher: Livefist Defence
+    url: >-
+      https://www.livefistdefence.com/india-conducts-1st-test-of-shoulder-launched-anti-tank-nag-missile/
+    date: "2018-09-16"
+site_id: null

@@ -1,0 +1,40 @@
+id: 2019-09-11-mpatgm-tripod-top-attack
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Developmental Flight Trial (third series)
+date: "2019-09-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+description: >-
+  DRDO successfully flight-tested the fire-and-forget MPATGM from a man-portable tripod launcher
+  against a simulated tank target, which was hit and destroyed in top-attack mode. Described by the
+  defence ministry as the third series of successful MPATGM testing, validating the imaging infrared
+  seeker and avionics.
+notes: >-
+  Launch site: DRDO ranges at Kurnool, Andhra Pradesh (National Open Air Range / NOAR area; not KK
+  Ranges, and not one of the listed facilities). Tripod-launched, top-attack against a dummy tank.
+  Test conducted 11 September 2019 per defence-ministry statement (Tribune, Swarajya); The Diplomat
+  reported it 12 September. Date re-verified.
+sources:
+  - title: "Man Portable Anti-Tank Guided Missile successfully flight-tested: Defence ministry"
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/archive/nation/man-portable-anti-tank-guided-missile-successfully-flight-tested-defence-ministry-831112
+    date: "2019-09-11"
+  - title: >-
+      Watch: DRDO Successfully Tests Indigenously Developed Fire And Forget Man Portable Anti-Tank
+      Guided Missile
+    tier: indian-news
+    publisher: Swarajya
+    url: >-
+      https://swarajyamag.com/insta/watch-drdo-successfully-tests-indigenously-developed-fire-and-forget-man-portable-anti-tank-guided-missile
+    date: "2019-09-12"
+  - title: India's DRDO Test Fires New Man-Portable Anti-Tank Guided Missile System
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2019/09/indias-drdo-test-fires-new-man-portable-anti-tank-guided-missile-system/
+    date: "2019-09-12"
+site_id: null

@@ -1,0 +1,27 @@
+id: 1997-09-09-nag-iir-seeker-trial
+missile_id: nag
+designation: Nag development trial (IIR seeker)
+date: "1997-09-09"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+confidence: reported
+description: >-
+  First successful flight test of the Nag ATGM using the imaging infrared (IIR) seeker, reported on
+  9 September 1997. Guidance-system problems had held back successful trials until the IIR seeker
+  was introduced to meet Army requirements.
+notes: >-
+  Army Technology states the first successful test firing using an IIR seeker was conducted on 09
+  September 1997. Exact site not documented; ITR Chandipur assessed as the test range.
+  HandWiki/Bharat Rakshak used only as a lead, not as a citation.
+sources:
+  - title: Nag Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/nag-anti-tank-guided-missile/
+    accessed: "2026-06-16"
+  - title: Engineering:Nag (missile)
+    tier: further-reading
+    publisher: HandWiki
+    url: https://handwiki.org/wiki/Engineering:Nag_(missile)
+    accessed: "2026-06-16"

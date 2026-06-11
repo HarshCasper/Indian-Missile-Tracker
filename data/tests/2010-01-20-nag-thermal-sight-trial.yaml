@@ -1,0 +1,22 @@
+id: 2010-01-20-nag-thermal-sight-trial
+missile_id: nag
+designation: Nag thermal sight / seeker trial
+date: "2010-01-20"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 5
+confidence: reported
+description: >-
+  In a winter trial in Rajasthan, the Nag thermal-sight system identified and locked on to a T-55
+  tank target at a range of 5 km; the missile then engaged and destroyed the target at over 4 km.
+notes: >-
+  The Hindu (Y. Mallikarjun, 'Nag hits target in three seconds after launch'). 5 km cited as the
+  seeker lock-on range against a T-55 target; engagement at over 4 km. Assessed at Pokhran/Rajasthan
+  ranges. Single solid Indian-news source.
+sources:
+  - title: Nag hits target in three seconds after launch
+    tier: indian-news
+    publisher: The Hindu
+    url: http://www.thehindu.com/news/national/article448188.ece
+    accessed: "2026-06-16"

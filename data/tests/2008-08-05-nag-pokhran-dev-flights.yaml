@@ -1,0 +1,30 @@
+id: 2008-08-05-nag-pokhran-dev-flights
+missile_id: nag
+designation: Nag developmental flight tests (production version)
+date: "2008-08-05"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: confirmed
+description: >-
+  India successfully flight-tested the production version of the Nag fire-and-forget ATGM over two
+  consecutive days (5-6 August 2008) at the Pokhran ranges against stationary and moving targets at
+  4 km, with both targets hit. For the first time the Army witnessed the production NAMICA carrier
+  (BEL) and BDL-built missiles; with these the developmental flights were declared complete.
+notes: >-
+  Confirmed by IRNA via GlobalSecurity (7 Aug 2008) and by the NTI India Missile Chronology (citing
+  Aerospace Daily & Defense Report, 7 Aug 2008), which agree on 5-6 August 2008 at Pokhran, 4 km,
+  both targets hit. The Hindu (7 Aug 2008) reported the same. Counted as one record covering the 5-6
+  August developmental flight series.
+sources:
+  - title: India test fires anti-tank "NAG" missile (IRNA)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-080807-irna01.htm
+    accessed: "2026-06-16"
+  - title: India Missile Chronology (5-6 August 2008 Nag entry, citing Aerospace Daily & Defense Report)
+    tier: foreign-news
+    publisher: Nuclear Threat Initiative (NTI) / James Martin CNS
+    url: https://media.nti.org/pdfs/india_missile.pdf
+    accessed: "2026-06-16"

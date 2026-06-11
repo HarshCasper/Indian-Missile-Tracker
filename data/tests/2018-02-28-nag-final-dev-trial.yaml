@@ -1,0 +1,30 @@
+id: 2018-02-28-nag-final-dev-trial
+missile_id: nag
+designation: Nag final developmental trial
+date: "2018-02-28"
+date_precision: day
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: confirmed
+description: >-
+  The Nag ATGM was successfully flight-tested in desert conditions at the Pokhran ranges against two
+  tank targets at different ranges and timings on 28 February 2018. With this, DRDO declared the
+  developmental trials of the missile complete and the system ready for induction.
+notes: >-
+  Confirmed: DRDO/PIB official release ('Successful Flight Test of ATGM NAG') and independently
+  reported by GlobalSecurity (Sputnik, 1 March 2018) and The Diplomat - all agree on a 28 February
+  2018 final developmental trial at Pokhran, two tank targets, success, developmental trials
+  complete. PIB content verified via search-engine reproduction and the GlobalSecurity/Diplomat
+  mirrors (PIB site blocks direct fetch).
+sources:
+  - title: Successful Flight Test of ATGM NAG
+    tier: pib
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1522155
+    accessed: "2026-06-16"
+  - title: India's Homegrown Anti-Tank Guided Missile Clears Final Trial
+    tier: foreign-news
+    publisher: GlobalSecurity.org (Sputnik)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180301-sputnik01.htm
+    accessed: "2026-06-16"

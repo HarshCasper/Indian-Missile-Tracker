@@ -1,0 +1,38 @@
+id: 2009-summer-nag-pokhran-user-trials
+missile_id: nag
+designation: Nag summer user trials
+date: "2009"
+date_precision: year
+outcome: success
+site_id: pokhran-range
+range_tested_km: 4
+confidence: disputed
+description: >-
+  Summer user trials of the Nag ATGM were reported conducted in the Rajasthan (Pokhran) desert
+  during the summer of 2009 using the IIR seeker head; following these trials the Nag was reported
+  cleared for production in July 2009.
+notes: >-
+  DISPUTED: the only corroboration is secondary. The original list's cited Army Technology URL is in
+  fact about the July 2019 summer trials, not 2009 - that citation error has been removed. The 2009
+  summer trials and July 2009 production clearance appear only in Wikipedia-derived compilations and
+  brief secondary mentions; no contemporaneous PIB/Indian-news report with a working URL was
+  located. Date precision reduced to year. Subsequent failures in 2011-2012 indicate the 2009
+  'production clearance' did not lead to immediate induction.
+claims:
+  - field: production_clearance
+    text: Nag reported cleared for production in July 2009 after summer trials
+    value: 2009
+    basis: reported
+    note: Only secondary/further-reading sourcing; not independently confirmed.
+    source:
+      title: Engineering:Nag (missile)
+      tier: further-reading
+      publisher: HandWiki
+      url: https://handwiki.org/wiki/Engineering:Nag_(missile)
+      accessed: "2026-06-16"
+sources:
+  - title: Engineering:Nag (missile) (used as lead; 2009 summer trials / July 2009 production clearance)
+    tier: further-reading
+    publisher: HandWiki
+    url: https://handwiki.org/wiki/Engineering:Nag_(missile)
+    accessed: "2026-06-16"

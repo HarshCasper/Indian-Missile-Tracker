@@ -1,0 +1,38 @@
+id: 2019-03-13-mpatgm-guided-flight-top-attack
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Guided Flight Trial (GFT)
+date: "2019-03-13"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 2.5
+description: >-
+  Successful guided flight trial that validated the missile's top-attack mode and imaging infrared
+  seeker performance, with the target engaged at the maximum range of about 2,500 m. First of two
+  successful trials on consecutive days.
+notes: >-
+  Launch site: Rajasthan desert (specific range not named; not one of the listed facilities).
+  Top-attack mode demonstrated at 2,500 m. Note: some current-affairs aggregators conflate the March
+  2019 GFT location with Kurnool; Army Technology and GlobalSecurity place the March 2019 GFT in the
+  Rajasthan desert (Kurnool was the separate September 2019 series).
+claims:
+  - field: range_tested_km
+    value: 2.5
+    basis: reported
+    text: Top-attack mode demonstrated at 2,500 m in the Rajasthan desert
+    source:
+      title: Man-Portable Anti-Tank Guided Missile (MPATGM), India
+      tier: foreign-news
+      publisher: Army Technology
+      url: https://www.army-technology.com/projects/man-portable-anti-tank-guided-missile-mpatgm-india/
+sources:
+  - title: Man-Portable Anti-Tank Guided Missile (MPATGM), India
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/man-portable-anti-tank-guided-missile-mpatgm-india/
+  - title: Nag (Cobra) anti-tank / NAG-MPATGM program
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/nag-mpatgm-program.htm
+site_id: null

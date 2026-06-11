@@ -1,0 +1,22 @@
+id: 2010-06-nag-three-second-trial
+missile_id: nag
+designation: Nag short-range validation trial
+date: 2010-06
+date_precision: month
+outcome: success
+site_id: pokhran-range
+range_tested_km: 0.5
+confidence: reported
+description: >-
+  A Nag missile hit a target at a range of half a kilometre in about three seconds during summer
+  trials in Rajasthan, demonstrating the 500 m minimum-range engagement capability.
+notes: >-
+  The Hindu (Y. Mallikarjun). Demonstrated the 500 m minimum-range engagement; a follow-on test
+  reportedly hit a moving target within ~3.2 seconds. Single Indian-news source; same reporting
+  thread as the January 2010 trial.
+sources:
+  - title: Nag hits target in three seconds after launch
+    tier: indian-news
+    publisher: The Hindu
+    url: http://www.thehindu.com/news/national/article448188.ece
+    accessed: "2026-06-16"

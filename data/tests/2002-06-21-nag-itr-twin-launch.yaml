@@ -1,0 +1,24 @@
+id: 2002-06-21-nag-itr-twin-launch
+missile_id: nag
+designation: Nag development trial (43rd & 44th launches)
+date: "2002-06-21"
+date_precision: day
+outcome: success
+site_id: itr-chandipur
+range_tested_km: 4
+confidence: reported
+description: >-
+  Two Nag missiles were test-fired at the Interim Test Range, Balasore (Chandipur), Odisha, at 1015
+  hrs and 1300 hrs, described as the 43rd and 44th test launches of the missile. The trajectory of
+  both trials was fully tracked through flight with telemetry data received.
+notes: >-
+  GlobalSecurity records 21 June 2002 twin launch at ITR Balasore as the 43rd and 44th test
+  launches, and notes that as of 1998 ~18 flight trials had been conducted, indicating many earlier
+  developmental launches not individually documented. The 4 km range value reflects the program
+  design range, not necessarily the distance flown in this specific trial.
+sources:
+  - title: Nag (Cobra) anti-tank missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/nag.htm
+    accessed: "2026-06-16"

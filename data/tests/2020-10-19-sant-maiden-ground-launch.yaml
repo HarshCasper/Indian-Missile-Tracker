@@ -1,0 +1,103 @@
+id: 2020-10-19-sant-maiden-ground-launch
+missile_id: sant
+variant: ground/roof-top static-launched test article
+designation: SANT Stand-off Anti-tank Missile
+date: "2020-10-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 12
+description: >-
+  Maiden flight test of the DRDO Stand-off Anti-tank (SANT) missile, fired from a roof-top/ground
+  static launcher at the Integrated Test Range (ITR) off the Odisha coast on 19 October 2020. The
+  missile met all mission parameters and the designated static target was hit with high accuracy.
+  The system demonstrated both Lock-on Before Launch and Lock-on After Launch capability; a range of
+  about 12 km was reported for this test.
+notes: >-
+  First documented SANT flight. Launched from a static roof-top/ground-based launcher (NOT a
+  helicopter) at ITR off the Odisha coast; site mapped to itr-chandipur. No PIB/MoD official press
+  release exists for this 2020 test; verification rests on consistent Indian news reporting
+  (ANI-derived BW, Telangana Today, Zee, Swarajya, adda247). Reported as India's 11th-12th missile
+  test in ~45 days during heightened India-China border tensions (one outlet's headline says 11th
+  while its body says 12th). SANT is an upgraded development of the Helicopter-launched Nag (HeliNa)
+  with a nose-mounted seeker. A few outlets gave the test date as 21 October (likely the article
+  update date); 19 October is the dominant figure across sources.
+claims:
+  - field: range_tested_km
+    value: 12
+    basis: reported
+    text: >-
+      Range reported as ~12 km for the SANT missile at this test; the designated static target was
+      hit with high accuracy.
+    source:
+      title: >-
+        India Successfully Test-Fires Stand-Off Anti-Tank Missile; Marks 11th Missile Test In A
+        Month And A Half
+      tier: indian-news
+      publisher: Swarajya (ANI-derived)
+      url: >-
+        https://swarajyamag.com/insta/india-successfully-test-fires-stand-off-anti-tank-missile-11th-missile-test-in-past-forty-five-days
+      date: "2020-10-19"
+      accessed: "2026-06-16"
+  - field: range_assessed_km
+    min: 15
+    max: 20
+    basis: assessed
+    text: >-
+      Some outlets reported the upgraded SANT variant's eventual destruction range as 15-20 km
+      (double the earlier Helina), but 12 km is the figure tied to this specific test. The figures
+      conflict, so both are recorded.
+    source:
+      title: "SANT Missile Successfully Test-Fired: Here's What You Must Know"
+      tier: indian-news
+      publisher: Indian Defense News
+      url: https://www.indiandefensenews.in/2020/10/sant-missile-successfully-test-fired.html
+      date: "2020-10-24"
+      accessed: "2026-06-16"
+  - field: launch_platform
+    basis: reported
+    text: >-
+      Test-fired from a roof-top launcher of a ground-based platform at the Integrated Test Range
+      (ITR) off the Odisha coast (not a helicopter launch).
+    source:
+      title: India successfully test fires SANT Missile off Odisha coast
+      tier: indian-news
+      publisher: Telangana Today
+      url: https://telanganatoday.com/india-successfully-test-fires-sant-missile-off-odisha-coast
+      date: "2020-10-19"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India Successfully Test-Fires Stand-Off Anti-Tank Missile; Marks 11th Missile Test In A Month
+      And A Half
+    tier: indian-news
+    publisher: Swarajya (ANI-derived)
+    url: >-
+      https://swarajyamag.com/insta/india-successfully-test-fires-stand-off-anti-tank-missile-11th-missile-test-in-past-forty-five-days
+    date: "2020-10-19"
+    accessed: "2026-06-16"
+  - title: India successfully test fires SANT Missile off Odisha coast
+    tier: indian-news
+    publisher: Telangana Today
+    url: https://telanganatoday.com/india-successfully-test-fires-sant-missile-off-odisha-coast
+    date: "2020-10-19"
+    accessed: "2026-06-16"
+  - title: India successfully test-fires "SANT" Missile off Odisha coast
+    tier: indian-news
+    publisher: Adda247 Current Affairs
+    url: >-
+      https://currentaffairs.adda247.com/india-successfully-test-fires-sant-missile-off-odisha-coast/
+    date: "2020-10-20"
+    accessed: "2026-06-16"
+  - title: "SANT Missile Successfully Test-Fired: Here's What You Must Know"
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2020/10/sant-missile-successfully-test-fired.html
+    date: "2020-10-24"
+    accessed: "2026-06-16"
+  - title: Nag (Cobra) Stand-off Anti-Tank (SANT) Guided Missile
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/nag-sant.htm
+    accessed: "2026-06-16"

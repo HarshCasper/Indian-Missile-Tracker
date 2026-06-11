@@ -1,0 +1,54 @@
+id: 2018-08-19-helina-maiden-helicopter-test-pokhran
+missile_id: helina
+variant: HELINA (Army version)
+designation: Maiden helicopter-launched flight test at Pokhran
+date: "2018-08-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 7
+description: >-
+  On 19 August 2018 the helicopter-launched anti-tank guided missile HELINA was successfully flight
+  tested from an Indian Army helicopter at the Pokhran ranges in Jaisalmer district, Rajasthan, at
+  about 1400 hrs. The weapon system was tested for its full range; the missile released smoothly
+  from the launch platform, tracked the target throughout its course and hit it with high precision.
+  This was described as the first trial using an upgraded imaging infra-red (IIR) seeker.
+notes: >-
+  Platform disputed: the official statement said only 'Army helicopter' and did not specify; some
+  outlets (e.g. Oneindia) say a HAL LCH, while analysts suggest the armed ALH (HAL Rudra) was the
+  more likely platform. This is the maiden Pokhran helicopter trial of the program but not the
+  first-ever helicopter-launched firing (three helicopter trials occurred at Chandan in July 2015).
+  Range stated as the ~7 km system capability rather than a measured distance for this flight.
+sources:
+  - title: India Successfully Tests Indigenous Air-Launched Anti-Tank Guided Missile
+    tier: foreign-news
+    publisher: The Diplomat
+    url: >-
+      https://thediplomat.com/2018/08/india-successfully-tests-indigenous-air-launched-anti-tank-guided-missile/
+    date: "2018-08-20"
+    accessed: "2026-06-16"
+  - title: HELINA test-fired from Army helicopter at Pokhran (PIB/Sputnik reprint)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180820-sputnik01.htm
+    date: "2018-08-20"
+    accessed: "2026-06-16"
+  - title: "EXPLAINED: All You Need To Know About Anti-Tank Guided Missile Helina"
+    tier: indian-news
+    publisher: Oneindia
+    url: >-
+      https://www.oneindia.com/india/explained-all-you-need-to-know-about-anti-tank-guided-missile-helina-that-can-destroy-targets-mil-3395014.html
+    accessed: "2026-06-16"
+claims:
+  - field: platform
+    basis: reported
+    text: Platform not officially specified; reported variously as HAL LCH or armed ALH (Rudra)
+    source:
+      title: India Successfully Tests Indigenous Air-Launched Anti-Tank Guided Missile
+      tier: foreign-news
+      publisher: The Diplomat
+      url: >-
+        https://thediplomat.com/2018/08/india-successfully-tests-indigenous-air-launched-anti-tank-guided-missile/
+      date: "2018-08-20"
+      accessed: "2026-06-16"

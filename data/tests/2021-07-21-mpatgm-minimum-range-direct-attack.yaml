@@ -1,0 +1,43 @@
+id: 2021-07-21-mpatgm-minimum-range-direct-attack
+missile_id: mpatgm
+variant: developmental
+designation: MPATGM Minimum-Range Flight Test
+date: "2021-07-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 0.3
+description: >-
+  DRDO flight-tested the MPATGM in direct-attack mode against a tank-mimicking target using a
+  thermal sight to validate the minimum-range capability (about 200-300 m). The missile was launched
+  from a man-portable launcher integrated with a thermal site, hit and destroyed the target,
+  validating in-flight stability and guidance deployment over a short distance.
+notes: >-
+  Launch site not specified in the PIB/DRDO release; not one of the listed facilities. Minimum range
+  validated at 200-300 m in direct-attack mode. Re-verified against PIB (PRID 1737529) and the same
+  release reported by SSBCrack.
+claims:
+  - field: range_tested_km
+    min: 0.2
+    max: 0.3
+    basis: official
+    text: Minimum range validated at 200-300 m in direct-attack mode
+    source:
+      title: DRDO successfully flight-tests indigenously developed MPATGM for minimum range
+      tier: pib
+      publisher: Press Information Bureau
+      url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1737529
+      date: "2021-07-21"
+sources:
+  - title: DRDO successfully flight-tests indigenously developed MPATGM for minimum range
+    tier: pib
+    publisher: Press Information Bureau
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1737529
+    date: "2021-07-21"
+  - title: DRDO Successfully Flight Tests Indigenously Developed MPATGM For Minimum Range
+    tier: indian-news
+    publisher: SSBCrackExams
+    url: >-
+      https://ssbcrackexams.com/drdo-successfully-flight-tests-indigenously-developed-mpatgm-for-minimum-range/
+    date: "2021-07-21"
+site_id: null

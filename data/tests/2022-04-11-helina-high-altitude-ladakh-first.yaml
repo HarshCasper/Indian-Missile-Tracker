@@ -1,0 +1,57 @@
+id: 2022-04-11-helina-high-altitude-ladakh-first
+missile_id: helina
+variant: HELINA (Army version)
+designation: First high-altitude user validation flight test
+date: "2022-04-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 7
+apogee_km: 6
+description: >-
+  HELINA was successfully flight-tested on 11 April 2022 from an Advanced Light Helicopter (ALH) at
+  a high-altitude range in eastern Ladakh as part of user validation trials jointly conducted by
+  DRDO, the Indian Army and the IAF. The missile, using its Imaging Infra-Red seeker in
+  Lock-On-Before-Launch mode, accurately engaged a simulated tank target, proving efficacy at high
+  altitudes.
+notes: >-
+  Conducted at a high-altitude range in eastern Ladakh, which is not among the listed known
+  facilities; site_id left empty. In continuation of validation trials conducted earlier at Pokhran.
+  Janes notes high-altitude ALH tests are carried out at altitudes of 6 km or higher; the exact
+  altitude for this specific flight was not disclosed, so the apogee figure is approximate.
+sources:
+  - title: Anti-Tank Guided Missile 'HELINA' successfully flight tested at high altitude (PIB reprint)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220411-india-pib03.htm
+    date: "2022-04-11"
+    accessed: "2026-06-16"
+  - title: India's Helina ATGM tested at high altitude
+    tier: foreign-news
+    publisher: Janes
+    url: https://www.janes.com/osint-insights/defence-news/indias-helina-atgm-tested-at-high-altitude
+    date: "2022-04-12"
+    accessed: "2026-06-16"
+  - title: HELINA Anti-tank Missile Passes High altitude Test
+    tier: indian-news
+    publisher: BW Businessworld
+    url: >-
+      https://www.businessworld.in/article/HELINA-Anti-tank-Missile-Passes-High-altitude-Test-To-Pave-Way-For-Acceptance-By-Indian-Army/11-04-2022-425190/
+    date: "2022-04-11"
+    accessed: "2026-06-16"
+claims:
+  - field: apogee_km
+    value: 6
+    min: 6
+    basis: reported
+    text: >-
+      High-altitude ALH tests carried out at altitudes of approximately 6 km or higher above mean
+      sea level; exact altitude for this flight not disclosed
+    source:
+      title: India's Helina ATGM tested at high altitude
+      tier: foreign-news
+      publisher: Janes
+      url: https://www.janes.com/osint-insights/defence-news/indias-helina-atgm-tested-at-high-altitude
+      date: "2022-04-12"
+      accessed: "2026-06-16"
+site_id: null

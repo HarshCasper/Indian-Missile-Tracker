@@ -1,0 +1,23 @@
+id: 2017-09-08-nag-dev-trials
+missile_id: nag
+designation: Nag developmental flight tests
+date: "2017-09-08"
+date_precision: day
+outcome: success
+confidence: reported
+description: >-
+  DRDO twice successfully flight-tested the Nag ATGM against two different tank targets in the
+  Rajasthan ranges (reported 8-9 September 2017). Both targets were hit at different ranges and
+  under different conditions with high accuracy; together with the earlier peak-summer trial, this
+  was said to establish the full functionality of the Nag/NAMICA system.
+notes: >-
+  MoD statement reported via Sputnik/GlobalSecurity (8-9 September 2017). Specific firing site not
+  named beyond 'ranges of Rajasthan' (assessed Pokhran/Mahajan), so site_id left empty. Real site
+  name per source: Rajasthan ranges.
+sources:
+  - title: "Cobra's Venom: India's Homegrown Anti-Tank Missile Impresses in Tests"
+    tier: foreign-news
+    publisher: GlobalSecurity.org (Sputnik)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2017/india-170912-sputnik01.htm
+    accessed: "2026-06-16"
+site_id: null
