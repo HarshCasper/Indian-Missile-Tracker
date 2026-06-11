@@ -1,0 +1,64 @@
+id: 2025-rudram-3-captive-carriage-trials-su30mki
+missile_id: rudram-3
+variant: Rudram-III (RudraM-III)
+designation: Su-30MKI captive carriage / integration trials
+date: "2025"
+date_precision: year
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Captive carriage (and dummy/integration) trials of the Rudram-III air-to-surface anti-radiation
+  missile were reported completed, with two missiles mounted on a modified Su-30MKI. The missile was
+  carried aloft but not released, validating structural integrity, aerodynamic stability and
+  aircraft-missile integration ahead of release/inflight trials. Reported air-launched over the
+  Odisha test range/Bay of Bengal; exact date and location not officially disclosed.
+notes: >-
+  Carriage trial only (missile carried in flight, not fired) - not a powered/guided flight.
+  Air-launched from a modified Su-30MKI; specific launch site NOT officially confirmed (assigned
+  itr-chandipur as the customary Odisha air-to-surface test range, with the caveat that reports only
+  say 'over the Odisha range / Bay of Bengal'). No exact date located; reported as completed in 2025
+  by defence-news outlets. No PIB/MoD/DRDO press release exists for Rudram-III (verified: PIB only
+  carries Rudram-I 2020 and Rudram-II 2024 releases). Distinct from the later July 2025
+  release/separation trials. Confidence kept 'reported' - corroborated across multiple outlets but
+  no official source and no exact date/site.
+sources:
+  - title: "Captive Trials of RudraM-III on Su-30 MKI Completed: Inflight Testing to Begin Later This Year"
+    tier: further-reading
+    publisher: Indian Defence Research Wing (idrw.org)
+    url: >-
+      https://idrw.org/captive-trials-of-rudram-iii-on-su-30-mki-completed-inflight-testing-to-begin-later-this-year/
+    date: "2025"
+    accessed: "2026-06-16"
+  - title: "Explained: How Rudram-III on Su-30MKI Can Hit Targets 500 km Away Without Risking Pilots"
+    tier: indian-news
+    publisher: Indian Masterminds
+    url: https://indianmasterminds.com/news/rudram-iii-integration-su30mki-drdo-india-191755/
+    date: "2026-03-17"
+    accessed: "2026-06-16"
+  - title: India Conducts Successful Trials of RudraM-III Missile from Modified Su-30MKI Jet
+    tier: indian-news
+    publisher: SSBCrack
+    url: >-
+      https://shop.ssbcrack.com/blogs/blog/india-conducts-successful-trials-of-rudram-iii-missile-from-modified-su-30mki-jet
+    date: "2025-07-31"
+    accessed: "2026-06-16"
+claims:
+  - field: range_km
+    text: >-
+      Designed operational range ~500-600 km when released from high altitude (~11 km); design
+      figure, not demonstrated in this trial. Some coverage cites 350-550 km or 550-600 km.
+    min: 500
+    max: 600
+    basis: reported
+    note: >-
+      Design/claimed range; this was a carriage trial with no range demonstrated. Figures vary
+      across sources (350-550 to 550-600 km).
+    source:
+      title: "Explained: How Rudram-III on Su-30MKI Can Hit Targets 500 km Away Without Risking Pilots"
+      tier: indian-news
+      publisher: Indian Masterminds
+      url: https://indianmasterminds.com/news/rudram-iii-integration-su30mki-drdo-india-191755/
+      date: "2026-03-17"
+      accessed: "2026-06-16"

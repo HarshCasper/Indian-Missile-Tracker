@@ -1,0 +1,110 @@
+id: 2024-05-29-rudram-2-maiden-flight-test
+missile_id: rudram-2
+variant: RudraM-II
+designation: RudraM-II first full-configuration flight test
+date: "2024-05-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  First full-configuration flight test of the RudraM-II (Rudram-2) air-to-surface anti-radiation
+  missile, air-launched from an IAF Su-30 MK-I at around 1130 hours on 29 May 2024 off the Odisha
+  coast over the Bay of Bengal. The test met all trial objectives, validating the solid-propulsion
+  system and the control & guidance algorithm; flight data was captured by ITR Chandipur
+  electro-optical, radar and telemetry stations including an on-board ship.
+notes: >-
+  Air-launched from a Su-30 MK-I over the Odisha test range (site recorded as ITR Chandipur, which
+  provided range instrumentation; release point was off the Odisha coast over the Bay of Bengal).
+  Widely described as the first full-configuration flight trial of RudraM-II (Swarajya: 'the one in
+  May 2024 being the first full-configuration trial'). Note: some secondary coverage derived from
+  Wikipedia refers to a 2022 release trial and a July 2023 anti-radiation test, but these are not
+  independently documented as discrete, reliably-sourced flight tests and are treated here as
+  development milestones, not separate events. Stated 300-350 km / Mach 5.5 / ~200 kg figures are
+  design/capability values, not a demonstrated flown range in this test.
+claims:
+  - field: range_km
+    text: Strike range stated as 300-350 km (design/capability, not the distance flown in this test)
+    min: 300
+    max: 350
+    basis: reported
+    note: >-
+      Capability figure cited by media; the official MoD/DRDO/PIB release did not state a flown
+      range for the test.
+    source:
+      title: >-
+        India successfully tests anti-radiation indigenously developed Air to Surface RudraM-II
+        missile
+      url: >-
+        https://www.indiatvnews.com/news/india/india-successfully-tests-rudram-ii-anti-radiation-indigenously-developed-air-to-surface-missile-2024-05-29-934100
+      publisher: India TV
+      tier: indian-news
+      date: "2024-05-29"
+      accessed: "2026-06-16"
+  - field: range_km
+    text: Strike range cited as 300 km (design/capability)
+    value: 300
+    basis: reported
+    note: Foreign-press capability figure; not a flown range for this test.
+    source:
+      title: India successfully tests Rudram-II air-to-surface missile from Su-30 MKI fighter jet
+      url: >-
+        https://www.armyrecognition.com/news/aerospace-news/2024/india-successfully-tests-rudram-ii-air-to-surface-missile-from-su-30-mki-fighter-jet
+      publisher: Army Recognition
+      tier: foreign-news
+      date: "2024-05-29"
+      accessed: "2026-06-16"
+  - field: speed_mach
+    text: Terminal speed cited around Mach 5.5 (design/capability)
+    value: 5.5
+    basis: reported
+    note: >-
+      Capability figure cited in some media coverage (e.g., Swarajya's later reporting). Media
+      figures conflict: India TV's May 2024 report stated 'twice the speed of sound' (~Mach 2), so
+      the Mach 5.5 value is not consistently reported and is treated as a disputed capability
+      figure.
+    source:
+      title: >-
+        Indigenous RudraM-II Missile Hits Target With Pin-Point Accuracy During DRDO-IAF
+        Flight-Tests Off Odisha
+      url: >-
+        https://swarajyamag.com/defence/indigenous-rudram-ii-missile-hits-target-with-pin-point-accuracy-during-drdo-iaf-flight-tests-off-odisha
+      publisher: Swarajya
+      tier: indian-news
+      date: "2026-06-02"
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      RudraM-II air-to-surface missile successfully flight-tested by DRDO from Su-30 MK-I off the
+      Odisha coast
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2022076
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    tier: pib
+    date: "2024-05-29"
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO successfully flight-tested RudraM-II air-to-surface missile from Su-30 MK-I platform of
+      IAF
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-flight-tested-rudram-ii-air-to-surface-missile-from-su-30-mk-i-platform-of-iaf
+    publisher: News on Air (Prasar Bharati)
+    tier: pib
+    date: "2024-05-29"
+    accessed: "2026-06-16"
+  - title: >-
+      India successfully tests anti-radiation indigenously developed Air to Surface RudraM-II
+      missile
+    url: >-
+      https://www.indiatvnews.com/news/india/india-successfully-tests-rudram-ii-anti-radiation-indigenously-developed-air-to-surface-missile-2024-05-29-934100
+    publisher: India TV
+    tier: indian-news
+    date: "2024-05-29"
+    accessed: "2026-06-16"
+  - title: India successfully tests Rudram-II air-to-surface missile from Su-30 MKI fighter jet
+    url: >-
+      https://www.armyrecognition.com/news/aerospace-news/2024/india-successfully-tests-rudram-ii-air-to-surface-missile-from-su-30-mki-fighter-jet
+    publisher: Army Recognition
+    tier: foreign-news
+    date: "2024-05-29"
+    accessed: "2026-06-16"

@@ -1,0 +1,67 @@
+id: 2025-07-rudram-3-release-trials-su30mki
+missile_id: rudram-3
+variant: Rudram-III (RudraM-III)
+designation: Su-30MKI release / separation trials (HAL Annual Report 2024-25)
+date: 2025-07
+date_precision: month
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  Release (separation/drop) trials of the Rudram-III air-to-surface anti-radiation missile were
+  reported successfully carried out, with two RudraM-III missiles released from a modified Su-30MKI
+  fighter. Attributed to HAL's Annual Report 2024-25 and widely covered around 30-31 July 2025; the
+  trial validated safe weapon separation from the aircraft after earlier captive carriage and dummy
+  drop trials. Reported over the Bay of Bengal demonstrating stable separation.
+notes: >-
+  Release/separation trial from a modified Su-30MKI; NOT a powered live-firing or guided-to-target
+  flight. Live-firing trials were still only 'nearing'/pending as of late 2025-early 2026, with IAF
+  induction eyed ~2028 (verified via Nov 2025 reporting) - so the list is NOT missing a live-firing
+  test. Air-launched; exact launch site NOT officially confirmed (sources say over the Bay of
+  Bengal); assigned itr-chandipur as the customary Odisha air-to-surface range. Reported 30-31 July
+  2025; primary attribution is HAL Annual Report 2024-25. No PIB/MoD/DRDO press release located for
+  Rudram-III. Confidence kept 'reported': three independent Indian outlets agree on date/outcome but
+  all trace to the same HAL report and none give an official launch site.
+sources:
+  - title: RudraM-III Missile Successfully Released from Modified Su-30MKI Fighter Jet
+    tier: indian-news
+    publisher: SSBCrack
+    url: >-
+      https://www.ssbcrack.com/2025/07/rudram-iii-missile-successfully-released-from-modified-su-30mki-fighter-jet.html
+    date: "2025-07-31"
+    accessed: "2026-06-16"
+  - title: Release Trials of RudraM-III Weapon From Modified Su-30MKI Fighter Successfully Carried Out
+    tier: indian-news
+    publisher: Indian Defense News
+    url: https://www.indiandefensenews.in/2025/07/release-trials-of-rudram-iii-weapon.html
+    date: "2025-07-30"
+    accessed: "2026-06-16"
+  - title: >-
+      Release trials of the advanced indigenous anti-radiation missile RudraM-III successfully
+      carried out
+    tier: indian-news
+    publisher: Raksha Anirveda
+    url: >-
+      https://raksha-anirveda.com/release-trials-of-advanced-indigenous-hypersonic-anti-radiation-missile-rudram-iii-successfully-carried-out/
+    date: "2025-07-31"
+    accessed: "2026-06-16"
+claims:
+  - field: range_km
+    text: >-
+      Designed range up to ~600 km from ~11 km altitude (described as roughly double Rudram-II);
+      design/claimed figure, not the distance flown in this separation trial.
+    min: 500
+    max: 600
+    basis: reported
+    note: >-
+      Claimed design range cited in coverage (also reported as 350-550 / 550-600 km elsewhere); not
+      demonstrated in a release/separation trial.
+    source:
+      title: RudraM-III Missile Successfully Released from Modified Su-30MKI Fighter Jet
+      tier: indian-news
+      publisher: SSBCrack
+      url: >-
+        https://www.ssbcrack.com/2025/07/rudram-iii-missile-successfully-released-from-modified-su-30mki-fighter-jet.html
+      date: "2025-07-31"
+      accessed: "2026-06-16"

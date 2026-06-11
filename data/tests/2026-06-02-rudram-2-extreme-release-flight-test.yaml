@@ -1,0 +1,109 @@
+id: 2026-06-02-rudram-2-extreme-release-flight-test
+missile_id: rudram-2
+variant: RudraM-II
+designation: RudraM-II flight test under extreme release conditions
+date: "2026-06-02"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO and the IAF successfully flight-tested the RudraM-II air-to-surface missile from a Su-30MKI
+  fighter on 2 June 2026 off the Odisha coast under 'extreme release conditions' along a critical
+  flight trajectory, establishing the capability of all the missile's subsystems. The missile(s)
+  after release were guided to a predefined target with pin-point accuracy and all test objectives
+  were fully met; flight data was captured by ITR Chandipur range instrumentation.
+notes: >-
+  Air-launched from a Su-30MKI over the Odisha test range (site recorded as ITR Chandipur, which
+  provided range instrumentation; release point off the Odisha coast over the Bay of Bengal).
+  Swarajya reports 'at least three flight trials of the missile has been conducted with the one in
+  May 2024 being the first full-configuration trial', placing this June 2026 event as a subsequent
+  (second/third) trial. The ~300 km / Mach 5.5 / 200 kg figures are design capability values; no
+  flown range was disclosed.
+claims:
+  - field: range_km
+    text: >-
+      Engagement range cited as around 300 km (design/capability, not the distance flown in this
+      test)
+    value: 300
+    basis: reported
+    note: >-
+      Capability figure cited by media; the official MoD/DRDO/PIB release did not state a flown
+      range.
+    source:
+      title: >-
+        Indigenous RudraM-II Missile Hits Target With Pin-Point Accuracy During DRDO-IAF
+        Flight-Tests Off Odisha
+      url: >-
+        https://swarajyamag.com/defence/indigenous-rudram-ii-missile-hits-target-with-pin-point-accuracy-during-drdo-iaf-flight-tests-off-odisha
+      publisher: Swarajya
+      tier: indian-news
+      date: "2026-06-02"
+      accessed: "2026-06-16"
+  - field: speed_mach
+    text: Maximum speed cited as Mach 5.5 (design/capability)
+    value: 5.5
+    basis: reported
+    note: Capability figure cited by media, not a measured value disclosed for this test.
+    source:
+      title: >-
+        Indigenous RudraM-II Missile Hits Target With Pin-Point Accuracy During DRDO-IAF
+        Flight-Tests Off Odisha
+      url: >-
+        https://swarajyamag.com/defence/indigenous-rudram-ii-missile-hits-target-with-pin-point-accuracy-during-drdo-iaf-flight-tests-off-odisha
+      publisher: Swarajya
+      tier: indian-news
+      date: "2026-06-02"
+      accessed: "2026-06-16"
+  - field: warhead_kg
+    text: Warhead capacity cited as ~200 kg (design/capability)
+    value: 200
+    basis: reported
+    note: Capability figure cited by media, not disclosed in the official release for this test.
+    source:
+      title: >-
+        Indigenous RudraM-II Missile Hits Target With Pin-Point Accuracy During DRDO-IAF
+        Flight-Tests Off Odisha
+      url: >-
+        https://swarajyamag.com/defence/indigenous-rudram-ii-missile-hits-target-with-pin-point-accuracy-during-drdo-iaf-flight-tests-off-odisha
+      publisher: Swarajya
+      tier: indian-news
+      date: "2026-06-02"
+      accessed: "2026-06-16"
+sources:
+  - title: DRDO & IAF conduct successful flight-tests of RudraM-II Air-to-Surface Missile
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2268099&reg=48&lang=2
+    publisher: Press Information Bureau (PIB), Ministry of Defence
+    tier: pib
+    date: "2026-06-02"
+    accessed: "2026-06-16"
+  - title: DRDO, IAF successfully flight-test RudraM-II air-to-surface missile
+    url: https://ddnews.gov.in/en/drdo-iaf-successfully-flight-test-rudram-ii-air-to-surface-missile/
+    publisher: DD News (Prasar Bharati)
+    tier: pib
+    date: "2026-06-02"
+    accessed: "2026-06-16"
+  - title: IAF, DRDO conduct successful flight tests of RudraM-II Air-to-Surface missile
+    url: >-
+      https://aninews.in/news/national/general-news/iaf-drdo-conduct-successful-flight-tests-of-rudram-ii-air-to-surface-missile20260602204942/
+    publisher: ANI
+    tier: indian-news
+    date: "2026-06-02"
+    accessed: "2026-06-16"
+  - title: DRDO's RudraM-II missile aces trials under extreme release conditions
+    url: >-
+      https://www.theweek.in/news/defence/2026/06/02/drdos-rudram-ii-missile-aces-trials-under-extreme-release-conditions.html
+    publisher: The Week
+    tier: indian-news
+    date: "2026-06-02"
+    accessed: "2026-06-16"
+  - title: >-
+      Indigenous RudraM-II Missile Hits Target With Pin-Point Accuracy During DRDO-IAF Flight-Tests
+      Off Odisha
+    url: >-
+      https://swarajyamag.com/defence/indigenous-rudram-ii-missile-hits-target-with-pin-point-accuracy-during-drdo-iaf-flight-tests-off-odisha
+    publisher: Swarajya
+    tier: indian-news
+    date: "2026-06-02"
+    accessed: "2026-06-16"

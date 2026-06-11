@@ -1,0 +1,61 @@
+id: 2020-10-09-rudram-1-christening-test
+missile_id: rudram-1
+variant: Rudram-1
+designation: Rudram-1 (NGARM) flight test / official christening
+date: "2020-10-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO successfully flight-tested its indigenous anti-radiation missile, officially named Rudram-1
+  on this date. The missile was air-launched from an IAF Su-30MKI over the Integrated Test Range,
+  Balasore, and struck a radiation-emitting target located on Wheeler Island (Dr A.P.J. Abdul Kalam
+  Island) off the Odisha coast with pin-point accuracy, demonstrating India's first long-range
+  air-launched anti-radiation / SEAD capability.
+notes: >-
+  Air-launched from Su-30MKI over the ITR Balasore range (itr-chandipur per air-launched-over-Odisha
+  rule); the radiating target was on Wheeler Island / Dr A.P.J. Abdul Kalam Island. This is the
+  maiden flight under the official 'Rudram-1' designation. The official PIB release stated
+  capability of varying ranges based on launch conditions but gave no specific demonstrated-range
+  figure; secondary sources characterize the system as ~100-250 km class (some cite 160 km). Date,
+  site and outcome confirmed by PIB (via GlobalSecurity mirror), CSIS Missile Threat and multiple
+  Indian outlets.
+claims:
+  - field: range_km_capability
+    value: 250
+    basis: reported
+    text: >-
+      Secondary reporting characterized the system standoff range as up to ~250 km (others cite
+      ~100-160 km); the official PIB release stated only 'capability of varying ranges based on
+      launch conditions' without a demonstrated figure.
+    source:
+      title: Rudra 1 New Generation Anti-Radiation Missile NGARM
+      tier: foreign-news
+      url: https://www.globalsecurity.org/military/world/india/ngarm.htm
+      publisher: GlobalSecurity.org
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      Anti Radiation Missile (RUDRAM) - PIB release text (9 October 2020; Su-30MKI; Wheeler Island;
+      pin-point accuracy)
+    tier: pib
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201009-india-pib01.htm
+    publisher: PIB via GlobalSecurity.org
+    date: "2020-10-09"
+    accessed: "2026-06-16"
+  - title: >-
+      India Conducts Test Launch of NGARM (notes 9 October 2020 Rudram-1 test-fired from ITR
+      Balasore)
+    tier: foreign-news
+    url: https://missilethreat.csis.org/india-conducts-test-launch-of-ngarm/
+    publisher: CSIS Missile Threat
+    accessed: "2026-06-16"
+  - title: India successfully test fires anti-radiation missile 'Rudram-1'
+    tier: indian-news
+    url: >-
+      https://www.business-standard.com/article/current-affairs/india-successfully-test-fires-anti-radiation-missile-rudram-1-120100901493_1.html
+    publisher: Business Standard
+    date: "2020-10-09"
+    accessed: "2026-06-16"

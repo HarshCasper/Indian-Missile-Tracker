@@ -1,0 +1,77 @@
+id: rudram-2
+name: Rudram-2
+aka:
+  - RudraM-II
+  - Rudram-II
+category: air-to-surface
+range_class: other
+developer: DRDO
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 300
+  max: 350
+payload_kg: 200
+speed_mach: 5.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Su-30MKI
+variants:
+  - name: Rudram-2
+    notes: Solid-propelled supersonic air-to-surface missile for multiple target types
+first_test: "2024-05-29"
+description: >-
+  Rudram-2 (RudraM-II) is an indigenously developed solid-propelled, supersonic air-launched missile
+  for the air-to-surface role, intended to neutralise a wide range of enemy ground assets. It was
+  successfully flight-tested from an IAF Su-30MKI off the Odisha coast on 29 May 2024, validating
+  its propulsion system and control & guidance algorithms. It is reported to carry a warhead of up
+  to about 200 kg with a strike range around 300-350 km and a speed up to roughly Mach 5.5.
+claims:
+  - field: range_km
+    basis: reported
+    value: 350
+    note: Reported strike range 300-350 km
+    source:
+      title: India successfully tests Rudram-II air-to-surface missile from Su-30 MKI
+      tier: foreign-news
+      publisher: Army Recognition
+      url: >-
+        https://www.armyrecognition.com/news/aerospace-news/2024/india-successfully-tests-rudram-ii-air-to-surface-missile-from-su-30-mki-fighter-jet
+  - field: speed_mach
+    basis: reported
+    value: 5.5
+    note: Reported max speed ~Mach 5.5 (PIB release does not state speed)
+    source:
+      title: India successfully tests Rudram-II air-to-surface missile from Su-30 MKI
+      tier: foreign-news
+      publisher: Army Recognition
+      url: >-
+        https://www.armyrecognition.com/news/aerospace-news/2024/india-successfully-tests-rudram-ii-air-to-surface-missile-from-su-30-mki-fighter-jet
+sources:
+  - title: >-
+      RudraM-II air-to-surface missile successfully flight-tested by DRDO from Su-30 MK-I off the
+      Odisha coast
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    date: "2024-05-29"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2022076
+  - title: >-
+      DRDO successfully flight-tested RudraM-II air-to-surface missile from Su-30 MK-I platform of
+      IAF
+    tier: pib
+    publisher: News On Air (Prasar Bharati)
+    date: "2024-05-29"
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-flight-tested-rudram-ii-air-to-surface-missile-from-su-30-mk-i-platform-of-iaf
+  - title: India successfully tests Rudram-II air-to-surface missile from Su-30 MKI
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/news/aerospace-news/2024/india-successfully-tests-rudram-ii-air-to-surface-missile-from-su-30-mki-fighter-jet
+confidence: confirmed
+notes: >-
+  PIB confirms 29 May 2024 maiden flight test and air-to-surface role; range/payload/speed figures
+  are reported (not in PIB text). range_class 'other' as it is an air-to-surface stand-off weapon
+  without a precise enum match.

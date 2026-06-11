@@ -1,0 +1,66 @@
+id: rudram-1
+name: Rudram-1
+aka:
+  - RudraM-1
+  - NGARM
+  - New Generation Anti-Radiation Missile
+  - DRDO Anti-Radiation Missile
+category: air-to-surface
+range_class: other
+developer: DRDO
+operators:
+  - Indian Air Force
+status: development
+range_km:
+  min: 100
+  max: 200
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Su-30MKI
+variants:
+  - name: Rudram-1
+    notes: First indigenous air-launched anti-radiation missile (ARM) for SEAD
+first_test: "2020-10-09"
+description: >-
+  Rudram-1 (formerly NGARM) is India's first indigenously developed air-launched anti-radiation
+  missile, designed for suppression of enemy air defences (SEAD) by homing on hostile radars and RF
+  emitters. It uses INS-GPS navigation with a passive homing head for terminal attack and a
+  broadband seeker that can detect, classify and engage emitters across a wide frequency band. It
+  was first flight-tested from a Su-30MKI on 9 October 2020 at the Integrated Test Range, Balasore,
+  achieving a pinpoint hit. Range varies with launch altitude and speed, reported up to about 200
+  km.
+claims:
+  - field: range_km
+    basis: reported
+    value: 200
+    note: >-
+      Operational range reported up to ~200 km depending on launch conditions; PIB only states
+      'varying ranges based on launch conditions'
+    source:
+      title: India's First Indigenous Air-Launched Radar-Killing Missile Is Headed For Service
+      tier: foreign-news
+      publisher: The War Zone (TWZ)
+      url: >-
+        https://www.twz.com/36988/indias-first-indigenous-air-launched-radar-killing-missile-is-headed-for-service
+sources:
+  - title: DRDO successfully flight tests Indigenously Developed Anti Radiation Missile (RUDRAM)
+    tier: pib
+    publisher: PIB / Ministry of Defence (via GlobalSecurity mirror)
+    date: "2020-10-09"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201009-india-pib01.htm
+  - title: India's First Indigenous Air-Launched Radar-Killing Missile Is Headed For Service
+    tier: foreign-news
+    publisher: The War Zone (TWZ)
+    url: >-
+      https://www.twz.com/36988/indias-first-indigenous-air-launched-radar-killing-missile-is-headed-for-service
+  - title: India successfully test fires anti-radiation missile Rudram-1
+    tier: indian-news
+    publisher: The Tribune
+    url: >-
+      https://www.tribuneindia.com/news/nation/india-successfully-test-fires-anti-radiation-missile-rudram-1-153305
+confidence: confirmed
+notes: >-
+  Primary anti-radiation/SEAD role best fits air-to-surface category; range_class 'other' as no
+  dedicated ARM enum exists. Range officially unspecified by PIB ('varying ranges'); ~100-200 km is
+  reported/assessed.

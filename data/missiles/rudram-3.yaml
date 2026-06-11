@@ -1,0 +1,57 @@
+id: rudram-3
+name: Rudram-3
+aka:
+  - RudraM-III
+  - Rudram-III
+category: air-to-surface
+range_class: other
+developer: DRDO
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 300
+  max: 550
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Su-30MKI
+variants:
+  - name: Rudram-3
+    notes: >-
+      Long-range hypersonic-class air-to-ground missile; modular warhead with anti-radiation and
+      ground-attack variants
+description: >-
+  Rudram-3 (RudraM-III) is a long-range, high-speed air-launched missile under development by DRDO
+  for the Su-30MKI, intended for deep SEAD and high-value ground-target strikes. It reportedly uses
+  a dual-pulse solid rocket motor on a semi-ballistic trajectory to reach terminal speeds exceeding
+  Mach 5, with a reported range around 550 km. A modular design is said to allow both anti-radiation
+  and conventional ground-attack warheads. As of mid-2026 it is in development, with
+  captive/adaptation trials on the Su-30MKI reported and user trials anticipated.
+claims:
+  - field: range_km
+    basis: reported
+    value: 550
+    note: Reported range ~550 km; figures are pre-induction estimates
+    source:
+      title: "DRDO Fast-Tracks RudraM-III Hypersonic Missile: Su-30MKI Gets 550-Km Strike Power"
+      tier: indian-news
+      publisher: Indian Masterminds
+      url: >-
+        https://indianmasterminds.com/news/drdo-rudram-iii-hypersonic-missile-su30mki-strike-capabilities-2025-151765/
+sources:
+  - title: "DRDO Fast-Tracks RudraM-III Hypersonic Missile: Su-30MKI Gets 550-Km Strike Power"
+    tier: indian-news
+    publisher: Indian Masterminds
+    url: >-
+      https://indianmasterminds.com/news/drdo-rudram-iii-hypersonic-missile-su30mki-strike-capabilities-2025-151765/
+  - title: DRDO Successfully Completes Trials of RudraM-III Hypersonic Air-to-Ground Missile
+    tier: foreign-news
+    publisher: The Defense News
+    url: >-
+      https://www.thedefensenews.com/news-details/DRDO-Successfully-Completes-Trials-of-RudraM-III-Hypersonic-Air-to-Ground-Missile/
+confidence: reported
+notes: >-
+  All performance figures are reported/assessed and not officially confirmed by PIB. 'Hypersonic'
+  labeling is media terminology for terminal speed >Mach 5. No verified ISO first flight-test date;
+  integration/captive trials reported. range_class 'other' (air-to-ground stand-off).

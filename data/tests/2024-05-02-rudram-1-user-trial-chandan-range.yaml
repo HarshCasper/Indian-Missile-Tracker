@@ -1,0 +1,91 @@
+id: 2024-05-02-rudram-1-user-trial-chandan-range
+missile_id: rudram-1
+variant: Rudram-1 / RudraM-I
+designation: Rudram-1 (NGARM) full-configuration flight test with live warhead
+date: "2024-05-02"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: pokhran-range
+range_tested_km: 0
+description: >-
+  DRDO and the IAF conducted a successful full-configuration flight test of Rudram-1 (NGARM),
+  air-launched from an IAF Su-30MKI, in which the missile navigated to a ground target and detonated
+  its warhead in the terminal phase, achieving a reported miss distance of about 5 metres and
+  reaching its intended range. The trial validated safe weapon separation, the dual-pulse solid
+  propulsion system, guidance and control algorithms, electro-mechanical actuators, a
+  laser-altimeter-based end-game processor and the safe-arm / warhead-detonation chain.
+notes: >-
+  Air-launched from Su-30MKI; conducted at the Chandan firing range, Jaisalmer, Rajasthan, which is
+  part of the Pokhran range complex (site_id set to pokhran-range; specific sub-range = Chandan
+  Field Firing Range). Test occurred on 2 May 2024 but detailed public reporting emerged around July
+  2024 (Raksha Anirveda, Financial Express, Economic Times), which is why some sources date it to
+  'July 2024' - this is one test event, not two. Date and location confirmed by Raksha Anirveda and
+  Civil Services Chronicle (Chronicle India); also widely reported via OSINT/defence channels.
+  Confidence kept at 'reported' as there is no official PIB/MoD release found for this specific
+  Rudram-1 trial.
+claims:
+  - field: miss_distance_m
+    value: 5
+    basis: reported
+    text: >-
+      Missile achieved its intended range and impacted the target with a miss distance of about 5
+      metres; warhead detonated in the terminal phase.
+    source:
+      title: >-
+        India's First Indigenous, New Generation Anti-Radiation Missile 'Rudram-1' Successfully
+        Test-Fired
+      tier: indian-news
+      url: >-
+        https://raksha-anirveda.com/indias-first-indigenous-new-generation-anti-radiation-missile-rudram-1-successfully-test-fired/
+      publisher: Raksha Anirveda
+      date: 2024-07
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: >-
+      Test conducted 2 May 2024 at Chandan Range, Rajasthan (per Civil Services Chronicle and
+      defence/OSINT reporting); detailed public reporting emerged around July 2024.
+    source:
+      title: >-
+        Rudram-I: New Generation Anti-Radiation Missile (2 May 2024 flight test at Chandan Range,
+        Rajasthan)
+      tier: indian-news
+      url: >-
+        https://www.chronicleindia.in/online-magazine/csce-may-2025/rudram-i-new-generation-anti-radiation-missile
+      publisher: Civil Services Chronicle (Chronicle India)
+      date: 2025-05
+      accessed: "2026-06-16"
+  - field: range_km_capability
+    value: 200
+    basis: reported
+    text: >-
+      Civil Services Chronicle states Rudram-I can strike targets up to about 200 km depending on
+      launch conditions; specific range flown in this trial not disclosed.
+    source:
+      title: "Rudram-I: New Generation Anti-Radiation Missile"
+      tier: indian-news
+      url: >-
+        https://www.chronicleindia.in/online-magazine/csce-may-2025/rudram-i-new-generation-anti-radiation-missile
+      publisher: Civil Services Chronicle (Chronicle India)
+      date: 2025-05
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      India's First Indigenous, New Generation Anti-Radiation Missile 'Rudram-1' Successfully
+      Test-Fired
+    tier: indian-news
+    url: >-
+      https://raksha-anirveda.com/indias-first-indigenous-new-generation-anti-radiation-missile-rudram-1-successfully-test-fired/
+    publisher: Raksha Anirveda
+    date: 2024-07
+    accessed: "2026-06-16"
+  - title: >-
+      Rudram-I: New Generation Anti-Radiation Missile (2 May 2024 flight test at Chandan Range,
+      Rajasthan; up to 200 km)
+    tier: indian-news
+    url: >-
+      https://www.chronicleindia.in/online-magazine/csce-may-2025/rudram-i-new-generation-anti-radiation-missile
+    publisher: Civil Services Chronicle (Chronicle India)
+    date: 2025-05
+    accessed: "2026-06-16"

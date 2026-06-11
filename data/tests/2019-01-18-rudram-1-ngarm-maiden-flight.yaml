@@ -1,0 +1,82 @@
+id: 2019-01-18-rudram-1-ngarm-maiden-flight
+missile_id: rudram-1
+variant: NGARM
+designation: New Generation Anti-Radiation Missile (NGARM) maiden flight / first developmental trial
+date: "2019-01-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 100
+description: >-
+  Maiden powered flight and first developmental trial of the NGARM (later named Rudram-1), India's
+  first indigenous air-to-ground anti-radiation missile. Air-launched from an IAF Su-30MKI over the
+  Bay of Bengal off the Odisha coast (ITR/Balasore range). The flight was conducted without an
+  active seeker and validated the auto-launch sequence, store separation, dual-pulse solid
+  propulsion, inertial navigation, autopilot/control system, thermal batteries, aerodynamics and
+  airframe. The missile struck the designated target with high accuracy (reported ~10 m CEP) over a
+  demonstrated range of about 100 km.
+notes: >-
+  Air-launched from Su-30MKI over the ITR/Balasore range, Bay of Bengal (use itr-chandipur for
+  air-launched-over-Odisha-range per facility rules). This single event was the sensor-less maiden
+  powered flight AND the ~100 km developmental trial; an earlier compiled list erroneously split it
+  into a separate '18 January 2018' maiden flight, which is not supported by any reliable source
+  (2018 saw only static motor firing in Jun-Jul 2018 and captive/carriage flight trials in Sep 2018,
+  per GlobalSecurity). Date: 18 January 2019 is confirmed by CSIS Missile Threat, GlobalSecurity,
+  Onmanorama and The Week; Wikipedia/Trishul blog (further-reading only) cite 25 January 2019 as a
+  minority alternate. The ~100 km figure is the demonstrated range; designers say the missile can
+  strike roughly double the intended range depending on launch altitude. Predates official
+  'Rudram-1' naming (9 Oct 2020).
+claims:
+  - field: range_tested_km
+    value: 100
+    basis: reported
+    text: >-
+      The January 2019 maiden trial demonstrated a range of about 100 km; scientists said the
+      missile can strike at roughly double the intended range depending on launch altitude.
+    source:
+      title: India Conducts Test Launch of NGARM
+      tier: foreign-news
+      url: https://missilethreat.csis.org/india-conducts-test-launch-of-ngarm/
+      publisher: CSIS Missile Threat
+      accessed: "2026-06-16"
+  - field: date
+    basis: reported
+    text: >-
+      18 January 2019 confirmed by CSIS Missile Threat ('NGARM first test-fired 18 January 2019,
+      fired from a Su-30 off the Odisha coast, destroyed a target radar') and by GlobalSecurity
+      ('India tested the new indigenous air-launched missile from a Sukhoi-30MKI on 18 January 2019
+      at the integrated test range at Balasore'). Onmanorama and The Week describe the same maiden
+      flight in January 2019 (sensor-less, dual-pulse, ~100 km). Wikipedia and the Trishul blog
+      (further-reading) cite 25 January 2019 as an alternate; the 18 Jan date is the majority
+      reliable-source position.
+    source:
+      title: >-
+        Rudra 1 New Generation Anti-Radiation Missile NGARM (18 January 2019 air-launched test from
+        Su-30MKI at Balasore)
+      tier: foreign-news
+      url: https://www.globalsecurity.org/military/world/india/ngarm.htm
+      publisher: GlobalSecurity.org
+      accessed: "2026-06-16"
+sources:
+  - title: India Conducts Test Launch of NGARM
+    tier: foreign-news
+    url: https://missilethreat.csis.org/india-conducts-test-launch-of-ngarm/
+    publisher: CSIS Missile Threat
+    accessed: "2026-06-16"
+  - title: >-
+      Rudra 1 New Generation Anti-Radiation Missile NGARM (18 January 2019 air-launched test,
+      Su-30MKI, Balasore, hit target with high accuracy)
+    tier: foreign-news
+    url: https://www.globalsecurity.org/military/world/india/ngarm.htm
+    publisher: GlobalSecurity.org
+    accessed: "2026-06-16"
+  - title: >-
+      Next-gen desi anti-radiation missile set for trials with passive seeker (describes January
+      2019 maiden flight: sensor-less, dual-pulse, auto-launch, ~100 km, ~10 m CEP)
+    tier: indian-news
+    url: >-
+      https://www.onmanorama.com/news/india/2019/03/21/next-gen-anti-radiation-missile-set-for-trials-ngarm.html
+    publisher: Onmanorama (Malayala Manorama)
+    date: "2019-03-21"
+    accessed: "2026-06-16"
