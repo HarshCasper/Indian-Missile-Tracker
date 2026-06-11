@@ -1,0 +1,56 @@
+id: 2022-08-24-pinaka-mk2-er-pokhran-industry-eval
+missile_id: pinaka-mk2
+variant: Pinaka-ER (Extended Range)
+designation: Pinaka Extended Range industry-produced rocket evaluation trials
+date: "2022-08-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 75
+description: >-
+  DRDO, with the Indian Army, conducted performance-evaluation trials of industry-produced Pinaka
+  Extended Range (Pinaka-ER) rockets at the Pokhran firing ranges in Rajasthan over three days,
+  announced 24 August 2022. 24 rockets were fired for different ranges and warhead capabilities; all
+  trial objectives were met, completing the initial phase of technology absorption and clearing the
+  industry partner for series production. The guided extended-range ammunition is reported capable
+  of ~75 km.
+notes: >-
+  Reported as 24 August 2022. CORRECTION: upgraded from 'reported' to 'confirmed' - date, site and
+  outcome agree across three independent Indian outlets (Republic World, India.com, DNA India).
+  Rockets produced by a private-sector partner. The ~75 km range figure (with ~40 m accuracy) is per
+  these secondary sources.
+sources:
+  - title: DRDO Successfully Tests Extended Range Pinaka at Pokhran Range. Watch Video
+    tier: indian-news
+    publisher: India.com
+    date: "2022-08-24"
+    url: >-
+      https://www.india.com/news/india/drdo-successfully-tests-extended-range-pinaka-at-pokhran-range-watch-video-5134091/
+    accessed: "2026-06-16"
+  - title: "Rajasthan: DRDO successfully test-fires Pinaka extended range rocket in Pokharan"
+    tier: indian-news
+    publisher: Republic World
+    date: "2022-08-24"
+    url: >-
+      https://www.republicworld.com/india/rajasthan-drdo-successfully-test-fires-pinaka-extended-range-rocket-in-pokharan-watch-articleshow/
+    accessed: "2026-06-16"
+  - title: DRDO conducts trial of Pinaka extended range missile at Pokhran Firing Ranges
+    tier: indian-news
+    publisher: DNA India
+    date: "2022-08-24"
+    url: >-
+      https://www.dnaindia.com/india/video-drdo-conducts-trail-of-pinaka-extended-range-missile-at-pokhran-firing-ranges-2979181
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 75
+    basis: reported
+    text: Pinaka-ER guided extended-range ammunition reported capable of ~75 km with ~40 m accuracy
+    source:
+      title: DRDO Successfully Tests Pinaka Extended Range Rocket In Pokharan
+      tier: indian-news
+      publisher: Adda247 Current Affairs
+      url: >-
+        https://currentaffairs.adda247.com/drdo-successfully-tests-pinaka-extended-range-rocket-in-pokharan/
+      accessed: "2026-06-16"

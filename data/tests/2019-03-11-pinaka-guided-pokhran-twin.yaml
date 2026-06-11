@@ -1,0 +1,41 @@
+id: 2019-03-11-pinaka-guided-pokhran-twin
+missile_id: pinaka-guided
+variant: Guided Pinaka (Pinaka Mark-II Guided, extended range)
+designation: Guided Pinaka Pokhran trials (Day 1, two firings)
+date: "2019-03-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 90
+description: >-
+  Two Guided Pinaka extended-range rockets were test-fired on 11 March 2019 from the Pokhran Field
+  Firing Range, Rajasthan, equipped with a state-of-the-art guidance kit (advanced navigation and
+  control). Both weapons impacted intended targets with high precision and achieved desired
+  accuracies; telemetry tracked the flights and all mission objectives were met. The guided Mk-II
+  can fire a salvo of 12 rockets in 44 seconds across a 20-90 km band.
+notes: >-
+  Part of a three-trial campaign over two days: two firings on 11 March and one on 12 March 2019.
+  Date, site (Pokhran), outcome and 90 km range agree across Army Technology,
+  GlobalSecurity/Sputnik, LatestLY and domain-b. Developed by ARDE Pune, RCI Hyderabad and DRDL
+  Hyderabad.
+sources:
+  - title: India conducts test-firing of guided Pinaka weapon system
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/news/india-test-firing-pinaka-weapon-system/
+    date: "2019-03-12"
+    accessed: "2026-06-16"
+  - title: India Successfully Test Fires Multi-Barrel Guided Rocket Pinaka Near Pak Border
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-190311-sputnik01.htm
+    date: "2019-03-11"
+    accessed: "2026-06-16"
+  - title: Pinaka Guided Extended Range Rockets Successfully Test Fired by DRDO in Pokhran
+    tier: indian-news
+    publisher: LatestLY
+    url: >-
+      https://www.latestly.com/india/news/pinaka-guided-extended-range-rockets-successfully-test-fired-by-drdo-in-pokhran-688134.html
+    date: "2019-03-11"
+    accessed: "2026-06-16"

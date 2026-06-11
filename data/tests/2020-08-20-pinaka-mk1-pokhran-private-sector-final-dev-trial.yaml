@@ -1,0 +1,51 @@
+id: 2020-08-20-pinaka-mk1-pokhran-private-sector-final-dev-trial
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline, private-sector produced)
+designation: Final developmental trial
+date: "2020-08-20"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: pokhran-range
+range_tested_km: 37.5
+description: >-
+  The Indian Army successfully conducted final developmental trials at the Pokhran Range of six
+  Pinaka Mk-I rockets manufactured entirely by the Indian private sector (Economic Explosives Ltd, a
+  Solar Industries subsidiary) under a Transfer of Technology agreement from DRDO. It was the first
+  time Pinaka rockets fully produced by a private firm were trialed, aimed at reducing single-source
+  dependency on the Ordnance Factory Board.
+notes: >-
+  Date corrected from 2020-08-19 to 2020-08-20: contemporaneous Indian/foreign news (LatestLY,
+  EurasianTimes, American Military News) report the firing occurred on Wednesday 20 August 2020. The
+  wiki-derived '19 August' framing in the original list conflicts with these. Six rockets fired.
+sources:
+  - title: >-
+      Pinaka Rockets, Manufactured by Private Firm Economic Explosives Ltd, Successfully Test Fired
+      at Firing Range in Pokhran
+    tier: indian-news
+    publisher: LatestLY
+    url: >-
+      https://www.latestly.com/india/news/pinaka-rockets-manufactured-by-private-firm-economic-explosives-ltd-successfully-test-fired-at-firing-range-in-pokharan-1976013.html
+    date: "2020-08-20"
+    accessed: "2026-06-16"
+  - title: 100% Made By Private Sector - India Successfully Test Fires Multi Barrel Pinaka Rockets
+    tier: foreign-news
+    publisher: The EurasianTimes
+    url: >-
+      https://www.eurasiantimes.com/100-made-by-private-sector-india-successfully-test-fires-multi-barrel-pinaka-rockets/
+    date: "2020-08-20"
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    text: >-
+      Firing date reported as Wednesday 20 August 2020 by LatestLY/EurasianTimes/American Military
+      News; wiki-derived sources framed it as 19 August 2020. Corrected to 20 August.
+    basis: reported
+    source:
+      title: >-
+        Pinaka Rockets, Manufactured by Private Firm Economic Explosives Ltd, Successfully Test
+        Fired at Firing Range in Pokhran
+      tier: indian-news
+      publisher: LatestLY
+      url: >-
+        https://www.latestly.com/india/news/pinaka-rockets-manufactured-by-private-firm-economic-explosives-ltd-successfully-test-fired-at-firing-range-in-pokharan-1976013.html

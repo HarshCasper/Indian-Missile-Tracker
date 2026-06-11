@@ -1,0 +1,25 @@
+id: 2008-08-13-pinaka-mk1-pxe-sample-trial
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline)
+designation: Sample/developmental trial
+date: "2008-08-13"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 40
+description: >-
+  The Indian Army and DRDO scientists successfully sample-tested the unguided Pinaka multi-barrel
+  rocket at the Proof and Experimental Establishment (PXE), Chandipur-on-Sea (about 15 km from
+  Balasore), Odisha. The first round, fired at 1214 hrs IST, yielded the desired results; the trials
+  assessed flight stability, accuracy and consistency. The system was described with a 40 km range.
+notes: >-
+  Newly added; missing from the original list. Single solid source: GlobalSecurity archive of an
+  IRNA report. Article explicitly describes 'the unguided rocket system' with 40 km range,
+  consistent with the Mk-I baseline (the guided Pinaka Mk-II program came later).
+sources:
+  - title: India's indigenously developed 'Pinaka' successfully tested (IRNA archive)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-080813-irna01.htm
+    accessed: "2026-06-16"

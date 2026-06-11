@@ -1,0 +1,32 @@
+id: 2019-03-12-pinaka-guided-pokhran-third
+missile_id: pinaka-guided
+variant: Guided Pinaka (Pinaka Mark-II Guided, extended range)
+designation: Guided Pinaka Pokhran trials (Day 2, third firing)
+date: "2019-03-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 90
+description: >-
+  A third Guided Pinaka rocket was successfully test-fired on 12 March 2019 from the Pokhran Field
+  Firing Range, Rajasthan, completing a series of three trials in 24 hours (two on 11 March, one on
+  12 March). The weapon impacted the intended target with high precision; the MoD stated all mission
+  objectives were met across the trials, with the system able to deliver ~7.2 tonnes of high
+  explosive onto a target 70 km away with ~25 m accuracy in 44 seconds.
+notes: >-
+  Confirmed as the 'third test in 24 hours' by GlobalSecurity/Sputnik and domain-b. Site Pokhran,
+  outcome success, 90 km band all agree.
+sources:
+  - title: India Conducts Third Test of Missile System Meant for Limited War with Pakistan in 24 Hours
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-190312-sputnik01.htm
+    date: "2019-03-12"
+    accessed: "2026-06-16"
+  - title: DRDO successfully tests extended-range Pinaka guided rocket
+    tier: foreign-news
+    publisher: domain-b
+    url: https://www.domain-b.com/defence/land/indian_army/20190312_pinaka_rocket.html
+    date: "2019-03-12"
+    accessed: "2026-06-16"

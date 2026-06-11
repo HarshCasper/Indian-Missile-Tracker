@@ -1,0 +1,78 @@
+id: pinaka-mk1
+name: Pinaka Mk-I
+aka:
+  - Pinaka Mark-I
+  - Pinaka MBRL Mk-I
+  - Pinaka-I
+category: surface-to-surface
+range_class: other
+developer: >-
+  DRDO (Armament Research and Development Establishment, ARDE, Pune; High Energy Materials Research
+  Laboratory, HEMRL)
+operators:
+  - Indian Army
+status: operational
+range_km:
+  min: 38
+  max: 40
+payload_kg: 100
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - 12-tube wheeled multi-barrel rocket launcher (MBRL) vehicle
+variants:
+  - name: Pinaka Mk-I (Area Denial Munition variants)
+    notes: >-
+      Fitted with various warheads incl. blast-cum-pre-fragmented HE, anti-tank/anti-personnel
+      mine-laying and area-denition munitions.
+description: >-
+  The Pinaka Mk-I is India's first indigenous 214 mm free-flight multi-barrel rocket launcher (MBRL)
+  system developed by DRDO's ARDE and HEMRL for the Indian Army. Each launcher carries two pods of
+  six rockets and can fire a 12-rocket salvo in roughly 44 seconds, saturating an area of around 700
+  x 500 m. It was combat-proven during the 1999 Kargil conflict and has since been series-produced
+  and inducted; the baseline Mk-I rocket has a range of about 38-40 km and carries a ~100 kg
+  warhead.
+claims:
+  - field: range_km
+    value: 38
+    basis: reported
+    text: Pinaka Mk-I baseline range reported as ~38 km (some sources cite 37.5 or 40 km).
+    source:
+      title: Pinaka multi-barrel rocket launcher (overview of variants and ranges)
+      tier: further-reading
+      url: https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher
+      publisher: Wikipedia
+  - field: range_km
+    value: 40
+    basis: reported
+    text: Some Indian-news/analysis sources cite the Mk-I free-flight rocket range as about 40 km.
+    source:
+      title: "Pinaka Missile: Range, History of Multi Barrel Rocket Launcher System"
+      tier: further-reading
+      url: https://testbook.com/ias-preparation/pinaka-missile-multi-barrel-rocket-launcher
+      publisher: Testbook
+sources:
+  - title: >-
+      India successfully tests multi-barrel rocket launcher system Pinaka-ER (context on Mk-I 38-40
+      km baseline)
+    tier: foreign-news
+    url: >-
+      https://gulfnews.com/world/asia/india/india-successfully-tests-multi-barrel-rocket-launcher-system-pinaka-er-1.84317075
+    publisher: Gulf News
+  - title: >-
+      Successful tests carried out for Pinaka Extended Range System, Area Denial Munitions & New
+      Indigenous Fuzes
+    tier: pib
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780412
+    publisher: Press Information Bureau, Ministry of Defence
+  - title: Pinaka multi-barrel rocket launcher
+    tier: further-reading
+    url: https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher
+    publisher: Wikipedia
+confidence: reported
+notes: >-
+  Range figures for the Mk-I vary across sources (37.5/38/40 km) and are rarely stated in a single
+  official release; treated as reported. First flight-test date of the original Pinaka (early-to-mid
+  1980s development, trials in the 1990s; combat use in 1999 Kargil) was not pinned to a precise ISO
+  date in reliable sources, so first_test is omitted. 214 mm caliber; payload ~100 kg. range_class
+  set to 'other' as it is an artillery rocket, not a ballistic/cruise missile.

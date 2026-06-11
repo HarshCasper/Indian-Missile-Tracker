@@ -1,0 +1,53 @@
+id: 2025-12-29-pinaka-guided-lrgr-120-maiden
+missile_id: pinaka-guided
+variant: Pinaka Long Range Guided Rocket (LRGR-120)
+designation: Maiden flight test of Pinaka Long Range Guided Rocket (LRGR-120)
+date: "2025-12-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 120
+description: >-
+  On 29 December 2025, DRDO successfully conducted the maiden flight test of the Pinaka Long Range
+  Guided Rocket (LRGR-120) at the Integrated Test Range (ITR), Chandipur, Odisha. The rocket was
+  tested to its maximum range of 120 km, demonstrated all planned in-flight manoeuvres and impacted
+  the target with 'textbook precision'; range instruments tracked the entire trajectory. It was
+  fired from an existing in-service Pinaka launcher, showing the launcher can deploy multiple Pinaka
+  variants. Developed by ARDE.
+notes: >-
+  Confirmed by PIB (PRID 2209588), PIB-sourced News on AIR, ANI, DD News and Janes. Date is 29
+  December 2025; a second News on AIR item dated 30 December 2025 is a re-publication of the same
+  event (announcement timing), not a separate test. The Janes page's extracted '23 August 2025' date
+  appears to be a parsing artifact, contradicted by every official/PIB source giving 29 December
+  2025. PIB.gov.in URL returned HTTP 403 to automated fetch but is the official release; the News on
+  AIR PIB-tier item was retrieved successfully.
+sources:
+  - title: >-
+      DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket at ITR
+      Chandipur
+    tier: pib
+    publisher: News on AIR (Prasar Bharati, PIB-sourced)
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-conducts-maiden-flight-test-of-pinaka-long-range-guided-rocket-at-itr-chandipur
+    date: "2025-12-29"
+    accessed: "2026-06-16"
+  - title: DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket
+    tier: pib
+    publisher: Press Information Bureau (PIB), Government of India
+    url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2209588&reg=3&lang=1
+    date: "2025-12-29"
+    accessed: "2026-06-16"
+  - title: DRDO successfully conducts maiden flight test of 120 Km strike range Pinaka rockets
+    tier: indian-news
+    publisher: ANI
+    url: >-
+      https://aninews.in/news/national/general-news/drdo-successfully-conducts-maiden-flight-test-of-120-km-strike-range-pinaka-rockets20251229214319/
+    date: "2025-12-29"
+    accessed: "2026-06-16"
+  - title: India conducts Pinaka long-range guided rocket maiden flight
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-conducts-pinaka-long-range-guided-rocket-maiden-flight
+    accessed: "2026-06-16"

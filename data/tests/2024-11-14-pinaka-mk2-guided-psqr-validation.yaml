@@ -1,0 +1,52 @@
+id: 2024-11-14-pinaka-mk2-guided-psqr-validation
+missile_id: pinaka-mk2
+variant: Guided Pinaka Weapon System (precision-strike variant)
+designation: Guided Pinaka Weapon System PSQR Validation Trials (three phases)
+date: "2024-11-14"
+date_precision: day
+outcome: success
+confidence: confirmed
+range_tested_km: 75
+description: >-
+  DRDO completed flight tests of the Guided Pinaka Weapon System as part of Provisional Staff
+  Qualitative Requirements (PSQR) Validation Trials, announced 14 November 2024. Conducted in three
+  phases at different field firing ranges, the trials assessed ranging, accuracy, consistency and
+  rate of fire for multiple-target salvo engagement. Twelve rockets from each of two production
+  agencies, fired from two upgraded in-service Pinaka launchers, were tested, completing all
+  prerequisite flight trials before induction into the Indian Army.
+notes: >-
+  Verified via PIB (PRID 2073384, GlobalSecurity mirror), ANI and Janes. CORRECTION: site_id left
+  EMPTY because the MoD/PIB release and Janes explicitly state the three-phase trials were conducted
+  at undisclosed 'different field firing ranges' - the original entry's assumption of Pokhran is not
+  confirmed by any source. Real site: undisclosed Indian Army field firing ranges. Quoted system
+  range capability ~75 km (not a single tested figure).
+sources:
+  - title: DRDO successfully completes Flight Tests of Guided Pinaka Weapon System (PIB PRID 2073384)
+    tier: pib
+    publisher: Press Information Bureau
+    date: "2024-11-14"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2073384
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO successfully completes Flight Tests of Guided Pinaka Weapon System (PIB, GlobalSecurity
+      mirror)
+    tier: pib
+    publisher: Press Information Bureau / GlobalSecurity mirror
+    date: "2024-11-14"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2024/india-241114-india-pib02.htm
+    accessed: "2026-06-16"
+  - title: DRDO completes flight tests of guided Pinaka Weapon System
+    tier: indian-news
+    publisher: ANI
+    date: "2024-11-14"
+    url: >-
+      https://www.aninews.in/news/national/general-news/drdo-completes-flight-tests-of-guided-pinaka-weapon-system20241114223824/
+    accessed: "2026-06-16"
+  - title: India completes 'guided' Pinaka flight tests
+    tier: foreign-news
+    publisher: Janes
+    date: "2024-11-15"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-completes-guided-pinaka-flight-tests
+    accessed: "2026-06-16"
+site_id: null

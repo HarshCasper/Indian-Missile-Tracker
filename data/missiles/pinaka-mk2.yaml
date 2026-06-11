@@ -1,0 +1,93 @@
+id: pinaka-mk2
+name: Pinaka Mk-II / Pinaka-ER (Enhanced Range)
+aka:
+  - Pinaka Mark-II
+  - Pinaka-ER
+  - Pinaka Extended Range
+  - Enhanced Pinaka
+category: surface-to-surface
+range_class: other
+developer: >-
+  DRDO (ARDE Pune and HEMRL Pune); rockets manufactured by Economic Explosives Ltd (EEL), Nagpur
+  under ToT
+operators:
+  - Indian Army
+status: operational
+range_km:
+  min: 45
+  max: 90
+payload_kg: 100
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - 12-tube wheeled multi-barrel rocket launcher (MBRL) vehicle
+variants:
+  - name: Pinaka-ER (Enhanced Range)
+    notes: Extended-range free-flight rocket; flight tested 4 Nov 2020 with demonstrated range ~45 km.
+  - name: Pinaka Mk-II
+    notes: >-
+      Higher-range variant of the system, with ranges reported up to ~60-90 km depending on
+      configuration.
+first_test: "2020-11-04"
+description: >-
+  The Pinaka Mk-II / Enhanced Range (Pinaka-ER) is an extended-range development of the Pinaka MBRL
+  rocket, using improved propellant and aerodynamics to substantially increase reach over the Mk-I
+  while retaining the 214 mm/~100 kg warhead family. DRDO (ARDE and HEMRL) successfully
+  flight-tested the enhanced Pinaka from Integrated Test Range, Chandipur on 4 November 2020, firing
+  six rockets in quick succession to a demonstrated ~45 km, with the production-standard Mk-II/ER
+  targeting ranges up to roughly 60-90 km. The rockets are produced by Economic Explosives Ltd,
+  Nagpur, under transfer of technology.
+claims:
+  - field: range_km
+    value: 45
+    basis: official
+    text: Enhanced Pinaka rocket flight tested 4 Nov 2020 to a demonstrated range of about 45 km.
+    source:
+      title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PIB text)
+      tier: pib
+      url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201104-india-pib01.htm
+      publisher: PIB / GlobalSecurity
+  - field: range_km
+    value: 60
+    basis: reported
+    text: Pinaka Mk-II / ER variant frequently reported with a ~60 km class range.
+    source:
+      title: India successfully tests multi-barrel rocket launcher system Pinaka-ER
+      tier: foreign-news
+      url: >-
+        https://gulfnews.com/world/asia/india/india-successfully-tests-multi-barrel-rocket-launcher-system-pinaka-er-1.84317075
+      publisher: Gulf News
+  - field: range_km
+    value: 90
+    basis: reported
+    text: Pinaka Mk-II / extended developments cited at ranges up to ~90 km in Indian press.
+    source:
+      title: Amid rising tensions with Pak, Pinaka range to be doubled from existing 90 km
+      tier: indian-news
+      url: >-
+        https://www.tribuneindia.com/news/india-pakistan-relations/amid-riding-tensions-with-pak-pinaka-range-to-be-doubled-from-existing-90-km
+      publisher: The Tribune
+sources:
+  - title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PIB release, 4 Nov 2020)
+    tier: pib
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201104-india-pib01.htm
+    publisher: PIB / GlobalSecurity
+    date: "2020-11-04"
+  - title: >-
+      Successful tests carried out for Pinaka Extended Range System, Area Denial Munitions & New
+      Indigenous Fuzes
+    tier: pib
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780412
+    publisher: Press Information Bureau, Ministry of Defence
+  - title: India successfully tests multi-barrel rocket launcher system Pinaka-ER
+    tier: foreign-news
+    url: >-
+      https://gulfnews.com/world/asia/india/india-successfully-tests-multi-barrel-rocket-launcher-system-pinaka-er-1.84317075
+    publisher: Gulf News
+confidence: reported
+notes: >-
+  Naming is inconsistent in sources: 'Pinaka-ER (Enhanced Range)' (~45 km demonstrated in the Nov
+  2020 PIB-confirmed test) and 'Pinaka Mk-II' (reported up to ~60-90 km) are sometimes used
+  interchangeably and sometimes as distinct steps. Combined here per the system brief (pinaka-mk2 =
+  Mk-II/ER). first_test set to the 4 Nov 2020 PIB-confirmed enhanced-range flight test. range_class
+  'other' (artillery rocket).

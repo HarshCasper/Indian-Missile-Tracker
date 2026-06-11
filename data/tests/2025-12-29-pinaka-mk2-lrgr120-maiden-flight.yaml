@@ -1,0 +1,67 @@
+id: 2025-12-29-pinaka-mk2-lrgr120-maiden-flight
+missile_id: pinaka-mk2
+variant: Pinaka Long Range Guided Rocket (LRGR-120)
+designation: Pinaka Long Range Guided Rocket (LRGR-120) maiden flight test
+date: "2025-12-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 120
+description: >-
+  DRDO conducted the maiden flight test of the Pinaka Long Range Guided Rocket (LRGR-120) from the
+  Integrated Test Range, Chandipur, Odisha. The rocket was tested to its maximum design range of 120
+  km, executed all in-flight manoeuvres as planned, and impacted the designated target with
+  precision. It was launched from an in-service Pinaka launcher, demonstrating the launcher's
+  ability to fire Pinaka variants of different ranges.
+notes: >-
+  ADDED test - missing from the original list. New 120 km precision-guided variant of the Pinaka
+  family. Verified via PIB (PRID 2209588), DD News/NewsOnAir (official) and The Week. Designed by
+  ARDE with HEMRL, and support from DRDL and Research Centre Imarat. This is a longer-range guided
+  variant distinct from the ~45 km Enhanced/ER Pinaka and the ~75 km Guided Pinaka, but is part of
+  the same enhanced/guided Pinaka rocket program.
+sources:
+  - title: >-
+      DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket (PIB PRID
+      2209588)
+    tier: pib
+    publisher: Press Information Bureau
+    date: "2025-12-29"
+    url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2209588&reg=3&lang=1
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket at ITR
+      Chandipur
+    tier: pib
+    publisher: NewsOnAir / Prasar Bharati (official)
+    date: "2025-12-29"
+    url: >-
+      https://www.newsonair.gov.in/drdo-successfully-conducts-maiden-flight-test-of-pinaka-long-range-guided-rocket-at-itr-chandipur
+    accessed: "2026-06-16"
+  - title: Why the newly-tested 120-km Pinaka long-range guided rocket could be a war-winner for India
+    tier: indian-news
+    publisher: The Week
+    date: "2025-12-30"
+    url: >-
+      https://www.theweek.in/news/defence/2025/12/30/why-the-newly-tested-120-km-pinaka-long-range-guided-rocket-could-be-a-war-winner-for-india.html
+    accessed: "2026-06-16"
+  - title: India tests Pinaka long-range guided rocket
+    tier: foreign-news
+    publisher: Defence Blog
+    date: "2025-12-30"
+    url: https://defence-blog.com/india-tests-pinaka-long-range-guided-rocket/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 120
+    basis: official
+    text: LRGR-120 tested to its maximum range of 120 km, impacting the target with precision
+    source:
+      title: >-
+        DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket (PIB PRID
+        2209588)
+      tier: pib
+      publisher: Press Information Bureau
+      date: "2025-12-29"
+      url: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2209588&reg=3&lang=1
+      accessed: "2026-06-16"

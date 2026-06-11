@@ -1,0 +1,58 @@
+id: 2021-06-24-pinaka-mk2-enhanced-45km-saturation
+missile_id: pinaka-mk2
+variant: Enhanced Pinaka (Enhanced Range Rocket System)
+designation: Enhanced Pinaka quick-succession (saturation-mode) flight test
+date: "2021-06-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 45
+description: >-
+  DRDO test-fired 25 Enhanced Pinaka rockets in quick succession (saturation/salvo mode) from a
+  Multi-Barrel Rocket Launcher at the Integrated Test Range (ITR), Chandipur, Odisha, against
+  targets at different ranges. All mission objectives were met. The enhanced range version can
+  engage targets up to ~45 km, up from the baseline ~38 km.
+notes: >-
+  Trials were conducted across 24-25 June 2021; the official PIB release (PRID 1730354) was issued
+  25 June 2021. CORRECTION: the original entry placed this at Pokhran and marked it disputed (citing
+  only Wikipedia/UPSC sites); independent verification against the official PIB release and Indian
+  news (devdiscourse, Odisha Diary) confirms the site was ITR Chandipur and the event is genuine, so
+  confidence upgraded to confirmed. Note: a separate Enhanced Range 122mm-caliber rocket (40 km) was
+  also tested at Chandipur on 25 June 2021 (PIB) - distinct from this Pinaka event; earlier sourcing
+  had conflated the two.
+sources:
+  - title: DRDO successfully test fires Enhanced Pinaka Rocket (PIB PRID 1730354)
+    tier: pib
+    publisher: Press Information Bureau
+    date: "2021-06-25"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730354
+    accessed: "2026-06-16"
+  - title: DRDO successfully test-fires extended-range of Pinaka rocket
+    tier: indian-news
+    publisher: Devdiscourse
+    date: "2021-06-25"
+    url: >-
+      https://www.devdiscourse.com/article/headlines/1627657-drdo-successfully-test-fires-extended-range-of-pinaka-rocket
+    accessed: "2026-06-16"
+  - title: DRDO successfully test fires Enhanced Pinaka Rocket at Integrated Test Range (ITR), Chandipur
+    tier: indian-news
+    publisher: Odisha Diary
+    date: "2021-06-25"
+    url: >-
+      https://orissadiary.com/drdo-successfully-test-fires-enhanced-pinaka-rocket-at-integrated-test-range-itr-chandipur/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 45
+    basis: official
+    text: >-
+      25 Enhanced Pinaka rockets fired in quick succession; enhanced range version can engage
+      targets up to 45 km
+    source:
+      title: DRDO successfully test fires Enhanced Pinaka Rocket (PIB PRID 1730354)
+      tier: pib
+      publisher: Press Information Bureau
+      date: "2021-06-25"
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730354
+      accessed: "2026-06-16"

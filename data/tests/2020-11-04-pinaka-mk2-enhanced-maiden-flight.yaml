@@ -1,0 +1,52 @@
+id: 2020-11-04-pinaka-mk2-enhanced-maiden-flight
+missile_id: pinaka-mk2
+variant: Enhanced Pinaka (Enhanced Range Rocket System)
+designation: Enhanced Pinaka rocket system flight test
+date: "2020-11-04"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 45
+description: >-
+  DRDO conducted the maiden flight test of the Enhanced (longer-range) Pinaka rocket system from the
+  Integrated Test Range, Chandipur, Odisha. Six rockets were launched in quick succession and met
+  complete mission objectives, tracked by telemetry, radar and electro-optical systems. The enhanced
+  design achieves longer range with reduced length compared to the earlier Pinaka.
+notes: >-
+  First flight test of the enhanced/extended-range Pinaka family. Verified via official PIB release
+  (GlobalSecurity mirror) plus Deccan Herald. The official PIB release did not state a specific
+  range; ~45 km is the system's design capability per secondary sources. Production technology
+  transferred to Economic Explosives Ltd., Nagpur.
+sources:
+  - title: >-
+      Enhanced version of PINAKA Rocket System successfully Flight Tested (PIB release,
+      GlobalSecurity mirror)
+    tier: pib
+    publisher: Press Information Bureau / GlobalSecurity mirror
+    date: "2020-11-04"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201104-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: DRDO test fires Pinaka rocket system
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2020-11-04"
+    url: https://www.deccanherald.com/india/drdo-test-fires-pinaka-rocket-system-911373.html
+    accessed: "2026-06-16"
+  - title: Enhanced Pinaka rocket system flight tested
+    tier: indian-news
+    publisher: Vayu Aerospace & Defence (PressReader)
+    date: "2020-11-04"
+    url: https://www.pressreader.com/india/vayu-aerospace-and-defence/20201101/286770679563309
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 45
+    basis: reported
+    text: Enhanced Pinaka design range ~45 km (capability, not stated in the maiden-test PIB release)
+    source:
+      title: Pinaka multi-barrel rocket launcher (test history)
+      tier: further-reading
+      publisher: Wikipedia
+      url: https://en.wikipedia.org/wiki/Pinaka_multi-barrel_rocket_launcher
+      accessed: "2026-06-16"

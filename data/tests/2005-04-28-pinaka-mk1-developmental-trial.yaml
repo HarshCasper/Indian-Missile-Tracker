@@ -1,0 +1,24 @@
+id: 2005-04-28-pinaka-mk1-developmental-trial
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline)
+designation: Developmental trial
+date: "2005-04-28"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 30
+description: >-
+  DRDO test-fired two rounds of the unguided Pinaka Mk-I multi-barrel rocket between 12:15 and 12:45
+  hrs local time from the Proof and Experimental Establishment (PXE), Chandipur-on-Sea near
+  Balasore, Odisha, as part of trials to refine the rocket and its sub-systems. The rocket was
+  described as having a range of 30 km.
+notes: >-
+  Test conducted at DRDO's Proof and Experimental Establishment (PXE), Chandipur. Single solid
+  source: GlobalSecurity archive of an IRNA report; verified verbatim (two rounds, 30 km range).
+sources:
+  - title: India successfully test-fires 'Pinaka' rockets (IRNA archive)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2005/india-050428-irna01.htm
+    accessed: "2026-06-16"

@@ -1,0 +1,73 @@
+id: 2018-05-30-pinaka-guided-pxe-chandipur
+missile_id: pinaka-guided
+variant: Guided Pinaka (Pinaka Mark-II Guided)
+designation: Guided Pinaka developmental flight trials (May 2018, two-day campaign)
+date: "2018-05-30"
+date_precision: day
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+range_tested_km: 70
+description: >-
+  Developmental flight trials of the Guided Pinaka, a Pinaka Rocket Mark-II fitted with an upgraded
+  navigation, guidance and control kit (developed by RCI), fired from the Proof & Experiment
+  Establishment (PXE) at Chandipur, Odisha. The campaign spanned two days: two rounds on 30 May 2018
+  and a further round (~10:35 am IST) on 31 May 2018. Trials impacted intended targets with high
+  precision; the conversion enhanced range from ~40 km to more than 70 km and accuracy from ~500 m
+  to ~50 m.
+notes: >-
+  Multi-day campaign (30-31 May 2018), not a single-date event. Indian outlet Onmanorama and
+  Sputnik/GlobalSecurity both describe two rounds on 30 May and a further round on 31 May;
+  'disputed' reflects that sources differ on which day to headline (both correct). PXE Chandipur
+  mapped to itr-chandipur (co-located Odisha coast range). CAUTION: a previously cited source
+  (army-technology.com/news/india-test-firing-pinaka-weapon-system) actually reports the MARCH 2019
+  Pokhran trials and only mentions May 2018 in passing; it was removed as a citation here. Range
+  achieved was '>70 km', so originally listed 80 km (design ceiling) corrected to 70.
+claims:
+  - field: date
+    text: 30 May 2018 (first day, two rounds)
+    basis: reported
+    source:
+      title: Upgraded Pinaka rocket successfully test-fired
+      tier: indian-news
+      publisher: Onmanorama
+      url: >-
+        https://www.onmanorama.com/news/nation/2018/05/31/upgraded-pinaka-rocket-successfully-test-fired.html
+      date: "2018-05-31"
+      accessed: "2026-06-16"
+  - field: date
+    text: 31 May 2018 (second day, further round ~10:35 am)
+    basis: reported
+    source:
+      title: India Tests Guided Pinaka Multi-Barrel Rocket Meant to Replace Russian Smerch
+      tier: foreign-news
+      publisher: Sputnik via GlobalSecurity
+      url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180531-sputnik01.htm
+      date: "2018-05-31"
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    value: 70
+    text: range enhanced to 'more than 70 km' (from ~40 km)
+    basis: reported
+    source:
+      title: Upgraded Pinaka rocket successfully test-fired
+      tier: indian-news
+      publisher: Onmanorama
+      url: >-
+        https://www.onmanorama.com/news/nation/2018/05/31/upgraded-pinaka-rocket-successfully-test-fired.html
+      date: "2018-05-31"
+      accessed: "2026-06-16"
+sources:
+  - title: Upgraded Pinaka rocket successfully test-fired
+    tier: indian-news
+    publisher: Onmanorama
+    url: >-
+      https://www.onmanorama.com/news/nation/2018/05/31/upgraded-pinaka-rocket-successfully-test-fired.html
+    date: "2018-05-31"
+    accessed: "2026-06-16"
+  - title: India Tests Guided Pinaka Multi-Barrel Rocket Meant to Replace Russian Smerch
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2018/india-180531-sputnik01.htm
+    date: "2018-05-31"
+    accessed: "2026-06-16"

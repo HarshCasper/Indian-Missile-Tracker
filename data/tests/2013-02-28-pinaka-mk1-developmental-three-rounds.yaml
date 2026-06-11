@@ -1,0 +1,24 @@
+id: 2013-02-28-pinaka-mk1-developmental-three-rounds
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline)
+designation: Developmental trial
+date: "2013-02-28"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 40
+description: >-
+  Three rounds of the unguided Pinaka Mk-I multi-barrel rocket were successfully test-fired on 28
+  February 2013 from the PXE firing point at Chandipur-on-Sea, Odisha, demonstrating a range of
+  about 40 km. Part of the early-2013 developmental trial series.
+notes: >-
+  Date verified from the IRNA dateline 'New Delhi, Feb 28' and the report's statement that 'Three
+  rounds of Pinaka rockets were successfully tested today.' Distinct firing from the 30-31 January
+  2013 seven-round series reported in the same article.
+sources:
+  - title: India successfully test-fires 'Pinaka' rockets (IRNA archive)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2013/india-130228-irna01.htm
+    accessed: "2026-06-16"

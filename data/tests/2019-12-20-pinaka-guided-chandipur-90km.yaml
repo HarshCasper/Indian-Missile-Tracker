@@ -1,0 +1,40 @@
+id: 2019-12-20-pinaka-guided-chandipur-90km
+missile_id: pinaka-guided
+variant: Guided Pinaka Mk-II (extended range)
+designation: Guided Pinaka extended-range flight test (90 km, Day 2)
+date: "2019-12-20"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 90
+description: >-
+  On 20 December 2019, DRDO successfully test-fired the extended-range version of the guided Pinaka
+  from ITR Chandipur, off the Odisha coast, with the rocket hitting targets at 90 km. This was the
+  second consecutive day of guided Pinaka firings; the system uses an advanced navigation and
+  control guidance kit and met all mission objectives.
+notes: >-
+  Confirmed by ANI/Business Standard ('extended range version hit targets at 90 kms', 20 Dec) and
+  GlobalSecurity/Sputnik (separate guided Pinaka firing off the Odisha coast on 20 Dec, described as
+  the third firing within 24 hours). Two rockets reportedly fired this day.
+sources:
+  - title: Pinaka missile successfully test-fired, extended range version hit targets at 90 kms
+    tier: indian-news
+    publisher: ANI / Business Standard
+    url: >-
+      https://www.business-standard.com/article/news-ani/pinaka-missile-successfully-test-fired-extended-range-version-hit-targets-at-90-kms-119122000389_1.html
+    date: "2019-12-20"
+    accessed: "2026-06-16"
+  - title: India Conducts Third Test of Pinaka Missile System in 24 Hours (20 Dec firing)
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-191220-sputnik01.htm
+    date: "2019-12-20"
+    accessed: "2026-06-16"
+  - title: Pinaka missile successfully test-fired, extended range version hit targets at 90 kms
+    tier: indian-news
+    publisher: ANI
+    url: >-
+      https://www.aninews.in/news/national/general-news/pinaka-missile-successfully-test-fired-extended-range-version-hit-targets-at-90-kms20191220122212/
+    date: "2019-12-20"
+    accessed: "2026-06-16"

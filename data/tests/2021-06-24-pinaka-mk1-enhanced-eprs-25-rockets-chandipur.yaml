@@ -1,0 +1,55 @@
+id: 2021-06-24-pinaka-mk1-enhanced-eprs-25-rockets-chandipur
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (Enhanced) / EPRS
+designation: Enhanced Pinaka Rocket flight test
+date: "2021-06-24"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 45
+description: >-
+  DRDO successfully test-fired the enhanced-range version of the Pinaka rocket from a multi-barrel
+  rocket launcher on 24-25 June 2021 at the Integrated Test Range, Chandipur, Odisha. Twenty-five
+  Enhanced Pinaka rockets were launched in quick succession against targets at different ranges (up
+  to 45 km) and all mission objectives were met; flight articles were tracked by ITR and PXE
+  telemetry, radar and electro-optical systems. Manufacturing support from Economic Explosives Ltd.
+notes: >-
+  Confirmed by official PIB release PRID 1730354 (issued 25 June 2021) and corroborated by
+  Broadsword (Ajai Shukla) and India Tribune. Two-day firing (24-25 June). Distinct from the
+  separate Enhanced Range 122mm Caliber Rocket test announced 25 June 2021.
+sources:
+  - title: DRDO successfully test fires Enhanced Pinaka Rocket (PRID 1730354)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730354
+    date: "2021-06-25"
+    accessed: "2026-06-16"
+  - title: DRDO successfully test fires Enhanced Pinaka Rocket
+    tier: indian-news
+    publisher: Broadsword (Ajai Shukla)
+    url: https://www.ajaishukla.com/2021/06/drdo-successfully-test-fires-enhanced.html
+    date: "2021-06-25"
+    accessed: "2026-06-16"
+claims:
+  - field: date
+    text: >-
+      Firing conducted over 24-25 June 2021; PIB release issued 25 June 2021. Some secondary sources
+      cite 24 June.
+    basis: official
+    source:
+      title: DRDO successfully test fires Enhanced Pinaka Rocket (PRID 1730354)
+      tier: pib
+      publisher: Press Information Bureau, Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730354
+  - field: range_tested_km
+    value: 45
+    text: >-
+      Enhanced Pinaka can destroy targets at distances up to 45 km (officially stated in the PIB
+      release)
+    basis: official
+    source:
+      title: DRDO successfully test fires Enhanced Pinaka Rocket (PRID 1730354)
+      tier: pib
+      publisher: Press Information Bureau, Government of India
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1730354

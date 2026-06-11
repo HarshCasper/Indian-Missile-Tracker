@@ -1,0 +1,32 @@
+id: 2019-12-19-pinaka-guided-chandipur
+missile_id: pinaka-guided
+variant: Guided Pinaka Mk-II (enhanced range)
+designation: Guided Pinaka enhanced-range flight test (Day 1)
+date: "2019-12-19"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 75
+description: >-
+  An upgraded Guided Pinaka (Pinaka Mk-II with integrated navigation, control and guidance system)
+  was successfully test-fired on 19 December 2019 from ITR Chandipur, off the Odisha coast. The
+  flight, tracked by telemetry, radars and EOTS, met all objectives including enhanced range,
+  accuracy and sub-system functionality. Developed jointly by ARDE, RCI, DRDL, PXE and HEMRL.
+notes: >-
+  First day of a two-day campaign (19-20 December 2019). Reporting cites a strike range up to ~75 km
+  on 19 December; the 20 December firing demonstrated ~90 km. Some outlets blur the two days.
+sources:
+  - title: Pinaka guided rocket system tested off Odisha coast (19 Dec)
+    tier: foreign-news
+    publisher: Sputnik via GlobalSecurity
+    url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-191219-sputnik02.htm
+    date: "2019-12-19"
+    accessed: "2026-06-16"
+  - title: Pinaka missile system successfully flight tested
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/national/east-and-northeast/pinaka-missile-system-successfully-flight-tested-787086.html
+    date: "2019-12-20"
+    accessed: "2026-06-16"

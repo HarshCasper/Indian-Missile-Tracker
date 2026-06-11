@@ -1,0 +1,49 @@
+id: 2017-01-12-pinaka-guided-maiden-flight
+missile_id: pinaka-guided
+variant: Pinaka Mark-II (Guided)
+designation: First flight test of Guided Pinaka
+date: "2017-01-12"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  Maiden flight test of the Guided Pinaka, a Pinaka Rocket Mark-II fitted with a navigation,
+  guidance and control kit, fired from Launch Complex-III at ITR Chandipur on 12 January 2017
+  (reported ~12:45 pm IST). The test met all mission objectives; radars, electro-optical and
+  telemetry systems tracked the vehicle throughout the flight, demonstrating considerably enhanced
+  range and accuracy over the unguided Pinaka. Developed jointly by ARDE Pune, RCI Hyderabad and
+  DRDL Hyderabad.
+notes: >-
+  Date 12 Jan 2017 confirmed by multiple Indian outlets (News Nation, SPS MAI, The Hans India) and
+  UPI; PTI/Deccan Herald/Hans India copy was published ~24-25 January 2017 (publication date, not
+  test date). PIB returned HTTP 403 and could not be fetched. The originally listed range_tested_km
+  of 75 is NOT supported by any source seen (sources state only 'considerably enhanced range and
+  accuracy' with no km figure), so range_tested_km was removed.
+sources:
+  - title: Guided rocket 'Pinaka Mark II' test fired successfully from Chandipur
+    tier: indian-news
+    publisher: News Nation
+    url: >-
+      https://english.newsnationtv.com/india/news/guided-rocket-pinaka-mark-ii-test-fired-successfully-from-chandipur-157577.html
+    date: "2017-01-12"
+    accessed: "2026-06-16"
+  - title: Successful test-firing of guided Pinaka
+    tier: indian-news
+    publisher: SP's MAI
+    url: https://www.spsmai.com/military/?id=4260&q=Successful-test-firing-of-guided-Pinaka
+    date: "2017-01-12"
+    accessed: "2026-06-16"
+  - title: India test-fires guided Pinaka Rocket Mark-II
+    tier: foreign-news
+    publisher: UPI
+    url: >-
+      https://www.upi.com/Defense-News/2017/01/12/India-test-fires-guided-Pinaka-Rocket-Mark-II/2431484230995
+    date: "2017-01-12"
+    accessed: "2026-06-16"
+  - title: Guided Pinaka rocket successfully test fired (PTI)
+    tier: indian-news
+    publisher: Deccan Herald / PTI
+    url: https://www.deccanherald.com/india/guided-pinaka-rocket-successfully-test-1987361
+    date: "2017-01-24"
+    accessed: "2026-06-16"

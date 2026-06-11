@@ -1,0 +1,55 @@
+id: 1999-pinaka-mk1-user-trials-kargil
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline)
+designation: User trials / Kargil combat use
+date: "1999"
+date_precision: year
+outcome: success
+confidence: disputed
+site_id: itr-chandipur
+description: >-
+  Development-phase user trials of the baseline 214 mm unguided Pinaka Mk-I multi-barrel rocket
+  system. Phase-one user trials were carried out in June 1997 and phase-two from July 1998; the
+  system was further tested at Balasore (Chandipur) in March 1999, and its combat capabilities were
+  demonstrated operationally during the Kargil conflict in June 1999. The first Pinaka regiment was
+  raised in February 2000.
+notes: >-
+  No discrete 1999 firing event with an exact date is documented; this entry covers the late-1990s
+  user-trial/early-deployment period. Treated as disputed: secondary sources describe the timeline
+  differently (June 1997 phase-1, July 1998 phase-2, March 1999 Balasore test, June 1999 Kargil).
+  Site shown as itr-chandipur (Balasore/Chandipur) for the test firings; Kargil use was operational
+  in J&K, not a test range.
+sources:
+  - title: New, deadly Pinaka rocket gives army cross-border options
+    tier: indian-news
+    publisher: Broadsword (Ajai Shukla)
+    url: https://www.ajaishukla.com/2020/11/new-deadly-pinaka-rocket-gives-army.html
+    date: "2020-11-04"
+    accessed: "2026-06-16"
+  - title: Pinaka Multibarrel Rocket Launch (MBRL) System
+    tier: foreign-news
+    publisher: Army Technology
+    url: https://www.army-technology.com/projects/pinaka-multibarrel-rocket-launch-system-indian-army/
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 37.5
+    text: >-
+      Baseline Pinaka Mk-I range stated as 37.5 km by Broadsword; Army Technology instead lists the
+      system range as 40 km. Sources conflict on the baseline range.
+    basis: reported
+    source:
+      title: New, deadly Pinaka rocket gives army cross-border options
+      tier: indian-news
+      publisher: Broadsword (Ajai Shukla)
+      url: https://www.ajaishukla.com/2020/11/new-deadly-pinaka-rocket-gives-army.html
+  - field: range_tested_km
+    value: 40
+    text: Army Technology lists Pinaka (Mk-I) system range as 40 km, conflicting with the 37.5 km figure
+    basis: reported
+    source:
+      title: Pinaka Multibarrel Rocket Launch (MBRL) System
+      tier: foreign-news
+      publisher: Army Technology
+      url: >-
+        https://www.army-technology.com/projects/pinaka-multibarrel-rocket-launch-system-indian-army/

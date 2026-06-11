@@ -1,0 +1,55 @@
+id: 2022-04-09-pinaka-mk1-enhanced-eprs-adm-pokhran
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (Enhanced) / EPRS (with Area Denial Munition)
+designation: EPRS and Pinaka Area Denial Munition flight tests
+date: "2022-04-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+description: >-
+  DRDO and the Indian Army successfully flight-tested the Pinaka Mk-I (Enhanced) Rocket System
+  (EPRS) and the Pinaka Area Denial Munition (ADM) rocket systems at the Pokhran Firing Ranges. A
+  total of 24 EPRS rockets were fired for different ranges over the preceding fortnight, achieving
+  required accuracy and consistency and meeting all trial objectives. The campaign completed the
+  initial phase of technology absorption by industry; rockets were manufactured by Munitions India
+  Limited (MIL) under ToT from DRDO.
+notes: >-
+  Confirmed by official PIB release PRID 1815236 (9 April 2022), corroborated by Aviation & Defence
+  Universe and Organiser. The official release reports 24 EPRS rockets and ADM variants over a
+  fortnight but does not state a specific range in km; the ~45 km figure is secondary and recorded
+  as a claim.
+sources:
+  - title: >-
+      Pinaka Mk-I (Enhanced) Rocket System and Pinaka Area Denial Munition Rocket Systems
+      successfully flight-tested by DRDO & Indian Army (PRID 1815236)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1815236
+    date: "2022-04-09"
+    accessed: "2026-06-16"
+  - title: >-
+      Pinaka Mk-I (Enhanced) Rocket System And Pinaka Area Denial Munition Rocket Systems
+      Successfully Flight-Tested
+    tier: foreign-news
+    publisher: Aviation & Defence Universe
+    url: >-
+      https://www.aviation-defence-universe.com/pinaka-mk-i-enhanced-rocket-system-and-pinaka-area-denial-munition-rocket-systems-successfully-flight-tested-by-drdo-indian-army/
+    date: "2022-04-09"
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 45
+    text: >-
+      EPRS enhanced range reported as ~45 km by secondary sources; the official PIB release for this
+      campaign did not state a specific range, only that 24 EPRS rockets were fired 'for different
+      ranges'.
+    basis: reported
+    source:
+      title: >-
+        Pinaka Mk-I (Enhanced) Rocket System And Pinaka Area Denial Munition Rocket Systems
+        Successfully Flight-Tested
+      tier: foreign-news
+      publisher: Aviation & Defence Universe
+      url: >-
+        https://www.aviation-defence-universe.com/pinaka-mk-i-enhanced-rocket-system-and-pinaka-area-denial-munition-rocket-systems-successfully-flight-tested-by-drdo-indian-army/

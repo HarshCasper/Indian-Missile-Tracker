@@ -1,0 +1,52 @@
+id: 2020-11-04-pinaka-mk1-enhanced-eprs-maiden-chandipur
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (Enhanced) / EPRS
+designation: Enhanced Pinaka maiden flight test
+date: "2020-11-04"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+description: >-
+  DRDO successfully flight-tested the Enhanced Pinaka rocket (Pinaka Mk-I Enhanced) from the
+  Integrated Test Range, Chandipur, Odisha. Six rockets were launched in quick succession and met
+  complete mission objectives. The enhanced design was developed by ARDE and HEMRL (Pune) to achieve
+  longer range with reduced rocket length; test articles were manufactured by Economic Explosives
+  Ltd, Nagpur, under ToT.
+notes: >-
+  Confirmed by official PIB release PRID 1670104 and DRDO press release, plus GlobalSecurity PIB
+  archive. The official statement does NOT cite a specific range; the ~45 km figure comes only from
+  secondary/further-reading sources and is recorded as a claim, not as range_tested_km.
+sources:
+  - title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PRID 1670104)
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1670104
+    date: "2020-11-04"
+    accessed: "2026-06-16"
+  - title: Enhanced version of PINAKA Rocket System successfully Flight Tested
+    tier: pib
+    publisher: DRDO, Ministry of Defence
+    url: >-
+      https://www.drdo.gov.in/press-release/enhanced-version-pinaka-rocket-system-successfully-flight-tested
+    date: "2020-11-04"
+    accessed: "2026-06-16"
+  - title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PIB archive)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-201104-india-pib01.htm
+    date: "2020-11-04"
+    accessed: "2026-06-16"
+claims:
+  - field: range_tested_km
+    value: 45
+    text: >-
+      Enhanced Pinaka Mk-I range of ~45 km per secondary sources; the official PIB/DRDO release for
+      this test did not state a range.
+    basis: reported
+    source:
+      title: India tests enhanced version of rocket used by Pinaka MRL
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/defence-intelligence-insights/defence-news/india-tests-enhanced-version-of-rocket-used-by-pinaka-mrl

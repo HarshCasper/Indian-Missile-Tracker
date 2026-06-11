@@ -1,0 +1,43 @@
+id: 2022-04-09-pinaka-mk2-eprs-adm-pokhran
+missile_id: pinaka-mk2
+variant: Pinaka Mk-I (Enhanced) Rocket System (EPRS) + Area Denial Munition
+designation: Pinaka Mk-I (Enhanced) Rocket System and Pinaka ADM flight tests
+date: "2022-04-09"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+description: >-
+  DRDO and the Indian Army flight-tested the Pinaka Mk-I (Enhanced) Rocket System (EPRS) and Pinaka
+  Area Denial Munition (ADM) rocket systems at the Pokhran firing ranges. A total of 24 EPRS rockets
+  were fired for different ranges over the preceding fortnight, meeting required accuracy and
+  consistency, completing the initial phase of industry technology absorption ahead of user
+  trials/series production.
+notes: >-
+  Announced 9 April 2022. Verified via NetIndian, India TV and other Indian outlets; rockets
+  manufactured by Munitions India Ltd and Economic Explosives Ltd under transfer of technology.
+  Closely related to the Pinaka-ER program.
+sources:
+  - title: Pinaka Mk-I (Enhanced) Rocket System, Pinaka Area Denial Munition Rocket Systems flight-tested
+    tier: indian-news
+    publisher: NetIndian
+    date: "2022-04-09"
+    url: >-
+      https://www.netindian.in/news/national/defence/pinaka-mk-i-enhanced-rocket-system-pinaka-area-denial-munition-rocket-systems-flight-tested
+    accessed: "2026-06-16"
+  - title: India successfully test-fires Pinaka missile systems
+    tier: indian-news
+    publisher: India TV News
+    date: "2022-04-09"
+    url: >-
+      https://www.indiatvnews.com/news/india/india-successfully-test-fires-pinaka-missile-systems-pokhran-firing-ranges-defense-ministry-drdo-2022-04-09-768718
+    accessed: "2026-06-16"
+  - title: >-
+      Pinaka Mk-I (Enhanced) Rocket System & Pinaka Area Denial Munition Rocket Systems Successfully
+      Flight-Tested By DRDO & Indian Army
+    tier: indian-news
+    publisher: Indian Aerospace & Defence Bulletin (IADB)
+    date: "2022-04-09"
+    url: >-
+      https://www.iadb.in/2022/04/09/pinaka-mk-i-enhanced-rocket-system-pinaka-area-denial-munition-rocket-systems-successfully-flight-tested-by-drdo-indian-army/
+    accessed: "2026-06-16"

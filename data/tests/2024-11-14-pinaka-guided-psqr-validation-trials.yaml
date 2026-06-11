@@ -1,0 +1,41 @@
+id: 2024-11-14-pinaka-guided-psqr-validation-trials
+missile_id: pinaka-guided
+variant: Guided Pinaka Weapon System (Guided Mk-II)
+designation: PSQR Validation Trials of Guided Pinaka Weapon System
+date: "2024-11-14"
+date_precision: day
+outcome: success
+confidence: confirmed
+description: >-
+  DRDO and the Indian Army completed the Provisional Staff Qualitative Requirements (PSQR)
+  Validation Trials of the Guided Pinaka Weapon System, announced by MoD/PIB on 14 November 2024.
+  The trials were conducted in three phases at different field firing ranges; 12 rockets from each
+  production agency were fired from two in-service Pinaka launchers (upgraded by the launcher
+  production agencies), assessing range, accuracy, consistency and rate of fire for multiple-target
+  engagement in salvo mode. The trials cleared the system, paving the way for Army induction.
+notes: >-
+  Multi-phase campaign reported as a single MoD/PIB completion announcement on 14 Nov 2024;
+  individual phase dates and the specific field firing ranges were not disclosed, so site_id left
+  empty (likely included Pokhran). Munition agencies: Munitions India Ltd and Economic Explosives
+  Ltd; launcher/BCP agencies: Tata Advanced Systems and L&T. Defence Minister Rajnath Singh hailed
+  the milestone. News on AIR is Prasar Bharati / PIB-sourced (tier pib).
+sources:
+  - title: DRDO completes flight tests of Guided Pinaka Weapon System
+    tier: pib
+    publisher: News on AIR (Prasar Bharati, PIB-sourced)
+    url: https://www.newsonair.gov.in/drdo-completes-flight-tests-of-guided-pinaka-weapon-system
+    date: "2024-11-14"
+    accessed: "2026-06-16"
+  - title: DRDO successfully completes Flight Tests of Guided Pinaka Weapon System
+    tier: indian-news
+    publisher: India Strategic
+    url: >-
+      https://www.indiastrategic.in/drdo-successfully-completes-flight-tests-of-guided-pinaka-weapon-system/
+    date: "2024-11-15"
+    accessed: "2026-06-16"
+  - title: India's DRDO conducts PSQR validation trials for Pinaka weapon system
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/news/indias-drdo-pinaka-trials/
+    accessed: "2026-06-16"
+site_id: null

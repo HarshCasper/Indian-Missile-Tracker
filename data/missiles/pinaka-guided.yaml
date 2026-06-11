@@ -1,0 +1,89 @@
+id: pinaka-guided
+name: Guided Pinaka
+aka:
+  - Guided Pinaka rocket
+  - Pinaka guided rocket
+  - Pinaka Mk-II Guided
+  - Pinaka Long Range Guided Rocket (LRGR-120)
+category: surface-to-surface
+range_class: other
+developer: DRDO (ARDE Pune, Research Centre Imarat (RCI) Hyderabad, DRDL Hyderabad, HEMRL Pune)
+operators:
+  - Indian Army
+status: operational
+range_km:
+  min: 75
+  max: 120
+payload_kg: 100
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Pinaka multi-barrel rocket launcher (MBRL) vehicle
+variants:
+  - name: Guided Pinaka (navigation/guidance/control kit on Pinaka Mk-II)
+    notes: >-
+      First flight tested 12 Jan 2017; precision-guided rocket using INS-based navigation, guidance
+      and control kit, demonstrated range ~75 km with high accuracy.
+  - name: Pinaka Long Range Guided Rocket (LRGR-120)
+    notes: >-
+      120 km strike-range guided rocket; maiden flight test conducted at ITR Chandipur on 29-30
+      December 2025 with inertial navigation plus mid-course/terminal guidance.
+first_test: "2017-01-12"
+description: >-
+  Guided Pinaka adds an inertial navigation, guidance and control kit to the Pinaka rocket,
+  converting the free-flight artillery rocket into a precision-guided weapon with greatly improved
+  accuracy (low circular error probable) and extended range. The first guided Pinaka was
+  flight-tested from Launch Complex-III, ITR Chandipur on 12 January 2017, jointly developed by ARDE
+  Pune, RCI Hyderabad and DRDL Hyderabad, demonstrating a range on the order of 75 km. The programme
+  later progressed to the Pinaka Long Range Guided Rocket (LRGR-120), whose maiden flight test to a
+  full 120 km design range was conducted at ITR Chandipur in late December 2025.
+claims:
+  - field: range_km
+    value: 75
+    basis: demonstrated
+    text: Guided Pinaka (2017-era guidance-kit rocket) reported capable of ~75 km with high precision.
+    source:
+      title: DRDO successfully completes flight tests of guided Pinaka rocket system
+      tier: indian-news
+      url: >-
+        https://www.business-standard.com/external-affairs-defence-security/news/drdo-successfully-completes-flight-tests-of-guided-pinaka-rocket-system-124111501404_1.html
+      publisher: Business Standard
+  - field: range_km
+    value: 120
+    basis: official
+    text: >-
+      Pinaka Long Range Guided Rocket (LRGR-120) flight tested to full 120 km design range, late
+      December 2025.
+    source:
+      title: DRDO successfully conducts maiden flight test of 120 Km strike range Pinaka rockets
+      tier: pib
+      url: >-
+        https://ddnews.gov.in/en/drdo-successfully-conducts-maiden-flight-test-of-120-km-strike-range-pinaka-rockets/
+      publisher: DD News (Prasar Bharati) / Ministry of Defence
+sources:
+  - title: Guided Pinaka rocket successfully test fired (first guided test, 12 Jan 2017)
+    tier: indian-news
+    url: https://www.deccanherald.com/india/guided-pinaka-rocket-successfully-test-1987361
+    publisher: Deccan Herald
+    date: "2017-01-24"
+  - title: DRDO successfully conducts maiden flight test of Pinaka Long Range Guided Rocket (PIB)
+    tier: pib
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2209588&reg=3&lang=1
+    publisher: Press Information Bureau, Ministry of Defence
+  - title: DRDO successfully conducts maiden flight test of 120 Km strike range Pinaka rockets
+    tier: pib
+    url: >-
+      https://ddnews.gov.in/en/drdo-successfully-conducts-maiden-flight-test-of-120-km-strike-range-pinaka-rockets/
+    publisher: DD News (Prasar Bharati)
+  - title: DRDO successfully completes flight tests of guided Pinaka rocket system (2024)
+    tier: indian-news
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/drdo-successfully-completes-flight-tests-of-guided-pinaka-rocket-system-124111501404_1.html
+    publisher: Business Standard
+confidence: confirmed
+notes: >-
+  first_test = 12 Jan 2017, the first guided Pinaka flight (ARDE/RCI/DRDL). The 120 km LRGR-120
+  (maiden test reported 29-30 Dec 2025; one-day source variance likely a timezone/dateline
+  difference) is a later development within the guided-Pinaka lineage and captured as a variant.
+  Range spans ~75 km (2017 guidance-kit rocket) to 120 km (LRGR). Payload retained at ~100 kg class.
+  range_class 'other' (guided artillery rocket).

@@ -1,0 +1,24 @@
+id: 2012-03-30-pinaka-mk1-army-trial
+missile_id: pinaka-mk1
+variant: Pinaka Mk-I (unguided baseline)
+designation: Routine army trial
+date: "2012-03-30"
+date_precision: day
+outcome: success
+confidence: reported
+site_id: itr-chandipur
+range_tested_km: 40
+description: >-
+  Six rounds of the unguided Pinaka Mk-I multi-barrel rocket were successfully test-fired in a
+  routine trial conducted by Army personnel with DRDO from the Odisha test range. The system was
+  described as an area weapon with a ~40 km strike range, able to fire a 12-rocket salvo in 44
+  seconds and neutralise about 3.9 sq km.
+notes: >-
+  Single solid source: GlobalSecurity archive of an IRNA report; verified verbatim (six rounds, 40
+  km). Exact launch pad not named; Chandipur (Odisha) range assumed.
+sources:
+  - title: India successfully test fires multi barrel 'Pinaka' rocket (IRNA archive)
+    tier: foreign-news
+    publisher: GlobalSecurity.org (IRNA)
+    url: https://www.globalsecurity.org/wmd/library/news/india/2012/india-120330-irna02.htm
+    accessed: "2026-06-16"

@@ -1,0 +1,45 @@
+id: 2021-12-11-pinaka-mk2-er-pokhran-24-rockets
+missile_id: pinaka-mk2
+variant: Pinaka-ER (Extended/Enhanced Range)
+designation: Pinaka Extended Range, Area Denial Munitions & indigenous fuzes trials
+date: "2021-12-11"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: pokhran-range
+range_tested_km: 45
+description: >-
+  DRDO and the Indian Army conducted performance-evaluation trials of industry-produced Pinaka
+  Extended Range (Pinaka-ER) rockets at the Pokhran field firing ranges, announced 11 December 2021.
+  A total of 24 rockets were fired at different ranges with various warhead capabilities; Area
+  Denial Munitions (ADM) and indigenously developed fuzes were also tested. All trial objectives
+  were met, completing the initial phase of technology absorption by the industry partner.
+notes: >-
+  Announced 11 Dec 2021; trials ran over the preceding three days. Verified via PIB (PRID 1780412,
+  mirrored by DD News) plus ANI. Range of ~45 km per secondary sources; PIB did not state a fixed
+  figure.
+sources:
+  - title: >-
+      Successful tests carried out for Pinaka Extended Range System, Area Denial Munitions & New
+      Indigenous Fuzes (PIB PRID 1780412)
+    tier: pib
+    publisher: Press Information Bureau
+    date: "2021-12-11"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780412
+    accessed: "2026-06-16"
+  - title: >-
+      Successful tests carried out for Pinaka Extended Range System, Area Denial Munitions & New
+      Indigenous Fuzes (PIB, DD News mirror)
+    tier: pib
+    publisher: DD News
+    date: "2021-12-11"
+    url: >-
+      https://ddnews.gov.in/national/successful-tests-carried-out-pinaka-extended-range-system-area-denial-munitions-new
+    accessed: "2026-06-16"
+  - title: DRDO successfully tests Pinaka Extended Range, Area Denial Munitions, indigenous fuzes
+    tier: indian-news
+    publisher: ANI
+    date: "2021-12-11"
+    url: >-
+      https://www.aninews.in/news/national/general-news/drdo-successfully-tests-pinaka-extended-range-area-denial-munitions-indigenous-fuzes20211211132344/
+    accessed: "2026-06-16"
