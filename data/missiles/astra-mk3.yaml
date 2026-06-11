@@ -1,0 +1,60 @@
+id: astra-mk3
+name: Astra Mk3 / Gandiva
+aka:
+  - Astra MkIII
+  - Gandiva
+  - Astra Mk-3
+category: air-to-air
+range_class: AAM
+developer: DRDO (DRDL/RCI)
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 200
+  max: 340
+speed_mach: 4.5
+nuclear_capable: false
+propulsion: ramjet
+launch_platform:
+  - Su-30MKI (planned)
+variants:
+  - name: Astra Mk3 / Gandiva
+    notes: Solid-fuel ducted ramjet (SFDR) air-breathing propulsion; planned GaN-based AESA seeker
+description: >-
+  Astra Mk3, officially named 'Gandiva', is a next-generation BVRAAM under development by DRDO using
+  solid-fuel ducted ramjet (SFDR) air-breathing propulsion for sustained high-supersonic speed and
+  long no-escape zones, intended to rival the MBDA Meteor. Reported ranges are around 300-340+ km
+  against large targets and roughly 200-250 km against fighter-sized targets. DRDO completed
+  ground-based SFDR propulsion tests in 2024 and is moving toward flight/propulsion trials, with
+  operational induction targeted around 2029-2030.
+claims:
+  - field: range_km
+    basis: reported
+    value: 340
+    note: Quoted >340 km vs large targets; 200-250 km vs fighter-size targets
+    source:
+      title: "The new Gandiva: How India's Astra MK3 brings Mahabharata magic to modern warfare"
+      tier: indian-news
+      publisher: WION
+      url: >-
+        https://www.wionews.com/india-news/the-new-gandiva-how-india-s-astra-mk3-brings-mahabharata-magic-to-modern-warfare-1752724424054
+    text: ">340 km large-target range"
+sources:
+  - title: "The new Gandiva: How India's Astra MK3 brings Mahabharata magic to modern warfare"
+    tier: indian-news
+    publisher: WION
+    url: >-
+      https://www.wionews.com/india-news/the-new-gandiva-how-india-s-astra-mk3-brings-mahabharata-magic-to-modern-warfare-1752724424054
+  - title: >-
+      IAF's Astra Mk3 Gandivas, capable of destruction from 350 km away, set to be battle-ready by
+      2030
+    tier: indian-news
+    publisher: The Week
+    url: >-
+      https://www.theweek.in/news/defence/2025/10/24/iaf-astra-mk3-gandivas-capable-of-destruction-from-350-km-away-set-to-be-battle-ready-by-2030-report.html
+confidence: reported
+notes: >-
+  Air-breathing SFDR distinguishes it from solid-rocket Mk1/Mk2. Range and speed (~Mach 4.5) figures
+  are reported estimates, not yet officially confirmed final specs. No verified ISO first
+  flight-test date; SFDR ground tests reported Dec 2024.

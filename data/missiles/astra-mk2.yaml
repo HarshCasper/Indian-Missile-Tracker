@@ -1,0 +1,67 @@
+id: astra-mk2
+name: Astra Mk2
+aka:
+  - Astra Mk-II
+  - Astra MkII
+category: air-to-air
+range_class: AAM
+developer: DRDO (DRDL/RCI)
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 140
+  max: 160
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Su-30MKI
+  - Tejas LCA
+variants:
+  - name: Astra Mk2
+    notes: Dual-pulse solid rocket motor, indigenous Ku-band active radar seeker
+description: >-
+  Astra Mk2 is a longer-range development of the Astra BVRAAM, using a dual-pulse solid rocket motor
+  and an indigenous Ku-band active radar seeker developed by DRDO's RCI to replace the Russian
+  seeker used on early Mk1 rounds. Reported design ranges have ranged from 140-160 km in earlier
+  accounts up to ~240 km in more recent DRDO statements. It completed primary developmental trials
+  and is targeted for IAF induction around 2026, with the IAF reportedly planning to procure
+  hundreds of rounds for the Su-30MKI and Tejas.
+claims:
+  - field: range_km
+    basis: official
+    value: 240
+    note: More recent DRDO/industry accounts cite ~240 km after range extension
+    source:
+      title: DRDO's Astra Mk2 Clears Trials, Set for 2026 Induction as India Enters 240-km BVR Club
+      tier: foreign-news
+      publisher: The Defense News
+      url: >-
+        https://www.thedefensenews.com/news-details/DRDOs-Astra-Mk2-Clears-Trials-Set-for-2026-Induction-as-India-Enters-240-km-BVR-Club/
+    text: ~240 km in recent reporting
+  - field: range_km
+    basis: reported
+    value: 140
+    note: Earlier reporting cited 130-160 km projected range
+    source:
+      title: DRDO Is Planning To Test Astra Mk-2 Missile; ~130 km Range
+      tier: indian-news
+      publisher: Swarajya
+      url: >-
+        https://swarajyamag.com/defence/iaf-is-planning-to-test-astra-mk-2-missile-heres-a-lowdown-on-the-new-130-km-range-air-to-air-missile
+sources:
+  - title: Upgraded BVR missile Astra Mk-2 will be ready for IAF induction in two years
+    tier: indian-news
+    publisher: Deccan Herald
+    url: >-
+      https://www.deccanherald.com/india/upgraded-bvr-missile-astra-mk-2-will-be-ready-for-iaf-induction-in-two-years-3191961
+  - title: DRDO's Astra Mk2 Clears Trials, Set for 2026 Induction as India Enters 240-km BVR Club
+    tier: foreign-news
+    publisher: The Defense News
+    url: >-
+      https://www.thedefensenews.com/news-details/DRDOs-Astra-Mk2-Clears-Trials-Set-for-2026-Induction-as-India-Enters-240-km-BVR-Club/
+confidence: reported
+notes: >-
+  Range figures are disputed/evolving (140-160 km early, ~240 km recently) reflecting design growth
+  via dual-pulse motor. No verified ISO first-test date located; left blank. Status development as
+  of mid-2026 with induction expected ~2026.

@@ -1,0 +1,93 @@
+id: astra
+name: Astra Mk1
+aka:
+  - Astra Mk-1
+  - Astra BVRAAM
+category: air-to-air
+range_class: AAM
+developer: DRDO (DRDL)
+operators:
+  - Indian Air Force
+  - Indian Navy
+status: operational
+range_km:
+  min: 80
+  max: 110
+payload_kg: 15
+speed_mach: 4.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Su-30MKI
+  - Tejas LCA
+  - Mirage 2000
+  - MiG-29
+variants:
+  - name: Astra Mk1
+    notes: Baseline production BVRAAM, ~80-110 km range, inducted with IAF
+first_test: "2003-05-12"
+description: >-
+  Astra Mk1 is India's first indigenously developed beyond-visual-range air-to-air missile (BVRAAM),
+  developed by DRDO and produced by Bharat Dynamics Limited. It is a solid-propelled missile with an
+  active radar terminal seeker and mid-course inertial guidance, with a quoted launch range over 100
+  km in head-on engagements. It has been integrated and inducted on the Su-30MKI and is being
+  qualified on Tejas and other platforms. A direct-hit test from the Tejas LCA AF Mk1 was conducted
+  on 12 March 2025, and a July 2025 test validated an indigenous RF seeker from the Su-30MKI.
+claims:
+  - field: range_km
+    basis: reported
+    value: 110
+    note: Range varies with launch altitude/speed; quoted 80-110 km, '100 km+' in head-on engagements
+    source:
+      title: India's ASTRA Missile With 100 Km+ Range Test-Fired From LCA AF MK1
+      tier: indian-news
+      publisher: Swarajya
+      url: >-
+        https://swarajyamag.com/news-brief/indias-100-km-astra-missile-test-fired-from-lca-af-mk1-achieves-direct-hit-on-flying-target
+  - field: range_km
+    basis: reported
+    value: 80
+    note: Airforce-technology lists 80 km maximum launch range for Mk1
+    source:
+      title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+      tier: foreign-news
+      publisher: Airforce Technology
+      url: >-
+        https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+  - field: payload_kg
+    basis: reported
+    value: 15
+    note: 15 kg high-explosive pre-fragmented warhead with radio-proximity fuse
+    source:
+      title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+      tier: foreign-news
+      publisher: Airforce Technology
+      url: >-
+        https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+sources:
+  - title: Tejas LCA AF MK1 test-fires Beyond Visual Range Air-to-Air Missile
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    date: "2025-03-12"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2111068
+  - title: >-
+      DRDO & IAF conduct successful flight-test of Astra BVRAAM with indigenous RF Seeker from Su-30
+      Mk-I
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2144118&reg=3&lang=2
+  - title: Astra Beyond Visual Range (BVR) Air-to-Air Missile
+    tier: foreign-news
+    publisher: Airforce Technology
+    url: https://www.airforce-technology.com/projects/astra-beyond-visual-range-bvr-air-to-air-missile/
+  - title: India working on next 'Astra' missile with 160 km range as Mk1 is integrated in IAF & Navy
+    tier: indian-news
+    publisher: The Print
+    url: >-
+      https://theprint.in/defence/india-working-on-next-astra-missile-with-160-km-range-as-mk1-is-integrated-in-iaf-navy/566699/
+confidence: confirmed
+notes: >-
+  Developed under/alongside the IGMDP framework. First ballistic/captive trials began May 2003; user
+  trials 2016-2019 led to IAF induction circa 2019-2020. Mach figure (~4-4.5 max) is reported;
+  airforce-technology cites a max launch speed envelope to Mach 2 for the aircraft release while
+  terminal missile speed is higher.
