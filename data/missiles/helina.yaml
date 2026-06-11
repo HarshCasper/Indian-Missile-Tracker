@@ -1,0 +1,70 @@
+id: helina
+name: HELINA / Dhruvastra
+aka:
+  - HELINA
+  - Dhruvastra
+  - Helicopter-launched Nag
+  - Helina ATGM
+category: anti-tank
+range_class: ATGM
+developer: DRDO (DRDL, Hyderabad)
+operators:
+  - Indian Army (HELINA)
+  - Indian Air Force (Dhruvastra)
+status: development
+range_km:
+  min: 0.5
+  max: 7
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - HAL Rudra (ALH WSI)
+  - HAL Prachand LCH
+  - Advanced Light Helicopter
+variants:
+  - name: HELINA
+    notes: Indian Army version, launched from ALH/Rudra helicopters
+  - name: Dhruvastra
+    notes: Indian Air Force designation of the same helicopter-launched ATGM
+first_test: "2018-08-19"
+description: >-
+  HELINA (Helicopter-based Nag) is a third-generation, lock-on before launch, fire-and-forget
+  anti-tank guided missile developed by DRDO's DRDL for launch from helicopters, with the IAF
+  version designated Dhruvastra. It uses an imaging infrared seeker and can engage targets in both
+  direct-hit and top-attack modes against tanks with conventional and explosive reactive armour, day
+  or night, out to about 7 km. It was test-fired at Pokhran on 19 August 2018 and underwent
+  successful user trials, including high-altitude trials, with the system declared ready for
+  induction around 2022-2023.
+claims:
+  - field: range_km
+    basis: reported
+    value: 7
+    note: Maximum range ~7 km (helicopter-launched)
+    source:
+      title: Successful user trials of DRDO-developed ATGM Systems 'Helina' and 'Dhruvastra'
+      tier: pib
+      publisher: PIB / Ministry of Defence
+      url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1699376
+sources:
+  - title: >-
+      Successful user trials of DRDO-developed Anti-Tank Guided Missile Systems 'Helina' and
+      'Dhruvastra'
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1699376
+  - title: "Helina: Anti-Tank Guided Missile"
+    tier: indian-news
+    publisher: Drishti IAS
+    url: https://www.drishtiias.com/daily-news-analysis/helina-anti-tank-guided-missile
+  - title: >-
+      Anti-Tank Guided Missiles Helina and Dhruvastra ready for induction in Indian Army and Air
+      Force
+    tier: foreign-news
+    publisher: Army Recognition
+    url: >-
+      https://www.armyrecognition.com/archives/archives-aerospace-defense/aerospace-defense-2023/anti-tank-guided-missiles-helina-and-dhruvastra-ready-for-induction-in-indian-army-and-air-force
+confidence: confirmed
+notes: >-
+  HELINA and Dhruvastra are the same missile under Army and IAF naming respectively. First flight
+  test 19 August 2018 at Pokhran; user trials completed 2021-2022. Status development/pre-induction
+  as of mid-2020s.
