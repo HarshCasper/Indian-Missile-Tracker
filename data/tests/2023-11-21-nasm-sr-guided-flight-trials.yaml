@@ -1,0 +1,60 @@
+id: 2023-11-21-nasm-sr-guided-flight-trials
+missile_id: nasm-sr
+designation: Guided flight trials
+date: "2023-11-21"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO and the Indian Navy conducted successful guided flight trials of the NASM-SR launched from an
+  Indian Navy Sea King Mk.42B helicopter at the Integrated Test Range, Chandipur, validating
+  indigenous seeker and guidance technology. The sea-skimming missile demonstrated precision
+  guidance toward a ship target, a significant step toward self-reliance in seeker/guidance
+  technology.
+notes: >-
+  Air-launched from an Indian Navy Sea King Mk.42B helicopter (IN529/W, INAS 336) over the Odisha
+  test range. Site (ITR Chandipur) and date (21 Nov 2023) corroborated by Janes, Deccan Herald,
+  key.aero and Swarajya. The 'Mach ~0.8 / subsonic' figure is a published system specification, not
+  a value officially disclosed for this specific trial; demonstrated range for this trial was not
+  officially stated.
+claims:
+  - field: range_max_km
+    text: >-
+      Maximum range ~55 km; subsonic (Mach ~0.8) sea-skimming missile (system specification, not a
+      value officially disclosed for this trial)
+    value: 55
+    basis: reported
+    source:
+      title: India carries out 'guided flight trials' of indigenous anti-ship missile
+      tier: foreign-news
+      publisher: Janes
+      date: "2023-11-21"
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/weapons/india-carries-out-guided-flight-trials-of-indigenous-anti-ship-missile
+      accessed: "2026-06-16"
+sources:
+  - title: India carries out 'guided flight trials' of indigenous anti-ship missile
+    tier: foreign-news
+    publisher: Janes
+    date: "2023-11-21"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/weapons/india-carries-out-guided-flight-trials-of-indigenous-anti-ship-missile
+    accessed: "2026-06-16"
+  - title: Navy, DRDO undertake guided flight trials for indigenous naval anti-ship missile
+    tier: indian-news
+    publisher: Deccan Herald
+    date: "2023-11-21"
+    url: >-
+      https://www.deccanherald.com/india/navy-drdo-undertake-guided-flight-trials-for-indigenous-naval-anti-ship-missile-2779442
+    accessed: "2026-06-16"
+  - title: >-
+      DRDO Successfully Tests Naval Anti-Ship Missile 'NASM-SR' From Indian Navy's Sea King
+      Helicopters
+    tier: indian-news
+    publisher: Swarajya
+    date: "2023-11-21"
+    url: >-
+      https://swarajyamag.com/defence/drdo-successfully-tests-naval-anti-ship-missile-nasm-sr-from-indian-navys-sea-king-helicopters
+    accessed: "2026-06-16"

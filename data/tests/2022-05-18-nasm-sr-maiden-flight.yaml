@@ -1,0 +1,43 @@
+id: 2022-05-18-nasm-sr-maiden-flight
+missile_id: nasm-sr
+designation: Maiden developmental flight test
+date: "2022-05-18"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO and the Indian Navy conducted the maiden flight test of the Naval Anti-Ship Missile-Short
+  Range (NASM-SR), India's first indigenous air-launched anti-ship missile, from a Sea King Mk.42B
+  naval helicopter over the Integrated Test Range, Chandipur. The missile followed the desired
+  sea-skimming trajectory (approaching ~5 m above sea level) and hit the designated target with high
+  accuracy, validating control, guidance and mission algorithms and all subsystems.
+notes: >-
+  Air-launched from an Indian Navy Sea King Mk.42B helicopter over the Odisha test range. The PIB
+  release describes the platform as a 'naval helicopter' (Sea King Mk.42B per secondary reporting)
+  and does not state a range; the missile's stated maximum range is ~55 km. Verified against PIB,
+  Naval News and Janes; all agree on date, site and successful outcome.
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully flight-test maiden developmental flight of NASM-SR (PIB, via
+      GlobalSecurity mirror)
+    tier: pib
+    publisher: Press Information Bureau / GlobalSecurity
+    date: "2022-05-18"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2022/india-220518-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: DRDO and Indian Navy Test-Fire New NASM-SR Missile
+    tier: foreign-news
+    publisher: Naval News
+    date: "2022-05-18"
+    url: >-
+      https://www.navalnews.com/naval-news/2022/05/drdo-and-indian-navy-test-fire-new-nasm-sr-missile/
+    accessed: "2026-06-16"
+  - title: India's naval anti-ship missile completes maiden flight test
+    tier: foreign-news
+    publisher: Janes
+    date: "2022-05-18"
+    url: >-
+      https://www.janes.com/defence-intelligence-insights/defence-news/weapons/indias-naval-anti-ship-missile-completes-maiden-flight-test
+    accessed: "2026-06-16"

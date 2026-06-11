@@ -1,0 +1,55 @@
+id: 2026-04-29-nasm-sr-maiden-salvo-launch
+missile_id: nasm-sr
+designation: Maiden salvo launch
+date: "2026-04-29"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  DRDO and the Indian Navy conducted the maiden salvo launch of the NASM-SR from a Sea King Mk.42B
+  naval helicopter over the Bay of Bengal off the Odisha coast, firing two missiles in quick
+  succession from the same helicopter. Both missiles met all test objectives and demonstrated
+  waterline hit capability, tracked by ITR Chandipur radar, electro-optical and telemetry
+  instruments.
+notes: >-
+  CORRECTED SITE: this was an air-launched test from an Indian Navy Sea King Mk.42B helicopter over
+  the Bay of Bengal off the Odisha coast, tracked by Integrated Test Range (ITR) Chandipur
+  instruments — NOT an offshore Visakhapatnam vessel launch (the previous 'offshore-visakhapatnam'
+  site_id was wrong). Per facility rules, an air-launched test over the Odisha test range is
+  recorded as itr-chandipur with an 'air-launched' note. PIB describes the location as off the Bay
+  of Bengal coast of Odisha. Date is 29 April 2026 per PIB, Naval News, The Statesman and Business
+  Standard; the Naval News URL uses a 2026/05 path but the article and PIB state 29 April 2026.
+  Range not stated in the release; missiles produced by a Development-cum-Production Partner (Adani
+  Defence & Aerospace per secondary reporting).
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully conduct maiden salvo launch of Naval Anti-ship Missile-Short
+      Range (PIB, via GlobalSecurity mirror)
+    tier: pib
+    publisher: Press Information Bureau / GlobalSecurity
+    date: "2026-04-29"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2026/india-260429-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: India conducts first salvo launch of new NASM-SR Missile
+    tier: foreign-news
+    publisher: Naval News
+    date: "2026-04-29"
+    url: >-
+      https://www.navalnews.com/naval-news/2026/05/india-conducts-first-salvo-launch-of-new-nasm-sr-missile/
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Naval Anti-Ship Missile (NASM-SR) in Maiden Salvo Launch
+    tier: indian-news
+    publisher: The Statesman
+    date: "2026-04-29"
+    url: >-
+      https://www.thestatesman.com/india/india-successfully-tests-naval-anti-ship-missile-nasm-sr-in-maiden-salvo-launch-1503587765.html/amp
+    accessed: "2026-06-16"
+  - title: India successfully conducts maiden salvo launch of naval anti-ship missile
+    tier: indian-news
+    publisher: Business Standard / PTI
+    date: "2026-04-30"
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/india-successfully-conducts-maiden-salvo-launch-of-naval-anti-ship-missile-126043000549_1.html
+    accessed: "2026-06-16"

@@ -1,0 +1,77 @@
+id: 2025-02-25-nasm-sr-man-in-loop-trial
+missile_id: nasm-sr
+designation: Man-in-Loop / datalink flight trial
+date: "2025-02-25"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 55
+description: >-
+  DRDO and the Indian Navy conducted a flight trial of the NASM-SR from an Indian Navy Sea King
+  Mk.42B helicopter at the Integrated Test Range, Chandipur, scoring a direct hit on a small ship
+  target in sea-skimming mode at maximum range. The trial proved the missile's Man-in-Loop feature
+  with a high-bandwidth two-way datalink transmitting live IIR seeker imagery to the pilot for
+  in-flight retargeting; launched in Bearing-Only Lock-on-After-Launch mode, it initially locked a
+  large target then was redirected by the pilot onto a smaller concealed target.
+notes: >-
+  Air-launched from an Indian Navy Sea King Mk.42B helicopter. The trial was conducted on 25
+  February 2025 (per ANI and Janes, which both state 25 Feb as the conduct date); the PIB release
+  and some secondary coverage carry a 26 February 2025 date (the announcement/release date), and
+  Wikipedia lists 26 Feb. The hit was at 'maximum range' (~55 km) per official wording, confirmed by
+  Janes. Date/site/outcome agree across PIB, ANI, Janes and Naval Today.
+claims:
+  - field: test_date
+    text: >-
+      Trial conducted 25 February 2025 (per ANI and Janes); 26 February 2025 appears as the
+      announcement/release date in the PIB release and some secondary sources
+    basis: official
+    source:
+      title: India tests anti-ship missile's features, datalink
+      tier: foreign-news
+      publisher: Janes
+      date: "2025-02-26"
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/defence/india-tests-anti-ship-missiles-features-datalink
+      accessed: "2026-06-16"
+  - field: range_tested_km
+    text: Direct hit at maximum range (~55 km) in sea-skimming mode
+    value: 55
+    basis: reported
+    source:
+      title: India tests anti-ship missile's features, datalink
+      tier: foreign-news
+      publisher: Janes
+      date: "2025-02-26"
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/defence/india-tests-anti-ship-missiles-features-datalink
+      accessed: "2026-06-16"
+sources:
+  - title: >-
+      DRDO & Indian Navy successfully conduct flight-trials of first-of-its-kind Naval Anti-Ship
+      missile (PIB, via GlobalSecurity mirror)
+    tier: pib
+    publisher: Press Information Bureau / GlobalSecurity
+    date: "2025-02-26"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2025/india-250226-india-pib01.htm
+    accessed: "2026-06-16"
+  - title: DRDO and Indian Navy carried out successful flight-trials of NASM-SR on February 25, 2025
+    tier: indian-news
+    publisher: ANI
+    date: "2025-02-25"
+    url: https://x.com/ANI/status/1894753819525013987
+    accessed: "2026-06-16"
+  - title: India tests anti-ship missile's features, datalink
+    tier: foreign-news
+    publisher: Janes
+    date: "2025-02-26"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-tests-anti-ship-missiles-features-datalink
+    accessed: "2026-06-16"
+  - title: Indian Navy conducts flight trials of naval anti-ship missile
+    tier: foreign-news
+    publisher: Naval Today
+    date: "2025-02-27"
+    url: >-
+      https://www.navaltoday.com/2025/02/27/indian-navy-conducts-flight-trials-of-naval-anti-ship-missile/
+    accessed: "2026-06-16"

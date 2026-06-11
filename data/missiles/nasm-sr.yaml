@@ -1,0 +1,73 @@
+id: nasm-sr
+name: NASM-SR
+aka:
+  - Naval Anti-Ship Missile (Short Range)
+  - NASM-SR
+category: anti-ship
+range_class: AShM
+developer: DRDO
+operators:
+  - Indian Navy (planned)
+status: development
+range_km:
+  min: 0
+  max: 55
+payload_kg: 100
+speed_mach: 0.8
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Sea King helicopter
+  - naval helicopter
+variants:
+  - name: NASM-SR
+    notes: First indigenous air-launched anti-ship missile for the Indian Navy; sea-skimming, IIR seeker
+first_test: "2022-05-18"
+description: >-
+  NASM-SR (Naval Anti-Ship Missile - Short Range) is India's first indigenous air-launched anti-ship
+  missile, developed by DRDO for launch from Indian Navy helicopters. It is a subsonic (about Mach
+  0.8) sea-skimming missile with an imaging infrared seeker, capable of cruising as low as about 5 m
+  above the sea to evade radar, with a reported range up to about 55 km and a launch weight around
+  380 kg. Its maiden flight test was conducted from a naval helicopter at the ITR, Chandipur, on 18
+  May 2022, validating the sea-skimming trajectory, control, guidance and mission algorithms.
+claims:
+  - field: range_km
+    basis: reported
+    value: 55
+    note: Reported range up to ~55 km; PIB/Naval News release does not state range
+    source:
+      title: Naval Anti-Ship Missile Short Range (NASM-SR)
+      tier: foreign-news
+      publisher: GlobalSecurity
+      url: https://www.globalsecurity.org/military/world/india/nasm-sr.htm
+  - field: payload_kg
+    basis: reported
+    value: 100
+    note: Missile launch weight ~380 kg; warhead reported around 100 kg (figures approximate)
+    source:
+      title: Naval Anti-Ship Missile Short Range (NASM-SR)
+      tier: foreign-news
+      publisher: GlobalSecurity
+      url: https://www.globalsecurity.org/military/world/india/nasm-sr.htm
+sources:
+  - title: DRDO and Indian Navy Test-Fire New NASM-SR Missile
+    tier: foreign-news
+    publisher: Naval News
+    date: "2022-05-18"
+    url: >-
+      https://www.navalnews.com/naval-news/2022/05/drdo-and-indian-navy-test-fire-new-nasm-sr-missile/
+  - title: DRDO and Indian Navy successfully test Naval Anti-Ship Missile
+    tier: pib
+    publisher: DD News (Prasar Bharati)
+    date: "2022-05-18"
+    url: https://ddnews.gov.in/en/drdo-and-indian-navy-successfully-test-naval-anti-ship-missile/
+  - title: India tests anti-ship missile's features, datalink
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-tests-anti-ship-missiles-features-datalink
+confidence: confirmed
+notes: >-
+  Maiden flight test 18 May 2022 from a Sea King helicopter confirmed by official/Naval News
+  sources. Range (~55 km), weight (~380 kg) and warhead (~100 kg) are reported figures, not in
+  official text. A separate longer-range NASM-MR is also under development (not catalogued here).
