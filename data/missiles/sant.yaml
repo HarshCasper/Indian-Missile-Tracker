@@ -1,0 +1,70 @@
+id: sant
+name: SANT
+aka:
+  - Stand-off Anti-Tank Missile
+  - Standoff Anti-Tank Guided Missile
+  - SANT missile
+category: anti-tank
+range_class: ATGM
+developer: DRDO (Research Centre Imarat, Hyderabad)
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 10
+  max: 20
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - Mi-35 helicopter
+  - helicopter (roof-top launcher in early test)
+variants:
+  - name: SANT
+    notes: Helicopter-launched stand-off ATGM with nose-mounted active MMW radar seeker
+first_test: "2020-10-19"
+description: >-
+  SANT (Stand-off Anti-Tank) is a fourth-generation, longer-range development of the HELINA/Nag
+  family developed by DRDO's Research Centre Imarat for the long-distance airborne anti-armour role.
+  It uses a nose-mounted active millimetre-wave (MMW) radar seeker to enable launches from a safe
+  stand-off distance, with reported range around 10-20 km. It was first test-fired from a roof-top
+  launcher at the ITR off Odisha on 19 October 2020, and a helicopter-launched flight test from a
+  Mi-35 gunship was conducted at Pokhran on 11 December 2021.
+claims:
+  - field: range_km
+    basis: reported
+    value: 20
+    note: Reported range ~10-20 km depending on source; PIB 2021 release notes 'safe stand-off range'
+    source:
+      title: Stand-Off Anti-Tank (SANT) Missile successfully test-fired
+      tier: indian-news
+      publisher: IASbaba
+      url: https://iasbaba.com/2020/10/stand-off-anti-tank-sant-missile-successfully-test-fired/
+  - field: range_km
+    basis: reported
+    value: 10
+    note: 2021 helicopter-launch reporting cites range up to ~10 km
+    source:
+      title: India Successfully Tests Indigenous Stand-Off Anti-Tank Missile
+      tier: foreign-news
+      publisher: The Defense Post
+      url: https://thedefensepost.com/2021/12/16/india-anti-tank-missile/
+sources:
+  - title: DRDO & Indian Air Force successfully flight-test indigenous Stand-Off Anti-Tank Missile
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    date: "2021-12-11"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1780481
+  - title: India Successfully Tests Indigenous Stand-Off Anti-Tank Missile
+    tier: foreign-news
+    publisher: The Defense Post
+    url: https://thedefensepost.com/2021/12/16/india-anti-tank-missile/
+  - title: DRDO, IAF successfully flight-test stand-off anti-tank missile
+    tier: indian-news
+    publisher: WION
+    url: >-
+      https://www.wionews.com/india-news/drdo-iaf-successfully-flight-test-stand-off-anti-tank-missile-436123
+confidence: confirmed
+notes: >-
+  First test (roof-top launcher) 19 October 2020 used as first_test; first helicopter (Mi-35) launch
+  11 December 2021. Range figures disputed: 10 km (some) vs 15-20 km (others), reflecting different
+  SANT range variants under development.

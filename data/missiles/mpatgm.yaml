@@ -1,0 +1,66 @@
+id: mpatgm
+name: MPATGM
+aka:
+  - Man Portable Anti-Tank Guided Missile
+  - Man-Portable ATGM
+category: anti-tank
+range_class: ATGM
+developer: DRDO
+operators:
+  - Indian Army (planned)
+status: development
+range_km:
+  min: 0.2
+  max: 2.5
+nuclear_capable: false
+propulsion: solid
+launch_platform:
+  - man-portable launcher (tripod/shoulder)
+variants:
+  - name: MPATGM
+    notes: Low-weight, fire-and-forget man-portable ATGM with dual-mode IIR seeker and tandem warhead
+first_test: "2018-09-15"
+description: >-
+  MPATGM is a low-weight, fire-and-forget man-portable anti-tank guided missile developed by DRDO to
+  replace second-generation ATGMs in Indian Army infantry use. It features an imaging infrared
+  dual-mode seeker, day/night and top-attack capability, and a tandem HEAT warhead validated against
+  modern reactive-armour main battle tanks, with a maximum range around 2.5 km. Warhead and
+  penetration trials were completed at Pokhran on 13 April 2024, after which DRDO declared
+  technology development concluded and the system ready for Final User Evaluation Trials leading to
+  Army induction.
+claims:
+  - field: range_km
+    basis: reported
+    value: 2.5
+    note: >-
+      Maximum range ~2.5 km (some sources cite effective 200 m to 4 km for the launch unit); PIB
+      does not state range
+    source:
+      title: India test-fires manportable anti-tank guided missile
+      tier: foreign-news
+      publisher: Janes
+      url: >-
+        https://www.janes.com/osint-insights/defence-news/defence/india-test-fires-manportable-anti-tank-guided-missile
+sources:
+  - title: >-
+      DRDO & Indian Army conduct successful trials of indigenous Man Portable Anti-tank Guided
+      Missile Weapon System
+    tier: pib
+    publisher: PIB / Ministry of Defence (via GlobalSecurity mirror)
+    date: "2024-04-13"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2024/india-240414-india-pib01.htm
+  - title: DRDO & Indian Army conduct successful trials of indigenous MPATGM Weapon System
+    tier: pib
+    publisher: PIB / Ministry of Defence
+    url: https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2017876&reg=3&lang=2
+  - title: India test-fires manportable anti-tank guided missile
+    tier: foreign-news
+    publisher: Janes
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-fires-manportable-anti-tank-guided-missile
+confidence: confirmed
+notes: >-
+  First developmental test reported September 2018; major warhead/penetration trials and
+  demonstration concluded 13 April 2024. Range officially unspecified by PIB; ~2.5 km is the
+  commonly reported max. Status development/pre-induction (Final User Evaluation Trials) as of
+  mid-2026.
