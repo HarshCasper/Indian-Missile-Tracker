@@ -1,0 +1,29 @@
+id: 2019-06-12-hstdv-first-flight
+missile_id: hstdv
+date: "2019-06-12"
+date_precision: day
+site_id: abdul-kalam-island
+outcome: partial
+designation: First flight test
+description: >-
+  First flight test of the Hypersonic Technology Demonstrator Vehicle (HSTDV), a DRDO
+  scramjet-propelled hypersonic cruise demonstrator, from Dr A.P.J. Abdul Kalam Island. The
+  solid-rocket booster launched successfully, but the test fell short of fully demonstrating the
+  scramjet cruise phase and was widely assessed as only a partial success.
+confidence: reported
+notes: >-
+  Outcome assessed as partial: the booster performed but the scramjet cruise objective was not fully
+  achieved on this first attempt. Reported by Janes and GlobalSecurity.
+sources:
+  - title: India test-flies Hypersonic Technology Demonstrator Vehicle
+    tier: foreign-news
+    publisher: Janes
+    date: "2019-06-13"
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-flies-hypersonic-technology-demonstrator-vehicle
+    accessed: "2026-06-16"
+  - title: Hypersonic Technology Demonstration Vehicle (HSTDV)
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/military/world/india/hstdv.htm
+    accessed: "2026-06-16"

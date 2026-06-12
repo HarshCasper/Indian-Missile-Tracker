@@ -1,0 +1,38 @@
+id: 2020-09-07-hstdv-scramjet-success
+missile_id: hstdv
+date: "2020-09-07"
+date_precision: day
+site_id: abdul-kalam-island
+outcome: success
+designation: Scramjet flight demonstration
+description: >-
+  DRDO successfully demonstrated hypersonic air-breathing scramjet technology with the HSTDV flight
+  at 11:03 hrs on 7 September 2020 from the Dr A.P.J. Abdul Kalam Launch Complex, Wheeler Island. A
+  proven solid rocket motor took the cruise vehicle to about 30 km altitude, where the heat shield
+  separated and the scramjet engine ignited and sustained combustion, achieving about Mach 6 for ~20
+  seconds. The test proved aerodynamic, propulsion, separation and high-temperature-materials
+  technologies for future hypersonic vehicles.
+apogee_km: 30
+confidence: confirmed
+notes: >-
+  Primary source is the PIB (Ministry of Defence) release PRID 1651956; corroborated by
+  GlobalSecurity and Tribune India. Achieved ~Mach 6 for about 20 seconds at ~30 km altitude.
+sources:
+  - title: DRDO successfully flight tests Hypersonic Technology Demonstrator Vehicle
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2020-09-07"
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1651956
+    accessed: "2026-06-16"
+  - title: India Successfully Tests Hypersonic Technology Demonstrator Vehicle
+    tier: foreign-news
+    publisher: GlobalSecurity.org
+    date: "2020-09-07"
+    url: https://www.globalsecurity.org/wmd/library/news/india/2020/india-200907-spa01.htm
+    accessed: "2026-06-16"
+  - title: India successfully tests hypersonic missile
+    tier: indian-news
+    publisher: The Tribune
+    date: "2020-09-07"
+    url: https://www.tribuneindia.com/news/nation/india-successfully-tests-hypersonic-missile-137714
+    accessed: "2026-06-16"

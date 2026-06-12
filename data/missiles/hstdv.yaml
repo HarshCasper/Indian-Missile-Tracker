@@ -1,0 +1,65 @@
+id: hstdv
+name: HSTDV (Hypersonic Technology Demonstrator Vehicle)
+aka:
+  - Hypersonic Technology Demonstrator Vehicle
+  - Hypersonic Technology Demonstration Vehicle
+category: technology-demonstrator
+range_class: other
+developer: DRDO (Defence Research and Development Laboratory, DRDL, Hyderabad)
+operators:
+  - DRDO (test programme)
+status: development
+speed_mach: 6
+nuclear_capable: false
+propulsion: scramjet
+launch_platform:
+  - Agni solid rocket motor booster (ground-launched from Dr APJ Abdul Kalam Island/Wheeler Island)
+first_test: "2019-06-12"
+description: >-
+  The HSTDV is an unmanned scramjet-powered hypersonic cruise vehicle developed by DRDO to
+  demonstrate air-breathing hypersonic propulsion and associated technologies (thermo-structural
+  materials, hypersonic separation and aerodynamics). It is boosted to altitude by a solid Agni
+  rocket motor, after which the scramjet engine ignites and sustains combustion. The maiden flight
+  test on 12 June 2019 was unsuccessful (the Agni booster did not reach the required altitude); on 7
+  September 2020 DRDO successfully demonstrated sustained scramjet combustion at about Mach 6 (~2
+  km/s) for more than 20 seconds at roughly 30 km altitude, putting India among the few nations to
+  demonstrate the technology. It is intended to underpin future hypersonic cruise missiles.
+claims:
+  - field: speed_mach
+    value: 6
+    basis: official
+    text: >-
+      Cruise vehicle sustained flight at six times the speed of sound (~2 km/s) for more than 20
+      seconds during the 7 Sep 2020 test.
+    source:
+      title: DRDO successfully flight tests Hypersonic Technology Demonstrator Vehicle (PIB PRID 1651956)
+      tier: pib
+      url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1651956
+      publisher: Press Information Bureau, Ministry of Defence
+      date: "2020-09-07"
+sources:
+  - title: >-
+      DRDO successfully flight tests Hypersonic Technology Demonstrator Vehicle (PIB release, 7 Sep
+      2020)
+    tier: pib
+    url: https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1651956
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2020-09-07"
+  - title: >-
+      Hypersonic Technology Demonstration Vehicle (HSTDV) - first test 12 Jun 2019, booster failure;
+      Sep 2020 success
+    tier: foreign-news
+    url: https://www.globalsecurity.org/military/world/india/hstdv.htm
+    publisher: GlobalSecurity.org
+  - title: India test-flies Hypersonic Technology Demonstrator Vehicle
+    tier: foreign-news
+    url: >-
+      https://www.janes.com/osint-insights/defence-news/defence/india-test-flies-hypersonic-technology-demonstrator-vehicle
+    publisher: Janes
+confidence: confirmed
+notes: >-
+  Technology demonstrator, not a weapon; no payload/range as a deliverable system. first_test = 12
+  Jun 2019 (maiden flight; failed due to booster underperformance). Successful scramjet
+  demonstration 7 Sep 2020 at ~Mach 6, ~30 km altitude, >20 s. Boosted by an Agni-class solid rocket
+  motor (described as 'Agni-1' in some accounts). category 'technology-demonstrator'; range_class
+  'other'.
