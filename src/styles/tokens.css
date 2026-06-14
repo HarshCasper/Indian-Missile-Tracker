@@ -1,0 +1,68 @@
+/* tokens.css — the single source of truth for the vellum-plate design system. */
+
+:root {
+  /* ---- Vellum chrome palette (the paper document) ---- */
+  --paper:      #E9E6DD; /* document ground (engineering vellum) */
+  --paper-2:    #E3DFD3; /* inset panels / cards */
+  --paper-3:    #D8D3C4; /* deeper insets / table stripes */
+  --paper-edge: #CFC9B8; /* card edges catching shadow */
+
+  --ink:        #232017; /* primary text / linework */
+  --ink-soft:   #56503F; /* secondary text */
+  --ink-faint:  #6A6452; /* tertiary / captions — darkened to clear WCAG on vellum */
+  --hairline:   #B7B1A0; /* rules, ticks, grid */
+  --hairline-2: #CBC5B5; /* lighter rules */
+
+  --stamp:      #A6402C; /* stamp-red — classification + failure only */
+  --stamp-soft: #C16A55;
+  --accent:     #1F5C66; /* teal-ink — interactive / focus / active */
+  --accent-2:   #2E818E; /* brighter teal for hovers */
+  --accent-warm:#B0712A; /* amber — partial / alerts */
+
+  /* outcome inks (chips/dots on paper — muted, never neon) */
+  --ok-ink:      #6E7A4E; /* muted olive (success, the quiet majority) */
+  --partial-ink: #B0712A;
+  --fail-ink:    #A6402C;
+  --unknown-ink: #8A8472;
+
+  /* ---- Globe window (the dark live plate) ---- */
+  --plate-bg: #0B0F16;
+  --ocean:    #0A1119;
+
+  /* ---- Typography ---- */
+  --font-ui:      'B612', system-ui, -apple-system, sans-serif;
+  --font-mono:    'B612 Mono', ui-monospace, 'SF Mono', monospace;
+  --font-display: 'Saira Semi Condensed', 'B612', sans-serif;
+
+  /* type scale (px) */
+  --t-10: 10px;  --t-11: 11px;  --t-12: 12px;  --t-13: 13px;
+  --t-15: 15px;  --t-18: 18px;  --t-22: 22px;  --t-28: 28px;
+  --t-38: 38px;  --t-54: 54px;
+
+  --track-wide: 0.16em;  /* uppercase plate-label tracking */
+  --track-mid:  0.06em;
+
+  /* ---- Spacing ---- */
+  --sp-1: 4px;  --sp-2: 8px;  --sp-3: 12px;  --sp-4: 16px;
+  --sp-5: 24px; --sp-6: 32px; --sp-7: 48px;  --sp-8: 64px;
+
+  /* ---- Form / layout ---- */
+  --radius:   2px;   /* engineering plate = crisp, near-zero radius */
+  --radius-2: 3px;
+  --header-h: 58px;
+  --footer-h: 116px;  /* timeline rail + classification strip */
+  --frame-inset: 14px; /* vellum margin around the dark globe stage */
+
+  /* ---- Elevation (paper cards on the dark stage) ---- */
+  --shadow-card: 0 1px 0 rgba(255,255,255,0.5) inset,
+                 0 8px 24px rgba(10,12,16,0.45),
+                 0 2px 6px rgba(10,12,16,0.30);
+  --shadow-soft: 0 2px 10px rgba(35,32,23,0.12);
+
+  /* ---- Motion ---- */
+  --ease: cubic-bezier(0.2, 0.6, 0.2, 1);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-fast: 140ms;
+  --dur:      260ms;
+  --dur-slow: 520ms;
+}

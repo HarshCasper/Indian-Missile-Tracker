@@ -1,0 +1,160 @@
+/* base.css — reset, document substrate (vellum + paper texture), shared primitives. */
+
+*,
+*::before,
+*::after { box-sizing: border-box; }
+
+html, body, #root { height: 100%; }
+
+body {
+  margin: 0;
+  font-family: var(--font-ui);
+  font-size: var(--t-13);
+  line-height: 1.5;
+  color: var(--ink);
+  background: var(--paper);
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+/* The document. A vellum sheet with a faint engineering grid + paper fibre. */
+.plate {
+  position: relative;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+  overflow: hidden;
+}
+/* grid + edge vignette */
+.plate::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  background-image:
+    radial-gradient(120% 120% at 50% 0%, transparent 60%, rgba(35, 32, 23, 0.06) 100%),
+    repeating-linear-gradient(0deg,  rgba(35, 32, 23, 0.035) 0 1px, transparent 1px 27px),
+    repeating-linear-gradient(90deg, rgba(35, 32, 23, 0.035) 0 1px, transparent 1px 27px),
+    repeating-linear-gradient(0deg,  rgba(35, 32, 23, 0.05) 0 1px, transparent 1px 135px),
+    repeating-linear-gradient(90deg, rgba(35, 32, 23, 0.05) 0 1px, transparent 1px 135px);
+}
+/* paper fibre noise */
+.plate::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  z-index: 0;
+  opacity: 0.035;
+  mix-blend-mode: multiply;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+
+/* All real content sits above the substrate layers. */
+.plate > * { position: relative; z-index: 1; }
+
+/* The routed view fills the space between header and footer. */
+.view {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ---- shared primitives ---------------------------------------------------- */
+
+.eyebrow {
+  font-family: var(--font-mono);
+  font-size: var(--t-10);
+  letter-spacing: var(--track-wide);
+  text-transform: uppercase;
+  color: var(--ink-faint);
+}
+
+.mono { font-family: var(--font-mono); font-variant-numeric: tabular-nums; }
+
+/* A rubber-stamp tag — used for confidence, classification, HYPOTHETICAL, etc. */
+.stamp {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--font-mono);
+  font-size: var(--t-10);
+  font-weight: 700;
+  letter-spacing: var(--track-mid);
+  text-transform: uppercase;
+  color: var(--stamp);
+  border: 1.5px solid var(--stamp);
+  border-radius: var(--radius);
+  padding: 2px 7px;
+  background: rgba(166, 64, 44, 0.05);
+}
+.stamp.is-ok      { color: var(--ok-ink);      border-color: var(--ok-ink);      background: rgba(110, 122, 78, 0.07); }
+.stamp.is-partial { color: var(--partial-ink); border-color: var(--partial-ink); background: rgba(176, 113, 42, 0.07); }
+.stamp.is-muted   { color: var(--ink-faint);   border-color: var(--hairline);    background: transparent; }
+
+/* Generic button + chip used across the chrome. */
+.btn {
+  font-family: var(--font-mono);
+  font-size: var(--t-11);
+  letter-spacing: var(--track-mid);
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  background: var(--paper-2);
+  border: 1px solid var(--hairline);
+  border-radius: var(--radius);
+  padding: 6px 11px;
+  cursor: pointer;
+  transition: color var(--dur-fast) var(--ease), border-color var(--dur-fast) var(--ease),
+              background var(--dur-fast) var(--ease);
+}
+.btn:hover { color: var(--ink); border-color: var(--ink-soft); }
+.btn.is-active { color: var(--paper); background: var(--accent); border-color: var(--accent); }
+
+.splash {
+  display: grid;
+  place-items: center;
+  height: 100%;
+  font-family: var(--font-mono);
+  font-size: var(--t-13);
+  letter-spacing: var(--track-mid);
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+/* ---- focus + scrollbars --------------------------------------------------- */
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+* { scrollbar-width: thin; scrollbar-color: var(--hairline) transparent; }
+*::-webkit-scrollbar { width: 9px; height: 9px; }
+*::-webkit-scrollbar-thumb { background: var(--hairline); border-radius: 6px; }
+*::-webkit-scrollbar-track { background: transparent; }
+
+/* ---- page-load choreography (the "plate prints in") ----------------------- */
+
+@keyframes imt-rise  { from { opacity: 0; transform: translateY(10px) scale(0.996); } to { opacity: 1; transform: none; } }
+@keyframes imt-fade  { from { opacity: 0; } to { opacity: 1; } }
+@keyframes imt-down  { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: none; } }
+@keyframes imt-draw-x { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes imt-draw-y { from { transform: scaleY(0); } to { transform: scaleY(1); } }
+@keyframes imt-stamp { 0% { opacity: 0; transform: rotate(-7deg) scale(1.5); } 55% { opacity: 1; } 100% { opacity: 1; transform: rotate(-3.5deg) scale(1); } }
+@keyframes imt-spin  { to { transform: rotate(360deg); } }
+
+.anim-rise { animation: imt-rise var(--dur-slow) var(--ease-out) both; }
+.anim-fade { animation: imt-fade var(--dur) var(--ease) both; }
+.anim-down { animation: imt-down var(--dur) var(--ease-out) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
