@@ -1,0 +1,13 @@
+/*
+ * index.css — style manifest for the "Declassified Plate" redesign.
+ * The actual rules live in modular files under styles/, imported in build order:
+ * tokens → base → frame chrome → per-view styles. @import must precede other rules.
+ */
+@import './styles/tokens.css';
+@import './styles/base.css';
+@import './styles/frame.css';
+@import './styles/map.css';
+@import './styles/dossier.css';
+@import './styles/timeline.css';
+@import './styles/analytics.css';
+@import './styles/database.css';
