@@ -1,0 +1,67 @@
+/* timeline.css — annotated era rail (histogram + brush + milestone flags + playback). */
+
+.timeline {
+  grid-area: timeline;
+  display: flex;
+  align-items: stretch;
+  gap: 16px;
+  height: 92px;
+  padding: 9px 20px 8px;
+  border-top: 1px solid var(--hairline);
+  background: linear-gradient(180deg, var(--paper), var(--paper-2));
+}
+
+.tl-play {
+  flex: 0 0 auto; align-self: center;
+  width: 38px; height: 38px; border-radius: 50%;
+  border: 1px solid var(--ink); background: var(--paper); color: var(--ink);
+  cursor: pointer; font-size: var(--t-12); line-height: 1;
+  transition: background var(--dur-fast) var(--ease), color var(--dur-fast) var(--ease);
+}
+.tl-play:hover { background: var(--ink); color: var(--paper); }
+.tl-play.is-playing { background: var(--stamp); border-color: var(--stamp); color: var(--paper); }
+
+.tl-track { position: relative; flex: 1; min-width: 0; }
+.tl-hist { position: absolute; top: 4px; left: 0; right: 0; bottom: 16px; width: 100%; height: calc(100% - 20px); }
+.tl-track::after { content: ''; position: absolute; left: 0; right: 0; bottom: 15px; height: 1px; background: var(--hairline); }
+
+.tl-window { position: absolute; top: 0; bottom: 16px; background: rgba(31,92,102,0.08); border-left: 1px solid rgba(31,92,102,0.45); border-right: 1px solid rgba(31,92,102,0.45); pointer-events: none; }
+
+.tl-flag { position: absolute; top: -2px; bottom: 16px; transform: translateX(-50%); width: 20px; border: 0; background: none; cursor: pointer; z-index: 2; padding: 0; }
+.tf-stick { position: absolute; left: 50%; top: 5px; bottom: 0; width: 1px; background: rgba(35,32,23,0.35); transform: translateX(-50%); }
+.tf-dot { position: absolute; left: 50%; top: 0; transform: translateX(-50%); width: 7px; height: 7px; border-radius: 50%; background: var(--stamp); border: 1px solid var(--paper); transition: transform var(--dur-fast) var(--ease); }
+.tl-flag:hover .tf-dot, .tl-flag:focus-visible .tf-dot { transform: translateX(-50%) scale(1.4); }
+
+.tl-popup {
+  position: absolute; bottom: calc(100% + 4px); left: 50%; transform: translateX(-50%) translateY(4px);
+  width: 210px; background: var(--ink); color: var(--paper); padding: 9px 11px; border-radius: 2px;
+  opacity: 0; pointer-events: none; transition: opacity var(--dur-fast) var(--ease), transform var(--dur-fast) var(--ease);
+  display: flex; flex-direction: column; gap: 3px; text-align: left; z-index: 8; box-shadow: var(--shadow-card);
+}
+.tl-flag:hover .tl-popup, .tl-flag:focus-visible .tl-popup { opacity: 1; transform: translateX(-50%); }
+/* keep popups in-bounds at the timeline edges */
+.tl-flag:first-of-type .tl-popup { left: 0; transform: none; }
+.tl-flag:last-of-type .tl-popup { left: auto; right: 0; transform: none; }
+.tp-year { font-family: var(--font-mono); font-size: 9px; letter-spacing: var(--track-mid); color: rgba(233,230,221,0.55); }
+.tp-label { font-weight: 700; font-size: var(--t-12); }
+.tp-blurb { font-size: var(--t-11); color: rgba(233,230,221,0.82); line-height: 1.4; }
+
+.tl-playhead { position: absolute; top: 0; bottom: 16px; width: 2px; background: var(--stamp); transform: translateX(-50%); z-index: 3; box-shadow: 0 0 8px rgba(166,64,44,0.6); pointer-events: none; }
+
+.tl-brush { position: absolute; bottom: 0; left: 0; width: 100%; height: 16px; margin: 0; -webkit-appearance: none; appearance: none; background: transparent; pointer-events: none; }
+.tl-brush::-webkit-slider-runnable-track { height: 16px; background: transparent; }
+.tl-brush::-webkit-slider-thumb { -webkit-appearance: none; pointer-events: auto; width: 11px; height: 15px; border-radius: 2px; background: var(--ink); border: 1px solid var(--paper); cursor: ew-resize; box-shadow: var(--shadow-soft); }
+.tl-brush::-moz-range-track { height: 16px; background: transparent; }
+.tl-brush::-moz-range-thumb { pointer-events: auto; width: 11px; height: 15px; border-radius: 2px; background: var(--ink); border: 1px solid var(--paper); cursor: ew-resize; }
+.tl-from { z-index: 5; }
+.tl-to { z-index: 4; }
+
+.tl-readout { flex: 0 0 auto; align-self: center; text-align: right; }
+.tlr-range { display: block; font-size: var(--t-18); font-weight: 700; color: var(--ink); }
+.tlr-dash { color: var(--ink-faint); margin: 0 3px; }
+.tlr-span { font-size: var(--t-10); color: var(--ink-faint); }
+
+@media (max-width: 760px) {
+  .timeline { gap: 10px; padding: 8px 12px; height: 84px; }
+  .tl-readout .tlr-span { display: none; }
+}

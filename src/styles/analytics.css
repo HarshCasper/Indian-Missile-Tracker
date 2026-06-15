@@ -1,0 +1,73 @@
+/* analytics.css — numbered plate atlas. */
+
+.atlas { flex: 1; min-height: 0; overflow-y: auto; padding: 24px 28px 48px; }
+.atlas-head { margin-bottom: 20px; }
+.atlas-title { font-family: var(--font-display); font-size: var(--t-28); font-weight: 600; color: var(--ink); margin: 5px 0 0; max-width: 40ch; line-height: 1.1; }
+
+.metric-strip { display: grid; grid-template-columns: repeat(7, 1fr); gap: 1px; background: var(--hairline-2); border: 1px solid var(--hairline-2); margin-bottom: 24px; }
+.metric { background: var(--paper); padding: 14px 16px; display: flex; flex-direction: column; gap: 5px; }
+.m-num { font-family: var(--font-display); font-size: var(--t-28); font-weight: 700; color: var(--ink); line-height: 1; }
+.m-label { font-family: var(--font-mono); font-size: var(--t-10); text-transform: uppercase; letter-spacing: var(--track-mid); color: var(--ink-faint); }
+
+/* Masonry: cards pack tightly down two columns with no row-height gaps; wide
+   plates span both columns and break the flow. */
+.atlas-grid { column-count: 2; column-gap: 18px; }
+.plate-card { break-inside: avoid; margin: 0 0 18px; background: var(--paper); border: 1px solid var(--paper-edge); border-radius: var(--radius); padding: 16px 18px 18px; box-shadow: var(--shadow-soft); }
+.plate-card.is-wide { column-span: all; }
+.plate-head { display: flex; align-items: baseline; gap: 10px; margin-bottom: 14px; padding-bottom: 8px; border-bottom: 1px solid var(--hairline); }
+.plate-no { font-size: var(--t-10); letter-spacing: var(--track-wide); color: var(--stamp); }
+.plate-title { font-family: var(--font-display); font-size: var(--t-18); font-weight: 600; text-transform: uppercase; letter-spacing: var(--track-mid); color: var(--ink); margin: 0; }
+.plate-note { margin-left: auto; font-family: var(--font-mono); font-size: var(--t-10); color: var(--ink-faint); text-transform: uppercase; letter-spacing: var(--track-mid); }
+
+.barlist { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 4px; }
+.bl-row { display: grid; grid-template-columns: 148px 1fr 42px; align-items: center; gap: 10px; width: 100%; border: 0; background: none; text-align: left; padding: 3px 0; font-family: var(--font-ui); font-size: var(--t-12); color: var(--ink-soft); cursor: default; }
+.bl-row:not(:disabled) { cursor: pointer; }
+.bl-row:not(:disabled):hover .bl-label { color: var(--ink); }
+.bl-row:not(:disabled):hover .bl-fill { filter: brightness(1.1); }
+.bl-label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.bl-track { height: 14px; background: var(--paper-3); border-radius: 1px; overflow: hidden; }
+.bl-fill { display: block; height: 100%; }
+.bl-count { text-align: right; color: var(--ink); }
+
+.year-chart { width: 100%; height: 154px; display: block; }
+.year-axis { position: relative; height: 16px; margin-top: 3px; }
+.year-axis span { position: absolute; transform: translateX(-50%); font-size: var(--t-10); color: var(--ink-faint); }
+
+.chart-legend, .outcome-legend { list-style: none; display: flex; flex-wrap: wrap; gap: 14px; margin: 12px 0 0; padding: 0; font-size: var(--t-11); color: var(--ink-soft); }
+.cl-dot, .ol-dot { display: inline-block; width: 9px; height: 9px; border-radius: 2px; margin-right: 5px; vertical-align: middle; }
+.outcome-legend b { margin-left: 4px; }
+
+.heat { display: grid; gap: 2px; align-items: center; }
+.heat-col { font-family: var(--font-mono); font-size: 9px; color: var(--ink-faint); text-align: center; }
+.heat-rowlabel { font-size: var(--t-11); color: var(--ink-soft); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; padding-right: 6px; }
+.heat-cell { aspect-ratio: 1; min-height: 15px; border-radius: 1px; display: flex; align-items: center; justify-content: center; outline: 1px solid var(--hairline-2); outline-offset: -1px; }
+.heat-cell i { font-size: 8px; color: var(--paper); font-style: normal; }
+
+.outcome-bar { display: flex; height: 30px; border-radius: 2px; overflow: hidden; gap: 1px; background: var(--hairline-2); }
+.ob-seg { display: block; }
+
+/* reliability (success/failure split per system, ranked by success ratio) */
+.rel-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 4px; }
+.rel-row { display: grid; grid-template-columns: 130px 1fr 38px 26px; align-items: center; gap: 8px; width: 100%; border: 0; background: none; text-align: left; cursor: pointer; padding: 3px 0; font-family: var(--font-ui); font-size: var(--t-12); color: var(--ink-soft); }
+.rel-row:hover .rel-name { color: var(--ink); }
+.rel-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.rel-bar { display: flex; height: 14px; border-radius: 1px; overflow: hidden; background: var(--paper-3); }
+.rel-seg { display: block; }
+.rel-rate { text-align: right; color: var(--ink); }
+.rel-n { text-align: right; color: var(--ink-faint); }
+
+.ladder { position: relative; padding-top: 22px; display: flex; flex-direction: column; gap: 3px; }
+.ladder-axis { position: absolute; top: 2px; left: 156px; right: 56px; height: 14px; }
+.ladder-axis span { position: absolute; transform: translateX(-50%); font-family: var(--font-mono); font-size: 9px; color: var(--ink-faint); }
+.ladder-row { display: grid; grid-template-columns: 148px 1fr 56px; align-items: center; gap: 8px; border: 0; background: none; text-align: left; cursor: pointer; padding: 2px 0; font-family: var(--font-ui); font-size: var(--t-12); color: var(--ink-soft); }
+.ladder-row:hover .lr-name { color: var(--ink); }
+.lr-name { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.lr-track { position: relative; height: 14px; }
+.lr-line { position: absolute; left: 0; top: 50%; height: 1px; background: var(--hairline); transform: translateY(-50%); }
+.lr-dot { position: absolute; top: 50%; width: 9px; height: 9px; border-radius: 50%; transform: translate(-50%, -50%); box-shadow: 0 0 0 2px var(--paper); }
+.lr-km { text-align: right; color: var(--ink); }
+
+@media (max-width: 900px) {
+  .atlas-grid { column-count: 1; }
+  .metric-strip { grid-template-columns: repeat(auto-fit, minmax(110px, 1fr)); }
+}
