@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Indian Missile Tracker — India's missile flight tests, mapped (1985–2026)</title>
+    <link rel="canonical" href="https://indianmissiletracker.harshcasper.dev/" />
+    <meta
+      name="description"
+      content="Interactive 3D globe and citation-backed open-source database of India's missile flight tests — 362 verified tests across 47 systems (Agni, Prithvi, BrahMos, Akash, Nag, K-15, K-4, Agni-V and more), 1985–2026. Trajectories, range rings, outcomes and sources."
+    />
+    <meta
+      name="keywords"
+      content="Indian missiles, India missile tests, Agni missile, Prithvi missile, BrahMos, Akash, Nag, K-15 Sagarika, K-4, Agni-V, Agni-Prime, DRDO, missile flight tests, ballistic missile, cruise missile, OSINT, missile tracker, India strategic forces command"
+    />
+    <meta name="author" content="Harsh Casper" />
+    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="theme-color" content="#0B0F16" />
+    <link rel="icon" type="image/svg+xml" href="/chakra.svg" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Indian Missile Tracker" />
+    <meta property="og:title" content="Indian Missile Tracker — India's missile flight tests, mapped" />
+    <meta property="og:description" content="Interactive 3D globe + open database of India's 362 missile flight tests (1985–2026): trajectories, range rings, outcomes, sources." />
+    <meta property="og:url" content="https://indianmissiletracker.harshcasper.dev/" />
+    <meta property="og:image" content="https://indianmissiletracker.harshcasper.dev/og.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Indian Missile Tracker — 362 flight tests, 47 systems, 1985–2026" />
+    <meta property="og:locale" content="en_IN" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Indian Missile Tracker — India's missile flight tests, mapped" />
+    <meta name="twitter:description" content="Interactive 3D globe + open database of India's 362 missile flight tests (1985–2026)." />
+    <meta name="twitter:image" content="https://indianmissiletracker.harshcasper.dev/og.png" />
+    <meta name="twitter:image:alt" content="Indian Missile Tracker — 362 flight tests, 47 systems, 1985–2026" />
+
+    <link rel="alternate" type="application/rss+xml" title="Indian Missile Tracker — new entries" href="/rss.xml" />
+    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+
+    <!-- Structured data for search engines + answer engines (AEO) -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "WebSite",
+            "@id": "https://indianmissiletracker.harshcasper.dev/#website",
+            "url": "https://indianmissiletracker.harshcasper.dev/",
+            "name": "Indian Missile Tracker",
+            "description": "Interactive 3D globe and citation-backed open-source database of India's missile flight tests.",
+            "inLanguage": "en"
+          },
+          {
+            "@type": "Dataset",
+            "@id": "https://indianmissiletracker.harshcasper.dev/#dataset",
+            "name": "Indian Missile Tracker — flight-test register",
+            "description": "An open-source, citation-backed dataset of India's missile flight tests: 362 verified tests across 47 systems (Agni, Prithvi, BrahMos, Akash, Nag, K-15, K-4, Agni-V and more) from 1985 to 2026, with dates, launch sites, outcomes, ranges and sources.",
+            "url": "https://indianmissiletracker.harshcasper.dev/",
+            "inLanguage": "en",
+            "keywords": ["Indian missiles", "missile flight tests", "Agni", "Prithvi", "BrahMos", "DRDO", "ballistic missile", "cruise missile", "OSINT"],
+            "temporalCoverage": "1985/2026",
+            "spatialCoverage": "India",
+            "isAccessibleForFree": true,
+            "creator": { "@type": "Person", "name": "Harsh Casper", "url": "https://harshcasper.dev/" },
+            "distribution": [
+              { "@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://indianmissiletracker.harshcasper.dev/data.json" },
+              { "@type": "DataDownload", "encodingFormat": "application/rss+xml", "contentUrl": "https://indianmissiletracker.harshcasper.dev/rss.xml" }
+            ]
+          }
+        ]
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- Type system: B612 (the typeface Airbus commissioned for cockpit instrument
+         displays) for UI + B612 Mono for telemetry/data + Saira Semi Condensed for
+         plate titles. Deliberately avoids Inter/Roboto/Space Grotesk/Fraunces. -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=B612:ital,wght@0,400;0,700;1,400;1,700&family=B612+Mono:ital,wght@0,400;0,700&family=Saira+Semi+Condensed:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

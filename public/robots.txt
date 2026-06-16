@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://indianmissiletracker.harshcasper.dev/sitemap.xml
