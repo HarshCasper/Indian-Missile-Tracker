@@ -4,11 +4,13 @@ An interactive globe and a database of Indian missile flight tests. It covers 36
 
 There isn't a single public record of these tests. What exists is scattered across news stories, government press notes, and think-tank writeups. This project pulls that together into one place, keeps it as plain text, and draws it on a map.
 
+![Screenshot of the Indian Missile Tracker](./images/indian-missile-tracker.png)
+
 ## Data
 
 The dataset lives in `data/` as YAML: one file per missile system, one file per test.
 
-```
+```bash
 data/facilities.yaml          launch sites
 data/missiles/<id>.yaml       a system (specs, variants, sources)
 data/tests/<date>-<id>.yaml   a single flight test
