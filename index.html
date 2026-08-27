@@ -1,44 +1,53 @@
 <!doctype html>
-<html lang="en">
+<html lang="en-IN">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Indian Missile Tracker — India's missile flight tests, mapped (1985–2026)</title>
-    <link rel="canonical" href="https://indianmissiletracker.harshcasper.dev/" />
+    <title>Indian Missile Tracker: 365 Tests, Ranges &amp; Systems</title>
+    <link rel="canonical" href="https://indian-missile-tracker.pages.dev/" />
     <meta
       name="description"
-      content="Interactive 3D globe and citation-backed open-source database of India's missile flight tests — 365 verified tests across 48 systems (Agni, Prithvi, BrahMos, Akash, Kusha, Nag, K-15, K-4, Agni-V and more), 1985–2026. Trajectories, range rings, outcomes and sources."
+      content="Explore 365 Indian missile flight tests across 48 systems from 1985–2026. Compare Agni, BrahMos, Akash and more on a sourced 3D map and open database."
     />
     <meta
       name="keywords"
-      content="Indian missiles, India missile tests, Agni missile, Prithvi missile, BrahMos, Akash, Kusha, Nag, K-15 Sagarika, K-4, Agni-V, Agni-Prime, DRDO, missile flight tests, ballistic missile, cruise missile, OSINT, missile tracker, India strategic forces command"
+      content="Indian missiles, Indian missile list, Indian missile database, India missile tests, missile test tracker, Indian missile range map, DRDO missiles, Agni series, Agni-V, Agni Prime, BrahMos missile, Akash missile, Prithvi missile, K-4 missile, Kusha missile, ballistic missiles of India, cruise missiles of India, Indian missile defence, Strategic Forces Command, OSINT"
     />
     <meta name="author" content="Harsh Casper" />
-    <meta name="robots" content="index, follow, max-image-preview:large" />
+    <meta name="application-name" content="Indian Missile Tracker" />
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+    <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="theme-color" content="#0B0F16" />
+    <meta name="color-scheme" content="dark" />
     <link rel="icon" type="image/svg+xml" href="/chakra.svg" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="image_src" href="https://indian-missile-tracker.pages.dev/og-v2.png" />
 
     <!-- Open Graph -->
     <meta property="og:type" content="website" />
     <meta property="og:site_name" content="Indian Missile Tracker" />
-    <meta property="og:title" content="Indian Missile Tracker — India's missile flight tests, mapped" />
-    <meta property="og:description" content="Interactive 3D globe + open database of India's 365 missile flight tests (1985–2026): trajectories, range rings, outcomes, sources." />
-    <meta property="og:url" content="https://indianmissiletracker.harshcasper.dev/" />
-    <meta property="og:image" content="https://indianmissiletracker.harshcasper.dev/og-v2.png" />
+    <meta property="og:title" content="Indian Missile Tracker: 365 Tests, Ranges &amp; Systems" />
+    <meta property="og:description" content="Explore India's missile flight-test history on a sourced 3D map and open database covering 365 tests across 48 systems." />
+    <meta property="og:url" content="https://indian-missile-tracker.pages.dev/" />
+    <meta property="og:image" content="https://indian-missile-tracker.pages.dev/og-v2.png" />
+    <meta property="og:image:secure_url" content="https://indian-missile-tracker.pages.dev/og-v2.png" />
+    <meta property="og:image:type" content="image/png" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:image:alt" content="Indian Missile Tracker — 365 flight tests, 48 systems, 1985–2026" />
     <meta property="og:locale" content="en_IN" />
+    <meta property="og:updated_time" content="2026-08-27T00:00:00+05:30" />
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="Indian Missile Tracker — India's missile flight tests, mapped" />
-    <meta name="twitter:description" content="Interactive 3D globe + open database of India's 365 missile flight tests (1985–2026)." />
-    <meta name="twitter:image" content="https://indianmissiletracker.harshcasper.dev/og-v2.png" />
+    <meta name="twitter:title" content="Indian Missile Tracker: 365 Tests, Ranges &amp; Systems" />
+    <meta name="twitter:description" content="Explore India's missile flight-test history on a sourced 3D map and open database." />
+    <meta name="twitter:image" content="https://indian-missile-tracker.pages.dev/og-v2.png" />
     <meta name="twitter:image:alt" content="Indian Missile Tracker — 365 flight tests, 48 systems, 1985–2026" />
 
-    <link rel="alternate" type="application/rss+xml" title="Indian Missile Tracker — new entries" href="/rss.xml" />
-    <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Indian Missile Tracker — new entries" href="https://indian-missile-tracker.pages.dev/rss.xml" />
+    <link rel="alternate" type="application/json" title="Indian Missile Tracker — full dataset" href="https://indian-missile-tracker.pages.dev/data.json" />
+    <link rel="sitemap" type="application/xml" href="https://indian-missile-tracker.pages.dev/sitemap.xml" />
 
     <!-- Structured data for search engines + answer engines (AEO) -->
     <script type="application/ld+json">
@@ -47,32 +56,85 @@
         "@graph": [
           {
             "@type": "WebSite",
-            "@id": "https://indianmissiletracker.harshcasper.dev/#website",
-            "url": "https://indianmissiletracker.harshcasper.dev/",
+            "@id": "https://indian-missile-tracker.pages.dev/#website",
+            "url": "https://indian-missile-tracker.pages.dev/",
             "name": "Indian Missile Tracker",
-            "description": "Interactive 3D globe and citation-backed open-source database of India's missile flight tests.",
-            "inLanguage": "en"
+            "alternateName": ["Indian Missiles Tracker", "India Missile Test Database"],
+            "description": "Interactive 3D map and citation-backed open database of Indian missile systems and flight tests.",
+            "inLanguage": "en-IN",
+            "creator": { "@id": "https://indian-missile-tracker.pages.dev/#creator" },
+            "image": { "@id": "https://indian-missile-tracker.pages.dev/#primaryimage" }
+          },
+          {
+            "@type": "Person",
+            "@id": "https://indian-missile-tracker.pages.dev/#creator",
+            "name": "Harsh Casper",
+            "url": "https://harshcasper.dev/",
+            "sameAs": "https://github.com/HarshCasper"
+          },
+          {
+            "@type": "ImageObject",
+            "@id": "https://indian-missile-tracker.pages.dev/#primaryimage",
+            "url": "https://indian-missile-tracker.pages.dev/og-v2.png",
+            "contentUrl": "https://indian-missile-tracker.pages.dev/og-v2.png",
+            "width": 1200,
+            "height": 630,
+            "caption": "Indian Missile Tracker — 365 flight tests across 48 systems"
           },
           {
             "@type": "Dataset",
-            "@id": "https://indianmissiletracker.harshcasper.dev/#dataset",
-            "name": "Indian Missile Tracker — flight-test register",
-            "description": "An open-source, citation-backed dataset of India's missile flight tests: 365 verified tests across 48 systems (Agni, Prithvi, BrahMos, Akash, Kusha, Nag, K-15, K-4, Agni-V and more) from 1985 to 2026, with dates, launch sites, outcomes, ranges and sources.",
-            "url": "https://indianmissiletracker.harshcasper.dev/",
-            "inLanguage": "en",
-            "keywords": ["Indian missiles", "missile flight tests", "Agni", "Prithvi", "BrahMos", "Kusha", "DRDO", "ballistic missile", "cruise missile", "OSINT"],
+            "@id": "https://indian-missile-tracker.pages.dev/#dataset",
+            "name": "Indian Missile Tracker Flight-Test Database",
+            "alternateName": "Indian Missiles Flight-Test Register",
+            "description": "A citation-backed dataset of 365 Indian missile flight tests across 48 systems from 1985 to 2026, including dates, launch sites, outcomes, tested ranges, confidence ratings and source references.",
+            "url": "https://indian-missile-tracker.pages.dev/",
+            "identifier": "https://indian-missile-tracker.pages.dev/#dataset",
+            "sameAs": "https://github.com/HarshCasper/Indian-Missile-Tracker",
+            "inLanguage": "en-IN",
+            "keywords": ["Indian missiles", "Indian missile database", "India missile tests", "missile test tracker", "Agni missile", "BrahMos missile", "Akash missile", "Prithvi missile", "DRDO", "ballistic missiles of India", "cruise missiles of India", "OSINT"],
             "temporalCoverage": "1985/2026",
-            "spatialCoverage": "India",
+            "spatialCoverage": { "@type": "Place", "name": "India" },
             "isAccessibleForFree": true,
-            "creator": { "@type": "Person", "name": "Harsh Casper", "url": "https://harshcasper.dev/" },
+            "dateModified": "2026-08-27",
+            "version": "2026-08-27",
+            "creator": { "@id": "https://indian-missile-tracker.pages.dev/#creator" },
+            "isPartOf": { "@id": "https://indian-missile-tracker.pages.dev/#website" },
+            "mainEntityOfPage": "https://indian-missile-tracker.pages.dev/",
+            "image": { "@id": "https://indian-missile-tracker.pages.dev/#primaryimage" },
+            "variableMeasured": ["flight-test date", "missile system", "launch facility", "test outcome", "tested range", "source confidence"],
             "distribution": [
-              { "@type": "DataDownload", "encodingFormat": "application/json", "contentUrl": "https://indianmissiletracker.harshcasper.dev/data.json" },
-              { "@type": "DataDownload", "encodingFormat": "application/rss+xml", "contentUrl": "https://indianmissiletracker.harshcasper.dev/rss.xml" }
+              {
+                "@type": "DataDownload",
+                "name": "Indian Missile Tracker JSON dataset",
+                "encodingFormat": "application/json",
+                "contentUrl": "https://indian-missile-tracker.pages.dev/data.json"
+              }
             ]
+          },
+          {
+            "@type": "WebApplication",
+            "@id": "https://indian-missile-tracker.pages.dev/#application",
+            "name": "Indian Missile Tracker",
+            "url": "https://indian-missile-tracker.pages.dev/",
+            "applicationCategory": "EducationalApplication",
+            "operatingSystem": "Any",
+            "browserRequirements": "Requires JavaScript and WebGL",
+            "description": "Interactive 3D map, analytics dashboard and searchable database for India's missile flight-test history.",
+            "featureList": ["3D missile test map", "range rings", "flight-test timeline", "missile analytics", "searchable sourced database", "JSON data download", "RSS updates"],
+            "isAccessibleForFree": true,
+            "creator": { "@id": "https://indian-missile-tracker.pages.dev/#creator" },
+            "image": { "@id": "https://indian-missile-tracker.pages.dev/#primaryimage" },
+            "offers": { "@type": "Offer", "price": "0", "priceCurrency": "INR" }
           }
         ]
       }
     </script>
+    <style>
+      .seo-fallback { box-sizing: border-box; min-height: 100vh; padding: 8vh 8vw; color: #dce4ee; background: #0b0f16; font: 16px/1.6 system-ui, sans-serif; }
+      .seo-fallback h1 { max-width: 900px; margin: 0 0 1rem; color: #f4f7fa; font-size: clamp(2rem, 6vw, 4.5rem); line-height: 1.05; }
+      .seo-fallback h2, .seo-fallback p { max-width: 850px; }
+      .seo-fallback a { color: #f0a96a; }
+    </style>
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <!-- Type system: B612 (the typeface Airbus commissioned for cockpit instrument
@@ -84,7 +146,27 @@
     />
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <main class="seo-fallback">
+        <h1>Indian Missiles: Flight-Test Tracker and Open Database</h1>
+        <p>
+          Explore 365 flight tests across 48 Indian missile systems from 1985 to 2026 on an
+          interactive 3D map. Every record includes public-source citations and a confidence rating.
+        </p>
+        <h2>Agni, BrahMos, Akash, Prithvi and more</h2>
+        <p>
+          The register covers India's ballistic, cruise, surface-to-air, air-to-air, anti-tank,
+          anti-ship and submarine-launched missile programmes, including Agni-V, Agni Prime,
+          BrahMos, Akash, Kusha, Prithvi, Nag, Astra, K-15 Sagarika and K-4.
+        </p>
+        <p>
+          Browse test dates, launch sites, outcomes, ranges and source references, or
+          <a href="/data.json">download the complete JSON dataset</a> and
+          <a href="/rss.xml">follow new entries by RSS</a>.
+        </p>
+        <noscript>This interactive map requires JavaScript. The full dataset remains available as JSON.</noscript>
+      </main>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

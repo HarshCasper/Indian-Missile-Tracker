@@ -2,7 +2,9 @@
 
 > An interactive 3D-globe visualization and citation-backed, open-source database of India's
 > missile flight tests — 365 verified tests across 48 systems, from 1985 to 2026. It is the
-> first consolidated, machine-readable public record of India's missile flight-test programme.
+> consolidated, machine-readable public record of India's missile flight-test programme.
+
+Canonical site: https://indian-missile-tracker.pages.dev/
 
 The Indian Missile Tracker maps every known flight test of India's military missile programme onto
 a 3D globe, with indicative trajectories, operational range rings, outcomes (success / partial /
@@ -25,8 +27,9 @@ reading only). Disputed figures (e.g. official vs analyst-assessed range) are st
 individually-sourced claims.
 
 ## Machine-readable resources
-- Full dataset (JSON): https://indianmissiletracker.harshcasper.dev/data.json
-- New entries (RSS): https://indianmissiletracker.harshcasper.dev/rss.xml
+- Full dataset (JSON): https://indian-missile-tracker.pages.dev/data.json
+- New entries (RSS): https://indian-missile-tracker.pages.dev/rss.xml
+- Source repository: https://github.com/HarshCasper/Indian-Missile-Tracker
 
 ## Views
 - Map: 3D globe of every test (trajectories + range rings), with chronological playback.

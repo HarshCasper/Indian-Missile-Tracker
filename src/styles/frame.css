@@ -17,6 +17,7 @@
 .brand-mark { width: 30px; height: 30px; display: block; }
 .brand-text { display: flex; flex-direction: column; line-height: 1.05; }
 .brand-name {
+  margin: 0;
   font-family: var(--font-display);
   font-weight: 600;
   font-size: var(--t-18);

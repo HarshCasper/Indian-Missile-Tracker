@@ -1,0 +1,30 @@
+{
+  "name": "Indian Missile Tracker",
+  "short_name": "Missile Tracker",
+  "description": "Interactive 3D map and citation-backed database of India's missile flight tests.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0b0f16",
+  "theme_color": "#0b0f16",
+  "lang": "en-IN",
+  "categories": ["education", "reference", "data visualization"],
+  "icons": [
+    {
+      "src": "/chakra.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/og-v2.png",
+      "sizes": "1200x630",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "Indian Missile Tracker flight-test map"
+    }
+  ]
+}

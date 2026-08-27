@@ -159,7 +159,7 @@ export function MapView({ data, focus, onFocus }: Props) {
       target = { lat, lng, altitude: alt };
     }
     setCamera((c) => ({ target, nonce: c.nonce + 1 }));
-  }, [focus, focusedSite, ringBase, inPlayback, reachAt]); // eslint-disable-line react-hooks/exhaustive-deps
+  }, [focus, focusedSite, ringBase, inPlayback, reachAt]);
 
   // Playback timer. Clear any prior interval first so playback can never double up.
   // At the end, freeze on the final year (keep the full tableau) instead of clearing.

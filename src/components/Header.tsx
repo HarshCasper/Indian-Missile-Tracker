@@ -24,7 +24,7 @@ export function Header({ view, onView, systems, tests, spanFrom, spanTo, search 
       <div className="brand">
         <img className="brand-mark" src={`${import.meta.env.BASE_URL}chakra.svg`} width={30} height={30} alt="Ashoka chakra" />
         <div className="brand-text">
-          <span className="brand-name">Indian Missile Tracker</span>
+          <h1 className="brand-name">Indian Missile Tracker</h1>
           <span className="brand-sub">OSINT flight-test register</span>
         </div>
       </div>

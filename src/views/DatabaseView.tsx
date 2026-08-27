@@ -71,7 +71,10 @@ export function DatabaseView({ data, onPick }: Props) {
   }, [allRows, q, cats, outs, sort]);
 
   const toggle = <T,>(set: Set<T>, v: T, fn: (s: Set<T>) => void) => {
-    const next = new Set(set); next.has(v) ? next.delete(v) : next.add(v); fn(next);
+    const next = new Set(set);
+    if (next.has(v)) next.delete(v);
+    else next.add(v);
+    fn(next);
   };
   const setSortKey = (key: SortKey) =>
     setSort((s) => (s.key === key ? { key, dir: (s.dir * -1) as 1 | -1 } : { key, dir: key === 'date' ? -1 : 1 }));

@@ -222,7 +222,7 @@ mkdirSync(dirname(OUT), { recursive: true });
 writeFileSync(OUT, JSON.stringify(bundle, null, 2) + '\n');
 
 // --- 5. RSS feed (newest tests) — lets people subscribe to new DB entries ---
-const SITE_URL = 'https://indianmissiletracker.harshcasper.dev';
+const SITE_URL = 'https://indian-missile-tracker.pages.dev';
 const xmlEsc = (s: string) =>
   s.replace(/[<>&'"]/g, (c) => ({ '<': '&lt;', '>': '&gt;', '&': '&amp;', "'": '&apos;', '"': '&quot;' })[c]!);
 const rssItems = resolvedTests

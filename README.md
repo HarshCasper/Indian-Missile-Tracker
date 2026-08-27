@@ -48,15 +48,30 @@ Other scripts:
 ```
 npm run build:data   # validate the YAML and write public/data.json
 npm run check:links  # check every citation URL (uses a local cache)
-npm run build        # validate data and links, type-check, and build for production
+npm run lint         # lint the TypeScript, React, and build scripts
+npm run build        # validate data, code, links, SEO, and build for production
 npm test             # unit tests for the filter, geometry, and analytics code
 ```
+
+## Publishing
+
+The production site is deployed on Cloudflare Pages at
+[`indian-missile-tracker.pages.dev`](https://indian-missile-tracker.pages.dev/).
+Use `npm run build` as the build command and `dist` as the output directory.
+Cloudflare-specific cache and security rules live in `public/_headers`; canonical
+URL normalization lives in `public/_redirects`.
+
+The production build runs a dedicated SEO check after Vite finishes. It verifies
+the title and description, canonical and social URLs, JSON-LD, sitemap, robots,
+RSS, web manifest, crawlable heading, and the 1200×630 sharing image.
 
 ## Layout
 
 ```
 data/                  the dataset (YAML)
 scripts/build-data.ts  YAML to public/data.json
+scripts/check-links.ts citation URL audit
+scripts/check-seo.ts   built-output SEO validation
 src/schema.ts          schemas and shared types
 src/lib/               geometry, colors, analytics, classification
 src/components/        globe, header, search, sidebar, dossier, timeline

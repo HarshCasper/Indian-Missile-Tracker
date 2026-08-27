@@ -1,11 +1,12 @@
-import { useEffect, useState } from 'react';
+import { lazy, Suspense, useEffect, useState } from 'react';
 import { loadData, type LoadedData } from './dataStore';
 import { Header, ClassificationFooter, type ViewId } from './components/Header';
 import { SearchBox } from './components/SearchBox';
-import { MapView } from './views/MapView';
 import { AnalyticsView } from './views/AnalyticsView';
 import { DatabaseView } from './views/DatabaseView';
 import { NO_FOCUS, type Focus } from './state/focus';
+
+const MapView = lazy(() => import('./views/MapView').then((module) => ({ default: module.MapView })));
 
 const yearOf = (iso: string) => Number(iso.slice(0, 4));
 
@@ -51,7 +52,11 @@ export default function App() {
       />
 
       <div className="view">
-        {view === 'map' && <MapView data={data} focus={focus} onFocus={setFocus} />}
+        {view === 'map' && (
+          <Suspense fallback={<div className="splash">Loading map…</div>}>
+            <MapView data={data} focus={focus} onFocus={setFocus} />
+          </Suspense>
+        )}
         {view === 'analytics' && <AnalyticsView data={data} onPick={pick} />}
         {view === 'database' && <DatabaseView data={data} onPick={pick} />}
       </div>

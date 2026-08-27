@@ -66,6 +66,7 @@ seaward/down-range azimuth (most coastal sites fire SE into the Bay of Bengal).
 
 ```bash
 npm run build:data
+npm run lint
 npm run check:links -- --no-cache
 ```
 
@@ -74,5 +75,5 @@ references resolve, and rejects duplicate ids — failing loudly with the offend
 file and field. The link check makes a live request for each unique citation and
 fails on confirmed dead responses such as HTTP 404 or 410. Bot protection and
 temporary server failures are reported separately without failing the build.
-Fix any reported issues until both commands print their success summaries. Then
+Fix any reported issues until all commands print their success summaries. Then
 `npm run dev` to see your record on the globe.
