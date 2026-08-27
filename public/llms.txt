@@ -1,7 +1,7 @@
 # Indian Missile Tracker
 
 > An interactive 3D-globe visualization and citation-backed, open-source database of India's
-> missile flight tests — 362 verified tests across 47 systems, from 1985 to 2026. It is the
+> missile flight tests — 365 verified tests across 48 systems, from 1985 to 2026. It is the
 > first consolidated, machine-readable public record of India's missile flight-test programme.
 
 The Indian Missile Tracker maps every known flight test of India's military missile programme onto
@@ -10,11 +10,11 @@ failure), and per-record sources. Every figure comes from open sources and carri
 rating. Not affiliated with the Government of India or DRDO.
 
 ## Coverage
-- 362 verified flight tests · 47 systems · 5 launch facilities · 1985–2026.
+- 365 verified flight tests · 48 systems · 5 launch facilities · 1985–2026.
 - Systems include the Agni family (Agni-I to Agni-V, Agni-Prime), Prithvi (I–III), Dhanush,
   Shaurya, Pinaka, Prahaar; cruise missiles BrahMos / BrahMos-ER / BrahMos-A, Nirbhay, LRLACM;
   submarine-launched K-15 Sagarika, K-4, K-5; air defence PAD / AAD / PDV / AD-1; the Mission
-  Shakti anti-satellite test; surface-to-air Akash, QRSAM, MRSAM, VL-SRSAM; air-to-air Astra;
+  Shakti anti-satellite test; surface-to-air Akash, Kusha, QRSAM, MRSAM, VL-SRSAM; air-to-air Astra;
   anti-tank Nag / HELINA / MPATGM; anti-ship NASM-SR; and the HSTDV hypersonic demonstrator.
 - Launch sites: Integrated Test Range (Chandipur), Dr A.P.J. Abdul Kalam Island (Wheeler Island),
   Offshore Visakhapatnam, Pokhran Test Range, Satish Dhawan Space Centre (Sriharikota).

@@ -1,0 +1,83 @@
+id: kusha
+name: Kusha Long-Range Surface-to-Air Missile
+aka:
+  - Kusha LR-SAM
+  - Project Kusha
+  - Extended Range Air Defence System (ERADS)
+category: surface-to-air
+range_class: SAM
+developer: Defence Research and Development Organisation (DRDO) with Indian industry partners
+operators:
+  - Indian Air Force (planned)
+status: development
+range_km:
+  min: 150
+  max: 350
+nuclear_capable: false
+launch_platform:
+  - ground-based vertical-launch canister
+variants:
+  - name: Kusha M1
+    range_km:
+      max: 150
+    notes: First of three planned interceptor layers; the July 2026 official release did not identify the tested variant.
+  - name: Kusha M2
+    range_km:
+      max: 250
+    notes: Planned intermediate interceptor layer.
+  - name: Kusha M3
+    range_km:
+      max: 350
+    notes: Planned longest-range interceptor layer.
+first_test: "2026-07-23"
+description: >-
+  Kusha is a DRDO-developed long-range surface-to-air missile system intended to defend against
+  fighter aircraft, missiles, unmanned aerial vehicles and large aircraft. The programme combines
+  interceptor missiles with indigenous radars and command-and-control elements. DRDO conducted the
+  first publicly announced Kusha flight test on 23 July 2026, intercepting an electronic target that
+  represented a high-speed, high-altitude aerial threat.
+claims:
+  - field: range_km
+    min: 150
+    max: 350
+    basis: reported
+    text: >-
+      The Kusha programme has been reported as a three-layer system with interceptors intended for
+      approximately 150 km, 250 km and 350 km engagement ranges.
+    note: >-
+      These are programme design ranges. The Ministry of Defence did not identify the interceptor
+      variant or disclose the engagement distance demonstrated on 23 July 2026.
+    source:
+      title: India initiates long-range surface-to-air missile programme
+      tier: foreign-news
+      publisher: Janes
+      date: "2023-11-06"
+      url: >-
+        https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-initiates-long-range-surface-to-air-missile-programme
+      accessed: "2026-08-27"
+sources:
+  - title: DRDO conducts successful maiden flight-test of 'Kusha' Long-Range Surface-to-Air Missile
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2026-07-23"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288526&lang=1&reg=1
+    accessed: "2026-08-27"
+  - title: India conducts maiden flight test of Kusha long-range SAM
+    tier: foreign-news
+    publisher: Janes
+    date: "2026-07-23"
+    url: >-
+      https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-conducts-maiden-flight-test-of-kusha-long-range-sam
+    accessed: "2026-08-27"
+  - title: India's ambitious Detect and Destroy Defense System set to redefine air defense
+    tier: pib
+    publisher: DD India (Prasar Bharati)
+    date: "2023-10-30"
+    url: >-
+      https://ddindia.co.in/2023/10/indias-ambitious-detect-and-destroy-defense-system-set-to-redefine-air-defense/
+    accessed: "2026-08-27"
+confidence: confirmed
+notes: >-
+  The system and its maiden test are officially confirmed. The 150 km, 250 km and 350 km layer
+  figures come from reporting on the wider Kusha programme. The July 2026 official release did not
+  publish the tested missile's range, altitude, speed or variant.

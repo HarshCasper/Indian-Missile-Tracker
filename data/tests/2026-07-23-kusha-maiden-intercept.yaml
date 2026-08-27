@@ -1,0 +1,32 @@
+id: 2026-07-23-kusha-maiden-intercept
+missile_id: kusha
+designation: Maiden flight test
+date: "2026-07-23"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: abdul-kalam-island
+range_tested_km: 0
+description: >-
+  DRDO conducted the maiden flight test of the Kusha long-range surface-to-air missile from Dr APJ
+  Abdul Kalam Island off the Odisha coast. The missile successfully intercepted an electronic
+  target simulating a high-speed, high-altitude aerial threat. The test exercised an indigenous
+  weapon system comprising the missile, radars and command-and-control centre.
+notes: >-
+  The Ministry of Defence did not disclose the engagement range, altitude, speed or interceptor
+  variant used in this test. The zero range value records that no test distance was published; the
+  interface uses the catalogued programme range for its explicitly indicative range ring.
+sources:
+  - title: DRDO conducts successful maiden flight-test of 'Kusha' Long-Range Surface-to-Air Missile
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2026-07-23"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2288526&lang=1&reg=1
+    accessed: "2026-08-27"
+  - title: India conducts maiden flight test of Kusha long-range SAM
+    tier: foreign-news
+    publisher: Janes
+    date: "2026-07-23"
+    url: >-
+      https://www.janes.com/defence-intelligence-insights/defence-news/defence/india-conducts-maiden-flight-test-of-kusha-long-range-sam
+    accessed: "2026-08-27"

@@ -1,0 +1,39 @@
+id: 2026-08-06-agni-iv-sfc-test
+missile_id: agni-iv
+variant: Agni-IV
+designation: Strategic Forces Command test launch
+date: "2026-08-06"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 0
+description: >-
+  The Strategic Forces Command successfully test-fired the Agni-IV medium-range ballistic missile
+  from the Integrated Test Range at Chandipur, Odisha. According to the Ministry of Defence, the
+  launch validated all operational and technical parameters.
+notes: >-
+  The official release identifies ITR Chandipur as the launch location and does not disclose the
+  distance flown, apogee, impact point or firing azimuth. The zero range value preserves that
+  distinction; the interface draws an explicitly indicative arc using the missile's catalogued
+  4,000 km maximum range.
+sources:
+  - title: Agni-4 Ballistic Missile successfully test-fired
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2026-08-06"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2295678&lang=1&reg=3
+    accessed: "2026-08-27"
+  - title: India successfully test-fires Agni-4 Medium-Range Ballistic Missile
+    tier: pib
+    publisher: DD News (Prasar Bharati)
+    date: "2026-08-06"
+    url: https://ddnews.gov.in/en/india-successfully-test-fires-agni-4-medium-range-ballistic-missile/
+    accessed: "2026-08-27"
+  - title: Fresh Agni-IV test proves operational readiness
+    tier: indian-news
+    publisher: Business Standard
+    date: "2026-08-06"
+    url: >-
+      https://www.business-standard.com/external-affairs-defence-security/news/fresh-agni-iv-test-proves-operational-readiness-defence-ministry-126080602139_1.html
+    accessed: "2026-08-27"

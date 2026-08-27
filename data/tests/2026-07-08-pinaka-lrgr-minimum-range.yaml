@@ -1,0 +1,33 @@
+id: 2026-07-08-pinaka-lrgr-minimum-range
+missile_id: pinaka-guided
+variant: Pinaka Long Range Guided Rocket (LRGR-120)
+designation: User-defined minimum-range flight test
+date: "2026-07-08"
+date_precision: day
+outcome: success
+confidence: confirmed
+site_id: itr-chandipur
+range_tested_km: 60
+description: >-
+  DRDO successfully flight-tested the Pinaka Long Range Guided Rocket at the Integrated Test Range,
+  Chandipur, at a user-defined minimum range of 60 km. The rocket completed its planned in-flight
+  manoeuvres and struck the target with textbook precision while range instruments tracked the
+  complete trajectory. It was fired from an in-service Pinaka launcher.
+notes: >-
+  This was a minimum-range trial of the LRGR family whose 120 km maximum-range maiden test was
+  conducted in December 2025. The 60 km value is the distance demonstrated in this flight, not a
+  revision of the LRGR-120 design range.
+sources:
+  - title: DRDO conducts successful flight-test of Pinaka Long Range Guided Rocket
+    tier: pib
+    publisher: Press Information Bureau, Ministry of Defence
+    date: "2026-07-08"
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2282572&lang=1&reg=1
+    accessed: "2026-08-27"
+  - title: DRDO successfully tests Pinaka long-range guided rocket, demonstrates precision strike at 60 km
+    tier: indian-news
+    publisher: Moneycontrol
+    date: "2026-07-08"
+    url: >-
+      https://www.moneycontrol.com/news/india/drdo-successfully-tests-pinaka-long-range-guided-rocket-demonstrates-precision-strike-at-60-km-13969252.html
+    accessed: "2026-08-27"
