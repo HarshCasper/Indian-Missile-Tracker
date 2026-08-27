@@ -15,7 +15,7 @@ description: >-
   objectives were met across the trials, with the system able to deliver ~7.2 tonnes of high
   explosive onto a target 70 km away with ~25 m accuracy in 44 seconds.
 notes: >-
-  Confirmed as the 'third test in 24 hours' by GlobalSecurity/Sputnik and domain-b. Site Pokhran,
+  Confirmed as the 'third test in 24 hours' by GlobalSecurity/Sputnik and PIB. Site Pokhran,
   outcome success, 90 km band all agree.
 sources:
   - title: India Conducts Third Test of Missile System Meant for Limited War with Pakistan in 24 Hours
@@ -24,9 +24,9 @@ sources:
     url: https://www.globalsecurity.org/wmd/library/news/india/2019/india-190312-sputnik01.htm
     date: "2019-03-12"
     accessed: "2026-06-16"
-  - title: DRDO successfully tests extended-range Pinaka guided rocket
-    tier: foreign-news
-    publisher: domain-b
-    url: https://www.domain-b.com/defence/land/indian_army/20190312_pinaka_rocket.html
+  - title: Third Test-Firing of Guided Pinaka Successful
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    url: https://www.pib.gov.in/PressReleasePage.aspx?PRID=1568689
     date: "2019-03-12"
-    accessed: "2026-06-16"
+    accessed: "2026-08-27"

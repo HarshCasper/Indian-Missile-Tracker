@@ -14,21 +14,14 @@ description: >-
   longer range with reduced rocket length; test articles were manufactured by Economic Explosives
   Ltd, Nagpur, under ToT.
 notes: >-
-  Confirmed by official PIB release PRID 1670104 and DRDO press release, plus GlobalSecurity PIB
-  archive. The official statement does NOT cite a specific range; the ~45 km figure comes only from
+  Confirmed by official PIB release PRID 1670104 and its GlobalSecurity text mirror. The official
+  statement does NOT cite a specific range; the ~45 km figure comes only from
   secondary/further-reading sources and is recorded as a claim, not as range_tested_km.
 sources:
   - title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PRID 1670104)
     tier: pib
     publisher: Press Information Bureau, Government of India
     url: https://pib.gov.in/PressReleaseIframePage.aspx?PRID=1670104
-    date: "2020-11-04"
-    accessed: "2026-06-16"
-  - title: Enhanced version of PINAKA Rocket System successfully Flight Tested
-    tier: pib
-    publisher: DRDO, Ministry of Defence
-    url: >-
-      https://www.drdo.gov.in/press-release/enhanced-version-pinaka-rocket-system-successfully-flight-tested
     date: "2020-11-04"
     accessed: "2026-06-16"
   - title: Enhanced version of PINAKA Rocket System successfully Flight Tested (PIB archive)

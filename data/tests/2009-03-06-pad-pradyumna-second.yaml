@@ -34,7 +34,7 @@ claims:
       title: India tests 'Swordfish' radar with successful missile defence test
       tier: foreign-news
       publisher: Domain-b.com
-      url: https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
+      url: https://web.archive.org/web/20220718170653/https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
       accessed: "2026-06-16"
   - field: apogee_km
     value: 80
@@ -52,7 +52,7 @@ sources:
   - title: India tests 'Swordfish' radar with successful missile defence test
     tier: foreign-news
     publisher: Domain-b.com
-    url: https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
+    url: https://web.archive.org/web/20220718170653/https://www.domain-b.com/aero/mil_avi/miss_muni/20090306_successful_missile.html
     accessed: "2026-06-16"
   - title: India successfully test-fires interceptor missile (Mar 6, 2009)
     tier: foreign-news

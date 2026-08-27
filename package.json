@@ -6,9 +6,10 @@
   "description": "An interactive 3D-globe visualization and citation-backed database of India's missile flight tests.",
   "scripts": {
     "build:data": "tsx scripts/build-data.ts",
+    "check:links": "tsx scripts/check-links.ts",
     "predev": "npm run build:data",
     "dev": "vite",
-    "prebuild": "npm run build:data",
+    "prebuild": "npm run build:data && npm run check:links",
     "build": "tsc --noEmit && vite build",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",

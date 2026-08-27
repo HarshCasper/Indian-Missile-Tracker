@@ -15,8 +15,8 @@ description: >-
 notes: >-
   Aim was to give the Army confidence to fire the missile independently. Failure attributed to
   second-stage malfunction / separation failure, corroborated by The Diplomat and multiple secondary
-  accounts. IDSA commentary cited (note: its working URL is on the demo.idsa.in subdomain, which was
-  unreachable at access time); failure itself is independently corroborated, so kept as reported.
+  accounts. The IDSA commentary evaluates the failure and its implications; the event is independently
+  corroborated, so kept as reported.
 sources:
   - title: An Indian Nuclear-Capable Ballistic Missile Test Failed Shortly After Launch. What Happened?
     tier: foreign-news
@@ -28,5 +28,5 @@ sources:
     tier: indian-news
     publisher: Institute for Defence Studies and Analyses (IDSA)
     url: >-
-      https://demo.idsa.in/publisher/the-agni-ii-trial-failure-evaluation-rather-than-flagellation-is-needed/
-    accessed: "2026-06-16"
+      https://idsa.in/publisher/comments/the-agni-ii-trial-failure-evaluation-rather-than-flagellation-is-needed
+    accessed: "2026-08-27"

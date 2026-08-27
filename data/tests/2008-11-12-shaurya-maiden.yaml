@@ -28,13 +28,11 @@ sources:
     date: "2008-11-12"
     url: https://www.globalsecurity.org/wmd/library/news/india/2008/india-081112-rianovosti01.htm
     accessed: "2026-06-16"
-  - title: India test fires Shaurya - new surface-to-surface missile
+  - title: BO5 / K-15 / Sagarika / Shourya (Valor)
     tier: foreign-news
-    publisher: Domain-b.com
-    date: "2008-11-12"
-    url: >-
-      https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
-    accessed: "2026-06-16"
+    publisher: GlobalSecurity.org
+    url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+    accessed: "2026-08-27"
   - title: "VIDEO: Extended Footage Of India's Shaurya Missile Launch in 2008"
     tier: indian-news
     publisher: Livefist Defence
@@ -59,22 +57,18 @@ claims:
     text: Reached about Mach 5 during the test (surface temperature ~700 C)
     basis: reported
     source:
-      title: India test fires Shaurya - new surface-to-surface missile
+      title: BO5 / K-15 / Sagarika / Shourya (Valor)
       tier: foreign-news
-      publisher: Domain-b.com
-      date: "2008-11-12"
-      url: >-
-        https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
-      accessed: "2026-06-16"
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+      accessed: "2026-08-27"
   - field: flight_duration_s
     value: 485
     text: Flight duration reported as 485 seconds
     basis: reported
     source:
-      title: India test fires Shaurya - new surface-to-surface missile
+      title: BO5 / K-15 / Sagarika / Shourya (Valor)
       tier: foreign-news
-      publisher: Domain-b.com
-      date: "2008-11-12"
-      url: >-
-        https://www.domain-b.com/aviation-aerospace/military-aviation/missiles-munition/india-test-fires-shaurya-new-surface-to-surface-missile
-      accessed: "2026-06-16"
+      publisher: GlobalSecurity.org
+      url: https://www.globalsecurity.org/wmd/world/india/shourya.htm
+      accessed: "2026-08-27"

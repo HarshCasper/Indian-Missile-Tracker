@@ -28,7 +28,7 @@ claims:
       tier: indian-news
       publisher: Deccan Herald (PTI)
       url: >-
-        https://www.deccanherald.com/amp/story/india%2Finterceptor-missile-successfully-test-fired-1990105
+        https://www.deccanherald.com/india/interceptor-missile-successfully-test-fired-1990105
       date: "2017-02-11"
       accessed: "2026-06-16"
   - field: apogee_km
@@ -50,7 +50,7 @@ sources:
     tier: indian-news
     publisher: Deccan Herald (PTI)
     url: >-
-      https://www.deccanherald.com/amp/story/india%2Finterceptor-missile-successfully-test-fired-1990105
+      https://www.deccanherald.com/india/interceptor-missile-successfully-test-fired-1990105
     date: "2017-02-11"
     accessed: "2026-06-16"
   - title: India Successfully Tests Prithvi Interceptor

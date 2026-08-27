@@ -18,7 +18,7 @@ notes: >-
   Diplomat assessed the engagement targeted MRBM-class threats at roughly 66 km; PDV is designed to
   engage in the exo-atmosphere above 50 km. Distinct from the 2 August 2018 AAD (endo-atmospheric)
   interceptor trial, which is a separate system. Date, site and success corroborated by Business
-  Today, Business Insider India and Xinhua.
+  Today and Xinhua.
 claims:
   - field: apogee_km
     value: 66
@@ -37,15 +37,6 @@ sources:
     publisher: Business Today
     url: >-
       https://www.businesstoday.in/latest/economy-politics/story/india-conducts-successful-interceptor-missile-test-at-night-110224-2018-09-24
-    date: "2018-09-24"
-    accessed: "2026-06-16"
-  - title: >-
-      India strengthens its Ballistic Missile Defence Program with a successful interceptor missile
-      test
-    tier: indian-news
-    publisher: Business Insider India
-    url: >-
-      https://www.businessinsider.in/india-strengthens-its-ballistic-missile-defence-program-with-a-successful-interceptor-missile-test/articleshow/65933670.cms
     date: "2018-09-24"
     accessed: "2026-06-16"
   - title: India test-fires interceptor missile

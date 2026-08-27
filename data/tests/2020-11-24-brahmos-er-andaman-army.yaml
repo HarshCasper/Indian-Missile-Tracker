@@ -27,7 +27,7 @@ claims:
       tier: indian-news
       publisher: Deccan Herald
       url: >-
-        https://www.deccanherald.com/amp/story/india%2Findia-testfires-land-attack-version-of-brahmos-missile-919581.html
+        https://www.deccanherald.com/india/india-testfires-land-attack-version-of-brahmos-missile-919581.html
       accessed: "2026-06-16"
 sources:
   - title: India test-fires land attack version of BrahMos missile
@@ -35,7 +35,7 @@ sources:
     publisher: Deccan Herald
     date: "2020-11-24"
     url: >-
-      https://www.deccanherald.com/amp/story/india%2Findia-testfires-land-attack-version-of-brahmos-missile-919581.html
+      https://www.deccanherald.com/india/india-testfires-land-attack-version-of-brahmos-missile-919581.html
     accessed: "2026-06-16"
   - title: BrahMos missile test-fired successfully in top attack mode
     tier: indian-news

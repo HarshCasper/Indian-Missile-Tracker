@@ -47,7 +47,8 @@ Other scripts:
 
 ```
 npm run build:data   # validate the YAML and write public/data.json
-npm run build        # type-check and build for production
+npm run check:links  # check every citation URL (uses a local cache)
+npm run build        # validate data and links, type-check, and build for production
 npm test             # unit tests for the filter, geometry, and analytics code
 ```
 

@@ -51,13 +51,6 @@ sources:
     url: https://www.globalsecurity.org/space/library/news/2024/space-240724-india-pib01.htm
     date: "2024-07-24"
     accessed: "2026-06-16"
-  - title: DRDO successfully flight-tests Phase-II Ballistic Missile Defence System
-    tier: pib
-    publisher: Defence Research and Development Organisation (DRDO), Ministry of Defence
-    url: >-
-      https://www.drdo.gov.in/drdo/press-release/drdo-successfully-flight-tests-phase-ii-ballistic-missile-defence-system
-    date: "2024-07-24"
-    accessed: "2026-06-16"
   - title: India advances Phase II BMD interceptor
     tier: foreign-news
     publisher: Janes

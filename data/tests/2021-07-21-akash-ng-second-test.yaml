@@ -11,18 +11,19 @@ description: >-
   radar, command/control/communication system and launcher — participating in deployment
   configuration. Reported successful.
 confidence: confirmed
-notes: Corroborated by MilitaryLeak (foreign-news) and Deccan Herald (indian-news).
+notes: Confirmed by PIB's official release and its follow-up release for the next flight test.
 sources:
-  - title: India's DRDO Successfully Flight-tests Akash-NG Surface-to-air Missile
-    tier: foreign-news
-    publisher: MilitaryLeak
-    date: "2021-07-22"
+  - title: DRDO successfully flight-tests surface-to-air missile Akash-NG
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2021-07-21"
     url: >-
-      https://militaryleak.com/2021/07/22/indians-drdo-successfully-flight-tests-akash-ng-surface-to-air-missile/
-    accessed: "2026-06-16"
-  - title: Akash-NG missile put to test again with RF seeker developed by DRDO lab in Hyderabad
-    tier: indian-news
-    publisher: Deccan Herald
+      https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1737532&lang=2&reg=48
+    accessed: "2026-08-27"
+  - title: DRDO conducts successful flight test of Akash-NG
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2021-07-23"
     url: >-
-      https://www.deccanherald.com/india/akash-ng-missile-put-to-test-again-with-rf-seeker-developed-by-drdo-lab-in-hyderabad-1012003
-    accessed: "2026-06-16"
+      https://www.pib.gov.in/PressReleasePage.aspx?PRID=1738136&lang=2&reg=48
+    accessed: "2026-08-27"

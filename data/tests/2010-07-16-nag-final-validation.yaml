@@ -16,10 +16,5 @@ sources:
   - title: Nag validation (archive, 16 Jul 2010)
     tier: indian-news
     publisher: The Hindu
-    url: http://www.hindu.com/2010/07/16/stories/2010071653531500.htm
-    accessed: "2026-06-16"
-  - title: India's Nag missile completes final validation test
-    tier: indian-news
-    publisher: Brahmand News
-    url: http://www.brahmand.com/news/Indias-Nag-missile-completes-final-validation-test/4473/1/10.html
-    accessed: "2026-06-16"
+    url: https://web.archive.org/web/20140101054415/http://www.hindu.com/2010/07/16/stories/2010071653531500.htm
+    accessed: "2026-08-27"

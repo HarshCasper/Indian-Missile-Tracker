@@ -16,19 +16,11 @@ description: >-
   objectives were met.
 notes: >-
   SFDR technology-demonstrator flight, not an integrated Astra Mk3 launch. The test date is 8
-  February 2019 (MoD statement, reported by DefPost and Republic World). Army-Technology's article
+  February 2019 (MoD statement, reported by Republic World). Army-Technology's article
   carries an 11 February 2019 dateline, but that is its publication date, not the test date, so
   there is no genuine date conflict.
 confidence: confirmed
 sources:
-  - title: >-
-      India's DRDO Flight Tests Second Indigenously Developed 'Solid Fuel Ducted Ramjet (SFDR)'
-      Propulsion Based Missile System
-    tier: foreign-news
-    url: >-
-      https://defpost.com/indias-drdo-flight-tests-second-indigenously-developed-solid-fuel-ducted-ramjet-sfdr-propulsion-based-missile-system/
-    publisher: DefPost
-    date: "2019-02-08"
   - title: DRDO conducts successful flight test of SFDR missile system off Odisha coast
     tier: indian-news
     url: >-

@@ -12,19 +12,20 @@ description: >-
   the flight path tracked by ITR radar, EOTS and telemetry.
 confidence: confirmed
 notes: >-
-  Date, site and success corroborated by MilitaryLeak (foreign-news) and Indian outlets (Tribune
-  India). Akash-NG features a dual-pulse solid rocket motor, canisterised launcher, RF seeker and
-  AESA multifunction radar.
+  Date, site and success confirmed by the official PIB release and corroborated by Indian reporting.
+  Akash-NG features a dual-pulse solid rocket motor, canisterised launcher, RF seeker and AESA
+  multifunction radar.
 sources:
-  - title: Indian DRDO Successfully Test Fires Surface-to-air Akash-NG Missile
-    tier: foreign-news
-    publisher: MilitaryLeak
-    date: "2021-01-27"
+  - title: Successful Maiden Test Launch of Akash-NG Missile
+    tier: pib
+    publisher: Press Information Bureau, Government of India
+    date: "2021-01-25"
     url: >-
-      https://militaryleak.com/2021/01/27/indian-drdo-successfully-test-fires-surface-to-air-akash-ng-missile/
-    accessed: "2026-06-16"
-  - title: Next gen Akash tested successfully
+      https://www.pib.gov.in/Pressreleaseshare.aspx?PRID=1692258&lang=2&reg=48
+    accessed: "2026-08-27"
+  - title: DRDO successfully tests new generation Akash missile
     tier: indian-news
-    publisher: The Tribune
-    url: https://www.tribuneindia.com/news/india/next-gen-akash-tested-successfully-580632
-    accessed: "2026-06-16"
+    publisher: The Indian Express
+    date: "2021-01-26"
+    url: https://indianexpress.com/article/india/drdo-successfully-tests-new-generation-akash-missile-7161693/
+    accessed: "2026-08-27"
