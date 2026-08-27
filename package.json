@@ -14,12 +14,13 @@
     "lint": "eslint . --max-warnings 0",
     "predev": "npm run build:data",
     "dev": "vite",
-    "prebuild": "npm run build:data && npm run lint && npm run check:links",
+    "prebuild": "npm run build:data && npm run lint",
     "build": "tsc --noEmit && vite build",
     "postbuild": "npm run check:seo",
     "preview": "vite preview",
     "typecheck": "tsc --noEmit",
-    "test": "vitest run"
+    "test": "vitest run",
+    "verify": "npm run check:links && npm test && npm run build"
   },
   "dependencies": {
     "@turf/circle": "^7.1.0",
